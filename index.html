@@ -10,6 +10,7 @@
     body {
       font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
       min-height: 100vh;
+      min-height: 100dvh;
       background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
       color: #e2e8f0;
       display: flex;
@@ -435,6 +436,29 @@
       .quiz-layout.active { display: block; }
       .index-sidebar { display: none; }
       .hamburger-btn { display: inline-flex; }
+
+      body { align-items: flex-start; padding: 0.75rem; }
+      .load-screen { padding: 2rem 1.25rem; }
+      .card { padding: 1.25rem; }
+      .question-text { font-size: 1.1rem; margin-bottom: 1.25rem; }
+      .progress-bar { margin-bottom: 1.25rem; }
+      .topbar { margin-bottom: 1rem; }
+      .topbar .stats { gap: 0.5rem; font-size: 0.85rem; }
+      .alt-btn { padding: 0.85rem 1rem; }
+      .btn-sm { padding: 0.65rem 0.9rem; }
+      .nav-buttons { gap: 0.5rem; }
+      .nav-left, .nav-right { gap: 0.5rem; }
+      .results-score { font-size: 2.75rem; }
+      .modal-header { padding: 1rem 1.25rem; }
+      .modal-body { padding: 0.5rem 1.25rem 1.25rem; }
+    }
+
+    @media (max-width: 420px) {
+      .load-screen { padding: 1.5rem 1rem; }
+      .card { padding: 1rem; }
+      .question-text { font-size: 1.05rem; }
+      .topbar .stats { font-size: 0.8rem; }
+      .results-score { font-size: 2.25rem; }
     }
   </style>
 </head>
@@ -444,7 +468,7 @@
     <div id="loadScreen" class="load-screen active">
       <span class="icon">&#128214;</span>
       <h1>QuestApp</h1>
-      <p>Arrastra un archivo <code>.json</code> con tus preguntas<br>o haz clic para seleccionarlo</p>
+      <p>Arrastra un archivo <code>.json</code> con tus preguntas o haz clic para seleccionarlo</p>
       <button class="btn btn-primary" id="loadBtn">Seleccionar archivo</button>
       <input type="file" id="fileInput" accept=".json">
       <div id="errorMsg" class="error-msg"></div>
