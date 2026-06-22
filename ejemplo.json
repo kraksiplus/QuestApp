@@ -1,0 +1,83 @@
+{
+  "titulo": "Cultura General",
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "¿Cuál es el planeta más grande del sistema solar?",
+      "alternativas": [
+        "Tierra",
+        "Júpiter",
+        "Saturno",
+        "Neptuno"
+      ],
+      "respuesta": 1,
+      "pista": "Es un gigante gaseoso y su nombre empieza con J.",
+      "argumento": "Júpiter es el más grande, con un diámetro de ~139,820 km. Tierra es rocoso y mucho más pequeño (~12,742 km). Saturno es el segundo en tamaño, reconocible por sus anillos. Neptuno es el cuarto en tamaño y el más alejado del Sol."
+    },
+    {
+      "id": 2,
+      "enunciado": "¿En qué año llegó el ser humano a la Luna por primera vez?",
+      "alternativas": [
+        "1965",
+        "1967",
+        "1969",
+        "1971"
+      ],
+      "respuesta": 2,
+      "pista": "Ocurrió al final de una década muy convulsionada, poco antes de los 70.",
+      "argumento": "La misión Apolo 11 alunizó el 20 de julio de 1969. En 1965 y 1967 hubo misiones preparatorias del programa Apolo pero sin alunizaje. En 1971 alunizó el Apolo 14, pero no fue la primera vez."
+    },
+    {
+      "id": 3,
+      "enunciado": "¿Cuál es el océano más extenso del mundo?",
+      "alternativas": [
+        "Océano Atlántico",
+        "Océano Índico",
+        "Océano Pacífico"
+      ],
+      "respuesta": 2,
+      "pista": "Baña las costas de América, Asia y Oceanía.",
+      "argumento": "El Océano Pacífico es el más grande, cubriendo ~168 millones de km². El Atlántico es el segundo (~85 millones de km²). El Índico es el tercero (~70 millones de km²)."
+    },
+    {
+      "id": 4,
+      "enunciado": "¿Qué gas componen las plantas durante la fotosíntesis?",
+      "alternativas": [
+        "Dióxido de carbono (CO₂)",
+        "Oxígeno (O₂)",
+        "Nitrógeno (N₂)",
+        "Vapor de agua"
+      ],
+      "respuesta": 1,
+      "pista": "Es el mismo gas que necesitamos los humanos para respirar.",
+      "argumento": "Las plantas liberan oxígeno (O₂) como producto de la fotosíntesis. El CO₂ lo consumen, no lo producen. El nitrógeno no participa directamente en la fotosíntesis. El vapor de agua se libera por transpiración, no por fotosíntesis."
+    },
+    {
+      "id": 5,
+      "enunciado": "¿Cuántos elementos químicos hay aproximadamente en la tabla periódica actual?",
+      "alternativas": [
+        "92",
+        "103",
+        "118",
+        "150"
+      ],
+      "respuesta": 2,
+      "pista": "El último elemento confirmado se llama oganesón.",
+      "argumento": "Actualmente hay 118 elementos confirmados por la IUPAC. 92 son los elementos naturales (hasta el uranio). 103 era la cifra aceptada a mediados del siglo XX. 150 es una estimación especulativa de elementos aún no sintetizados."
+    },
+    {
+      "id": 6,
+      "enunciado": "¿Qué país tiene la mayor cantidad de habitantes del mundo?",
+      "alternativas": [
+        "India",
+        "Estados Unidos",
+        "China",
+        "Indonesia",
+        "Brasil"
+      ],
+      "respuesta": 0,
+      "pista": "Superó a China en población durante 2023.",
+      "argumento": "India es actualmente el país más poblado del mundo, superando a China en abril de 2023 con más de 1,425 millones de habitantes. China ocupa el segundo lugar. Estados Unidos, Indonesia y Brasil están en el top 5 pero muy por debajo de India y China."
+    }
+  ]
+}

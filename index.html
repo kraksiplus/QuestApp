@@ -1,0 +1,521 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>QuestApp &mdash; Cuestionarios rápidos</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+      min-height: 100vh;
+      background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+      color: #e2e8f0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 1rem;
+    }
+
+    .app { width: 100%; max-width: 960px; }
+
+    /* ---------- SCREEN VISIBILITY ---------- */
+    .load-screen     { display: none; }
+    .load-screen.active { display: block; }
+    .quiz-layout     { display: none; }
+    .quiz-layout.active { display: flex; }
+    .results-screen  { display: none; }
+    .results-screen.active { display: block; }
+
+    /* ---------- LOAD SCREEN ---------- */
+    .load-screen {
+      background: #1e293b;
+      border: 2px dashed #475569;
+      border-radius: 16px;
+      padding: 3rem 2rem;
+      text-align: center;
+      cursor: pointer;
+      transition: border-color 0.2s, background 0.2s;
+    }
+    .load-screen:hover,
+    .load-screen.dragover {
+      border-color: #6366f1;
+      background: #1e293bcc;
+    }
+    .load-screen h1 {
+      font-size: 1.8rem;
+      margin-bottom: 0.5rem;
+      color: #f1f5f9;
+    }
+    .load-screen p { color: #94a3b8; margin-bottom: 1.5rem; }
+    .load-screen .icon { font-size: 3rem; margin-bottom: 1rem; display: block; }
+    .btn {
+      display: inline-block;
+      padding: 0.75rem 1.75rem;
+      border: none;
+      border-radius: 10px;
+      font-size: 1rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: transform 0.15s, box-shadow 0.15s, opacity 0.15s;
+    }
+    .btn:hover { transform: translateY(-1px); }
+    .btn:active { transform: translateY(0); }
+    .btn-primary {
+      background: #6366f1;
+      color: #fff;
+    }
+    .btn-primary:hover { background: #4f46e5; box-shadow: 0 4px 16px #6366f150; }
+    .btn-outline {
+      background: transparent;
+      color: #c7d2fe;
+      border: 1.5px solid #475569;
+    }
+    .btn-outline:hover { border-color: #6366f1; color: #e0e7ff; }
+    .btn-sm { padding: 0.5rem 1rem; font-size: 0.85rem; }
+    .btn:disabled { opacity: 0.5; cursor: default; transform: none; }
+    .btn-ghost {
+      background: none;
+      border: none;
+      color: #94a3b8;
+      cursor: pointer;
+      font-size: 0.9rem;
+      font-weight: 600;
+      padding: 0.4rem 0.6rem;
+      border-radius: 6px;
+      transition: color 0.15s, background 0.15s;
+    }
+    .btn-ghost:hover { color: #e2e8f0; background: #334155; }
+    #fileInput { display: none; }
+
+    /* ---------- QUIZ LAYOUT ---------- */
+    .quiz-layout {
+      gap: 1.5rem;
+      align-items: flex-start;
+    }
+    .quiz-main {
+      flex: 1;
+      min-width: 0;
+    }
+
+    .topbar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 1.25rem;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+    }
+    .topbar .title {
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: #c7d2fe;
+    }
+    .topbar .stats {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      font-size: 0.9rem;
+      color: #94a3b8;
+    }
+    .topbar .stats span { font-weight: 700; color: #e2e8f0; }
+
+    /* hamburger (narrow only) */
+    .hamburger-btn {
+      display: none;
+      background: none;
+      border: none;
+      color: #cbd5e1;
+      font-size: 1.35rem;
+      cursor: pointer;
+      padding: 0.2rem 0.5rem;
+      border-radius: 6px;
+      line-height: 1;
+      transition: color 0.15s, background 0.15s;
+    }
+    .hamburger-btn:hover { color: #e2e8f0; background: #334155; }
+
+    .progress-bar {
+      width: 100%;
+      height: 6px;
+      background: #334155;
+      border-radius: 3px;
+      margin-bottom: 2rem;
+      overflow: hidden;
+    }
+    .progress-bar-fill {
+      height: 100%;
+      background: #6366f1;
+      border-radius: 3px;
+      transition: width 0.35s ease;
+    }
+
+    .card {
+      background: #1e293b;
+      border-radius: 16px;
+      padding: 2rem;
+    }
+
+    .question-number {
+      font-size: 0.85rem;
+      color: #6366f1;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      margin-bottom: 0.75rem;
+    }
+
+    .question-text {
+      font-size: 1.25rem;
+      font-weight: 500;
+      line-height: 1.5;
+      margin-bottom: 1.75rem;
+      color: #f1f5f9;
+    }
+
+    .alternatives {
+      display: flex;
+      flex-direction: column;
+      gap: 0.65rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .alt-btn {
+      display: block;
+      width: 100%;
+      text-align: left;
+      padding: 0.9rem 1.25rem;
+      background: #0f172a;
+      border: 1.5px solid #334155;
+      border-radius: 10px;
+      color: #cbd5e1;
+      font-size: 1rem;
+      cursor: pointer;
+      transition: border-color 0.15s, background 0.15s;
+    }
+    .alt-btn:not(.locked):hover {
+      border-color: #6366f1;
+      background: #1e293b;
+    }
+    .alt-btn.locked { cursor: default; }
+
+    .alt-btn.correct {
+      border-color: #22c55e;
+      background: #22c55e18;
+      color: #86efac;
+    }
+    .alt-btn.incorrect {
+      border-color: #ef4444;
+      background: #ef444418;
+      color: #fca5a5;
+    }
+
+    .feedback {
+      margin-bottom: 1.25rem;
+      display: none;
+    }
+    .feedback.show { display: block; }
+
+    .feedback-msg {
+      font-size: 0.95rem;
+      padding: 0.75rem 1rem;
+      border-radius: 8px;
+      margin-bottom: 0.75rem;
+      font-weight: 500;
+    }
+    .feedback-msg.ok { background: #22c55e18; color: #86efac; }
+    .feedback-msg.fail { background: #ef444418; color: #fca5a5; }
+
+    .argument {
+      font-size: 0.9rem;
+      color: #94a3b8;
+      line-height: 1.55;
+    }
+
+    .hint-section { margin-bottom: 1.5rem; }
+    .hint-toggle {
+      background: none;
+      border: none;
+      color: #6366f1;
+      cursor: pointer;
+      font-size: 0.9rem;
+      font-weight: 600;
+      padding: 0;
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+    }
+    .hint-toggle:hover { color: #818cf8; }
+    .hint-text {
+      margin-top: 0.5rem;
+      font-size: 0.9rem;
+      color: #94a3b8;
+      background: #0f172a;
+      padding: 0.75rem 1rem;
+      border-radius: 8px;
+      border-left: 3px solid #6366f1;
+      display: none;
+    }
+    .hint-text.show { display: block; }
+
+    .nav-buttons {
+      display: flex;
+      gap: 0.75rem;
+      justify-content: space-between;
+      flex-wrap: wrap;
+    }
+    .nav-left, .nav-right { display: flex; gap: 0.75rem; }
+
+    /* ---------- SIDEBAR ---------- */
+    .index-sidebar {
+      width: 240px;
+      flex-shrink: 0;
+      position: sticky;
+      top: 1rem;
+      max-height: calc(100vh - 2rem);
+      display: flex;
+      flex-direction: column;
+      background: #1e293b;
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    .sidebar-header {
+      font-size: 0.95rem;
+      font-weight: 700;
+      color: #c7d2fe;
+      padding: 1rem 1.25rem 0.75rem;
+      border-bottom: 1px solid #334155;
+      flex-shrink: 0;
+    }
+    .sidebar-list {
+      flex: 1;
+      overflow-y: auto;
+      padding: 0.5rem;
+    }
+
+    .index-item {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 0.65rem;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: background 0.1s;
+    }
+    .index-item:hover { background: #334155; }
+    .index-item.current {
+      background: #6366f120;
+      border: 1px solid #6366f140;
+    }
+    .index-num {
+      font-weight: 700;
+      font-size: 0.8rem;
+      color: #94a3b8;
+      width: 1.6ch;
+      text-align: right;
+      flex-shrink: 0;
+    }
+    .index-text {
+      flex: 1;
+      font-size: 0.8rem;
+      color: #cbd5e1;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+    .index-status {
+      font-size: 0.85rem;
+      flex-shrink: 0;
+    }
+    .index-status.correct   { color: #22c55e; }
+    .index-status.incorrect { color: #ef4444; }
+    .index-status.skipped   { color: #f59e0b; }
+    .index-status.unanswered{ color: #475569; }
+
+    /* ---------- RESULTS ---------- */
+    .results-screen { text-align: center; }
+    .results-screen h2 {
+      font-size: 1.5rem;
+      color: #f1f5f9;
+      margin-bottom: 0.5rem;
+    }
+    .results-score {
+      font-size: 3.5rem;
+      font-weight: 800;
+      color: #6366f1;
+    }
+    .results-detail {
+      font-size: 1rem;
+      color: #94a3b8;
+      margin-bottom: 2rem;
+    }
+    .results-detail .skipped-info {
+      margin-top: 0.3rem;
+      font-size: 0.9rem;
+      color: #f59e0b;
+    }
+    .results-actions {
+      display: flex;
+      gap: 0.75rem;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+
+    /* ---------- INDEX MODAL (narrow) ---------- */
+    .modal-overlay {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(15, 23, 42, 0.85);
+      z-index: 100;
+      align-items: center;
+      justify-content: center;
+      padding: 1rem;
+    }
+    .modal-overlay.show { display: flex; }
+
+    .modal {
+      background: #1e293b;
+      border-radius: 16px;
+      width: 100%;
+      max-width: 520px;
+      max-height: 80vh;
+      display: flex;
+      flex-direction: column;
+      animation: modalIn 0.2s ease;
+    }
+    @keyframes modalIn {
+      from { opacity: 0; transform: translateY(12px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+
+    .modal-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 1.25rem 1.5rem;
+      border-bottom: 1px solid #334155;
+    }
+    .modal-header h3 {
+      font-size: 1.1rem;
+      color: #f1f5f9;
+    }
+    .modal-close {
+      background: none;
+      border: none;
+      color: #94a3b8;
+      font-size: 1.5rem;
+      cursor: pointer;
+      padding: 0 0.25rem;
+    }
+    .modal-close:hover { color: #f1f5f9; }
+
+    .modal-body {
+      padding: 0.75rem 1.5rem 1.5rem;
+      overflow-y: auto;
+    }
+
+    /* ---------- ERROR ---------- */
+    .error-msg {
+      background: #ef444418;
+      color: #fca5a5;
+      border: 1px solid #ef444440;
+      padding: 0.75rem 1rem;
+      border-radius: 8px;
+      margin-top: 1rem;
+      font-size: 0.9rem;
+      display: none;
+    }
+    .error-msg.show { display: block; }
+
+    /* ---------- RESPONSIVE ---------- */
+    @media (max-width: 768px) {
+      .app { max-width: 640px; }
+      .quiz-layout.active { display: block; }
+      .index-sidebar { display: none; }
+      .hamburger-btn { display: inline-flex; }
+    }
+  </style>
+</head>
+<body>
+  <div class="app">
+    <!-- ============ LOAD SCREEN ============ -->
+    <div id="loadScreen" class="load-screen active">
+      <span class="icon">&#128214;</span>
+      <h1>QuestApp</h1>
+      <p>Arrastra un archivo <code>.json</code> con tus preguntas<br>o haz clic para seleccionarlo</p>
+      <button class="btn btn-primary" id="loadBtn">Seleccionar archivo</button>
+      <input type="file" id="fileInput" accept=".json">
+      <div id="errorMsg" class="error-msg"></div>
+    </div>
+
+    <!-- ============ QUIZ LAYOUT (flex: main + sidebar) ============ -->
+    <div id="quizLayout" class="quiz-layout">
+      <div class="quiz-main" id="quizMain">
+        <div class="topbar">
+          <div class="title" id="quizTitle"></div>
+          <div class="stats">
+            <button class="hamburger-btn" id="hamburgerBtn">&#9776;</button>
+            <div>Progreso: <span id="counter">1/10</span></div>
+            <div>Aciertos: <span id="score">0</span></div>
+          </div>
+        </div>
+        <div class="progress-bar">
+          <div class="progress-bar-fill" id="progressFill" style="width:0%"></div>
+        </div>
+        <div class="card">
+          <div class="question-number" id="questionNumber"></div>
+          <div class="question-text" id="questionText"></div>
+          <div class="alternatives" id="alternativesContainer"></div>
+          <div class="hint-section">
+            <button class="hint-toggle" id="hintToggle">&#128161; Mostrar pista</button>
+            <div class="hint-text" id="hintText"></div>
+          </div>
+          <div class="feedback" id="feedback">
+            <div class="feedback-msg" id="feedbackMsg"></div>
+            <div class="argument" id="argumentText"></div>
+          </div>
+          <div class="nav-buttons">
+            <div class="nav-left">
+              <button class="btn btn-outline btn-sm" id="prevBtn">&#9664; Anterior</button>
+              <button class="btn btn-outline btn-sm" id="skipBtn">&#9207; Omitir</button>
+            </div>
+            <div class="nav-right">
+              <button class="btn btn-primary" id="nextBtn" disabled>Siguiente</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <aside class="index-sidebar" id="indexSidebar">
+        <div class="sidebar-header">&Iacute;ndice</div>
+        <div class="sidebar-list" id="sidebarList"></div>
+      </aside>
+    </div>
+
+    <!-- ============ RESULTS SCREEN ============ -->
+    <div id="resultsScreen" class="results-screen card">
+      <h2>&#127942; Cuestionario completado</h2>
+      <div class="results-score" id="resultsScore"></div>
+      <div class="results-detail" id="resultsDetail"></div>
+      <div class="results-actions">
+        <button class="btn btn-primary" id="retryBtn">Reintentar</button>
+        <button class="btn btn-outline" id="newFileBtn">Cargar otro archivo</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ============ INDEX MODAL (narrow) ============ -->
+  <div class="modal-overlay" id="indexModal">
+    <div class="modal">
+      <div class="modal-header">
+        <h3>&Iacute;ndice de preguntas</h3>
+        <button class="modal-close" id="modalClose">&times;</button>
+      </div>
+      <div class="modal-body" id="indexList"></div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
