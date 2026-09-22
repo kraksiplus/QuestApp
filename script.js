@@ -109,6 +109,27 @@
     return text.length > max ? text.slice(0, max) + '...' : text;
   }
 
+  /* Crea un nodo y le asigna texto SIEMPRE por textContent (nunca innerHTML):
+     evita que un "<" o un "&" en el JSON rompa el render. */
+  function el(tag, className, text) {
+    var node = document.createElement(tag);
+    if (className) node.className = className;
+    if (text !== undefined && text !== null) node.textContent = text;
+    return node;
+  }
+
+  /* Mapa unico de estado -> icono + clase. Antes esto estaba repetido en 5 lugares. */
+  var STATUS = {
+    correct:    { icon: '\u2705', cls: 'correct' },
+    incorrect:  { icon: '\u274C', cls: 'incorrect' },
+    skipped:    { icon: '\u23ED', cls: 'skipped' },
+    unanswered: { icon: '\u25A1', cls: 'unanswered' }
+  };
+
+  function statusInfo(q) {
+    return STATUS[q.status] || STATUS.unanswered;
+  }
+
   /* ---------- VALIDATION ---------- */
   function validate(data) {
     if (!data || typeof data !== 'object') return 'El JSON debe ser un objeto con "titulo" y "preguntas".';
@@ -169,6 +190,7 @@
 
     currentIdx = 0;
     quizTitle.textContent = data.titulo;
+    buildLists();
     showScreen(quizLayout);
     renderQuestion();
   }
@@ -184,11 +206,14 @@
     questionText.textContent = q.enunciado;
 
     /* alternatives */
-    var html = '';
+    altsContainer.textContent = '';
+    var altButtons = [];
     for (var i = 0; i < q.alternativas.length; i++) {
-      html += '<button class="alt-btn" data-idx="' + i + '">' + q.alternativas[i] + '</button>';
+      var altBtn = el('button', 'alt-btn', q.alternativas[i]);
+      altBtn.dataset.idx = i;
+      altsContainer.appendChild(altBtn);
+      altButtons.push(altBtn);
     }
-    altsContainer.innerHTML = html;
 
     /* hint */
     hintText.textContent = q.pista || 'No hay pista disponible.';
@@ -204,15 +229,14 @@
 
     /* feedback & lock state */
     if (isAnswered(q)) {
-      var buttons = altsContainer.querySelectorAll('.alt-btn');
-      for (var j = 0; j < buttons.length; j++) {
-        buttons[j].classList.add('locked');
+      for (var j = 0; j < altButtons.length; j++) {
+        altButtons[j].classList.add('locked');
         if (j === q.respuesta) {
-          buttons[j].classList.add('correct');
+          altButtons[j].classList.add('correct');
         }
       }
       if (q.chosenIdx !== q.respuesta && q.chosenIdx !== null) {
-        buttons[q.chosenIdx].classList.add('incorrect');
+        altButtons[q.chosenIdx].classList.add('incorrect');
       }
 
       feedback.classList.add('show');
@@ -238,13 +262,12 @@
     }
 
     if (currentIdx + 1 >= total) {
-      nextBtn.textContent = allDone() ? 'Finalizar' : 'Siguiente';
+      nextBtn.textContent = allDone() ? 'Finalizar' : 'Ver resultados';
     } else {
       nextBtn.textContent = 'Siguiente';
     }
 
-    buildSidebar();
-    buildIndex();
+    syncIndex();
   }
 
   function selectAnswer(idx) {
@@ -305,76 +328,63 @@
     closeModal();
   }
 
-  /* ---------- SIDEBAR ---------- */
-  function buildSidebar() {
-    var html = '';
+  /* ---------- INDEX LISTS (sidebar + modal) ----------
+     Se construyen UNA vez por quiz. Antes se reconstruian con innerHTML en cada
+     render, lo que ademas reseteaba el scroll del sidebar. */
+  var sidebarNodes = [];
+  var modalNodes = [];
+  var lastRenderedIdx = -1;
+
+  function buildList(container, maxLen, store) {
+    container.textContent = '';
+    store.length = 0;
+
     for (var i = 0; i < questions.length; i++) {
-      var q = questions[i];
-      var statusIcon = '';
-      var statusClass = '';
+      var root = el('div', 'index-item');
+      root.dataset.idx = i;
 
-      if (q.status === 'correct') {
-        statusIcon = '\u2705';
-        statusClass = 'correct';
-      } else if (q.status === 'incorrect') {
-        statusIcon = '\u274C';
-        statusClass = 'incorrect';
-      } else if (q.status === 'skipped') {
-        statusIcon = '\u23ED';
-        statusClass = 'skipped';
-      } else {
-        statusIcon = '\u25A1';
-        statusClass = 'unanswered';
-      }
+      var status = el('span', 'index-status ' + STATUS.unanswered.cls, STATUS.unanswered.icon);
 
-      var currentClass = (i === currentIdx) ? ' current' : '';
+      root.appendChild(el('span', 'index-num', String(i + 1)));
+      root.appendChild(el('span', 'index-text', truncate(questions[i].enunciado, maxLen)));
+      root.appendChild(status);
 
-      html +=
-        '<div class="index-item' + currentClass + '" data-idx="' + i + '">' +
-          '<span class="index-num">' + (i + 1) + '</span>' +
-          '<span class="index-text">' + truncate(q.enunciado, 40) + '</span>' +
-          '<span class="index-status ' + statusClass + '">' + statusIcon + '</span>' +
-        '</div>';
+      container.appendChild(root);
+      store.push({ root: root, status: status });
     }
-    sidebarList.innerHTML = html;
+  }
+
+  function buildLists() {
+    buildList(sidebarList, 40, sidebarNodes);
+    buildList(indexList, 50, modalNodes);
+    lastRenderedIdx = -1;
+  }
+
+  function updateIndexNode(node, i, info) {
+    if (!node) return;
+    node.root.classList.toggle('current', i === currentIdx);
+    node.status.className = 'index-status ' + info.cls;
+    node.status.textContent = info.icon;
+  }
+
+  function refreshItem(i) {
+    if (i < 0 || !questions[i]) return;
+    var info = statusInfo(questions[i]);
+    updateIndexNode(sidebarNodes[i], i, info);
+    updateIndexNode(modalNodes[i], i, info);
+  }
+
+  function syncIndex() {
+    if (lastRenderedIdx >= 0 && lastRenderedIdx !== currentIdx) {
+      refreshItem(lastRenderedIdx);
+    }
+    refreshItem(currentIdx);
+    lastRenderedIdx = currentIdx;
   }
 
   /* ---------- INDEX (modal) ---------- */
-  function buildIndex() {
-    var html = '';
-    for (var i = 0; i < questions.length; i++) {
-      var q = questions[i];
-      var statusIcon = '';
-      var statusClass = '';
-
-      if (q.status === 'correct') {
-        statusIcon = '\u2705';
-        statusClass = 'correct';
-      } else if (q.status === 'incorrect') {
-        statusIcon = '\u274C';
-        statusClass = 'incorrect';
-      } else if (q.status === 'skipped') {
-        statusIcon = '\u23ED';
-        statusClass = 'skipped';
-      } else {
-        statusIcon = '\u25A1';
-        statusClass = 'unanswered';
-      }
-
-      var currentClass = (i === currentIdx) ? ' current' : '';
-
-      html +=
-        '<div class="index-item' + currentClass + '" data-idx="' + i + '">' +
-          '<span class="index-num">' + (i + 1) + '</span>' +
-          '<span class="index-text">' + truncate(q.enunciado, 50) + '</span>' +
-          '<span class="index-status ' + statusClass + '">' + statusIcon + '</span>' +
-        '</div>';
-    }
-    indexList.innerHTML = html;
-  }
-
+  /* La lista ya esta construida en buildLists(); aqui solo se muestra. */
   function openModal() {
-    buildIndex();
     indexModal.classList.add('show');
   }
 
@@ -420,6 +430,7 @@
     }
     questions = shuffle(questions);
     currentIdx = 0;
+    buildLists();
     showScreen(quizLayout);
     renderQuestion();
   }
