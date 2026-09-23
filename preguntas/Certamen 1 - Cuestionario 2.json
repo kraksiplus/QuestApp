@@ -1,0 +1,1311 @@
+{
+  "version": 1,
+  "titulo": "Neurociencia Psico — Certamen 1, set 2 (caps. 2, 4 y 7)",
+  "preguntas": [
+    {
+      "id": "c2-01",
+      "enunciado": "En la analogía del libro del computador que envía un documento a una impresora, lo que se transfiere entre ambos es:",
+      "alternativas": [
+        "materia y energía desde el procesador",
+        "un significado que ambos comprenden",
+        "una estructura codificada, no materia",
+        "energía eléctrica sin estructura",
+        "tinta y papel transformados en datos"
+      ],
+      "respuesta": 2,
+      "pista": "El libro insiste en que ni el emisor ni el receptor entienden lo que transmiten.",
+      "argumento": "El ejemplo sirve para mostrar que entre las máquinas se transfiere una estructura codificada, es decir información, y no materia, y que ninguno de los dos comprende lo transmitido. La opción de la materia y la energía describe el soporte físico sin la codificación; la de la tinta y el papel es la misma confusión en concreto; la de la energía sin estructura elimina justamente lo que se transmite; y la del significado que ambos comprenden contradice el punto del ejemplo. El libro agrega que la información y la función surgen con estructuras auto-organizadas (organismos) y que las señales solo adquieren significado en contextos socioculturales (Piccinini y Scarantino, 2011).",
+      "tags": [
+        "cap2",
+        "conceptos-basicos",
+        "informacion"
+      ],
+      "dificultad": "facil",
+      "fuente": "Zeise cap. 2, §2.1",
+      "tipo": "directa"
+    },
+    {
+      "id": "c2-02",
+      "enunciado": "En los organismos vivos las señales eléctricas son mucho más lentas que en los dispositivos tecnológicos. La excepción son:",
+      "alternativas": [
+        "los axones mielinizados de mamífero",
+        "las fibras Ia de los músculos",
+        "las sinapsis químicas del SNC",
+        "los acoplamientos por uniones gap",
+        "los axones amielínicos gruesos"
+      ],
+      "respuesta": 3,
+      "pista": "Es el mismo mecanismo que acopla eléctricamente a las células del músculo cardíaco.",
+      "argumento": "El libro advierte que en los organismos vivos las señales eléctricas son mucho más lentas que en la tecnología, exceptuando los acoplamientos eléctricos por uniones gap (gap junctions), que no dependen de la maquinaria de canales; aun así, las señales eléctricas son las más veloces de los organismos. Los axones mielinizados y las fibras tipo Ia son rápidos (unos 100 m/s), pero siguen siendo lentos frente a un dispositivo electrónico; los axones amielínicos son todavía más lentos; y las sinapsis químicas agregan retardo. El libro sugiere que el sistema nervioso se desarrolló justamente por la necesidad de velocidad.",
+      "tags": [
+        "cap2",
+        "velocidad",
+        "uniones-gap"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 2, §2.1.6",
+      "tipo": "directa"
+    },
+    {
+      "id": "c2-03",
+      "enunciado": "El libro propone que el sistema nervioso se desarrolló por la necesidad de:",
+      "alternativas": [
+        "procesar información semántica",
+        "coordinar el crecimiento vegetal",
+        "velocidad de reacción",
+        "mantener los gradientes iónicos",
+        "ahorrar energía metabólica"
+      ],
+      "respuesta": 2,
+      "pista": "Piensa en qué distingue a las plantas: son pluricelulares, pero no se desplazan.",
+      "argumento": "El argumento del capítulo es que los pluricelulares sin sistema nervioso son las plantas, que no se desplazan y no necesitan reaccionar rápido; de ahí que el sistema nervioso se haya desarrollado por la necesidad de velocidad. Procesar información semántica es un fenómeno que surge con organismos y contextos socioculturales, no la causa evolutiva propuesta; coordinar el crecimiento vegetal es precisamente lo que se logra sin sistema nervioso; y tanto mantener los gradientes iónicos como ahorrar energía son procesos celulares que existen con o sin neuronas.",
+      "tags": [
+        "cap2",
+        "velocidad",
+        "evolucion"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 2, §2.1.6",
+      "tipo": "directa"
+    },
+    {
+      "id": "c2-04",
+      "enunciado": "Un culombio (Cb) equivale a:",
+      "alternativas": [
+        "6,242 × 10¹⁸ cargas por segundo",
+        "6,242 × 10¹⁸ cargas elementales",
+        "1,602 × 10⁻¹⁹ cargas elementales",
+        "1 carga elemental por segundo",
+        "10¹⁸ cargas elementales por segundo"
+      ],
+      "respuesta": 1,
+      "pista": "Se trata de una cantidad de carga, no de una tasa: la tasa es lo que define al amperio.",
+      "argumento": "El culombio se define como 6,242 × 10¹⁸ cargas elementales, donde 1 carga elemental es la carga de un protón o de un electrón (nombre en honor a Charles-Augustin de Coulomb). Las opciones que dicen por segundo describen corrientes: 1 Cb/s es 1 amperio, y 1 carga elemental por segundo es una corriente diminuta. 1,602 × 10⁻¹⁹ es el valor de la carga elemental expresada en culombios, es decir la conversión inversa, no la definición del culombio.",
+      "tags": [
+        "cap2",
+        "electricidad",
+        "culombio"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 2, §2.2.1",
+      "tipo": "directa"
+    },
+    {
+      "id": "c2-05",
+      "enunciado": "En la metáfora hidráulica de la planta hidroeléctrica, el ancho de la tubería representa:",
+      "alternativas": [
+        "el voltaje de la reserva",
+        "la corriente que fluye",
+        "la resistencia del circuito",
+        "la capacitancia de la membrana",
+        "la constante de longitud"
+      ],
+      "respuesta": 2,
+      "pista": "La metáfora tiene tres equivalencias: la altura, el caudal y el entubado.",
+      "argumento": "En la tabla del libro la diferencia de altitud entre la reserva y la turbina corresponde al voltaje (diferencia de potencial), la cantidad de agua que fluye por la tubería a la corriente, y el ancho de la tubería, es decir el entubado, a la resistencia, entendida en forma inversa como conductancia. Por eso no corresponde al voltaje ni a la corriente; la capacitancia y la constante de longitud son parámetros eléctricos de la membrana que no tienen equivalente en la metáfora hidráulica. A mayor ancho, más facilidad de paso y menor resistencia.",
+      "tags": [
+        "cap2",
+        "electricidad",
+        "metafora-hidraulica"
+      ],
+      "dificultad": "facil",
+      "fuente": "Zeise cap. 2, §2.2.1",
+      "tipo": "directa"
+    },
+    {
+      "id": "c2-06",
+      "enunciado": "En las células nerviosas, el interior es más negativo que el exterior en un rango aproximado de:",
+      "alternativas": [
+        "−4 a −8,5 mV",
+        "−40 a −85 mV",
+        "−400 a −850 mV",
+        "−40 a −85 V",
+        "−1 a −2 mV"
+      ],
+      "respuesta": 1,
+      "pista": "1 mV es 0,001 V: el orden de magnitud es de decenas de milivoltios.",
+      "argumento": "El libro señala que en las células nerviosas el interior es frecuentemente entre 40 y 85 mV más negativo que el exterior, es decir de −40 a −85 mV. La opción de −4 a −8,5 mV se queda un orden de magnitud abajo; la de −400 a −850 mV se pasa un orden de magnitud arriba; la de −40 a −85 V está expresada en voltios, mil veces mayor; y la de −1 a −2 mV es demasiado pequeña incluso para una célula no nerviosa. Este voltaje se modifica para generar las señales eléctricas, y también existen diferencias de potencial entre el interior y el exterior de subestructuras celulares como las mitocondrias.",
+      "tags": [
+        "cap2",
+        "electricidad",
+        "voltaje-de-membrana"
+      ],
+      "dificultad": "facil",
+      "fuente": "Zeise cap. 2, §2.2.1",
+      "tipo": "directa"
+    },
+    {
+      "id": "c2-07",
+      "enunciado": "Respecto de la difusión, el capítulo señala que:",
+      "alternativas": [
+        "se acelera al bajar la temperatura",
+        "es igual de rápida en toda escala",
+        "requiere energía libre de la célula",
+        "no depende de la temperatura del medio",
+        "se ralentiza al aumentar la distancia"
+      ],
+      "respuesta": 4,
+      "pista": "Piensa por qué el azúcar se disuelve rápido en una taza, pero no en un estanque.",
+      "argumento": "La difusión es rápida a escala molecular y extremadamente lenta a escala macroscópica, o sea se ralentiza al aumentar la distancia, y es más rápida a mayor temperatura porque el movimiento aleatorio depende de ella. Por eso es falso que se acelere al bajar la temperatura, que sea igual de rápida en toda escala y que no dependa de la temperatura. La difusión es espontánea, como consecuencia de la segunda ley de la termodinámica; lo que exige energía libre es revertirla, esto es, volver a concentrar una sustancia en contra de su tendencia.",
+      "tags": [
+        "cap2",
+        "difusion"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 2, §2.2.2",
+      "tipo": "directa"
+    },
+    {
+      "id": "c2-08",
+      "enunciado": "El libro afirma que la membrana no es solo un aislante, porque:",
+      "alternativas": [
+        "genera energía a partir de ATP",
+        "transporta los iones por sí misma",
+        "modula dinámicamente su resistencia",
+        "almacena iones en su interior",
+        "bloquea por completo el paso de agua"
+      ],
+      "respuesta": 2,
+      "pista": "Lo decisivo es que los poros de la membrana pueden estar abiertos o cerrados.",
+      "argumento": "La membrana es una bicapa delgada de lípidos que separa compartimentos con distinta composición y distinto potencial, pero su aislamiento es variable: el libro la describe como un órgano que modula dinámicamente la resistencia de la membrana, gracias a los canales iónicos que se abren y se cierran. La membrana no genera ATP (eso ocurre en las mitocondrias), no transporta iones por sí misma (lo hacen canales y transportadores) y no almacena iones, porque es barrera y no reservorio. Tampoco bloquea por completo el agua: esta y los iones la cruzan por vías proteicas.",
+      "tags": [
+        "cap2",
+        "membrana"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 2, §2.2.3",
+      "tipo": "directa"
+    },
+    {
+      "id": "c2-09",
+      "enunciado": "Que un canal sea mecanosensible significa que:",
+      "alternativas": [
+        "es exclusivo del estímulo mecánico",
+        "pierde su selectividad iónica",
+        "se cierra solo al cesar el estímulo",
+        "responde mejor al estímulo mecánico",
+        "es indiferente al tipo de energía"
+      ],
+      "respuesta": 3,
+      "pista": "El libro distingue cuidadosamente entre ser específico y ser exclusivo.",
+      "argumento": "Ser específico no significa ser exclusivo: un canal mecanosensible responde con mayor facilidad al estímulo mecánico, pero puede reaccionar también a otros estímulos. Por eso las dos afirmaciones extremas son falsas, tanto la de la exclusividad como la de la indiferencia al tipo de energía. La selectividad iónica es una propiedad distinta del ciclo de apertura y cierre, y el cierre que ocurre cuando cesa o se revierte el estímulo define la desactivación, no la sensibilidad a una forma de energía.",
+      "tags": [
+        "cap2",
+        "canales",
+        "especificidad"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 2, §2.2.4.1",
+      "tipo": "directa"
+    },
+    {
+      "id": "c2-10",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre los canales iónicos es/son correcta(s).  I) Los canales de sodio se bloquean con tetrodotoxina (TTX).  II) Los canales de calcio se bloquean con cationes divalentes como el Mg²⁺.  III) Esos cationes divalentes bloquean también los canales de iones monovalentes.  IV) En las neuronas se ha descrito un solo tipo de canal de potasio.",
+      "alternativas": [
+        "Solo I",
+        "Solo I y II",
+        "Solo II y III",
+        "Solo II y IV",
+        "Todas son correctas"
+      ],
+      "respuesta": 1,
+      "pista": "El bloqueo farmacológico es específico: revisa cada pareja canal-bloqueador y también cuántos tipos de canales de potasio existen.",
+      "argumento": "I: V. La tetrodotoxina (TTX) es el bloqueador clásico de los canales de sodio. II: V. Los canales de calcio se bloquean con magnesio u otros cationes divalentes, que entran al canal pero no pueden pasar; de ahí también la distinción entre canales de calcio de bajo umbral y de alto umbral. III: F. El mismo catión divalente no afecta a los canales de iones monovalentes: el bloqueo farmacológico es específico. IV: F. En las neuronas se han descrito más de 20 tipos de canales permeables a potasio, no uno solo. Por eso la única combinación válida es solo I y II.",
+      "tags": [
+        "cap2",
+        "canales",
+        "farmacologia"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Zeise cap. 2, §2.2.4.2",
+      "tipo": "suficiencia"
+    },
+    {
+      "id": "c2-11",
+      "enunciado": "Los canales de sodio rápidos, los que dan velocidad al sistema nervioso, aparecen por primera vez en animales similares a:",
+      "alternativas": [
+        "las medusas (cnidarios)",
+        "las esponjas",
+        "los flagelados",
+        "los mamíferos primitivos",
+        "los peces eléctricos"
+      ],
+      "respuesta": 0,
+      "pista": "El Recuadro 2.2 ordena la serie: primero sensibilidad a voltaje, después canales rápidos.",
+      "argumento": "Según el Recuadro 2.2, los canales sensibles a voltaje ya existen en unicelulares eucariontes, sobre todo en organismos que se desplazan rápido (Flagellata), y muchas proteínas sinápticas se observan en esponjas y organismos asimétricos simples; pero los canales de sodio rápidos, los que aportan velocidad al sistema nervioso, aparecen recién en animales similares a las medusas (cnidarios) y luego en todos los grupos animales hasta los humanos (Senatore et al., 2010; Moran et al., 2015). Por eso flagelados y esponjas quedan antes en la serie, y mamíferos y peces eléctricos, después. La nota sobre los peces eléctricos se refiere a señales electromagnéticas, no a canales rápidos.",
+      "tags": [
+        "cap2",
+        "canales",
+        "evolucion"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 2, Recuadro 2.2",
+      "tipo": "directa"
+    },
+    {
+      "id": "c2-12",
+      "enunciado": "¿Cuál de las siguientes afirmaciones sobre el flujo pasivo y el transporte activo es correcta?",
+      "alternativas": [
+        "El flujo pasivo exige energía celular",
+        "El transporte activo va a favor del gradiente",
+        "El transporte activo no consume ATP",
+        "La difusión mueve iones contra su gradiente",
+        "Ninguna de las anteriores"
+      ],
+      "respuesta": 4,
+      "pista": "Compara en cada opción el sentido del movimiento con la dirección del gradiente y con el gasto de energía.",
+      "argumento": "Ninguna de las anteriores es correcta, y por eso es la opción válida: las cuatro afirmaciones anteriores son falsas. El flujo pasivo sucede cada vez que no hay obstáculos y no requiere energía de la célula. El transporte activo mueve la sustancia en contra de su gradiente, sea de concentración o de voltaje, y por eso sí consume energía. Y la difusión va a favor del gradiente, desde la mayor concentración hacia la menor; el gasto de ATP corresponde a las bombas que reponen los gradientes, no al movimiento espontáneo.",
+      "tags": [
+        "cap2",
+        "transporte",
+        "flujo-pasivo"
+      ],
+      "dificultad": "facil",
+      "fuente": "Zeise cap. 2, §2.2.5",
+      "tipo": "todas-ninguna"
+    },
+    {
+      "id": "c2-13",
+      "enunciado": "Según el capítulo, los iones se desplazan de un lado a otro de la membrana por dos fuerzas:",
+      "alternativas": [
+        "presión osmótica y calor",
+        "gravedad y tensión superficial",
+        "pH y temperatura absoluta",
+        "difusión y campo eléctrico",
+        "difusión y transporte vesicular"
+      ],
+      "respuesta": 3,
+      "pista": "Una fuerza proviene del gradiente de concentración y la otra del voltaje.",
+      "argumento": "El capítulo lo dice de forma explícita: los iones se desplazan por difusión, desde la alta concentración hacia la baja, y por el campo eléctrico, según la diferencia de potencial. La presión osmótica se refiere al movimiento del agua; la gravedad y la tensión superficial no participan del movimiento iónico; el pH y la temperatura son condiciones del medio, no fuerzas sobre el ion; y los iones no viajan dentro de vesículas, que es el vehículo de los transmisores en la terminal presináptica.",
+      "tags": [
+        "cap2",
+        "iones",
+        "fuerzas"
+      ],
+      "dificultad": "facil",
+      "fuente": "Zeise cap. 2, §2.2.6",
+      "tipo": "directa"
+    },
+    {
+      "id": "c2-14",
+      "enunciado": "En la ecuación de Nernst, z es la carga del ion. Para K⁺, Na⁺, Cl⁻ y Ca²⁺, respectivamente, z vale:",
+      "alternativas": [
+        "+1, +1, +1 y +2",
+        "+1, −1, −1 y +2",
+        "+1, +1, −1 y +2",
+        "+1, +1, −1 y −2",
+        "0, +1, −1 y +2"
+      ],
+      "respuesta": 2,
+      "pista": "El signo depende de si el ion es catión o anión, y la magnitud de cuántas cargas lleva.",
+      "argumento": "El recuadro de Nernst da las cargas como K⁺ = +1, Na⁺ = +1, Cl⁻ = −1 y Ca²⁺ = +2. El cloruro es el único anión de los cuatro, así que cualquier opción que le asigne carga positiva falla; el calcio es el único divalente, así que su valor debe ser +2 y nunca −2; y un catión nunca tiene carga cero, de modo que la opción que empieza con 0 es imposible. Las cargas importan porque z va en el denominador de la ecuación: con el signo invertido, el potencial de equilibrio cambia de signo.",
+      "tags": [
+        "cap2",
+        "nernst",
+        "cargas"
+      ],
+      "dificultad": "facil",
+      "fuente": "Zeise cap. 2, Recuadro 2.3",
+      "tipo": "directa"
+    },
+    {
+      "id": "c2-15",
+      "enunciado": "En el esquema eléctrico equivalente de la membrana, los resistores variables representan:",
+      "alternativas": [
+        "los canales iónicos",
+        "las bombas iónicas",
+        "las cuatro baterías",
+        "los iones del citosol",
+        "la bicapa lipídica"
+      ],
+      "respuesta": 0,
+      "pista": "Las conductancias del esquema cambian según cuántos poros estén abiertos.",
+      "argumento": "En el esquema de la membrana las baterías son los gradientes iónicos y los resistores transversales son variables: representan los canales iónicos, porque las conductancias son proporcionales al número de canales abiertos, y la célula modula su voltaje abriéndolos y cerrándolos. Las bombas no forman parte de ese esquema, ya que mantienen los gradientes pero no generan directamente la señal. Las cuatro baterías son otra cosa dentro del mismo esquema, los iones del citosol son el medio donde ocurre la corriente, y la bicapa lipídica es el material aislante que contiene a canales y bombas.",
+      "tags": [
+        "cap2",
+        "canales",
+        "circuito-equivalente"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 2, §2.2.7",
+      "tipo": "directa"
+    },
+    {
+      "id": "c2-16",
+      "enunciado": "En la metáfora del estanque, que la salida esté abierta y salga más agua de la que entra (presión negativa, succión) equivale a:",
+      "alternativas": [
+        "la apertura de los canales de Na⁺",
+        "la apertura de los canales de K⁺",
+        "el cierre de todos los canales",
+        "la inactivación de los canales de Na⁺",
+        "la acción de la bomba Na⁺/K⁺-ATPasa"
+      ],
+      "respuesta": 1,
+      "pista": "Piensa en el ion que está más concentrado adentro y que, al salir, deja el interior más negativo.",
+      "argumento": "En la figura del estanque, la entrada entreabierta con la salida bloqueada produce presión máxima, y equivale a tener abiertos solo los canales de un ion positivo más concentrado fuera, como el sodio; la salida abierta, con presión negativa o succión, equivale a abrir los canales de potasio, que permiten más flujo y dejan prevalecer una fuerza negativa. El cierre de todos los canales equivaldría a un circuito sin corriente, no a succión. La inactivación del sodio es un proceso temporal dentro del potencial de acción, no un estado de la metáfora. Y la bomba no aparece en la alegoría del estanque, porque la metáfora describe flujos pasivos por canales.",
+      "tags": [
+        "cap2",
+        "canales",
+        "metafora"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Zeise cap. 2, §2.2.7",
+      "tipo": "directa"
+    },
+    {
+      "id": "c2-17",
+      "enunciado": "La parte presináptica de la sinapsis química contiene principalmente:",
+      "alternativas": [
+        "la densidad postsináptica",
+        "receptores ionotrópicos",
+        "espinas dendríticas",
+        "canales activados por ligando",
+        "vesículas con transmisores"
+      ],
+      "respuesta": 4,
+      "pista": "Lo que se liberará hacia la hendidura está guardado en la célula que envía la señal.",
+      "argumento": "La parte presináptica es el botón sináptico, que contiene las vesículas sinápticas con los transmisores. El engrosamiento llamado postsynaptic density pertenece a la parte postsináptica, igual que los receptores ionotrópicos y los canales activados por ligando, que son los que responden al transmisor. Las espinas dendríticas son también estructuras postsinápticas, propias de las sinapsis excitatorias. Ambas partes quedan separadas por la hendidura sináptica, de aproximadamente 20 nm.",
+      "tags": [
+        "cap2",
+        "sinapsis",
+        "anatomia"
+      ],
+      "dificultad": "facil",
+      "fuente": "Zeise cap. 2, §2.4",
+      "tipo": "directa"
+    },
+    {
+      "id": "c2-18",
+      "enunciado": "La bioelectricidad fue descubierta a fines del siglo XVIII por Luigi Galvani al estudiar:",
+      "alternativas": [
+        "el axón gigante del calamar",
+        "las sinapsis del cerebro humano",
+        "los canales de sodio de la medusa",
+        "los músculos de las ranas",
+        "las uniones gap del corazón"
+      ],
+      "respuesta": 3,
+      "pista": "El experimento clásico relaciona la estimulación eléctrica de un nervio con una contracción.",
+      "argumento": "Galvani, en Bolonia, describió la excitabilidad de los músculos de las ranas y concluyó que la estimulación eléctrica de los nervios produce contracciones musculares (1791). El axón gigante del calamar fue clave mucho después, ya en el siglo XX, para descifrar la señal de acción; el registro de sinapsis en el cerebro humano también es posterior; y los estudios de canales de medusa y de uniones gap corresponden a épocas y técnicas muy posteriores al hallazgo inicial.",
+      "tags": [
+        "cap2",
+        "historia"
+      ],
+      "dificultad": "facil",
+      "fuente": "Zeise cap. 2, §2.5",
+      "tipo": "directa"
+    },
+    {
+      "id": "c2-19",
+      "enunciado": "¿Cuál de las siguientes afirmaciones sobre las señales postsinápticas y las señales de acción es correcta?",
+      "alternativas": [
+        "Las postsinápticas son analógicas",
+        "Las de acción son estereotipadas",
+        "Las postsinápticas no tienen umbral",
+        "Las de acción viajan sin distorsión",
+        "Todas son correctas"
+      ],
+      "respuesta": 4,
+      "pista": "Compara una por una las dos columnas de la tabla: tamaño, dirección, umbral, origen, codificación y función.",
+      "argumento": "Todas son correctas, y por eso esa es la opción válida. Las señales postsinápticas son analógicas o graduadas, con tamaño y duración variables, y pueden ser negativas o positivas; las señales de acción son uniformes y estereotipadas, y siempre van en la misma dirección. Las postsinápticas no tienen umbral, porque se originan en canales activados por ligando, mientras que las de acción se generan al despolarizar más allá del umbral en canales voltaje-dependientes. Y la función de las señales de acción es viajar largas distancias sin distorsión, mientras las postsinápticas sirven para integrar señales de distintas partes de la neurona.",
+      "tags": [
+        "cap2",
+        "señales",
+        "comparacion"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 2, §2.5.1",
+      "tipo": "todas-ninguna"
+    },
+    {
+      "id": "c2-20",
+      "enunciado": "Según Hodgkin y Huxley, la forma completa de la señal de acción se explica por:",
+      "alternativas": [
+        "las cinéticas de apertura de Na⁺ y K⁺",
+        "el ATP disponible en la terminal del axón",
+        "el número de nodos de Ranvier",
+        "la longitud del axón estimulado",
+        "la actividad de la bomba Na⁺/K⁺-ATPasa"
+      ],
+      "respuesta": 0,
+      "pista": "Recuerda que uno de los dos iones es rápido al abrir y al cerrar sus canales, y el otro es más lento en ambos.",
+      "argumento": "Hodgkin y Huxley demostraron en los años 1950 que la totalidad del potencial de acción se explica por las velocidades de apertura y cierre de los canales de sodio y de potasio: la conductancia del sodio sube y baja rápido, mientras la del potasio sube más tarde y baja más lento, y esa diferencia produce la despolarización y la repolarización. La bomba no genera la señal, solo repone los gradientes. El número de nodos de Ranvier y la longitud del axón afectan la propagación en el espacio, no la forma del pico. Y el ATP no participa en la cinética de estos canales.",
+      "tags": [
+        "cap2",
+        "potencial-de-accion",
+        "hodgkin-huxley"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Zeise cap. 2, §2.5.3",
+      "tipo": "directa"
+    },
+    {
+      "id": "c2-21",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre la propagación de las señales de acción es/son correcta(s).  I) En un experimento se propagan en ambas direcciones desde el punto de estimulación.  II) Fisiológicamente la señal viaja desde el axón hacia el soma.  III) No viajan hacia el árbol dendrítico porque esas zonas no son excitables.  IV) La propagación retrógrada es posible si el estímulo es muy intenso.",
+      "alternativas": [
+        "Solo I",
+        "Solo I y III",
+        "Solo I, II y III",
+        "Solo II y IV",
+        "Todas son correctas"
+      ],
+      "respuesta": 1,
+      "pista": "Piensa dónde está el origen fisiológico de la señal y qué deja detrás cada potencial de acción.",
+      "argumento": "I: V. En un experimento la señal se propaga en ambas direcciones desde el punto de estimulación. II: F. En condiciones fisiológicas el origen está en el soma o en el cono axónico y la señal avanza hacia el axón, nunca desde el axón hacia el soma. III: V. El árbol dendrítico no es excitable, por su densidad insuficiente de canales de sodio y calcio voltaje-dependientes, así que la señal no entra en él. IV: F. La propagación retrógrada es imposible gracias al período refractario, y no depende de la intensidad del estímulo. Por eso la única combinación válida es solo I y III.",
+      "tags": [
+        "cap2",
+        "propagacion",
+        "direccion"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Zeise cap. 2, §2.5.5",
+      "tipo": "suficiencia"
+    },
+    {
+      "id": "c2-22",
+      "enunciado": "Respecto de las resistencias de una prolongación neuronal, el capítulo destaca que:",
+      "alternativas": [
+        "r_M es uniforme y rᵢ muy variable",
+        "las dos varían solo con el largo",
+        "rᵢ es uniforme y r_M muy variable",
+        "rᵢ depende de los canales abiertos",
+        "las dos son constantes en todo axón"
+      ],
+      "respuesta": 2,
+      "pista": "Una de las dos resistencias cambia cada vez que se abren o se cierran canales.",
+      "argumento": "La resistencia axial o interna (rᵢ) es bastante uniforme y constante en el reino animal, y varía solo con el área transversal del axón. La resistencia de membrana (r_M) es mucho más variable, porque la apertura y el cierre de canales la modifican; por eso la célula puede modularla. En consecuencia es falso que r_M sea uniforme y rᵢ variable, que las dos dependan solo del largo, o que las dos sean constantes; y es la resistencia de membrana, no la axial, la que depende del número de canales abiertos.",
+      "tags": [
+        "cap2",
+        "propagacion",
+        "resistencias"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Zeise cap. 2, §2.5.5",
+      "tipo": "directa"
+    },
+    {
+      "id": "c2-23",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre la mielina es/son correcta(s).  I) En el SNC la forman los oligodendrocitos.  II) En el SNP la forman las células de Schwann.  III) Los nódulos de Ranvier quedan cubiertos por la mielina.  IV) Un internodo demasiado largo puede hacer fallar la conducción.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo I, II y IV",
+        "Solo II y IV",
+        "Solo II, III y IV",
+        "Todas son correctas"
+      ],
+      "respuesta": 1,
+      "pista": "Repasa quién fabrica la mielina en cada división del sistema nervioso y qué queda al descubierto en el axón.",
+      "argumento": "I: V. En el SNC la mielina la producen los oligodendrocitos. II: V. En el SNP la forman las células de Schwann. III: F. Los nódulos de Ranvier son justamente los tramos que quedan al descubierto, sin mielina, y son los sitios donde se regenera la señal de acción. IV: V. Si el internodo es demasiado largo, la corriente local decae bajo el umbral y la conducción falla, que es lo que ocurre en la desmielinización, asociada a la esclerosis múltiple. Por eso la única combinación válida es solo I, II y IV.",
+      "tags": [
+        "cap2",
+        "mielina",
+        "glia"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 2, §2.5.5",
+      "tipo": "suficiencia"
+    },
+    {
+      "id": "c2-24",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre el gasto energético de las señales es/son correcta(s).  I) La señal sináptica mantiene sus canales abiertos más tiempo que la de acción.  II) La fuerza impulsora de la señal sináptica se debilita al acercarse al equilibrio del Na⁺.  III) El potencial de acción es el gasto mayor del cerebro.  IV) La neurona gasta también en entradas que no producen disparo.",
+      "alternativas": [
+        "Solo I",
+        "Solo II y IV",
+        "Solo III y IV",
+        "Solo I y IV",
+        "Todas son correctas"
+      ],
+      "respuesta": 3,
+      "pista": "Compara duración, fuerza impulsora y número de sitios de cada tipo de señal, y pregúntate cuándo se paga el gasto.",
+      "argumento": "I: V. Los canales de la señal de acción duran alrededor de 1 ms y se inactivan, mientras los postsinápticos van de unos 10 ms (AMPA) a cientos de milisegundos (NMDA). II: F. Es la señal de acción la que tiene una fuerza impulsora alta al inicio que cae al acercarse a E_Na; en la señal sináptica la fuerza impulsora es alta y sostenida, con reversión cercana a 0 mV y la célula en −70 mV. III: F. El gasto dominante son las señales sinápticas excitatorias (Attwell et al., 2009); el potencial de acción es el segundo gasto más grande, no el primero. IV: V. Se paga también por las entradas que no producen salida: la neurona integra cientos de señales postsinápticas y muchas veces no dispara, pero ese input igual costó. Por eso la única combinación válida es solo I y IV.",
+      "tags": [
+        "cap2",
+        "energia",
+        "señales"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Zeise cap. 2, §2.6",
+      "tipo": "suficiencia"
+    },
+    {
+      "id": "c4-01",
+      "enunciado": "Según el capítulo, ¿qué distingue principalmente a una hormona de un neurotransmisor?",
+      "alternativas": [
+        "La naturaleza química de la molécula mensajera",
+        "El tipo de receptor que activa en la célula blanco",
+        "El modo de secreción y el alcance de la señal",
+        "El tamaño y la carga eléctrica del mensajero",
+        "La velocidad con que se degrada en el tejido"
+      ],
+      "respuesta": 2,
+      "pista": "La misma molécula puede ser una cosa u otra según desde dónde se libere y hasta dónde llegue.",
+      "argumento": "La diferencia está en el modo de secreción: la hormona se libera desde una glándula endocrina u otro tejido al flujo sanguíneo, de modo que casi todas las células quedan expuestas (responden solo las que tienen receptores), mientras el neurotransmisor se libera desde el terminal sináptico a la hendidura y su alcance es extremadamente local. Por eso la naturaleza química no distingue: la adrenalina y el glutamato pueden actuar como hormona y como transmisor, lo que vuelve falsa la primera alternativa. Tampoco distinguen el tipo de receptor (segunda), el tamaño o la carga del mensajero (cuarta) ni la velocidad de degradación (quinta), que no es un criterio que el capítulo use.",
+      "tipo": "directa",
+      "tags": [
+        "cap4",
+        "hormona-vs-neurotransmisor"
+      ],
+      "dificultad": "facil",
+      "fuente": "Zeise cap. 4, §4.1.2"
+    },
+    {
+      "id": "c4-02",
+      "enunciado": "¿Qué caracteriza a la comunicación paracrina, según el capítulo?",
+      "alternativas": [
+        "La secreción difunde a unas pocas células cercanas",
+        "La secreción viaja por el torrente sanguíneo",
+        "La señal cruza por uniones gap entre citoplasmas",
+        "La señal regresa del postsináptico al presináptico",
+        "La señal actúa solo sobre la misma célula que la liberó"
+      ],
+      "respuesta": 0,
+      "pista": "Es frecuente en los sistemas monoaminérgicos y en muchos neuropéptidos.",
+      "argumento": "En la comunicación paracrina una neurona u otra célula entrega su secreción y esta difunde solo a unas pocas células cercanas, lo que multiplica el número de células alcanzadas por cada neurona; el capítulo la señala como común en los sistemas monoaminérgicos y en muchos neuropéptidos. La alternativa del torrente sanguíneo describe la secreción hormonal, no la paracrina. La de las uniones gap describe los nexos o sinapsis eléctricas, donde no hay hendidura. La del retorno desde el postsináptico al presináptico corresponde a los mensajeros retrógrados. Y la que habla de la propia célula que libera describe una acción autocrina, que el capítulo no define como paracrina.",
+      "tipo": "directa",
+      "tags": [
+        "cap4",
+        "paracrina"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 4, §4.1.2"
+    },
+    {
+      "id": "c4-03",
+      "enunciado": "¿Cuál de estas afirmaciones sobre los nexos (uniones gap) es correcta?",
+      "alternativas": [
+        "Están ausentes en plantas y organismos unicelulares",
+        "Forman una familia separada de los canales iónicos",
+        "Se ubican sobre todo en las sinapsis excitatorias",
+        "Aparecen solo en animales vertebrados",
+        "Son los precursores de los canales de sodio voltaje"
+      ],
+      "respuesta": 1,
+      "pista": "El capítulo insiste en que no son los mismos canales descritos en el capítulo 2, y que el corazón depende de ellos.",
+      "argumento": "Los nexos constituyen una familia separada de canales iónicos, muy distintos de los del capítulo 2, y en ellos no existe separación entre los citoplasmas: permiten el intercambio de iones y de pequeñas moléculas, incluidos algunos segundos mensajeros. Están en todos los organismos vivos —unicelulares, plantas (como plasmodesmos) y animales—, así que es falso que falten en plantas o en unicelulares y también que aparezcan solo en vertebrados. Se ubican sobre todo en sinapsis inhibitorias, no excitatorias, y no son precursores de los canales de sodio dependientes de voltaje, que pertenecen a otra familia de proteínas.",
+      "tipo": "directa",
+      "tags": [
+        "cap4",
+        "nexos",
+        "uniones-gap"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 4, §4.1.1"
+    },
+    {
+      "id": "c4-04",
+      "enunciado": "Sobre la definición de neurotransmisor, señale cuál(es) de las siguientes afirmaciones es/son correcta(s).  I) Una sustancia que no se encuentra en ninguna vesícula sináptica no se considera un neurotransmisor.  II) La definición amplia incluye a toda molécula que module la transmisión sináptica.  III) Las hormonas y los neurotransmisores se distinguen por su naturaleza química.  IV) Los mensajeros retrógrados se liberan en el sitio presináptico y actúan sobre el postsináptico.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo I y III",
+        "Solo II y IV",
+        "Solo I, II y III",
+        "Solo II, III y IV"
+      ],
+      "respuesta": 3,
+      "pista": "Cada numeral se decide con el texto de 4.1: el criterio de la vesícula, las dos definiciones que circulan y el sentido de la comunicación retrógrada.",
+      "argumento": "I: V. Es el criterio operativo del libro: si la sustancia no se encuentra en ninguna vesícula sináptica no se considera neurotransmisor, aunque pueda tratarse aparte como mensajero sináptico que no cumple función de transmisión. II: V. La definición amplia, usada por algunos autores, abarca a toda molécula que module la transmisión sináptica; el libro adopta la estricta. III: F. La diferencia entre hormona y transmisor está en el modo de secreción, no en la naturaleza química: la adrenalina y el glutamato pueden ser ambas cosas. IV: F. Los mensajeros retrógrados se liberan en el sitio postsináptico y afectan al presináptico; el numeral invierte el sentido. Por eso la única combinación correcta es 'Solo I, II y III'.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap4",
+        "definicion",
+        "mensajeros-retrogrados"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 4, §4.1 y §4.1.2"
+    },
+    {
+      "id": "c4-05",
+      "enunciado": "¿Cuál de estos efectos corresponde a la activación de los receptores metabotrópicos de glutamato?",
+      "alternativas": [
+        "Abrir directamente el poro catiónico del receptor",
+        "Expulsar el Mg²⁺ que bloquea el poro del canal",
+        "Producir la recaptación de glutamato en los astrocitos",
+        "Elevar la glutamina disponible en la hendidura sináptica",
+        "Regular la liberación de glutamato por autorreceptores presinápticos"
+      ],
+      "respuesta": 4,
+      "pista": "Se ubican en sitios presinápticos y postsinápticos y actúan mediante segundos mensajeros.",
+      "argumento": "Los mGluR1–8 regulan la liberación de glutamato a través de autorreceptores presinápticos, y además modulan la excitabilidad neuronal, la plasticidad, las enfermedades neurodegenerativas y los comportamientos sociales. No tienen poro propio, porque actúan por cascadas de segundos mensajeros que terminan en fosforilación o desfosforilación de proteínas blanco, así que la alternativa del poro catiónico corresponde a los ionotrópicos. La expulsión del Mg²⁺ ocurre en el receptor NMDA por despolarización, no por receptores metabotrópicos. La recaptación del glutamato la realizan los transportadores, principalmente en células gliales, y la glutamina la producen y liberan los astrocitos después de captarlo, no los mGluR.",
+      "tipo": "directa",
+      "tags": [
+        "cap4",
+        "glutamato",
+        "mglur"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 4, §4.3.1"
+    },
+    {
+      "id": "c4-06",
+      "enunciado": "Según las definiciones del capítulo, ¿qué relación hay entre aprendizaje y memoria?",
+      "alternativas": [
+        "El aprendizaje es una forma de memoria a corto plazo",
+        "La memoria es condición necesaria del aprendizaje",
+        "Ambos términos son sinónimos en la neurociencia",
+        "La memoria es la adquisición y el aprendizaje el almacén",
+        "La plasticidad depende del historial, la memoria no"
+      ],
+      "respuesta": 1,
+      "pista": "El capítulo define por separado 'adquirir u optimizar una habilidad' y 'almacenar y recuperar información'.",
+      "argumento": "La memoria es la capacidad de almacenar y recuperar información y se presenta como condición necesaria del aprendizaje; el aprendizaje es la adquisición de una habilidad o la optimización de una existente y se refiere al rendimiento del sistema en su totalidad (en animales, el comportamiento). No son sinónimos, así que la tercera alternativa es falsa, y el aprendizaje no es una forma de memoria a corto plazo. La cuarta invierte los términos por definición. La quinta es falsa porque la plasticidad es la habilidad del sistema de reorganizarse en función de su historial, y la memoria forma parte de ese historial.",
+      "tipo": "directa",
+      "tags": [
+        "cap4",
+        "aprendizaje",
+        "memoria"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 4, §4.3.2"
+    },
+    {
+      "id": "c4-07",
+      "enunciado": "¿Cuál de estas afirmaciones sobre la eficacia sináptica es correcta?",
+      "alternativas": [
+        "Un aumento que persiste se denomina LTP",
+        "Se mide por el tamaño del soma neuronal",
+        "La potenciación es una caída de la eficacia",
+        "El glutamato no participa en la plasticidad",
+        "Todas son correctas"
+      ],
+      "respuesta": 0,
+      "pista": "La eficacia relaciona cuántas señales de acción llegan con cuánto responde la célula.",
+      "argumento": "La eficacia sináptica es la relación entre la entrada presináptica (número de señales de acción) y la respuesta postsináptica: si aumenta hay potenciación, si disminuye hay depresión, y cuando el cambio persiste en el tiempo se habla de LTP o de LTD; por eso un aumento que persiste se denomina LTP. Las demás son falsas: la eficacia no se mide por el tamaño del soma; la potenciación es un AUMENTO de la eficacia, no una caída; y la mayor parte de lo que se sabe de plasticidad sináptica proviene del estudio de sinapsis glutamatérgicas, de modo que el glutamato sí participa. Como hay afirmaciones falsas entre las opciones, 'Todas son correctas' no puede ser la respuesta.",
+      "tipo": "todas-ninguna",
+      "tags": [
+        "cap4",
+        "ltp",
+        "eficacia-sinaptica"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 4, §4.3.2"
+    },
+    {
+      "id": "c4-08",
+      "enunciado": "La forma de LTP mejor comprendida, la del receptor NMDA del hipocampo, se estudia en la región CA1 y recibe las fibras denominadas:",
+      "alternativas": [
+        "Fibras musgosas, que provienen del giro dentado",
+        "Fibras trepadoras, que provienen del bulbo",
+        "Colaterales de Schaffer, que provienen de CA3",
+        "Fibras paralelas, que provienen del cerebelo",
+        "Vía perforante, que proviene de la corteza entorrinal"
+      ],
+      "respuesta": 2,
+      "pista": "Es la primera puerta AND descrita en neurociencia, en el circuito hipocampal clásico.",
+      "argumento": "El receptor NMDA es un receptor ionotrópico glutamatérgico del hipocampo, en la región CA1, al que llegan las colaterales de Schaffer, que nacen en CA3; con él se describió, en la década de 1980, la primera puerta AND de la neurociencia, que exige glutamato Y despolarización. Las otras fibras existen en el sistema nervioso, pero no forman esta sinapsis: las musgosas van del giro dentado a CA3 y la vía perforante llega desde la corteza entorrinal al hipocampo, mientras las fibras trepadoras y paralelas pertenecen al circuito cerebeloso.",
+      "tipo": "directa",
+      "tags": [
+        "cap4",
+        "nmda",
+        "hipocampo"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 4, §4.3.2.1"
+    },
+    {
+      "id": "c4-09",
+      "enunciado": "¿Por qué se usan el kainato o el ácido iboténico para provocar lesiones experimentales?",
+      "alternativas": [
+        "Bloquean los receptores NMDA de la preparación",
+        "Impiden la recaptación glial del glutamato",
+        "Destruyen sobre todo las fibras mielinizadas",
+        "Aumentan la glutamina disponible en la hendidura",
+        "Dañan los somas y dejan intactos los axones que atraviesan el área"
+      ],
+      "respuesta": 4,
+      "pista": "Piensa en qué parte de la neurona casi no posee receptores de glutamato.",
+      "argumento": "Estos agonistas del glutamato dañan el tejido nervioso y sirven para provocar lesiones experimentales; su ventaja frente a los métodos mecánicos o por calor es que las fibras nerviosas que atraviesan el área permanecen intactas, porque los axones casi no poseen receptores de glutamato. Son agonistas, no bloqueadores, así que la primera alternativa es falsa (otra cosa es que un bloqueador de NMDA reduzca el daño después de una lesión). Tampoco impiden la recaptación glial, no se dirigen preferentemente a fibras mielinizadas y no elevan la glutamina de la hendidura.",
+      "tipo": "directa",
+      "tags": [
+        "cap4",
+        "excitotoxicidad",
+        "lesiones"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Zeise cap. 4, §4.3.3"
+    },
+    {
+      "id": "c4-10",
+      "enunciado": "Aplicar glutamato con una micropipeta produce un efecto estimulante débil comparado con el kainato, pese a que el glutamato tiene más afinidad por sus receptores. ¿Por qué?",
+      "alternativas": [
+        "El glutamato se degrada muy rápido en la hendidura",
+        "Existe una recaptación específica para el glutamato",
+        "El kainato se une de forma irreversible a sus receptores",
+        "El glutamato no activa los receptores ionotrópicos",
+        "El kainato difunde menos en el tejido nervioso"
+      ],
+      "respuesta": 1,
+      "pista": "El sistema de transporte es muy eficiente y no arrastra a los agonistas exógenos.",
+      "argumento": "La razón es que existe un sistema de recaptación altamente eficiente, específico para el glutamato, que no transporta a los agonistas como el kainato o el ibotenato: el glutamato aplicado por micropipeta es retirado de la hendidura antes de actuar de forma sostenida. El capítulo no atribuye el efecto a una degradación rápida en la hendidura (la degradación enzimática es el mecanismo propio de la acetilcolina), no describe una unión irreversible del kainato, y el glutamato sí activa receptores tanto ionotrópicos como metabotrópicos. La difusión del kainato en el tejido tampoco se menciona como causa.",
+      "tipo": "directa",
+      "tags": [
+        "cap4",
+        "glutamato",
+        "recaptacion"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Zeise cap. 4, §4.3.4"
+    },
+    {
+      "id": "c4-11",
+      "enunciado": "Sobre la recaptación de glutamato, señale cuál(es) de las siguientes afirmaciones es/son correcta(s).  I) Las células gliales captan el glutamato y lo convierten en glutamina.  II) El glutamato recapturado se almacena intacto en vesículas gliales.  III) Bloquear el transporte acorta la señal postsináptica.  IV) La recaptación depende del gradiente de sodio.",
+      "alternativas": [
+        "Solo I y III",
+        "Solo II y IV",
+        "Solo I y IV",
+        "Solo I, II y III",
+        "Solo II, III y IV"
+      ],
+      "respuesta": 2,
+      "pista": "Distingue lo que el astrocito hace con el glutamato de lo que ocurre al bloquear el transporte.",
+      "argumento": "I: V. La recaptación ocurre principalmente en células gliales, que convierten el glutamato en glutamina, sustancia que no es reconocida por los receptores de glutamato; luego la liberan, la neurona la toma y la reconvierte en glutamato. II: F. La glía no guarda el glutamato intacto en vesículas: lo transforma en glutamina. III: F. Al bloquear el transporte la señal postsináptica se PROLONGA notablemente, porque el glutamato tarda más en retirarse; en condiciones normales el término es abrupto, casi 1 milisegundo, gracias a los astrocitos que rodean la sinapsis. IV: V. La recaptación depende del gradiente de sodio y difiere del transporte neuronal. La única combinación correcta es 'Solo I y IV'.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap4",
+        "glutamato",
+        "recaptacion"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Zeise cap. 4, §4.3.4"
+    },
+    {
+      "id": "c4-12",
+      "enunciado": "¿Cómo está formado el receptor GABA_A?",
+      "alternativas": [
+        "Cinco subunidades en círculo alrededor de un poro central",
+        "Una proteína con siete dominios transmembrana",
+        "Cuatro subunidades con un sitio de unión cada una",
+        "Dos subunidades unidas a una proteína G trimérica",
+        "Tres subunidades idénticas con un poro de potasio"
+      ],
+      "respuesta": 0,
+      "pista": "Es ionotrópico y oligomérico; en la neocorteza de mamíferos el más frecuente lleva alfa, beta y gamma.",
+      "argumento": "El GABA_A es ionotrópico y está formado por cinco subunidades que rodean un poro central; como existen varios tipos de subunidades, los receptores no son idénticos entre sí, y el más frecuente en la neocorteza de mamíferos contiene las subunidades alfa, beta y gamma. La alternativa de los siete dominios transmembrana describe a un receptor acoplado a proteína G, no a este canal. No hay un sitio de unión por subunidad: el receptor tiene dos sitios para el ligando natural. La proteína G trimérica corresponde a los receptores metabotrópicos, y el poro del GABA_A es aniónico (pasa sobre todo Cl⁻), no un poro de potasio.",
+      "tipo": "directa",
+      "tags": [
+        "cap4",
+        "gaba-a",
+        "estructura"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 4, §4.3.5.1"
+    },
+    {
+      "id": "c4-13",
+      "enunciado": "¿Por qué los barbitúricos fueron reemplazados por las benzodiacepinas?",
+      "alternativas": [
+        "No actúan sobre el receptor GABA_A",
+        "No producen efectos anticonvulsivos",
+        "Bloquean el poro del canal de cloruro",
+        "Ventana terapéutica estrecha y riesgo letal",
+        "Actúan sobre el receptor GABA_B, no sobre el GABA_A"
+      ],
+      "respuesta": 3,
+      "pista": "El capítulo menciona tres problemas prácticos de los barbitúricos.",
+      "argumento": "Los barbitúricos actúan en otro sitio alostérico del GABA_A y al activarse producen efectos tranquilizantes y anticonvulsivos, pero fueron reemplazados porque tienen ventana terapéutica estrecha (el rango de dosis clínicamente útil sin demasiados efectos no deseados), son potencialmente letales y tienen un potencial adictivo considerable. Por eso son falsas las alternativas que niegan su acción sobre el GABA_A o sus efectos anticonvulsivos. También es falsa la que los sitúa en el GABA_B, porque su sitio alostérico pertenece al propio GABA_A, y la que les atribuye bloquear el poro del canal de cloruro, acción que el capítulo asocia a sustancias convulsivas.",
+      "tipo": "directa",
+      "tags": [
+        "cap4",
+        "gaba-a",
+        "barbituricos"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 4, §4.3.5.1"
+    },
+    {
+      "id": "c4-14",
+      "enunciado": "¿Cuál de estas afirmaciones sobre los sitios de unión del receptor GABA_A es correcta?",
+      "alternativas": [
+        "Los esteroides solo actúan en el encéfalo",
+        "Los sitios alostéricos coinciden con los de GABA",
+        "El etanol actuaría desde dentro de la membrana",
+        "Los sitios intracelulares no modulan el receptor",
+        "Ninguna de las anteriores"
+      ],
+      "respuesta": 2,
+      "pista": "El receptor tiene sitios para el ligando natural, alostéricos, intracelulares y también dentro de la membrana.",
+      "argumento": "Además de dos sitios de unión para el GABA, el receptor posee sitios alostéricos distintos de los del ligando natural, sitios intracelulares desde los cuales se lo modula, y se presume que el etanol y quizá los esteroides actúan desde dentro de la membrana celular; esa es la afirmación correcta. Las demás son falsas: los esteroides se producen en las suprarrenales y en las glándulas sexuales, no solo en el encéfalo; los sitios alostéricos son distintos de los sitios de GABA; y los sitios intracelulares son precisamente blancos de modulación desde el interior del receptor. Como la tercera opción es verdadera, 'Ninguna de las anteriores' no puede ser la respuesta.",
+      "tipo": "todas-ninguna",
+      "tags": [
+        "cap4",
+        "gaba-a",
+        "sitios-de-union"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Zeise cap. 4, §4.3.5.1"
+    },
+    {
+      "id": "c4-15",
+      "enunciado": "Sobre el receptor GABA_B, señale cuál(es) de las siguientes afirmaciones es/son correcta(s).  I) Su activación reduce la actividad de la enzima que forma AMP cíclico.  II) Produce el componente rápido de la respuesta al GABA, con inversión cerca de −70 mV.  III) Funciona como autorreceptor presináptico que reduce la liberación de GABA.  IV) Abre un poro de cloruro y es el blanco de las benzodiacepinas.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo II y III",
+        "Solo II y IV",
+        "Solo I, II y IV",
+        "Solo I y III"
+      ],
+      "respuesta": 4,
+      "pista": "Separa lo que es propio de GABA_A (rápido, cloruro, benzodiacepinas) de lo que es propio de GABA_B.",
+      "argumento": "I: V. GABA_B actúa por una proteína G acoplada a una enzima que forma AMP cíclico, y su activación reduce la actividad de esa enzima; la caída del cAMP abre canales de K⁺ y cierra canales de Ca²⁺, lo que hiperpolariza la neurona. II: F. El componente rápido, con inversión cercana a −70 mV, es del GABA_A; el de GABA_B es tardío e hiperpolariza más allá de −80 mV. III: V. Los GABA_B también están en la parte presináptica como autorreceptores: reducen la liberación de GABA cuando el transmisor abunda en la hendidura, lo que genera la inhibición frecuencia-dependiente. IV: F. El poro de cloruro y el sitio de las benzodiacepinas pertenecen al GABA_A. Por eso la respuesta es 'Solo I y III'.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap4",
+        "gaba-b",
+        "autorreceptores"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Zeise cap. 4, §4.3.5.2"
+    },
+    {
+      "id": "c4-16",
+      "enunciado": "¿Qué efecto tiene la estricnina sobre la transmisión sináptica?",
+      "alternativas": [
+        "Bloquea de forma competitiva los receptores de glicina",
+        "Bloquea los receptores metabotrópicos de GABA",
+        "Aumenta la liberación de glutamato en la médula",
+        "Actúa como agonista del receptor GABA_A",
+        "Impide la recaptación de glicina en los astrocitos"
+      ],
+      "respuesta": 0,
+      "pista": "Es un alcaloide de ciertas semillas de Asia y África, y su ingestión provoca convulsiones.",
+      "argumento": "La estricnina es un alcaloide presente en ciertas semillas de Asia y África que bloquea competitivamente los canales o receptores ionotrópicos de glicina; como la glicina es inhibitoria en el tronco encefálico y la médula espinal, su bloqueo desencadena convulsiones y una muerte dolorosa. No actúa sobre los receptores metabotrópicos de GABA, no aumenta la liberación de glutamato, no es agonista del GABA_A y tampoco interfiere con la recaptación: su mecanismo es el bloqueo competitivo del receptor de glicina.",
+      "tipo": "directa",
+      "tags": [
+        "cap4",
+        "glicina",
+        "estricnina"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 4, §4.3.5.3"
+    },
+    {
+      "id": "c4-17",
+      "enunciado": "Sobre las monoaminas y la acetilcolina como sistemas moduladores, señale cuál(es) de las siguientes afirmaciones es/son correcta(s).  I) Sus neuronas son pocas, pero proyectan a casi todo el SNC.  II) Todos sus receptores son ionotrópicos.  III) Se les atribuye una función 'preparativa' o metaplástica.  IV) El glutamato es uno de los transmisores de proyección extendida.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo I y III",
+        "Solo II y III",
+        "Solo III y IV",
+        "Solo I, II y IV"
+      ],
+      "respuesta": 1,
+      "pista": "Fíjate en cuántas neuronas tienen y en qué significa que una acción sea metaplástica.",
+      "argumento": "I: V. Las neuronas monoaminérgicas son pocas comparadas con las glutamatérgicas y GABAérgicas, pero proyectan a casi todas partes del SNC; junto con la acetilcolina y la orexina se las llama transmisores de proyección extendida. II: F. Como todos los receptores de monoaminas (excepto 5-HT₃, que es ionotrópico), los adrenérgicos, dopaminérgicos y serotoninérgicos son metabotrópicos. III: V. Se ha propuesto que las monoaminas y la acetilcolina cumplen una función preparativa: modulan neuronas o grupos de neuronas para prepararlas para cambios plásticos, lo que se conoce como efecto metaplástico. IV: F. Los transmisores de proyección extendida son la noradrenalina, la serotonina, la acetilcolina y la orexina, no el glutamato. La respuesta es 'Solo I y III'.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap4",
+        "monoaminas",
+        "proyeccion-extendida"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 4, §4.3.6"
+    },
+    {
+      "id": "c4-18",
+      "enunciado": "¿Cuál de estas afirmaciones sobre la adrenalina y la noradrenalina es correcta?",
+      "alternativas": [
+        "La adrenalina actúa como transmisor del simpático",
+        "Sus receptores α1, α2 y β son ionotrópicos",
+        "Los subtipos α1, α2 y β tienen el mismo efecto",
+        "Ambas actúan sobre los mismos adrenorreceptores",
+        "Ninguna de las anteriores"
+      ],
+      "respuesta": 3,
+      "pista": "El capítulo insiste en que no se habla de receptores 'noradrenérgicos'.",
+      "argumento": "Adrenalina y noradrenalina actúan sobre los mismos receptores, y por eso se los llama adrenérgicos o adrenorreceptores y no 'noradrenérgicos'. Cualquiera de las dos puede actuar como transmisor, hormona o mensajero paracrino, y la noradrenalina es el transmisor del segmento simpático, mientras la adrenalina se describe como hormona de las glándulas suprarrenales, lo que hace falsa la primera alternativa. También son falsas las otras dos: los adrenorreceptores son metabotrópicos (α1, α2 y β, con α1 acoplado a IP₃ y DAG), y los subtipos no tienen el mismo efecto, porque α2 y β tienen efectos opuestos sobre la adenilil ciclasa. Como la cuarta es verdadera, 'Ninguna de las anteriores' no sirve.",
+      "tipo": "todas-ninguna",
+      "tags": [
+        "cap4",
+        "noradrenalina",
+        "adrenorreceptores"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 4, §4.3.6.1"
+    },
+    {
+      "id": "c4-19",
+      "enunciado": "A diferencia de la noradrenalina, la serotonina y la histamina, la dopamina:",
+      "alternativas": [
+        "Proyecta principalmente al lóbulo frontal",
+        "Se concentra en los núcleos del rafe",
+        "Proyecta de manera difusa a toda la neocorteza",
+        "Se origina en el locus coeruleus",
+        "Se libera solo en la médula espinal"
+      ],
+      "respuesta": 0,
+      "pista": "El caso de Phineas Gage sirvió al capítulo para hablar de esta proyección.",
+      "argumento": "La dopamina no se proyecta a toda la neocorteza, sino principalmente al lóbulo frontal; de ahí su relación con el control del comportamiento, con la atención y con la impulsividad, y el uso de psicoestimulantes que aumentan la dopamina en la corteza frontal. La proyección difusa a casi todo el SNC corresponde a la noradrenalina, la serotonina y la histamina. Los núcleos del rafe contienen las neuronas serotoninérgicas y el locus coeruleus las noradrenérgicas; la dopamina se origina en el área tegmental ventral y en la sustancia negra, y su acción no se limita a la médula espinal.",
+      "tipo": "directa",
+      "tags": [
+        "cap4",
+        "dopamina",
+        "proyeccion"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 4, §4.3.6.2"
+    },
+    {
+      "id": "c4-20",
+      "enunciado": "¿Cuál de estas afirmaciones sobre la serotonina es correcta?",
+      "alternativas": [
+        "Sus neuronas se ubican en el locus coeruleus",
+        "Es un aminoácido que deriva de la tirosina",
+        "Sus niveles se estiman midiendo dopamina en orina",
+        "Todos sus receptores son ionotrópicos",
+        "Ninguna de las anteriores"
+      ],
+      "respuesta": 4,
+      "pista": "Revisa el núcleo de origen, el precursor y el metabolito que se mide en sangre y orina.",
+      "argumento": "Todas las demás opciones son falsas, así que la respuesta es 'Ninguna de las anteriores'. Las neuronas serotoninérgicas están en el tronco encefálico, en los núcleos del rafe, y el locus coeruleus es noradrenérgico. La serotonina deriva del triptófano y no es un aminoácido, sino una monoamina con anillo de indol, químicamente 5-hidroxitriptamina (5-HT). Sus niveles se estiman con el ácido 5-hidroxindolacético (5-HIAA) en sangre y orina, no midiendo dopamina. Y como todos los receptores de monoaminas, los 5-HT son mayormente metabotrópicos; la excepción es 5-HT₃, que es ionotrópico, de modo que 'todos ionotrópicos' es falso.",
+      "tipo": "todas-ninguna",
+      "tags": [
+        "cap4",
+        "serotonina",
+        "5-hiaa"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Zeise cap. 4, §4.3.6.3"
+    },
+    {
+      "id": "c4-21",
+      "enunciado": "¿Qué ventaja ofrecen los antagonistas de receptores de histamina frente a las benzodiacepinas para reducir la ansiedad?",
+      "alternativas": [
+        "Son más efectivos y actúan de inmediato",
+        "Potencian la inhibición GABAérgica",
+        "No generan dependencia, sirven a largo plazo",
+        "Pueden usarse en crisis convulsivas agudas",
+        "Actúan sobre los mismos sitios alostéricos del GABA_A"
+      ],
+      "respuesta": 2,
+      "pista": "El capítulo los compara con las benzodiacepinas y destaca un problema de estas últimas.",
+      "argumento": "Los antagonistas de receptores de histamina se usan para reducir la ansiedad y se consideran menos efectivos que las benzodiacepinas, pero como no generan dependencia son más apropiados para el uso a largo plazo; además son conocidos por aliviar los síntomas de las reacciones alérgicas. Son menos efectivos, no más, así que la primera alternativa es falsa. Potenciar la inhibición GABAérgica es lo que hacen las benzodiacepinas al aumentar la eficacia del GABA, no los antiH1, que tampoco ocupan los sitios alostéricos del GABA_A ni se emplean para interrumpir convulsiones (ese es un uso clínico de las benzodiacepinas).",
+      "tipo": "directa",
+      "tags": [
+        "cap4",
+        "histamina",
+        "ansiedad"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 4, §4.3.6.4"
+    },
+    {
+      "id": "c7-01",
+      "enunciado": "El capítulo explica por qué la neuroplasticidad es ventajosa para la supervivencia. ¿Cuál es el argumento?",
+      "alternativas": [
+        "La herencia cambia más rápido que el ambiente y eso ya basta",
+        "La experiencia reemplaza por completo a la información genética heredada",
+        "La herencia es ventajosa pero fija; hacen falta ajustes plásticos",
+        "El ambiente no cambia durante la vida, así que la herencia ya basta",
+        "Los genes se reajustan por sí solos si cambia el ambiente"
+      ],
+      "respuesta": 2,
+      "pista": "El texto insiste en un rasgo de la información genética: es ventajosa, pero no se ajusta.",
+      "argumento": "El capítulo sostiene que la información genética y las características hereditarias son de gran ventaja para la supervivencia y son, sin excepción, estructuralmente fijas; para hacer frente a los cambios continuos del ambiente se requieren mecanismos adicionales que permitan adaptaciones plásticas rápidas y efectivas, no especificadas por restricciones genéticas. La opción de que la herencia cambia más rápido que el ambiente invierte la premisa del texto. La que dice que la experiencia reemplaza por completo a la información heredada exagera: la plasticidad opera sobre un sustrato especificado genéticamente, no lo sustituye. La que afirma que el ambiente no cambia contradice el punto de partida del argumento, y la que atribuye a los genes un reajuste propio confunde plasticidad con genética: lo fijo es justamente lo genético.",
+      "tipo": "directa",
+      "tags": [
+        "cap7",
+        "introduccion"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 7, §7.1"
+    },
+    {
+      "id": "c7-02",
+      "enunciado": "El capítulo advierte que el resultado de los cambios plásticos no siempre es beneficioso. ¿Qué ejemplos de plasticidad maladaptativa menciona?",
+      "alternativas": [
+        "Distonía y migraña",
+        "Tinnitus y dislexia",
+        "Dislexia y migraña",
+        "Distonía y dislexia",
+        "Distonías y tinnitus"
+      ],
+      "respuesta": 4,
+      "pista": "Son dos cuadros en los que un proceso plástico produce un resultado patológico, no adaptativo.",
+      "argumento": "El capítulo ejemplifica la plasticidad maladaptativa con las distonías y el tinnitus: el resultado de los cambios plásticos no siempre es beneficioso, lo que forma parte del compromiso entre modificabilidad y estabilidad. La migraña aparece en el capítulo como indicación clínica de la TMS, no como ejemplo de plasticidad maladaptativa. Las convulsiones se mencionan como riesgo de las frecuencias altas de rTMS, no como plasticidad maladaptativa. Y la dislexia no figura entre los ejemplos del capítulo.",
+      "tipo": "directa",
+      "tags": [
+        "cap7",
+        "plasticidad-maladaptativa"
+      ],
+      "dificultad": "facil",
+      "fuente": "Zeise cap. 7, §7.1"
+    },
+    {
+      "id": "c7-03",
+      "enunciado": "El artículo de Blakemore y Cooper (1970), citado en el capítulo, mostró que las propiedades de las neuronas visuales:",
+      "alternativas": [
+        "Maduran igual con o sin experiencia visual temprana",
+        "Dependen de lo que el animal vio durante su desarrollo",
+        "Se heredan y no dependen del entorno en que se cría el animal",
+        "Solo aparecen si el animal nunca vio ningún estímulo",
+        "Se definen antes del nacimiento y ya no cambian después"
+      ],
+      "respuesta": 1,
+      "pista": "El título de ese artículo de 1970 era casi un manifiesto sobre el papel del entorno.",
+      "argumento": "Blakemore y Cooper (1970) publicaron 'El desarrollo del cerebro depende del entorno visual': propiedades de las neuronas de la vía visual, como detectar velocidad angular, tamaño u orientación, dependían críticamente de lo que los animales habían visto durante su desarrollo, de modo que se requería experiencia visual para formar un sistema visual que funcionara bien. Por eso no es correcto que el sistema madure igual con o sin experiencia, ni que estas propiedades se hereden sin depender del entorno, ni que queden fijadas antes del nacimiento. La opción de que solo aparecen si el animal nunca vio estímulos invierte el hallazgo: la experiencia visual es necesaria, no un obstáculo.",
+      "tipo": "directa",
+      "tags": [
+        "cap7",
+        "desarrollo"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 7, §7.2.1"
+    },
+    {
+      "id": "c7-04",
+      "enunciado": "Según el capítulo, cuando una lesión cerebral ocurre muy temprano, la adquisición del lenguaje:",
+      "alternativas": [
+        "Queda abolida de forma definitiva y permanente",
+        "Se recupera igual cuando la lesión ocurre en el cerebro adulto",
+        "Se instala en el tronco encefálico y no en la corteza",
+        "Puede trasladarse al hemisferio contralateral sano",
+        "Migra hacia la corteza visual primaria del mismo lado"
+      ],
+      "respuesta": 3,
+      "pista": "El texto subraya que ese desplazamiento 'nunca' ocurre en el cerebro adulto.",
+      "argumento": "El capítulo usa el cambio de la adquisición del lenguaje al hemisferio contralateral tras una lesión cerebral temprana como ejemplo de que las capacidades plásticas del período ontogenético son sustancialmente mayores que las del adulto: ese desplazamiento nunca se observa en el cerebro adulto. Decir que el lenguaje se recupera igual en el adulto contradice justamente ese punto. Que se instale en el tronco encefálico o migre a la corteza visual primaria son localizaciones inventadas. Y que quede abolido de forma definitiva niega la compensación que el capítulo describe, que llega al extremo de informes con falta total de un hemisferio y funcionamiento casi normal.",
+      "tipo": "directa",
+      "tags": [
+        "cap7",
+        "desarrollo",
+        "periodo-ontogenetico"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 7, §7.2.1"
+    },
+    {
+      "id": "c7-05",
+      "enunciado": "Sobre los cambios estructurales descritos en el cerebro adulto, señale cuál(es) de las siguientes afirmaciones es/son correcta(s).  I) La LTP induce la aparición de nuevas espinas dendríticas.  II) Las capacidades plásticas del adulto superan a las del período ontogenético.  III) Las amputaciones grandes reorganizan conexiones hacia regiones vecinas.  IV) Los malabaristas muestran áreas corticales del movimiento visual agrandadas.",
+      "alternativas": [
+        "Solo I y III",
+        "Solo II y IV",
+        "Solo I, II y III",
+        "Solo I, III y IV",
+        "Todas son correctas"
+      ],
+      "respuesta": 3,
+      "pista": "Uno de los cuatro numerales invierte la comparación entre plasticidad adulta y plasticidad del desarrollo.",
+      "argumento": "Valores de verdad: I) V. La LTP produce la aparición de nuevas espinas en la dendrita postsináptica, que es uno de los ejemplos del capítulo para mostrar cambios estructurales en el cerebro adulto intacto. II) F. El capítulo afirma lo contrario: las capacidades plásticas del período ontogenético son sustancialmente mayores que las del adulto. III) V. Las amputaciones grandes producen reorganización de conexiones hacia regiones vecinas, tanto a nivel cortical como subcortical. IV) V. Los malabaristas (Draganski et al., 2004) muestran un cambio estructural en áreas relacionadas con el procesamiento de movimientos visuales complejos. La combinación correcta es I, III y IV. 'Solo I y III' omite el numeral IV, que es verdadero; 'Solo II y IV' incluye el numeral II, que es falso; 'Solo I, II y III' también incluye el numeral falso; y 'Todas son correctas' no puede serlo porque el numeral II es falso.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap7",
+        "cambios-estructurales"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Zeise cap. 7, §7.2.1"
+    },
+    {
+      "id": "c7-06",
+      "enunciado": "Según Takesian y Hensch (2013), ¿qué controla la plasticidad del período de desarrollo?",
+      "alternativas": [
+        "La velocidad de conducción de los axones mielinizados de la vía",
+        "El número total de sinapsis presentes en la corteza visual",
+        "La maduración de la inhibición intracortical y de la matriz extracelular",
+        "La concentración de glutamato libre en la hendidura sináptica",
+        "La densidad de receptores AMPA presentes en las dendritas"
+      ],
+      "respuesta": 2,
+      "pista": "Los autores estudiaron qué frena la plasticidad cuando se cierra el período de desarrollo.",
+      "argumento": "Según Takesian y Hensch (2013), la maduración de la inhibición intracortical y los cambios en la matriz extracelular controlan la plasticidad del desarrollo; de ahí se especula que sería posible restaurar capacidades plásticas juveniles en el adulto, con nuevas opciones de tratamiento del daño cerebral. La velocidad de conducción de axones mielinizados pertenece a otra discusión, la de los cursos temporales de maduración (la mielinización termina cerca de los 30 años). El número de sinapsis, la concentración de glutamato en la hendidura y la densidad de receptores AMPA son factores plásticos plausibles, pero no son los que estos autores identifican como el control del cierre de la plasticidad del desarrollo.",
+      "tipo": "directa",
+      "tags": [
+        "cap7",
+        "desarrollo",
+        "takesian-hensch"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Zeise cap. 7, §7.2.1"
+    },
+    {
+      "id": "c7-07",
+      "enunciado": "El capítulo supone un 'estado estacionario' de las representaciones cerebrales. ¿Qué lo define?",
+      "alternativas": [
+        "Un conjunto inmutable de representaciones",
+        "El entorno promedio de la experiencia acumulada",
+        "La activación en reposo de la corteza visual",
+        "La cantidad de sinapsis máximas de una neurona",
+        "El disparo de neuronas en el sueño profundo"
+      ],
+      "respuesta": 1,
+      "pista": "Se trata de una línea de base mantenida dinámicamente, no de un reposo absoluto.",
+      "argumento": "El capítulo supone un estado estacionario de representaciones cerebrales mantenido dinámicamente, correspondiente a un 'entorno promedio' que surge de la experiencia idiosincrática y de los pensamientos acumulados; la neuroplasticidad opera sobre esas representaciones cuando aparecen condiciones que se desvían de él. No es un conjunto inmutable, porque el estado se mantiene dinámicamente y la plasticidad lo modifica. No es el nivel de activación en reposo de una corteza particular, ni un límite estructural del número de sinapsis de una neurona, ni un patrón de disparo del sueño: ninguna de esas descripciones aparece en el texto y todas pierden la idea de 'entorno promedio'.",
+      "tipo": "directa",
+      "tags": [
+        "cap7",
+        "estado-estacionario"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Zeise cap. 7, §7.2.2"
+    },
+    {
+      "id": "c7-08",
+      "enunciado": "Sobre las escalas de tiempo de la neuroplasticidad, el capítulo plantea que:",
+      "alternativas": [
+        "Todos los cambios plásticos duran exactamente lo mismo",
+        "La plasticidad ocurre solo en ventanas de pocos minutos",
+        "Un único mecanismo explica todos los cambios plásticos",
+        "La persistencia de los cambios va de meses a años, siempre",
+        "Van de segundos a años, con mecanismos superpuestos"
+      ],
+      "respuesta": 4,
+      "pista": "El texto subraya que la persistencia es muy desigual y que no basta un solo mecanismo.",
+      "argumento": "El capítulo señala que los cambios plásticos pueden desarrollarse en segundos o minutos y llegar hasta años, que su persistencia varía desde minutos hasta un mantenimiento de por vida, y que por eso numerosos mecanismos superpuestos proporcionan el sustrato neural: la neuroplasticidad no es un proceso unitario. De ahí que sea falso que todos los cambios duren lo mismo, que la plasticidad se dé solo en ventanas de pocos minutos, que un único mecanismo lo explique todo y que la persistencia vaya 'siempre' de meses a años: el rango es mucho más amplio y abarca ambos extremos.",
+      "tipo": "directa",
+      "tags": [
+        "cap7",
+        "escalas-de-tiempo"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 7, §7.2.3"
+    },
+    {
+      "id": "c7-09",
+      "enunciado": "Sobre las variaciones regionales de la plasticidad cortical, señale cuál(es) de las siguientes afirmaciones es/son correcta(s).  I) Entre la corteza somatosensorial y la visual difieren la magnitud, la estabilidad y el curso temporal.  II) La hipótesis molecular apela a perfiles farmacológicos e histoquímicos distintos por área.  III) La hipótesis jerárquica sostiene que la posición en la jerarquía no influye en la plasticidad.  IV) La hipótesis topológica invoca restricciones ligadas a los gradientes retinotópicos de la corteza visual.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo I y IV",
+        "Solo II y III",
+        "Solo III y IV",
+        "Todas son correctas"
+      ],
+      "respuesta": 0,
+      "pista": "Dos numerales describen hipótesis del capítulo y dos afirman algo que el capítulo niega.",
+      "argumento": "Valores de verdad: I) V. Al comparar la corteza somatosensorial con la visual, el capítulo reporta diferencias regionales en magnitud, estabilidad y curso temporal (Dinse y Böhmer, 2002). II) V. La hipótesis molecular apela a diferencias en las capacidades plásticas moleculares disponibles en cada área, con perfiles farmacológicos e histoquímicos distintos. III) F. La hipótesis jerárquica sostiene lo contrario: la posición en la jerarquía de abajo hacia arriba y el peso del procesamiento de arriba hacia abajo sí afectan la susceptibilidad a la reorganización. IV) V. La hipótesis topológica señala que la corteza visual se caracteriza por mapas funcionales con gradiente retinotópico, lo que impondría restricciones topológicas globales que limitarían los cambios. Correcta: 'Solo I y II'. 'Solo I y IV' omite el numeral II; 'Solo II y III' y 'Solo III y IV' incluyen el numeral falso III; y 'Todas son correctas' falla porque III es falso.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap7",
+        "especificidad-regional"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Zeise cap. 7, §7.2.4"
+    },
+    {
+      "id": "c7-10",
+      "enunciado": "¿Qué estrategia considera el capítulo indispensable para vincular los cambios conductuales con los cambios corticales?",
+      "alternativas": [
+        "Usar solo pruebas psicofísicas, sin imágenes cerebrales",
+        "Estudiar muchos sujetos y promediar los resultados",
+        "Medir rendimiento y reorganización en el mismo individuo",
+        "Registrar la actividad cortical solo después del entrenamiento",
+        "Comparar pacientes con personas sanas de distinta edad"
+      ],
+      "respuesta": 2,
+      "pista": "La clave es no comparar poblaciones distintas: hay que reunir dos tipos de medición.",
+      "argumento": "Para responder cómo se vinculan los cambios de comportamiento y percepción con los cambios del procesamiento cortical, el capítulo propone como estrategia necesaria evaluar el rendimiento y la reorganización cortical en el mismo individuo, combinando pruebas psicofísicas o conductuales con imágenes no invasivas. Por eso no basta con usar solo pruebas psicofísicas ni con comparar pacientes con sujetos sanos de otra edad, y tampoco sirve promediar muchos sujetos, porque las diferencias individuales son justamente lo informativo. Registrar la actividad cortical solo después del entrenamiento también es insuficiente: se pierde la línea de base contra la cual medir el cambio.",
+      "tipo": "directa",
+      "tags": [
+        "cap7",
+        "cerebro-y-conducta"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 7, §7.2.5"
+    },
+    {
+      "id": "c7-11",
+      "enunciado": "En el estudio de Recanzone y colaboradores (1992), en que se entrenó a monos durante semanas en discriminación táctil de frecuencias, se observó que:",
+      "alternativas": [
+        "El entrenamiento no modificó los mapas corticales de la piel",
+        "Mejoró el rendimiento sin cambios en la corteza",
+        "La mejora fue idéntica en todos los monos entrenados",
+        "El tamaño del mapa cortical predecía el rendimiento",
+        "Se redujo el área cortical dedicada a la piel estimulada"
+      ],
+      "respuesta": 3,
+      "pista": "Hay una relación lineal entre cuánto mejora cada individuo y cuánto se expande su mapa.",
+      "argumento": "En Recanzone et al. (1992), el entrenamiento de monos durante semanas en una tarea de discriminación táctil entre frecuencias produjo una expansión significativa de los mapas corticales que representan las partes de la piel estimuladas, y se demostró una correlación lineal entre el grado individual de mejora y la cantidad de expansión: pequeña ganancia, pequeños cambios corticales; gran reorganización, umbrales de discriminación más bajos. Por eso el tamaño del mapa cortical puede considerarse un predictor del rendimiento individual. Son falsas las opciones que niegan el cambio del mapa, que separan la mejora del cambio cortical, que suponen una mejora idéntica en todos los monos y que invierten el signo del cambio: el área aumentó, no se redujo.",
+      "tipo": "directa",
+      "tags": [
+        "cap7",
+        "cerebro-y-conducta",
+        "recanzone"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 7, §7.2.5"
+    },
+    {
+      "id": "c7-12",
+      "enunciado": "En músicos altamente calificados, la representación en la corteza auditiva estaba ampliada para:",
+      "alternativas": [
+        "Los tonos puros de frecuencia similar",
+        "Los tonos de piano, pero no los tonos puros",
+        "Todos los sonidos, hayan sido entrenados o no",
+        "Solo los timbres de otros instrumentos",
+        "Los tonos puros, pero no los de piano"
+      ],
+      "respuesta": 1,
+      "pista": "El hallazgo contrasta sonidos con significado instrumental frente a tonos de laboratorio.",
+      "argumento": "En músicos altamente calificados la representación de tonos de piano en la corteza auditiva estaba ampliada, pero no la de tonos puros de frecuencia similar; el cambio también correlacionó con la edad de inicio de la práctica, los músicos con oído absoluto mostraban actividades neuronales distintas, y los timbres del propio instrumento se potenciaron más que los de otros (Schlaug, 2015). Por eso no es correcta la opción de los tonos puros, ni la que invierte la relación, ni la que supone que todos los sonidos se amplían por igual, ni la que atribuye la ampliación a los timbres de instrumentos ajenos al músico.",
+      "tipo": "directa",
+      "tags": [
+        "cap7",
+        "uso-y-practica",
+        "musicos"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 7, §7.3.1"
+    },
+    {
+      "id": "c7-13",
+      "enunciado": "En el estudio con estudiantes de medicina, el aumento de materia gris observado durante el aprendizaje:",
+      "alternativas": [
+        "Desapareció por completo durante el receso semestral",
+        "Apareció solo en la corteza motora primaria",
+        "Fue exactamente igual en todas las áreas y momentos medidos",
+        "Se revirtió en el hipocampo y persistió en parietal",
+        "Persistió en parietal y en hipocampo subió después"
+      ],
+      "respuesta": 4,
+      "pista": "Dos estructuras siguen cursos distintos: una se estanca en el receso y la otra sigue creciendo.",
+      "argumento": "En los estudiantes de medicina aumentó la materia gris en cortezas parietal posterior y lateral durante el aprendizaje, y ese aumento no cambió en el receso semestral; en el hipocampo posterior, en cambio, el incremento inicial fue aún más pronunciado tres meses después del examen. De ahí que sea falso que el cambio desapareciera por completo en el receso, que se limitara a la corteza motora primaria, que fuera igual en todas las áreas y momentos medidos, y que el hipocampo se revirtiera mientras el parietal persistía: el hipocampo siguió aumentando.",
+      "tipo": "directa",
+      "tags": [
+        "cap7",
+        "uso-y-practica",
+        "estudiantes-de-medicina"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Zeise cap. 7, §7.3.1"
+    },
+    {
+      "id": "c7-14",
+      "enunciado": "Sobre el aprendizaje perceptivo, señale cuál(es) de las siguientes afirmaciones es/son correcta(s).  I) Es una forma de aprendizaje implícito.  II) Se ha demostrado en todas las modalidades sensoriales.  III) Es altamente específico para los parámetros del estímulo.  IV) Exige retroalimentación en todos los casos.",
+      "alternativas": [
+        "Solo I y III",
+        "Solo II y IV",
+        "Solo I, II y III",
+        "Solo I, II y IV",
+        "Todas son correctas"
+      ],
+      "respuesta": 2,
+      "pista": "Uno de los numerales es absoluto ('en todos los casos') y choca con lo que dice el capítulo sobre la retroalimentación.",
+      "argumento": "Valores de verdad: I) V. El aprendizaje perceptivo es una forma de aprendizaje implícito, en la que el rendimiento mejora mediante el entrenamiento o la exposición a la estimulación (Gibson, 1953). II) V. Se ha demostrado para todas las modalidades sensoriales. III) V. Es altamente específico para parámetros del estímulo como la ubicación y la orientación, con poca generalización (Poggio et al., 1992), lo que sugiere cambios en representaciones corticales tempranas. IV) F. La retroalimentación es un factor modulatorio importante y en general mejora el desempeño, pero el capítulo señala que bajo ciertas condiciones el aprendizaje puede ocurrir sin ella; 'en todos los casos' es una generalización excesiva. Correcta: 'Solo I, II y III'. Las demás combinaciones omiten algún numeral verdadero o incluyen el falso; 'Todas son correctas' falla porque el numeral IV es falso.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap7",
+        "aprendizaje-perceptivo"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 7, §7.3.2"
+    },
+    {
+      "id": "c7-15",
+      "enunciado": "Respecto de la aplicación clínica de la estimulación sensorial repetitiva en pacientes con daño cerebral o accidente cerebrovascular, ¿cuál de estas afirmaciones es correcta?",
+      "alternativas": [
+        "Permite combinarla con otras terapias por ser pasiva",
+        "Exige que el paciente atienda de forma sostenida al estímulo",
+        "Su efecto se limita a las zonas sanas que rodean la lesión",
+        "No se ha probado nunca en pacientes con accidente cerebrovascular",
+        "Ninguna de las anteriores es correcta"
+      ],
+      "respuesta": 0,
+      "pista": "Piensa en una técnica que no exige que el paciente colabore ni que preste atención.",
+      "argumento": "La respuesta correcta es la primera: la estimulación sensorial repetitiva tiene como ventaja particular su naturaleza pasiva, ya que no requiere participación activa ni atención, lo que permite aplicarla en paralelo con otras ocupaciones y la hace fácil de implementar y más aceptable para el paciente. Las demás afirmaciones son falsas: la técnica justamente no exige atención sostenida; su objetivo es reforzar los procesos plásticos dentro y alrededor de las áreas que quedaron disfuncionales, no en zonas sanas exclusivamente; y se ha demostrado eficacia en pacientes con accidente cerebrovascular, lesiones cerebrales y dolor crónico (Dinse y Tegenthoff, 2019), de modo que sí se ha probado en ellos. Por eso 'Ninguna de las anteriores es correcta' también es falsa: al menos una de las afirmaciones previas es verdadera.",
+      "tipo": "todas-ninguna",
+      "tags": [
+        "cap7",
+        "aplicaciones-clinicas"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 7, §7.3.3.2"
+    }
+  ]
+}

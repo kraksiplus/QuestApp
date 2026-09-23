@@ -1,0 +1,14 @@
+{
+  "quizzes": [
+    {
+      "archivo": "Certamen 1 - Cuestionario.json",
+      "titulo": "Neurociencia Psico — Certamen 1 (caps. 2, 4 y 7)",
+      "total": 60
+    },
+    {
+      "archivo": "Certamen 1 - Cuestionario 2.json",
+      "titulo": "Neurociencia Psico — Certamen 1, set 2 (caps. 2, 4 y 7)",
+      "total": 60
+    }
+  ]
+}

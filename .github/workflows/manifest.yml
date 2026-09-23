@@ -1,0 +1,44 @@
+name: Generar manifiesto de preguntas
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'preguntas/**'
+      - '!preguntas/manifest.json'
+      - 'scripts/generar-manifest.mjs'
+      - '.github/workflows/manifest.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: manifest
+  cancel-in-progress: true
+
+jobs:
+  manifest:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Regenerar manifiesto
+        run: node scripts/generar-manifest.mjs
+
+      - name: Commitear si cambió
+        run: |
+          if [ -z "$(git status --porcelain -- preguntas/manifest.json)" ]; then
+            echo "El manifiesto no cambió."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add preguntas/manifest.json
+          git commit -m "Actualiza el manifiesto de preguntas"
+          git push

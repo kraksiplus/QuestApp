@@ -1,0 +1,1243 @@
+{
+  "version": 1,
+  "titulo": "Neurociencia Psico — Certamen 1 (caps. 2, 4 y 7)",
+  "preguntas": [
+    {
+      "id": "c2-01",
+      "enunciado": "Según el capítulo 2, ¿por qué el sistema nervioso usa señales eléctricas y no otras como presión, color o temperatura?",
+      "alternativas": [
+        "Porque son las únicas que las células biológicas pueden generar",
+        "Porque las señales eléctricas no se atenúan con la distancia",
+        "Porque son veloces, digitalizables y la célula ya es una batería",
+        "Porque no dependen de la temperatura y por eso son más estables",
+        "Porque no consumen energía, a diferencia de las señales químicas"
+      ],
+      "respuesta": 2,
+      "pista": "Una de las tres razones es que la variable de la señal ya existe de antemano en la célula.",
+      "argumento": "El libro da tres razones: son potencialmente veloces, son fáciles de digitalizar, y cada célula biológica activa es una batería, de modo que el voltaje ya está disponible y basta con modularlo. Las otras alternativas inventan propiedades: las señales eléctricas no son exclusivas, sí dependen de la temperatura y sí consumen energía (las bombas deben reponer los gradientes). Y las señales eléctricas sí se atenúan con la distancia; por eso el potencial de acción se regenera en cada segmento.",
+      "tags": [
+        "cap2",
+        "introduccion"
+      ],
+      "dificultad": "facil",
+      "fuente": "Zeise cap. 2, §2.1.6"
+    },
+    {
+      "id": "c2-02",
+      "enunciado": "Si el voltaje se duplica y la resistencia se mantiene constante, la corriente:",
+      "alternativas": [
+        "Se duplica",
+        "Se reduce a la mitad",
+        "No cambia",
+        "Se cuadruplica",
+        "Depende de la capacitancia"
+      ],
+      "respuesta": 0,
+      "pista": "Es la ley de Ohm escrita como I = V/R.",
+      "argumento": "Por la ley de Ohm, I = V/R: la corriente es directamente proporcional al voltaje, así que al doblar V se dobla I. Se reduciría a la mitad solo si la resistencia se duplicara, y se cuadruplicaría si además se redujera la resistencia a la mitad, cosa que aquí no ocurre. La capacitancia afecta la constante de tiempo, no la ley de Ohm.",
+      "tags": [
+        "cap2",
+        "electricidad",
+        "ley-de-ohm"
+      ],
+      "dificultad": "facil",
+      "fuente": "Zeise cap. 2, §2.2.1"
+    },
+    {
+      "id": "c2-03",
+      "enunciado": "En el equilibrio por difusión, cuando ya no hay flujo neto, ¿qué ocurre a nivel de las partículas?",
+      "alternativas": [
+        "Las partículas dejan de moverse por completo",
+        "Todas las partículas se acumulan en el compartimento de mayor concentración",
+        "Solo se mueven las partículas del compartimento más concentrado",
+        "Las partículas siguen moviéndose en ambas direcciones, sin flujo neto",
+        "La temperatura del sistema desciende hasta anular el movimiento"
+      ],
+      "respuesta": 3,
+      "pista": "El libro insiste en que equilibrio no significa que nada se mueva.",
+      "argumento": "El equilibrio sin flujo neto significa que, en promedio, la misma cantidad de elementos se desplaza en ambas direcciones. Las partículas nunca se detienen: el movimiento aleatorio es constante. La alternativa de la acumulación describe justo lo contrario de la difusión, y la de la temperatura confunde causa con efecto: la velocidad del movimiento depende de la temperatura, no al revés. Ambos compartimentos aportan partículas al flujo, en las dos direcciones.",
+      "tags": [
+        "cap2",
+        "difusion"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 2, §2.2.2"
+    },
+    {
+      "id": "c2-04",
+      "enunciado": "¿Por qué la célula necesita gastar energía para mantener los gradientes iónicos?",
+      "alternativas": [
+        "Porque los iones solo pueden atravesar la membrana en contra de su gradiente",
+        "Porque los iones son repelidos por la membrana lipídica",
+        "Porque la difusión tiende a homogeneizar las concentraciones",
+        "Porque el voltaje de membrana se disipa como calor",
+        "Porque los canales iónicos se cierran y hay que reabrirlos con ATP"
+      ],
+      "respuesta": 2,
+      "pista": "Piensa en el ejemplo del museo con los dos salones: volver a la distribución inicial exige un esfuerzo.",
+      "argumento": "Toda señal implica un flujo de iones a favor de su gradiente, lo que reduce un poco ese gradiente. Como la difusión tiende a igualar las concentraciones (segunda ley), hay que reponerlas con bombas que consumen ATP. La membrana lipídica es barrera, no causa de repulsión; el voltaje no se disipa como calor; y los canales no se reabren con ATP (eso lo hacen las bombas, no los canales). Los iones atraviesan la membrana a favor de su gradiente; el gasto está en reponerlo después.",
+      "tags": [
+        "cap2",
+        "energia",
+        "bombas"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 2, §2.2.2 y §2.6"
+    },
+    {
+      "id": "c2-05",
+      "enunciado": "¿Qué es el voltaje (potencial) de equilibrio de un ion?",
+      "alternativas": [
+        "El voltaje al que el ion deja de atravesar la membrana porque el canal se cierra",
+        "El voltaje en que la fuerza química y la eléctrica se equilibran",
+        "El voltaje de reposo de la célula medido con un microelectrodo",
+        "El voltaje al que el ion invierte el signo de su carga eléctrica",
+        "El voltaje máximo que puede alcanzar el potencial de acción para ese ion"
+      ],
+      "respuesta": 1,
+      "pista": "Las dos fuerzas que actúan son el gradiente de concentración y la carga eléctrica.",
+      "argumento": "Es el voltaje en que la fuerza química (gradiente de concentración) y la fuerza eléctrica se igualan y se oponen, de modo que no hay flujo neto del ion, aunque los canales permanezcan abiertos. No implica cierre del canal (eso sería inactivación), no es el potencial de reposo (que resulta de varios iones a la vez) y no tiene relación con la amplitud del potencial de acción. Los iones no cambian de carga: solo se equilibran las fuerzas que actúan sobre ellos.",
+      "tags": [
+        "cap2",
+        "nernst",
+        "equilibrio"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 2, §2.2.6.1"
+    },
+    {
+      "id": "c2-06",
+      "enunciado": "La ecuación de Nernst permite calcular:",
+      "alternativas": [
+        "El potencial de equilibrio de un ion específico",
+        "La permeabilidad relativa de la membrana a cada ion",
+        "El voltaje real considerando todos los iones",
+        "La velocidad de conducción de un axón mielinizado",
+        "La cantidad de ATP que consume la bomba sodio-potasio"
+      ],
+      "respuesta": 0,
+      "pista": "Su limitación es justamente considerar un solo ion a la vez.",
+      "argumento": "Nernst calcula el potencial de equilibrio de UN ion a partir de su gradiente de concentración, su carga y la temperatura. El voltaje real con varios iones lo da Goldman-Hodgkin-Katz. Nernst no dice nada sobre velocidad de conducción ni sobre consumo de ATP. La permeabilidad relativa es un término de GHK, no de Nernst.",
+      "tags": [
+        "cap2",
+        "nernst"
+      ],
+      "dificultad": "facil",
+      "fuente": "Zeise cap. 2, §2.2.6.1 y Recuadro 2.3"
+    },
+    {
+      "id": "c2-07",
+      "enunciado": "¿A qué es proporcional el potencial calculado con Nernst?",
+      "alternativas": [
+        "A la diferencia bruta de concentraciones entre interior y exterior",
+        "Al logaritmo de la razón de concentraciones, y a la temperatura",
+        "Al producto de las concentraciones a ambos lados de la membrana",
+        "A la permeabilidad relativa de cada ion",
+        "A la raíz cuadrada de la diferencia de concentraciones"
+      ],
+      "respuesta": 1,
+      "pista": "El libro destaca explícitamente que no es proporcional a la diferencia ni a la razón simple.",
+      "argumento": "El potencial es directamente proporcional a la temperatura y al logaritmo de la razón de concentraciones (el gradiente expresado como cociente). No es proporcional a la diferencia bruta ni a la razón lineal. La permeabilidad relativa es un término de la ecuación de Goldman-Hodgkin-Katz, no de Nernst. Nernst no tiene raíces cuadradas: usa el logaritmo de la razón de concentraciones.",
+      "tags": [
+        "cap2",
+        "nernst"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 2, §2.2.6.1 y Recuadro 2.3"
+    },
+    {
+      "id": "c2-08",
+      "enunciado": "En la ecuación de Nernst a temperatura corporal (37 °C, 310 K), el término RT/F vale aproximadamente:",
+      "alternativas": [
+        "26,73 mV",
+        "2,67 mV",
+        "310 mV",
+        "61,5 mV",
+        "96,5 mV"
+      ],
+      "respuesta": 0,
+      "pista": "Es el número que aparece explícitamente en el recuadro de Nernst del libro.",
+      "argumento": "El libro indica que a 37 °C (310 K), RT/F es 26,73 mV. Esa es la constante que acompaña al logaritmo natural. 61,5 mV corresponde a la versión con logaritmo decimal y z ya incorporado, y 96,5 es el orden de magnitud de la constante de Faraday, no de RT/F. 310 es la temperatura en Kelvin, no un voltaje.",
+      "tags": [
+        "cap2",
+        "nernst"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 2, Recuadro 2.3"
+    },
+    {
+      "id": "c2-09",
+      "enunciado": "¿Cuál es la diferencia central entre la ecuación de Goldman-Hodgkin-Katz y la de Nernst?",
+      "alternativas": [
+        "GHK usa logaritmo decimal y Nernst logaritmo natural",
+        "GHK es Nernst aplicada solo al potasio",
+        "Varios iones a la vez, ponderados por su permeabilidad",
+        "GHK incorpora la actividad de las bombas iónicas",
+        "GHK calcula el potencial de acción, mientras Nernst calcula el de reposo"
+      ],
+      "respuesta": 2,
+      "pista": "Piensa en la idea de un promedio ponderado donde cada ion 'vota' por su potencial de equilibrio.",
+      "argumento": "GHK calcula el voltaje real de la membrana combinando los aportes de varios iones, cada uno ponderado por su permeabilidad relativa. No es Nernst aplicada solo al K (eso sería el caso límite), no incluye las bombas (no generan la señal directamente) y no calcula el potencial de acción. La elección de logaritmo es independiente de la diferencia entre ambas ecuaciones.",
+      "tags": [
+        "cap2",
+        "ghk"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 2, §2.2.6.2 y Recuadro 2.4"
+    },
+    {
+      "id": "c2-10",
+      "enunciado": "El potencial de reposo de una neurona (≈ −70 mV) no es igual al potencial de equilibrio del potasio (≈ −95 mV) porque:",
+      "alternativas": [
+        "El potasio no participa en el potencial de reposo",
+        "La bomba sodio-potasio aporta directamente ese voltaje",
+        "Una pequeña permeabilidad al sodio tira el voltaje hacia arriba",
+        "Porque el potencial de reposo se mide en el axón y E_K se define en el soma",
+        "La membrana es impermeable al cloruro y eso desplaza el voltaje"
+      ],
+      "respuesta": 2,
+      "pista": "El reposo resulta de una negociación entre varios iones, no de uno solo.",
+      "argumento": "En reposo la membrana es mayormente permeable al K⁺, pero no exclusivamente: la pequeña permeabilidad al Na⁺ (y otros iones) tira el voltaje hacia arriba, por lo que el reposo queda entre E_K y E_Na. El K⁺ sí es el principal responsable; las bombas mantienen los gradientes pero no generan directamente el voltaje; y el cloruro no es impermeable en reposo. El potencial de reposo no depende de dónde se mida.",
+      "tags": [
+        "cap2",
+        "ghk",
+        "reposo"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 2, §2.2.6.2 y §2.5.7"
+    },
+    {
+      "id": "c2-11",
+      "enunciado": "¿Cuáles de los siguientes iones tienen un potencial de equilibrio positivo?",
+      "alternativas": [
+        "K⁺ y Cl⁻",
+        "K⁺ y Ca²⁺",
+        "Na⁺ y Ca²⁺",
+        "Cl⁻ y Na⁺",
+        "Solo el K⁺"
+      ],
+      "respuesta": 2,
+      "pista": "Fíjate en cuáles están más concentrados AFUERA de la célula y tienen carga positiva.",
+      "argumento": "Na⁺ y Ca²⁺ están mucho más concentrados en el exterior y son cationes, así que su potencial de equilibrio es positivo (≈ +67 mV y ≈ +129 mV respectivamente). El K⁺ es positivo pero está más concentrado adentro, por lo que su E es negativo (≈ −95 mV). El Cl⁻ es un anión, así que su E también es negativo (≈ −80 mV). El K⁺ es positivo pero está más concentrado adentro, así que su E es negativo.",
+      "tags": [
+        "cap2",
+        "nernst",
+        "tabla-2.2"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 2, Tabla 2.2"
+    },
+    {
+      "id": "c2-12",
+      "enunciado": "¿Cuáles son los únicos transportadores de carga eléctrica dentro de las células?",
+      "alternativas": [
+        "Los electrones libres del citoplasma",
+        "Los iones",
+        "Los protones del ATP",
+        "Las moléculas de agua polarizadas",
+        "Los iones y los electrones libres"
+      ],
+      "respuesta": 1,
+      "pista": "Por eso la membrana, al separar compartimentos, separa también cargas.",
+      "argumento": "El libro es explícito: los iones son los únicos transportadores de carga eléctrica en las células. No hay electrones libres circulando como en un cable metálico; por eso la corriente biológica es siempre un flujo de iones. El agua y el ATP no transportan carga de esta manera. No hay electrones libres circulando: la cadena respiratoria los transfiere unidos a coenzimas.",
+      "tags": [
+        "cap2",
+        "iones"
+      ],
+      "dificultad": "facil",
+      "fuente": "Zeise cap. 2, §2.2.3"
+    },
+    {
+      "id": "c2-13",
+      "enunciado": "¿Qué es la inactivación de un canal iónico?",
+      "alternativas": [
+        "El cierre del canal cuando cesa o se revierte el estímulo",
+        "La apertura del canal ante un estímulo adecuado",
+        "La pérdida reversible de la selectividad iónica del canal",
+        "Cierre espontáneo del canal, con el estímulo aún presente",
+        "La destrucción del canal por proteasas"
+      ],
+      "respuesta": 3,
+      "pista": "Es un mecanismo distinto del de la desactivación, y ocurre 'solo'.",
+      "argumento": "Inactivación es el cierre espontáneo en función del tiempo a pesar de la presencia del estímulo adecuado, y su mecanismo es distinto del de la desactivación (Hille, 2001). La opción del cierre al cesar el estímulo describe justamente la desactivación; la de la apertura describe la activación; y ninguna implica destrucción del canal. La selectividad iónica es una propiedad aparte del ciclo de apertura y cierre.",
+      "tags": [
+        "cap2",
+        "canales",
+        "inactivacion"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 2, §2.2.4.1"
+    },
+    {
+      "id": "c2-14",
+      "enunciado": "Comparados con los canales voltaje-dependientes, los canales postsinápticos activados por ligando tienen:",
+      "alternativas": [
+        "Mayor, porque reconocen ligando e ion",
+        "Mayor especificidad iónica",
+        "Menor especificidad iónica",
+        "La misma especificidad, pero más lenta",
+        "Especificidad absoluta por un único ion"
+      ],
+      "respuesta": 2,
+      "pista": "El libro menciona canales que permiten el paso de sodio y potasio por igual.",
+      "argumento": "Los canales postsinápticos activados por ligando poseen una especificidad mucho menor que sus contrapartes voltaje-dependientes; algunos solo distinguen entre aniones y cationes, y hay canales igualmente permeables al sodio y al potasio. Por eso su potencial de reversión es un valor combinado y no el de un único ion. No hay que confundir la especificidad por el transmisor (ligando) con la selectividad por el ion.",
+      "tags": [
+        "cap2",
+        "sinapsis",
+        "canales"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 2, §2.5.7"
+    },
+    {
+      "id": "c2-15",
+      "enunciado": "La constante de longitud (λ) de una prolongación neuronal depende de:",
+      "alternativas": [
+        "La resistencia axial y la resistencia de membrana",
+        "El número de sinapsis que recibe la neurona",
+        "La capacitancia únicamente",
+        "La temperatura y el pH del medio extracelular",
+        "La velocidad máxima del potencial de acción"
+      ],
+      "respuesta": 0,
+      "pista": "Es la distancia a la que el voltaje inicial cae a 1/e.",
+      "argumento": "λ depende de la resistencia interna o axial (rᵢ) y de la resistencia de membrana (r_M). Es la distancia a la cual el voltaje inyectado se reduce a 1/e. El número de sinapsis y la velocidad del potencial de acción no la definen, y la capacitancia afecta la constante de TIEMPO, no la de longitud. La temperatura y el pH afectan otras cosas, no la constante de longitud.",
+      "tags": [
+        "cap2",
+        "propagacion",
+        "lambda"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Zeise cap. 2, §2.5.2"
+    },
+    {
+      "id": "c2-16",
+      "enunciado": "¿Qué le hace la mielina a la membrana del axón?",
+      "alternativas": [
+        "Aumenta la resistencia de membrana y disminuye la capacitancia",
+        "Aumenta la resistencia de membrana y aumenta la capacitancia",
+        "Disminuye la resistencia de membrana y aumenta la capacitancia",
+        "Aumenta la resistencia axial, porque engrosa el conductor interno",
+        "No cambia las propiedades eléctricas: solo protege mecánicamente"
+      ],
+      "respuesta": 0,
+      "pista": "Ojo: el texto original del libro trae un error en esta frase.",
+      "argumento": "La mielina aumenta la resistencia de membrana (menos fugas) y disminuye la capacitancia (menos carga necesaria para cambiar el voltaje). No cambia la resistencia axial: el axoplasma conserva su diámetro, y lo que se engrosa es la fibra completa por fuera. La opción 'disminuye la resistencia' es justamente el error que aparece en el texto original y que se contradice con la frase siguiente del mismo párrafo. Aumentar ambas es incompatible: al engrosar la membrana, la capacitancia cae.",
+      "tags": [
+        "cap2",
+        "mielina",
+        "propagacion"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Zeise cap. 2, §2.5.2 y §2.5.5"
+    },
+    {
+      "id": "c2-17",
+      "enunciado": "¿Por qué la conducción saltatoria es más rápida que la continua?",
+      "alternativas": [
+        "Porque el potencial de acción se hace más grande en cada nodo",
+        "Porque la corriente viaja sin fugas y se regenera solo en los nodos",
+        "Porque los nodos de Ranvier no tienen canales iónicos",
+        "Porque la mielina conduce directamente la electricidad como un metal",
+        "Porque la mielina conduce el voltaje sin gasto"
+      ],
+      "respuesta": 1,
+      "pista": "Piensa dónde se gasta el tiempo: en cargar la membrana y regenerar la señal.",
+      "argumento": "Los tramos mielinizados tienen resistencia de membrana muy alta y capacitancia muy baja, así que la corriente local llega lejos y sin fugas al nodo siguiente, donde se regenera la señal. Se reduce el número de puntos de regeneración, no el camino geométrico: la corriente igual recorre todo el internodo. Los nodos son precisamente donde MÁS canales de Na⁺ dependientes de voltaje hay, y la mielina es aislante, no conductor metálico. Si la mielina impidiera el movimiento de iones no habría conducción; lo que hace es evitar fugas y reducir la capacitancia.",
+      "tags": [
+        "cap2",
+        "mielina",
+        "saltatoria"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 2, §2.5.5"
+    },
+    {
+      "id": "c2-18",
+      "enunciado": "¿Para qué sirve el período refractario?",
+      "alternativas": [
+        "Para aumentar la amplitud del siguiente potencial de acción",
+        "Para que la señal se propague en una sola dirección",
+        "Aumentar la velocidad de conducción de los axones amielínicos",
+        "Para que la célula recupere su concentración de ATP",
+        "Para permitir la propagación retrógrada hacia las dendritas"
+      ],
+      "respuesta": 1,
+      "pista": "Después de un potencial de acción queda un segmento 'no excitable' detrás.",
+      "argumento": "Durante el período refractario los canales de Na⁺ están inactivados, así que el segmento recién activado queda no excitable. Eso impide la propagación retrógrada y asegura que la señal avance en una sola dirección. No aumenta la amplitud (todas las señales de acción son iguales) y no tiene relación directa con el ATP. El período refractario no cambia la velocidad de conducción.",
+      "tags": [
+        "cap2",
+        "potencial-de-accion",
+        "refractario"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 2, §2.5.4"
+    },
+    {
+      "id": "c2-19",
+      "enunciado": "En la señal de acción, ¿dónde está codificada la información?",
+      "alternativas": [
+        "En el número de nodos de Ranvier que atraviesa la señal",
+        "En la amplitud del pico, que crece con la intensidad del estímulo",
+        "En la duración del pico, que varía según el estímulo",
+        "En su frecuencia: cuántas señales por segundo llegan",
+        "En la forma exacta de la onda, que es característica de cada neurona"
+      ],
+      "respuesta": 3,
+      "pista": "Es la consecuencia de que todas las señales de acción sean estereotipadas.",
+      "argumento": "Como las señales de acción son digitales y uniformes, la información no puede ir en su forma ni en su amplitud, sino en su FRECUENCIA. A mayor frecuencia de llegada a la terminal presináptica, mayor cantidad de transmisor liberado por unidad de tiempo. La amplitud no varía con el estímulo: eso es justamente la ley del todo o nada. El número de nodos no codifica información.",
+      "tags": [
+        "cap2",
+        "potencial-de-accion",
+        "codificacion"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 2, §2.5.6"
+    },
+    {
+      "id": "c2-20",
+      "enunciado": "Una señal postsináptica excitatoria (SEPS) se produce por la apertura de canales catiónicos. ¿Cuál es su potencial de reversión aproximado?",
+      "alternativas": [
+        "Cerca de −90 mV",
+        "Cerca de 0 mV",
+        "Cerca de −70 mV",
+        "Cerca de +67 mV",
+        "Cerca de +130 mV"
+      ],
+      "respuesta": 1,
+      "pista": "Es el resultado combinado de las baterías de sodio y potasio, con contribución cercana al 50% cada una.",
+      "argumento": "Si el canal es permeable por igual a Na⁺ y K⁺, el voltaje queda entre E_K (−90) y E_Na (+70), en torno a −10 mV; experimentalmente se mide algo más negativo que 0 mV. −90 mV corresponde al potasio solo; −70 mV es un valor típico de reposo o del potencial de reversión de la inhibición GABA temprana; +130 mV es E_Ca. +67 mV corresponde a la batería de sodio por separado; la señal excitatoria combina sodio y potasio.",
+      "tags": [
+        "cap2",
+        "sinapsis",
+        "seps"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Zeise cap. 2, §2.5.7"
+    },
+    {
+      "id": "c2-21",
+      "enunciado": "Respecto del gasto energético del cerebro, ¿cuál de estas afirmaciones es correcta?",
+      "alternativas": [
+        "La mayor parte se debe a la generación de potenciales de acción",
+        "La mantención del potencial de reposo mediante las corrientes de fuga",
+        "La mayor parte se debe a las señales sinápticas excitatorias",
+        "La mayor parte se debe al transporte de glucosa por la barrera hematoencefálica",
+        "El gasto se reparte por igual entre señales de acción y sinápticas"
+      ],
+      "respuesta": 2,
+      "pista": "Piensa en cuánto duran los canales abiertos y en cuántas sinapsis hay por neurona.",
+      "argumento": "El gasto dominante son las corrientes postsinápticas: los canales activados por ligando quedan abiertos mucho más tiempo, hay miles de sinapsis por neurona y hay actividad casi constante, incluso sin que la neurona dispare. Los potenciales de acción son el segundo gasto más grande, no el primero. Esto es lo que explotan las técnicas de neuroimagen. Las corrientes de fuga son un gasto grande, pero menor que el sináptico.",
+      "tags": [
+        "cap2",
+        "energia",
+        "attwell"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 2, §2.6"
+    },
+    {
+      "id": "c2-22",
+      "enunciado": "¿Cómo funciona la bomba sodio-potasio (Na⁺/K⁺-ATPasa)?",
+      "alternativas": [
+        "Introduce 3 Na⁺ y expulsa 2 K⁺, hidrolizando ATP",
+        "Expulsa 3 Na⁺ e introduce 2 K⁺, hidrolizando ATP",
+        "Expulsa 2 Na⁺ e introduce 2 K⁺, sin gasto de ATP",
+        "Expulsa 3 Na⁺ e introduce 3 K⁺, manteniendo la electroneutralidad",
+        "Expulsa 2 Na⁺ e introduce 3 K⁺, hidrolizando ATP"
+      ],
+      "respuesta": 1,
+      "pista": "El intercambio es asimétrico, y por eso la bomba es electrogénica.",
+      "argumento": "La bomba expulsa 3 Na⁺ hacia el exterior e introduce 2 K⁺ hacia el interior, usando la energía de la hidrólisis de ATP. Como el intercambio no es equivalente, la bomba es electrogénica: genera una fuerza eléctrica negativa constante al interior. La opción simétrica (3 y 3) no sería electrogénica, y las que invierten los iones van en contra de sus gradientes reales. La bomba expulsa sodio, no potasio, y el intercambio es de 3 a 2.",
+      "tags": [
+        "cap2",
+        "bombas",
+        "energia"
+      ],
+      "dificultad": "facil",
+      "fuente": "Zeise cap. 2, §2.6"
+    },
+    {
+      "id": "c2-23",
+      "enunciado": "¿Cuál es la función de las espinas dendríticas en las sinapsis excitatorias?",
+      "alternativas": [
+        "Aumentar la superficie de contacto para liberar más transmisor",
+        "Reducir el efecto inhibitorio de cortocircuito",
+        "Aumentar la capacitancia de la membrana postsináptica",
+        "Bloquear físicamente la entrada de calcio al soma",
+        "Almacenar vesículas sinápticas de reserva"
+      ],
+      "respuesta": 1,
+      "pista": "La parte postsináptica se une a la dendrita por un cuello delgado, como un hongo.",
+      "argumento": "La espina aleja eléctricamente la sinapsis excitatoria de la rama dendrítica, de modo que el efecto inhibitorio por shunting (cortocircuito) la afecta menos. Las espinas son estructuras POSTsinápticas, así que no almacenan vesículas ni liberan transmisor (eso es presináptico), y no bloquean la entrada de calcio al soma. La espina reduce el área expuesta y la capacitancia, no la aumenta.",
+      "tags": [
+        "cap2",
+        "integracion",
+        "espinas"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Zeise cap. 2, §2.5.8"
+    },
+    {
+      "id": "c2-24",
+      "enunciado": "¿Qué proporción del peso corporal y del gasto energético representa el cerebro humano?",
+      "alternativas": [
+        "5% del peso y cerca del 40% de la energía metabólica",
+        "2% del peso y cerca del 20% de la energía metabólica",
+        "20% del peso y cerca del 2% de la energía metabólica",
+        "2% del peso y cerca del 2% de la energía metabólica",
+        "10% del peso y cerca del 50% de la energía metabólica"
+      ],
+      "respuesta": 1,
+      "pista": "Es un órgano pequeño y desproporcionadamente caro de mantener.",
+      "argumento": "El cerebro corresponde a cerca del 2% del peso corporal pero consume alrededor del 20% de la energía metabólica disponible (Clarke y Sokoloff, 1999). Esta desproporción se explica por el costo permanente de mantener los gradientes iónicos y las señales sinápticas. El cerebro no llega al 5% del peso ni al 40% del gasto energético.",
+      "tags": [
+        "cap2",
+        "energia"
+      ],
+      "dificultad": "facil",
+      "fuente": "Zeise cap. 2, §2.6"
+    },
+    {
+      "id": "c4-01",
+      "enunciado": "¿Cuál es el criterio que usa el libro para definir un neurotransmisor?",
+      "alternativas": [
+        "Cualquier molécula que module la transmisión sináptica",
+        "Sustancia que posibilita la transmisión sináptica y está en vesículas",
+        "Cualquier sustancia liberada al torrente sanguíneo que actúe sobre receptores",
+        "Cualquier sustancia almacenada en vesículas",
+        "Cualquier molécula que atraviese la hendidura sináptica, venga de donde venga"
+      ],
+      "respuesta": 1,
+      "pista": "El libro explicita que prefería una de las dos definiciones que circulan en la literatura.",
+      "argumento": "El libro usa la definición estricta: sustancia que posibilita la transmisión sináptica química y se almacena en vesículas sinápticas. La definición amplia (toda molécula que module la transmisión) existe en la literatura pero el libro la descarta. La opción sanguínea describe una hormona, y la última es demasiado vaga: si la sustancia no está en ninguna vesícula, el libro no la considera neurotransmisor. Almacenar en vesículas sin participar en la transmisión no basta según el criterio del libro.",
+      "tags": [
+        "cap4",
+        "definicion"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 4, §4.1"
+    },
+    {
+      "id": "c4-02",
+      "enunciado": "¿Cuál es la diferencia entre los 'nexos' (uniones gap) y las sinapsis químicas?",
+      "alternativas": [
+        "Los nexos acoplan directo; las químicas son casi solo neuronales",
+        "Los nexos solo permiten el paso de iones, no de segundos mensajeros",
+        "Los nexos son exclusivos del sistema nervioso",
+        "Los nexos solo existen en invertebrados y las sinapsis químicas solo en vertebrados",
+        "Son lo mismo, pero los nexos son más rápidos"
+      ],
+      "respuesta": 0,
+      "pista": "Nuestro corazón funciona gracias a uno de estos dos mecanismos.",
+      "argumento": "En los nexos no existe separación entre los citoplasmas, lo que permite intercambio de iones y de pequeñas moléculas, con acoplamiento eléctrico y químico (incluso segundos mensajeros). Existen en todos los organismos, desde unicelulares hasta plantas (plasmodesmos) y animales. Las sinapsis químicas, en cambio, están casi restringidas a contactos neuronales. Por eso es al revés de lo que dice la segunda opción. Los nexos sí dejan pasar segundos mensajeros, y eso es justamente lo que los hace especiales.",
+      "tags": [
+        "cap4",
+        "sinapsis-electrica"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 4, §4.1.1"
+    },
+    {
+      "id": "c4-03",
+      "enunciado": "El principio de Dale, tal como se presenta en el libro, establece que:",
+      "alternativas": [
+        "Una neurona secreta un solo transmisor, con excepciones",
+        "Una neurona libera todos los transmisores que sintetiza",
+        "Cada sinapsis libera siempre más de un transmisor",
+        "Los transmisores se liberan solo en el soma",
+        "Cada neurona secreta un transmisor distinto, sin excepciones conocidas"
+      ],
+      "respuesta": 0,
+      "pista": "Permite clasificar las neuronas como glutamatérgicas, serotoninérgicas, etc.",
+      "argumento": "El principio estipula que una neurona contiene y secreta un solo transmisor, y vale 'por lo general': existen excepciones documentadas, como la secreción conjunta de glutamato y dopamina. Gracias a esto se pueden clasificar las neuronas y las proyecciones por su transmisor principal. Las otras opciones contradicen directamente el principio. Existen excepciones documentadas, como la secreción conjunta de glutamato y dopamina.",
+      "tags": [
+        "cap4",
+        "dale",
+        "clasificacion"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 4, §4.2"
+    },
+    {
+      "id": "c4-04",
+      "enunciado": "¿Cómo se dividen los transmisores principales o 'clásicos'?",
+      "alternativas": [
+        "Aminoácidos, monoaminas y acetilcolina",
+        "Aminoácidos, neuropéptidos y nucleótidos",
+        "Aminoácidos, monoaminas y nucleótidos",
+        "Monoaminas, neuropéptidos y purinas",
+        "Solo aminoácidos y monoaminas"
+      ],
+      "respuesta": 0,
+      "pista": "Son tres grupos: uno con 3 miembros, otro con 5 y otro con 1.",
+      "argumento": "Los principales se dividen en tres grupos: aminoácidos (3: glutamato, GABA, glicina), monoaminas (5: dopamina, noradrenalina, adrenalina, serotonina, histamina) y acetilcolina (1). Los neuropéptidos y los nucleótidos pertenecen a la categoría secundaria (co-transmisores), no a los principales. Los nucleótidos (purinas y pirimidinas) son transmisores secundarios, no principales.",
+      "tags": [
+        "cap4",
+        "clasificacion"
+      ],
+      "dificultad": "facil",
+      "fuente": "Zeise cap. 4, §4.2 y Tabla 4.1"
+    },
+    {
+      "id": "c4-05",
+      "enunciado": "¿Por qué se dice que el receptor NMDA funciona como una puerta 'AND'?",
+      "alternativas": [
+        "Porque exige que ambas neuronas disparen a la vez",
+        "Porque necesita que se liberen dos neurotransmisores distintos a la vez",
+        "Porque requiere glutamato y despolarización postsináptica simultáneos",
+        "Porque necesita la activación previa de los receptores AMPA durante varios segundos",
+        "Porque solo se activa cuando la neurona presináptica dispara dos veces seguidas"
+      ],
+      "respuesta": 2,
+      "pista": "Una condición es química y la otra es eléctrica; ambas deben cumplirse al mismo tiempo.",
+      "argumento": "El receptor necesita dos condiciones simultáneas: la unión del agonista (glutamato) y la despolarización de la membrana postsináptica, que expulsa el Mg²⁺ que bloquea el poro. No requiere dos transmisores distintos, ni un número determinado de disparos presinápticos. El AMPA suele aportar la despolarización, pero eso es un mecanismo típico, no un requisito temporal de segundos. La neurona postsináptica no necesita disparar: basta con que su membrana esté despolarizada en ese momento.",
+      "tags": [
+        "cap4",
+        "nmda",
+        "ltp"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 4, §4.3.2.1"
+    },
+    {
+      "id": "c4-06",
+      "enunciado": "¿Por qué el Mg²⁺ deja de bloquear el canal NMDA cuando la célula se despolariza?",
+      "alternativas": [
+        "Porque la despolarización hace que el Mg²⁺ salga de la hendidura sináptica",
+        "Porque el interior menos negativo repele electrostáticamente al Mg²⁺",
+        "Porque el glutamato desplaza competitivamente al Mg²⁺ del sitio de unión",
+        "Porque la despolarización reduce la concentración extracelular de magnesio",
+        "Porque la despolarización acidifica el medio y el Mg²⁺ precipita"
+      ],
+      "respuesta": 1,
+      "pista": "El Mg²⁺ es un catión divalente: piensa en cargas iguales que se repelen.",
+      "argumento": "El Mg²⁺ es extrínseco y está en el líquido extracelular. Su concentración en la hendidura NO cambia: lo que cambia es la probabilidad de que ocupe el poro, porque el voltaje desplaza el equilibrio. Al despolarizarse, el interior repele al catión y lo expulsa. El glutamato se une a su propio sitio, no al del magnesio, y no hay precipitación ni cambio de pH relevante. La concentración extracelular de magnesio no cambia durante la despolarización: cambia la probabilidad de que ocupe el poro.",
+      "tags": [
+        "cap4",
+        "nmda",
+        "magnesio"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Zeise cap. 4, §4.3.2.1"
+    },
+    {
+      "id": "c4-07",
+      "enunciado": "A diferencia de otros receptores ionotrópicos de glutamato, el receptor NMDA es especialmente permeable al calcio porque:",
+      "alternativas": [
+        "Tiene un sitio de unión específico para el calcio",
+        "Porque el calcio es el único ion con dos cargas que cabe en el poro",
+        "Su poro posee un diámetro mayor",
+        "Tiene un transportador de calcio asociado",
+        "Está acoplado a proteína G"
+      ],
+      "respuesta": 2,
+      "pista": "La diferencia es estructural, en la boca del canal.",
+      "argumento": "El receptor NMDA es permeable a Na⁺ y K⁺ y, a diferencia de otros ionotrópicos de glutamato, en gran medida permeable al Ca²⁺, porque su poro tiene un diámetro mayor. No tiene un sitio de unión para el calcio (es un canal, no un receptor de calcio), no usa un transportador asociado y no es metabotrópico: es ionotrópico. El poro del NMDA no es selectivo al calcio: deja pasar también sodio y potasio.",
+      "tags": [
+        "cap4",
+        "nmda",
+        "calcio"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 4, §4.3.2.1"
+    },
+    {
+      "id": "c4-08",
+      "enunciado": "El calcio que entra por el receptor NMDA desencadena la potenciación a largo plazo activando principalmente:",
+      "alternativas": [
+        "La adenilil ciclasa, que aumenta el AMP cíclico",
+        "La CaMKII, que fosforila receptores AMPA",
+        "La acetilcolinesterasa, que degrada el transmisor",
+        "La bomba sodio-potasio, que hiperpolariza la célula",
+        "La calcineurina, que desfosforila los receptores AMPA y los internaliza"
+      ],
+      "respuesta": 1,
+      "pista": "Es una enzima que agrega fosfato a otras moléculas.",
+      "argumento": "El aumento de calcio activo en el sitio postsináptico activa, entre otros, la CaMKII, que fosforila los receptores AMPA y los vuelve más efectivos, aumentando la eficacia sináptica. La adenilil ciclasa y el cAMP son propios de las vías metabotrópicas (no del NMDA). La acetilcolinesterasa degrada acetilcolina, y la bomba sodio-potasio no hiperpolariza como mecanismo plástico. La calcineurina es una fosfatasa asociada a la depresión a largo plazo (LTD), no a la LTP.",
+      "tags": [
+        "cap4",
+        "nmda",
+        "camkii",
+        "ltp"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 4, §4.3.2.1"
+    },
+    {
+      "id": "c4-09",
+      "enunciado": "¿Por qué el glutamato puede volverse un 'verdugo' (excitotoxicidad) cuando falta oxígeno o energía?",
+      "alternativas": [
+        "Porque el glutamato se transforma en una sustancia tóxica directa",
+        "Fallan las bombas iónicas y se libera más glutamato y calcio",
+        "Porque el exceso de potasio extracelular bloquea los canales de sodio",
+        "Porque se cierran los receptores NMDA y la célula no puede despolarizarse",
+        "Porque el GABA deja de sintetizarse"
+      ],
+      "respuesta": 1,
+      "pista": "El receptor NMDA es un eslabón crucial y el proceso es de retroalimentación positiva.",
+      "argumento": "Sin energía ni oxígeno las bombas iónicas fallan, se acumulan sodio y calcio, la célula se despolariza, se libera más glutamato de lo normal y se abren los receptores NMDA, lo que hace entrar todavía más calcio. El proceso se potencia a sí mismo (retroalimentación positiva) y el calcio en exceso causa la muerte neuronal (Choi, 1987). El glutamato no se vuelve tóxico por sí mismo ni se cierran los receptores NMDA. El problema es la despolarización sostenida y la entrada masiva de calcio, no un bloqueo de canales de sodio.",
+      "tags": [
+        "cap4",
+        "excitotoxicidad",
+        "glutamato"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 4, §4.3.3"
+    },
+    {
+      "id": "c4-10",
+      "enunciado": "En la recaptación de glutamato, ¿qué hacen principalmente las células gliales?",
+      "alternativas": [
+        "Devuelven el glutamato intacto a la neurona presináptica",
+        "Degradan el glutamato en acetato y colina",
+        "Captan el glutamato y lo convierten en glutamina, que devuelven",
+        "Almacenan el glutamato en vesículas para reutilizarlo directamente",
+        "Lo liberan de vuelta a la hendidura para prolongar la señal"
+      ],
+      "respuesta": 2,
+      "pista": "Es un ciclo entre el astrocito y la neurona.",
+      "argumento": "La recaptación la realizan principalmente células gliales, que captan el glutamato y lo convierten en glutamina (que no es reconocida por los receptores de glutamato). La neurona toma la glutamina y la reconvierte en glutamato. Así se mantiene baja la concentración extracelular y se evitan efectos excitotóxicos. El acetato y la colina corresponden a la degradación de la acetilcolina, no del glutamato. La neurona no recibe glutamato intacto: recibe glutamina y la reconvierte en glutamato.",
+      "tags": [
+        "cap4",
+        "glutamato",
+        "recaptacion"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 4, §4.3.4"
+    },
+    {
+      "id": "c4-11",
+      "enunciado": "¿Cuál de estas afirmaciones sobre el receptor GABA_A es correcta?",
+      "alternativas": [
+        "Abre una conductancia catiónica, principalmente al sodio",
+        "Abre una conductancia aniónica, principalmente al cloruro",
+        "Es un receptor metabotrópico acoplado a proteína G",
+        "Es permeable por igual a cationes y aniones, según el voltaje",
+        "Es permeable al calcio y por eso es excitatorio"
+      ],
+      "respuesta": 1,
+      "pista": "Es la 'contraparte' de los receptores ionotrópicos de glutamato, pero con carga opuesta.",
+      "argumento": "El GABA_A es ionotrópico y abre una conductancia aniónica, no catiónica; como la mayoría de los aniones extracelulares libres son cloruro, es el Cl⁻ el que pasa principalmente (también algo de HCO₃⁻, por lo que su potencial de reversión no es exactamente el del cloruro). Es inhibitorio, no excitatorio, y el metabotrópico es GABA_B. El GABA_A es selectivo: su conductancia es aniónica.",
+      "tags": [
+        "cap4",
+        "gaba",
+        "gaba-a"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 4, §4.3.5.1"
+    },
+    {
+      "id": "c4-12",
+      "enunciado": "¿Cómo actúan las benzodiacepinas sobre el receptor GABA_A?",
+      "alternativas": [
+        "Abren directamente el canal de cloruro en ausencia de GABA",
+        "Reducen el número de receptores GABA_A presentes en la membrana",
+        "Actúan en un sitio alostérico y aumentan la eficacia del GABA",
+        "Bloquean el poro del canal, impidiendo el paso de cloruro",
+        "Compiten con el GABA por el mismo sitio de unión"
+      ],
+      "respuesta": 2,
+      "pista": "Es un modulador alostérico, no un agonista del sitio principal.",
+      "argumento": "Las benzodiacepinas se unen a un sitio alostérico, distinto del sitio de GABA, y no abren el canal por sí mismas: incrementan la eficacia del GABA aumentando la probabilidad de apertura y la afinidad del receptor por el transmisor. Bloquear el poro es lo que hacen algunas sustancias convulsivas, y competir con el GABA en el mismo sitio describiría a un antagonista competitivo, no a una benzodiacepina. Las benzodiacepinas modulan el receptor existente; no cambian su número en la membrana.",
+      "tags": [
+        "cap4",
+        "gaba",
+        "benzodiacepinas"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 4, §4.3.5.1"
+    },
+    {
+      "id": "c4-13",
+      "enunciado": "El receptor metabotrópico GABA_B, al activarse:",
+      "alternativas": [
+        "Aumenta el AMP cíclico y abre canales de calcio",
+        "Reduce el cAMP, abre K⁺ y cierra Ca²⁺",
+        "Abre directamente un poro de cloruro",
+        "Bloquea los autorreceptores presinápticos",
+        "Aumenta el AMP cíclico y cierra canales de potasio"
+      ],
+      "respuesta": 1,
+      "pista": "Ambas acciones tienden a alejar el voltaje del umbral.",
+      "argumento": "GABA_B actúa por proteína G y reduce la actividad de la enzima que forma AMP cíclico; la caída del cAMP abre canales de potasio y cierra canales de calcio, lo que hiperpolariza la neurona. Cerrar canales de calcio da además protección contra el influjo excesivo de Ca²⁺. El poro de cloruro corresponde al GABA_A, y GABA_B funciona como autorreceptor presináptico que REDUCE la liberación de GABA. GABA_B reduce el AMP cíclico, no lo aumenta.",
+      "tags": [
+        "cap4",
+        "gaba",
+        "gaba-b"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Zeise cap. 4, §4.3.5.2"
+    },
+    {
+      "id": "c4-14",
+      "enunciado": "La glicina, como neurotransmisor inhibitorio, se encuentra principalmente en:",
+      "alternativas": [
+        "La corteza cerebral y el hipocampo",
+        "El tronco encefálico y la médula espinal",
+        "Únicamente en la médula espinal, nunca en el tronco encefálico",
+        "El cerebelo y los ganglios basales",
+        "El bulbo olfatorio y la retina"
+      ],
+      "respuesta": 1,
+      "pista": "Ahí reemplaza al GABA como transmisor inhibitorio.",
+      "argumento": "La glicina es un transmisor inhibitorio presente solo en el tronco encefálico y la médula espinal, donde reemplaza al GABA; su mecanismo ionotrópico es similar al del GABA_A (apertura de canales aniónicos). La corteza y el hipocampo usan principalmente GABA, no glicina. La glicina actúa en el tronco encefálico además de la médula espinal.",
+      "tags": [
+        "cap4",
+        "glicina"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 4, §4.3.5.3"
+    },
+    {
+      "id": "c4-15",
+      "enunciado": "¿De qué precursores derivan las monoaminas?",
+      "alternativas": [
+        "Histidina (adrenalina), tirosina (serotonina) y triptófano (histamina)",
+        "Tirosina (adrenalina, NA, dopamina), triptófano e histidina",
+        "Glutamato (dopamina), triptófano (serotonina) e histidina (histamina)",
+        "Tirosina (serotonina), triptófano (dopamina) e histidina (noradrenalina)",
+        "Todas derivan de la tirosina"
+      ],
+      "respuesta": 1,
+      "pista": "La histamina es la única que se produce con una sola descarboxilación.",
+      "argumento": "Las monoaminas derivan de la tirosina (adrenalina, noradrenalina, dopamina), del triptófano (serotonina) o de la histidina (histamina). La síntesis ocurre en el sitio presináptico e implica una descarboxilación; la histamina requiere solo ese paso, mientras las otras necesitan además hidroxilación. Cada monoamina deriva de un precursor distinto: tirosina, triptófano e histidina respectivamente.",
+      "tags": [
+        "cap4",
+        "monoaminas",
+        "sintesis"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 4, §4.3.6 y Fig. 4.5"
+    },
+    {
+      "id": "c4-16",
+      "enunciado": "Casi todas las neuronas noradrenérgicas del SNC se encuentran en:",
+      "alternativas": [
+        "Los núcleos del rafe",
+        "El locus coeruleus",
+        "El área tegmental ventral",
+        "La sustancia negra",
+        "El núcleo tuberomamilar"
+      ],
+      "respuesta": 1,
+      "pista": "Su nombre significa 'azul celeste' en latín.",
+      "argumento": "Las neuronas noradrenérgicas se concentran en o cerca del locus coeruleus, en el mesencéfalo, desde donde proyectan a casi todo el SNC. Los núcleos del rafe contienen las neuronas serotoninérgicas, el área tegmental ventral las dopaminérgicas hacia el lóbulo frontal, y el núcleo tuberomamilar las histaminérgicas. La sustancia negra contiene neuronas dopaminérgicas, no noradrenérgicas.",
+      "tags": [
+        "cap4",
+        "monoaminas",
+        "noradrenalina"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 4, §4.3.6.1"
+    },
+    {
+      "id": "c4-17",
+      "enunciado": "El prefijo 'nor' en 'noradrenalina' significa:",
+      "alternativas": [
+        "Que tiene un grupo metilo adicional",
+        "Que carece del grupo amino característico de las aminas",
+        "Que tiene un grupo metilo menos",
+        "Que actúa en el sistema nervioso periférico",
+        "Que es la versión sintética de la adrenalina"
+      ],
+      "respuesta": 2,
+      "pista": "El libro advierte que es contraintuitivo, justo para complicarle la vida a los estudiantes.",
+      "argumento": "'Nor' indica 'menos': la noradrenalina tiene un grupo metilo (CH₃) menos que la adrenalina. No es un agregado ni una versión sintética, y ambas pueden actuar tanto en el SNC como en el periférico. La noradrenalina conserva el grupo amino: sigue siendo una amina.",
+      "tags": [
+        "cap4",
+        "noradrenalina"
+      ],
+      "dificultad": "facil",
+      "fuente": "Zeise cap. 4, §4.3.6.1"
+    },
+    {
+      "id": "c4-18",
+      "enunciado": "La pérdida de neuronas dopaminérgicas de la sustancia negra (vía nigrostriatal) se asocia a:",
+      "alternativas": [
+        "La enfermedad de Parkinson",
+        "La esquizofrenia por exceso de dopamina",
+        "La epilepsia del lóbulo temporal",
+        "El síndrome de Rett",
+        "La enfermedad de Huntington"
+      ],
+      "respuesta": 0,
+      "pista": "Es la segunda enfermedad neurodegenerativa más frecuente según el texto.",
+      "argumento": "La proyección nigrostriatal falla por falta de neuronas dopaminérgicas funcionales en la sustancia negra, lo que corresponde a la enfermedad de Parkinson. La esquizofrenia se asocia a los sistemas dopaminérgicos pero en el sentido de que los antipsicóticos bloquean receptores dopaminérgicos (particularmente D2), no a la pérdida de esas neuronas. Huntington afecta principalmente al cuerpo estriado y no se debe a la pérdida de neuronas dopaminérgicas de la sustancia negra.",
+      "tags": [
+        "cap4",
+        "dopamina",
+        "parkinson"
+      ],
+      "dificultad": "facil",
+      "fuente": "Zeise cap. 4, §4.3.6.2"
+    },
+    {
+      "id": "c4-19",
+      "enunciado": "¿Cuál es la relación entre la serotonina y la migraña, según el capítulo?",
+      "alternativas": [
+        "La migraña se debe a un déficit absoluto de serotonina en el tronco encefálico",
+        "Dilatación anormal de arterias cerebrales; se tratan con triptanes",
+        "A un exceso mantenido de serotonina que produce vasoconstricción permanente",
+        "La serotonina no tiene ninguna relación con la migraña",
+        "La migraña se debe al bloqueo de los receptores 5-HT por la propia serotonina"
+      ],
+      "respuesta": 1,
+      "pista": "La serotonina participa en la regulación de la tensión de los vasos sanguíneos.",
+      "argumento": "La migraña se relaciona con dilatación anormal de las arterias cerebrales, especialmente de la neocorteza posterior, y los triptanes (agonistas de receptores de serotonina) son los medicamentos más utilizados. El mecanismo exacto se desconoce; la serotonina podría funcionar tanto como neurotransmisor como agente vasoconstrictor en su etiología. No es un exceso mantenido: lo característico es la dilatación anormal de las arterias cerebrales.",
+      "tags": [
+        "cap4",
+        "serotonina",
+        "migrana"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 4, §4.3.6.3"
+    },
+    {
+      "id": "c4-20",
+      "enunciado": "¿Qué caracteriza al sistema histaminérgico del cerebro?",
+      "alternativas": [
+        "Su núcleo se ubica en el locus coeruleus y regula la vigilia",
+        "Se concentran en el núcleo tuberomamilar y mantienen despierto el cerebro",
+        "Sus neuronas se distribuyen por toda la corteza y solo actúan durante el sueño",
+        "Es el sistema monoaminérgico más estudiado en los trastornos del ánimo",
+        "Libera su transmisor exclusivamente en sinapsis convencionales con densidad postsináptica"
+      ],
+      "respuesta": 1,
+      "pista": "El libro la llama una especie de 'Cenicienta' entre las monoaminas cerebrales.",
+      "argumento": "Las neuronas histaminérgicas se concentran en el núcleo tuberomamilar y proyectan a casi todas las áreas cerebrales. La histamina mantiene despierto al cerebro: durante el sueño las neuronas están prácticamente en silencio y sus niveles son muy bajos. Además, gran parte de la histamina se libera desde varicosidades, sin contraparte postsináptica, en modo paracrino. Se detectó como transmisor relativamente tarde y no participa del tratamiento de trastornos mayores del ánimo. El locus coeruleus es el núcleo noradrenérgico, no el histaminérgico.",
+      "tags": [
+        "cap4",
+        "histamina"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 4, §4.3.6.4"
+    },
+    {
+      "id": "c4-21",
+      "enunciado": "¿Qué hace especial la terminación de la señal de la acetilcolina?",
+      "alternativas": [
+        "Se recaptura intacta hacia las células gliales, como los demás transmisores clásicos",
+        "La acetilcolinesterasa la descompone en colina y acetato",
+        "Se difunde al torrente sanguíneo, donde actúa como hormona",
+        "Se recaptura intacta por transportadores vesiculares",
+        "Se degrada por la monoaminooxidasa en el terminal presináptico"
+      ],
+      "respuesta": 1,
+      "pista": "A diferencia del resto, no basta con reabsorberla: hay que romperla antes.",
+      "argumento": "Mientras la reabsorción hacia células gliales y neuronas termina generalmente la señal del transmisor, la acetilcolina debe descomponerse antes en colina y acetato por la acetilcolinesterasa, enzima capaz de separar casi 1000 moléculas por segundo. Después la colina se recupera por un transporte de alta afinidad y el acetato se reutiliza. La acetilcolina no actúa como hormona en este contexto. Los VMAT transportan monoaminas y no distinguen mucho entre catecolaminas; la acetilcolina se degrada antes de ser recapturada.",
+      "tags": [
+        "cap4",
+        "acetilcolina"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 4, §4.3.7"
+    },
+    {
+      "id": "c7-01",
+      "enunciado": "¿Qué significa que el cerebro sea 'plástico'?",
+      "alternativas": [
+        "Que sus estructuras son rígidas pero sus funciones son flexibles",
+        "Que solo se reorganiza con cambios moleculares",
+        "Que sus funciones y estructuras se reorganizan según su historia",
+        "Que puede regenerar cualquier neurona perdida",
+        "Que solo cambia durante la infancia y luego se estabiliza"
+      ],
+      "respuesta": 2,
+      "pista": "La palabra viene de 'plastikos', que significa 'formable'.",
+      "argumento": "Neuroplasticidad significa que las funciones del cerebro y sus estructuras subyacentes no son rígidas ni fijas, sino que pueden reorganizarse activamente según su historia. No implica regenerar cualquier neurona, y la plasticidad está presente durante toda la vida, aunque no en el mismo grado. La plasticidad adulta también incluye cambios estructurales macroscópicos, no solo moleculares.",
+      "tags": [
+        "cap7",
+        "introduccion"
+      ],
+      "dificultad": "facil",
+      "fuente": "Zeise cap. 7, §7.1"
+    },
+    {
+      "id": "c7-02",
+      "enunciado": "El libro plantea que la plasticidad no se ha desarrollado hasta su máximo posible. ¿Por qué?",
+      "alternativas": [
+        "Porque el cerebro no tiene suficiente energía disponible",
+        "Porque hay un compromiso entre modificabilidad y estabilidad",
+        "Porque los genes impiden cualquier cambio después del nacimiento",
+        "Porque la mielina bloquea físicamente los cambios sinápticos",
+        "Porque la plasticidad excesiva impediría la mielinización de los axones"
+      ],
+      "respuesta": 1,
+      "pista": "Los sistemas neuronales necesitan funcionar de forma segura y predecible.",
+      "argumento": "Existe un compromiso entre modificabilidad y estabilidad: si la plasticidad fuera demasiado rápida y potente, se pondría en peligro la constancia del procesamiento cerebral. No es un problema de energía ni de bloqueo por mielina, y sabemos que el cerebro adulto sí cambia. La mielinización y la plasticidad no son incompatibles.",
+      "tags": [
+        "cap7",
+        "introduccion"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 7, §7.1"
+    },
+    {
+      "id": "c7-03",
+      "enunciado": "¿Cuál es la diferencia central entre la plasticidad del desarrollo y la del adulto?",
+      "alternativas": [
+        "La del desarrollo reestructura más; la adulta cambia sinapsis",
+        "La del desarrollo es reversible y la del adulto es permanente",
+        "La del adulto crea y elimina sinapsis; la del desarrollo no",
+        "Solo la del adulto involucra cambios en las sinapsis",
+        "La del desarrollo ocurre únicamente en la corteza visual"
+      ],
+      "respuesta": 0,
+      "pista": "Ojo: el libro advierte que esa regla resultó 'demasiado simplista'.",
+      "argumento": "La plasticidad del desarrollo conlleva mucha más reestructuración morfológica (creación y eliminación de sinapsis, crecimiento dirigido de procesos), mientras la adulta se basa predominantemente en modificaciones rápidas y reversibles de la eficacia sináptica. Pero la regla es simplista: en el cerebro adulto intacto también se han descrito cambios estructurales (nuevas espinas por LTP, hipocampo agrandado en taxistas, etc.). Es al revés: la reestructuración morfológica intensa caracteriza al desarrollo.",
+      "tags": [
+        "cap7",
+        "desarrollo-vs-adulto"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 7, §7.2.1"
+    },
+    {
+      "id": "c7-04",
+      "enunciado": "Según el capítulo, ¿cuándo termina el proceso de mielinización en los humanos?",
+      "alternativas": [
+        "Alrededor de los 12 años",
+        "Al final de la adolescencia, alrededor de los 18 años",
+        "Cerca de los 30 años",
+        "En la primera infancia, antes de los 5 años",
+        "Nunca termina"
+      ],
+      "respuesta": 2,
+      "pista": "Es uno de los argumentos para relativizar la idea de un cierre claro del período ontogenético.",
+      "argumento": "El texto señala que, aunque la maduración sexual suele tomarse como medida del fin del desarrollo, en humanos el proceso de mielinización termina recién cerca de los 30 años. Esto relativiza la idea de un cierre nítido del período ontogenético, ya que distintas características y habilidades tienen cursos temporales diversos. A los 12 años la mielinización está lejos de terminar.",
+      "tags": [
+        "cap7",
+        "desarrollo-vs-adulto"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 7, §7.2.1"
+    },
+    {
+      "id": "c7-05",
+      "enunciado": "¿Qué propone el concepto hebbiano, central en la neuroplasticidad?",
+      "alternativas": [
+        "Que la plasticidad depende exclusivamente de factores genéticos",
+        "La coincidencia temporal entre actividad pre y postsináptica",
+        "Que las neuronas que no se usan se regeneran espontáneamente",
+        "Que la plasticidad depende del número total de sinapsis, no de su sincronía",
+        "Que la actividad postsináptica no influye en la fuerza de la sinapsis"
+      ],
+      "respuesta": 1,
+      "pista": "La idea se resume en 'donde las personas caminan, surgen los caminos'.",
+      "argumento": "Hebb (1949) propuso que la simultaneidad entre actividad presináptica y postsináptica es precondición para cambiar la eficacia sináptica, y que las conexiones útiles mejoran y sobreviven mientras las poco usadas se encogen o eliminan. El propio libro advierte que el mecanismo exacto sigue siendo controvertido. El punto del concepto hebbiano es la coincidencia temporal, no el conteo de sinapsis.",
+      "tags": [
+        "cap7",
+        "hebb"
+      ],
+      "dificultad": "facil",
+      "fuente": "Zeise cap. 7, §7.2.2"
+    },
+    {
+      "id": "c7-06",
+      "enunciado": "El ángulo de 'arriba hacia abajo' en los impulsores de la neuroplasticidad incluye:",
+      "alternativas": [
+        "La simultaneidad y la repetición de las entradas sensoriales",
+        "Las propiedades espaciotemporales de las entradas sensoriales",
+        "La atención, la relevancia, el refuerzo y la motivación",
+        "La frecuencia de disparo de las neuronas sensoriales periféricas",
+        "La muerte neuronal programada durante el desarrollo"
+      ],
+      "respuesta": 2,
+      "pista": "Los sistemas neuromoduladores median estos efectos.",
+      "argumento": "Las influencias de arriba hacia abajo incluyen la atención, la relevancia del estímulo según contexto e historia, el refuerzo por recompensa o castigo, la motivación y la retroalimentación, con las monoaminas como mediadoras. La simultaneidad, la repetición y la frecuencia son propiedades de las entradas y corresponden al ángulo de abajo hacia arriba. Las propiedades espaciotemporales de las entradas corresponden al ángulo de abajo hacia arriba.",
+      "tags": [
+        "cap7",
+        "impulsores"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 7, §7.2.2"
+    },
+    {
+      "id": "c7-07",
+      "enunciado": "En el estudio de Elbert y colaboradores (1995) con jugadores de cuerdas se encontró que:",
+      "alternativas": [
+        "Todos los músicos tenían la misma representación cortical que los controles",
+        "La representación de los dedos se amplió, y más si empezó antes de los 12",
+        "La reorganización cortical no dependía de la práctica, sino de la herencia",
+        "La representación cortical de los dedos estaba reducida por el uso excesivo",
+        "La reorganización cortical aparecía solo en músicos con oído absoluto"
+      ],
+      "respuesta": 1,
+      "pista": "El dato clave era que quienes empezaron antes de los 12 años mostraban mayor cambio.",
+      "argumento": "Elbert et al. (1995) mostraron que la representación cortical en la corteza somatosensorial primaria de los dedos de los jugadores de cuerdas estaba ampliada respecto de controles no músicos, y que la cantidad de reorganización correlacionaba con la edad de inicio de la práctica. Hallazgos análogos se describieron en lectores ciegos de Braille. El oído absoluto es un hallazgo aparte; el efecto se observó en los músicos en general.",
+      "tags": [
+        "cap7",
+        "uso-y-practica"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 7, §7.3.1"
+    },
+    {
+      "id": "c7-08",
+      "enunciado": "En lectores ciegos de Braille se observa una compensación entre habilidades. ¿En qué consiste?",
+      "alternativas": [
+        "Mejora la agudeza táctil, pero empeora la localización espacial",
+        "Mejoran todas las habilidades táctiles por igual, sin costos",
+        "Mejora la agudeza táctil de todos los dedos",
+        "Empeora la agudeza táctil pero mejora la visión periférica",
+        "Mejora la localización espacial pero se reduce la agudeza táctil"
+      ],
+      "respuesta": 0,
+      "pista": "Más no es siempre mejor: hay capacidades que compiten.",
+      "argumento": "La expansión del área cortical del dedo de lectura se relaciona con una agudeza táctil mejorada, pero las habilidades de localización espacial en esos dedos se ven significativamente reducidas. Esa oposición sugiere una compensación entre capacidades, no una mejora general. Por contraste, en pianistas profesionales la agudeza táctil también es superior. No hay mejora general: el costo es justamente la pérdida de localización espacial fina.",
+      "tags": [
+        "cap7",
+        "uso-y-practica",
+        "braille"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 7, §7.3.1"
+    },
+    {
+      "id": "c7-09",
+      "enunciado": "En el estudio con taxistas de Maguire y colaboradores (2000) se encontró:",
+      "alternativas": [
+        "Un aumento del volumen de materia gris en la corteza motora",
+        "Un hipocampo posterior más grande, ligado a la experiencia",
+        "Una amígdala más pequeña por el estrés del trabajo",
+        "Un aumento de materia gris en la corteza visual primaria",
+        "Ninguna diferencia estructural respecto de los controles"
+      ],
+      "respuesta": 1,
+      "pista": "La estructura involucrada tiene que ver con la navegación espacial.",
+      "argumento": "Los taxistas mostraban un hipocampo posterior significativamente más grande que los controles, y el volumen correlacionaba con el tiempo de experiencia: el hipocampo posterior almacena la representación espacial del entorno y puede expandirse en personas con alta dependencia de habilidades de navegación. El aumento en corteza visual se describe en malabaristas, no aquí. El cambio descrito en taxistas es en el hipocampo posterior.",
+      "tags": [
+        "cap7",
+        "uso-y-practica",
+        "taxistas"
+      ],
+      "dificultad": "facil",
+      "fuente": "Zeise cap. 7, §7.3.1"
+    },
+    {
+      "id": "c7-10",
+      "enunciado": "En los protocolos de estimulación sensorial repetitiva aplicados a un dedo, ¿qué efecto tiene la estimulación de alta frecuencia (20 Hz) en comparación con la de baja frecuencia (1 Hz)?",
+      "alternativas": [
+        "Ambas mejoran la discriminación táctil por igual",
+        "20 Hz mejora la discriminación táctil y 1 Hz la empeora",
+        "La de 20 Hz empeora y la de 1 Hz mejora la discriminación",
+        "La de 20 Hz solo mejora si el sujeto presta atención",
+        "Ninguna de las dos tiene efecto sobre la percepción"
+      ],
+      "respuesta": 1,
+      "pista": "Se traducen protocolos de plasticidad sináptica a estimulación sensorial humana.",
+      "argumento": "Veinte minutos de estimulación táctil intermitente de alta frecuencia (20 Hz), tipo LTP, reducen los umbrales de discriminación del dedo índice; la estimulación tipo LTD de baja frecuencia (1 Hz) los empeora. En ambos casos los efectos son específicos del dedo estimulado, sin efecto en los otros dedos, lo que sugiere que es posible inducir alteraciones bidireccionales relevantes y persistentes en la percepción humana. Ambos protocolos funcionan sin atención: la estimulación repetitiva es pasiva.",
+      "tags": [
+        "cap7",
+        "estimulacion-repetitiva"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 7, §7.3.3.1"
+    },
+    {
+      "id": "c7-11",
+      "enunciado": "En los experimentos de modulación farmacológica de la estimulación sensorial repetitiva, ¿qué se observó con la memantina y con la anfetamina?",
+      "alternativas": [
+        "Ambas potencian el aprendizaje inducido por la estimulación",
+        "La memantina duplicó la mejora y la anfetamina la eliminó",
+        "La memantina eliminó el efecto; la anfetamina casi lo duplicó",
+        "La memantina duplicó el efecto y la anfetamina lo eliminó",
+        "Ninguna de las dos tuvo efecto medible"
+      ],
+      "respuesta": 2,
+      "pista": "Una bloquea el receptor NMDA y la otra impide la recaptación de dopamina y noradrenalina.",
+      "argumento": "La memantina, que bloquea selectivamente los receptores NMDA, eliminó por completo el aprendizaje inducido por estimulación sensorial repetitiva, tanto psicofísico como cortical, lo que es evidencia fuerte de la dependencia de los receptores NMDA. La anfetamina, bloqueador de la recaptación de dopamina y noradrenalina, casi duplicó la mejora típica y la reorganización asociada. Es al revés: la memantina bloquea el receptor NMDA y elimina el efecto, mientras la anfetamina lo potencia.",
+      "tags": [
+        "cap7",
+        "estimulacion-repetitiva",
+        "farmacologia"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Zeise cap. 7, §7.3.3.1"
+    },
+    {
+      "id": "c7-12",
+      "enunciado": "Una característica central del aprendizaje perceptivo es su alta especificidad. ¿Qué implica eso para la transferencia?",
+      "alternativas": [
+        "Que lo aprendido se generaliza fácilmente a otras ubicaciones y orientaciones",
+        "Que hay poca generalización: la mejora queda ligada a los parámetros del estímulo entrenado",
+        "Que la transferencia es total, siempre que la modalidad sensorial sea la misma",
+        "Que el aprendizaje perceptivo no existe como fenómeno medible",
+        "Que se transfiere a otras modalidades sensoriales"
+      ],
+      "respuesta": 1,
+      "pista": "En el experimento con verniers, cambiar de vertical a horizontal borraba la mejora.",
+      "argumento": "El aprendizaje perceptivo es altamente específico para parámetros como la ubicación o la orientación del estímulo, con poca generalización (Poggio et al., 1992). Esa selectividad sugiere que los cambios ocurren en representaciones corticales tempranas. La transferencia limitada se toma como evidencia de efectos localmente acotados; la transferencia a más largo plazo se asocia a niveles de procesamiento más altos. La especificidad es dentro de la misma modalidad y para los mismos parámetros del estímulo.",
+      "tags": [
+        "cap7",
+        "aprendizaje-perceptivo"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 7, §7.3.2"
+    },
+    {
+      "id": "c7-13",
+      "enunciado": "¿Qué es el 'umbral de plasticidad' en el marco conceptual de la estimulación sensorial repetitiva?",
+      "alternativas": [
+        "El nivel de activación que hay que superar para inducir plasticidad",
+        "La dosis mínima de anestesia que bloquea la plasticidad",
+        "El tiempo máximo que puede durar una sesión",
+        "La cantidad de horas de práctica necesarias para aprender una habilidad",
+        "El punto en que la neurona dispara un potencial de acción"
+      ],
+      "respuesta": 0,
+      "pista": "En condiciones normales las entradas quedan por debajo de ese nivel; la atención y la motivación las amplifican.",
+      "argumento": "El marco conceptual propone que, para que la estimulación sensorial sea suficiente, las entradas deben superar un umbral de aprendizaje. En condiciones normales quedan por debajo; la atención, la recompensa y la motivación las amplifican, y la estimulación repetitiva lo logra mediante alta frecuencia, patrones de ráfaga y gran cantidad de estímulos. No es un umbral de disparo ni una dosis farmacológica. No es un límite temporal de la sesión, sino un nivel de activación que hay que superar.",
+      "tags": [
+        "cap7",
+        "estimulacion-repetitiva",
+        "umbral"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Zeise cap. 7, §7.3.3.1"
+    },
+    {
+      "id": "c7-14",
+      "enunciado": "Los mapas topográficos de la corteza se denominan retinotópico, tonotópico (cocleotópico) y somatotópico según su origen. ¿Cuál es el principio básico que comparten?",
+      "alternativas": [
+        "Que la representación es inversamente proporcional a los receptores",
+        "Que cada neurona responde a una única modalidad sensorial",
+        "Ubicaciones adyacentes se representan en ubicaciones adyacentes",
+        "Que todos los mapas tienen exactamente la misma forma",
+        "Que la representación es proporcional al tamaño real de la superficie corporal"
+      ],
+      "respuesta": 2,
+      "pista": "Las excepciones, como el borde de la cara y la mano, surgen de mapear un objeto tridimensional en una superficie bidimensional.",
+      "argumento": "El principio básico es que ubicaciones adyacentes del órgano receptor se representan en ubicaciones adyacentes de la corteza. Los mapas son retinotópico (retina), cocleotópico o tonotópico (cóclea) y somatotópico (piel). Las excepciones, como el borde de la cara y la mano, aparecen por el problema de proyectar un objeto tridimensional en una superficie bidimensional, y la representación no es proporcional al tamaño real del cuerpo. La representación depende de la densidad de receptores y del uso; no es inversamente proporcional.",
+      "tags": [
+        "cap7",
+        "mapas-corticales"
+      ],
+      "dificultad": "media",
+      "fuente": "Zeise cap. 7, §7.2.6"
+    },
+    {
+      "id": "c7-15",
+      "enunciado": "Respecto de las técnicas de estimulación cerebral no invasiva, ¿cuál de estas afirmaciones es correcta?",
+      "alternativas": [
+        "La tDCS pasa 1-2 mA y su efecto depende de la polaridad de los electrodos",
+        "La tDCS requiere un equipo costoso, a diferencia de la TMS",
+        "La TBS continua tiene efectos facilitadores y la intermitente, inhibidores",
+        "La tDCS produce efectos excitatorios, sin depender de la polaridad",
+        "El uso de rTMS no tiene ningún requisito de seguridad especial"
+      ],
+      "respuesta": 0,
+      "pista": "Una de estas técnicas es barata, indolora y portátil.",
+      "argumento": "La tDCS pasa una corriente constante de baja intensidad (1-2 mA) entre dos electrodos y produce efectos excitatorios o inhibitorios según sea anódica o catódica. Es barata, indolora, segura y fácil de transportar, precisamente lo contrario de lo que dice la alternativa sobre el equipo. En TBS es la modalidad INTERMITENTE la que facilita y la CONTINUA la que inhibe. Y la rTMS sí tiene requisitos de seguridad: mal usada puede inducir, rara vez, ataques epilépticos. La tDCS es anódica o catódica, y su efecto excitatorio o inhibitorio depende de la polaridad.",
+      "tags": [
+        "cap7",
+        "estimulacion",
+        "tdcs",
+        "tms"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Zeise cap. 7, §7.3.3.2"
+    }
+  ]
+}

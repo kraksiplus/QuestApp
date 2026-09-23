@@ -90,6 +90,61 @@
     .btn-ghost:hover { color: #e2e8f0; background: #334155; }
     #fileInput { display: none; }
 
+    /* ---------- QUIZ MENU ---------- */
+    .menu-section { margin-bottom: 1.75rem; }
+    .menu-title {
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: #94a3b8;
+      margin-bottom: 0.75rem;
+    }
+    .quiz-menu {
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+      max-width: 440px;
+      margin: 0 auto;
+    }
+    .quiz-item {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+      width: 100%;
+      padding: 0.8rem 1rem;
+      background: #0f172a;
+      border: 1.5px solid #334155;
+      border-radius: 10px;
+      color: #cbd5e1;
+      font-family: inherit;
+      font-size: 0.95rem;
+      text-align: left;
+      cursor: pointer;
+      transition: border-color 0.15s, background 0.15s;
+    }
+    .quiz-item:hover { border-color: #6366f1; background: #1e293b; }
+    .quiz-item-title {
+      font-weight: 600;
+      color: #e2e8f0;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+    .quiz-item-meta { font-size: 0.8rem; color: #94a3b8; flex-shrink: 0; }
+    .menu-note {
+      max-width: 440px;
+      margin: 0 auto;
+      padding: 0.9rem 1rem;
+      background: #0f172a;
+      border: 1px dashed #334155;
+      border-radius: 10px;
+      color: #94a3b8;
+      font-size: 0.9rem;
+      line-height: 1.5;
+    }
+
     /* ---------- QUIZ LAYOUT ---------- */
     .quiz-layout {
       gap: 1.5rem;
@@ -468,7 +523,13 @@
     <div id="loadScreen" class="load-screen active">
       <span class="icon">&#128214;</span>
       <h1>QuestApp</h1>
-      <p>Arrastra un archivo <code>.json</code> con tus preguntas o haz clic para seleccionarlo</p>
+      <p>Elige un cuestionario o arrastra tu propio archivo <code>.json</code></p>
+
+      <div class="menu-section">
+        <div class="menu-title">Cuestionarios disponibles</div>
+        <div class="quiz-menu" id="quizMenu"></div>
+      </div>
+
       <button class="btn btn-primary" id="loadBtn">Seleccionar archivo</button>
       <input type="file" id="fileInput" accept=".json">
       <div id="errorMsg" class="error-msg"></div>

@@ -3,6 +3,11 @@
   var questions = [];
   var currentIdx = 0;
 
+  /* ---------- CONFIG ---------- */
+  var PREGUNTAS_DIR = 'preguntas/';
+  var MANIFEST_URL = PREGUNTAS_DIR + 'manifest.json';
+  var NO_QUIZZES_MSG = 'No hay cuestionarios en la carpeta "preguntas/". Puedes cargar un archivo .json tú mismo.';
+
   /* ---------- DOM REFS ---------- */
   var loadScreen   = document.getElementById('loadScreen');
   var quizLayout   = document.getElementById('quizLayout');
@@ -10,6 +15,7 @@
   var fileInput    = document.getElementById('fileInput');
   var loadBtn      = document.getElementById('loadBtn');
   var errorMsg     = document.getElementById('errorMsg');
+  var quizMenu     = document.getElementById('quizMenu');
 
   var quizTitle      = document.getElementById('quizTitle');
   var counter        = document.getElementById('counter');
@@ -145,7 +151,73 @@
     return null;
   }
 
+  /* ---------- QUIZ MENU ---------- */
+  function renderMenuNote(text) {
+    quizMenu.textContent = '';
+    quizMenu.appendChild(el('div', 'menu-note', text));
+  }
+
+  function renderMenu(quizzes) {
+    var valid = [];
+    for (var i = 0; i < quizzes.length; i++) {
+      var q = quizzes[i];
+      if (!q || typeof q.archivo !== 'string' || !q.archivo) continue;
+      valid.push({
+        archivo: q.archivo,
+        titulo: typeof q.titulo === 'string' && q.titulo ? q.titulo : q.archivo,
+        total: typeof q.total === 'number' ? q.total : 0
+      });
+    }
+
+    if (valid.length === 0) {
+      renderMenuNote(NO_QUIZZES_MSG);
+      return;
+    }
+
+    quizMenu.textContent = '';
+    for (var j = 0; j < valid.length; j++) {
+      var item = el('button', 'quiz-item');
+      item.type = 'button';
+      item.dataset.archivo = valid[j].archivo;
+      item.appendChild(el('span', 'quiz-item-title', valid[j].titulo));
+      item.appendChild(el('span', 'quiz-item-meta', valid[j].total + (valid[j].total === 1 ? ' pregunta' : ' preguntas')));
+      quizMenu.appendChild(item);
+    }
+  }
+
+  function loadManifest() {
+    renderMenuNote('Buscando cuestionarios...');
+    fetch(MANIFEST_URL, { cache: 'no-store' })
+      .then(function (res) {
+        if (!res.ok) throw new Error('HTTP ' + res.status);
+        return res.json();
+      })
+      .then(function (data) {
+        renderMenu(data && Array.isArray(data.quizzes) ? data.quizzes : []);
+      })
+      .catch(function () {
+        renderMenuNote(NO_QUIZZES_MSG);
+      });
+  }
+
   /* ---------- FILE LOADING ---------- */
+  function loadQuizFile(path) {
+    clearError();
+    fetch(path, { cache: 'no-store' })
+      .then(function (res) {
+        if (!res.ok) throw new Error('HTTP ' + res.status);
+        return res.json();
+      })
+      .then(function (data) {
+        var err = validate(data);
+        if (err) { showError(err); return; }
+        startQuiz(data);
+      })
+      .catch(function (e) {
+        showError('No se pudo cargar "' + path + '": ' + e.message);
+      });
+  }
+
   function loadFile(file) {
     clearError();
     if (!file.name.toLowerCase().endsWith('.json')) {
@@ -446,6 +518,12 @@
     }
   });
 
+  quizMenu.addEventListener('click', function (e) {
+    var item = e.target.closest('.quiz-item');
+    if (!item) return;
+    loadQuizFile(PREGUNTAS_DIR + item.dataset.archivo);
+  });
+
   loadScreen.addEventListener('dragover', function (e) {
     e.preventDefault();
     e.stopPropagation();
@@ -511,4 +589,6 @@
     if (e.key === 'ArrowLeft' && currentIdx > 0) goBack();
     if (e.key === 'Escape' && indexModal.classList.contains('show')) closeModal();
   });
+
+  loadManifest();
 })();
