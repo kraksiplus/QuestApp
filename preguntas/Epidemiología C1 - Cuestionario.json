@@ -1,0 +1,974 @@
+{
+  "version": 1,
+  "titulo": "Epidemiología y Salud Pública — Certamen 1 (C1)",
+  "preguntas": [
+    {
+      "id": "c1-01",
+      "enunciado": "¿Cuál es el elemento común a las definiciones de salud pública de Winslow, del Informe Acheson y de la OMS?",
+      "alternativas": [
+        "El esfuerzo organizado y colectivo de la comunidad",
+        "La atención individual y hospitalaria de los enfermos",
+        "El diagnóstico precoz de las enfermedades crónicas",
+        "La erradicación de las enfermedades infecciosas",
+        "La formación de especialistas en salud pública"
+      ],
+      "respuesta": 0,
+      "pista": "Compara las tres definiciones y fíjate en quién ejecuta la tarea de proteger y promover la salud, más que en el tipo de enfermedad o de profesional.",
+      "argumento": "Winslow (1877-1957) define la salud pública como la ciencia y el arte de prevenir enfermedades, prolongar la vida y promover la salud física y la eficiencia mediante el esfuerzo organizado de la comunidad. El Informe Acheson (Londres, 1988) mantiene ese núcleo al hablar de esfuerzos organizados y decisiones informadas de la sociedad, las organizaciones, las comunidades y las personas. La OMS, por su parte, habla de dirigir los esfuerzos colectivos destinados a promover y restaurar la salud de los habitantes de una comunidad. Por eso el elemento compartido es el esfuerzo organizado y colectivo de la comunidad, concepto que lleva más de un siglo vigente y que explica por qué la definición moderna es una actualización directa de la de Winslow. La opción de la atención individual y hospitalaria describe la práctica clínica, que es precisamente aquello de lo que la salud pública se distingue por su foco poblacional. El diagnóstico precoz es una estrategia o acción puntual, no el núcleo de las definiciones. La erradicación de las enfermedades infecciosas fue un logro histórico concreto (la viruela, en 1980), no un componente definitorio. Y la formación de especialistas alude a la producción de recursos humanos, no al contenido de la definición.",
+      "tipo": "directa",
+      "tags": [
+        "salud-publica",
+        "winslow",
+        "acheson",
+        "definiciones"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía C1 §1.1"
+    },
+    {
+      "id": "c1-02",
+      "enunciado": "¿Cuál es el sujeto de estudio de la salud pública, según la guía?",
+      "alternativas": [
+        "La familia, la comunidad y las poblaciones",
+        "El individuo aislado y su historia clínica",
+        "El órgano o sistema afectado por la enfermedad",
+        "El agente biológico causal de cada patología",
+        "El establecimiento hospitalario y su gestión"
+      ],
+      "respuesta": 0,
+      "pista": "Piensa en el nivel de análisis que diferencia a la salud pública de la medicina clínica: ¿se trabaja con casos uno a uno o con colectivos?",
+      "argumento": "La salud pública es un campo multidisciplinario centrado en la protección, promoción y mejora de la salud de las comunidades y de la población, y no solo en la salud individual. Por eso su sujeto de estudio es la familia, la comunidad y las poblaciones, tal como explicita la guía al decir que su sujeto no es el individuo aislado. Las demás opciones corresponden a unidades de análisis distintas: el individuo aislado con su historia clínica es el sujeto de la práctica clínica; el órgano o sistema afectado y el agente biológico causal son las unidades del modelo biomédico, orientado al mecanismo de la enfermedad y no al colectivo; y el establecimiento hospitalario con su gestión es una unidad de administración sanitaria, no el sujeto de estudio de la disciplina.",
+      "tipo": "directa",
+      "tags": [
+        "salud-publica",
+        "sujeto-de-estudio",
+        "poblaciones"
+      ],
+      "dificultad": "facil",
+      "fuente": "Guía C1 §1.1"
+    },
+    {
+      "id": "c1-03",
+      "enunciado": "¿Cuál de las siguientes es una acción de los servicios de salud y no una acción organizada de la comunidad?",
+      "alternativas": [
+        "Promover la salud y prevenir la enfermedad individual",
+        "Definir la política económica y la seguridad social",
+        "Asegurar la política de vivienda y de urbanismo",
+        "Organizar la educación y las obras públicas locales",
+        "Fijar políticas de vivienda y seguridad social"
+      ],
+      "respuesta": 0,
+      "pista": "Separa las acciones que se ejecutan desde el sector salud (proteger, promover, prevenir, restaurar, rehabilitar) de las que dependen de ministerios y sectores ajenos a la salud.",
+      "argumento": "Las acciones de los servicios de salud se ejecutan desde el sector salud e incluyen el fomento y la defensa de la salud, la protección de la salud sobre el medioambiente, la promoción de la salud y la prevención de enfermedad sobre el individuo, la restauración o tratamiento y la rehabilitación de las secuelas. De ahí que promover la salud y prevenir la enfermedad individual sea una acción del sector salud. Las otras cuatro opciones pertenecen al bloque de acciones organizadas de la comunidad, que se ejecutan desde otros sectores del Estado: la política económica, la política de vivienda, el urbanismo, las obras públicas, la educación y la política de seguridad social. Ninguna de ellas es ejecutable desde el sector salud, y eso es justamente lo que fundamenta el enfoque intersectorial: la salud se produce también fuera del sistema sanitario.",
+      "tipo": "directa",
+      "tags": [
+        "salud-publica",
+        "acciones",
+        "sector-salud"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía C1 §1.2"
+    },
+    {
+      "id": "c1-04",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre las acciones organizadas de la comunidad es/son correcta(s).  I) Se ejecutan desde otros sectores del Estado, como educación, vivienda, urbanismo y obras públicas.  II) Corresponden al fomento, la protección, la restauración y la rehabilitación que realiza el sector salud.  III) Constituyen la base del enfoque intersectorial de la salud pública.  IV) Se restringen a rehabilitar las secuelas que la enfermedad deja en el individuo.",
+      "alternativas": [
+        "Solo I",
+        "Solo II",
+        "Solo I y III",
+        "Solo II y IV",
+        "Todas son correctas"
+      ],
+      "respuesta": 2,
+      "pista": "Repasa la tabla de las dos columnas: una columna la ejecuta el sector salud y la otra, sectores ajenos a la salud. Evalúa cada numeral por separado antes de elegir una combinación.",
+      "argumento": "Valor de verdad de cada numeral: I) VERDADERO. Las acciones organizadas de la comunidad se ejecutan desde otros sectores del Estado (educación, política económica, vivienda, urbanismo, obras públicas y seguridad social). II) FALSO. El fomento y la defensa de la salud, la protección sobre el medioambiente, la promoción y prevención sobre el individuo, la restauración y la rehabilitación son acciones de los servicios de salud, es decir, del sector salud, no acciones organizadas de la comunidad. III) VERDADERO. Como se ejecutan desde otros sectores del Estado, estas acciones son la base del enfoque intersectorial de la salud pública. IV) FALSO. La rehabilitación de secuelas es una acción de los servicios de salud, y además las acciones organizadas de la comunidad no se restringen a rehabilitar: abarcan educación, economía, vivienda, urbanismo, obras públicas y seguridad social. Por lo tanto la combinación correcta es solo I y III. La opción \"Solo I\" falla porque III también es verdadero; \"Solo II\" y \"Solo II y IV\" fallan porque II y IV son falsos; y \"Todas son correctas\" es falsa precisamente porque II y IV no lo son.",
+      "tipo": "suficiencia",
+      "tags": [
+        "salud-publica",
+        "acciones",
+        "intersectorialidad"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía C1 §1.2"
+    },
+    {
+      "id": "c1-05",
+      "enunciado": "Para Machteld Huber (artículo \"How should we define health?\", BMJ 2011), la salud debe entenderse como:",
+      "alternativas": [
+        "Un proceso dinámico de adaptación y autogestión",
+        "Un estado de completo bienestar físico, mental y social",
+        "La ausencia de afecciones, síntomas y enfermedades",
+        "La respuesta del individuo al agente causal biológico",
+        "Ninguna de las afirmaciones anteriores"
+      ],
+      "respuesta": 0,
+      "pista": "Huber discute la palabra \"estado\" de la definición de la OMS y propone mirar más bien la capacidad de la persona para funcionar y manejar sus desafíos.",
+      "argumento": "Huber (BMJ, 2011) propone entender la salud como la capacidad de adaptarse y de autogestionarse frente a los desafíos sociales, físicos y emocionales, es decir, como un proceso dinámico y no como un estado fijo; de esa propuesta nace el concepto de Salud Positiva y su herramienta My Positive Health, aplicada hoy en atención primaria en Países Bajos. Su crítica a la OMS es que esa definición es estática (habla de un \"estado\", no de un proceso), que no refleja el cambio del perfil epidemiológico hacia las enfermedades crónicas y la multimorbilidad, y que es difícil de operacionalizar y medir clínicamente; bajo ella, una persona con una enfermedad crónica bien controlada nunca podría considerarse sana. La opción del completo bienestar físico, mental y social es la definición de la OMS de 1948, justamente la que Huber cuestiona. La opción de la ausencia de afecciones corresponde a la noción de principios del siglo XX, previa a la OMS. La opción del agente causal biológico alude al modelo biomédico, ajeno a la propuesta de Huber. Por eso la opción \"Ninguna de las afirmaciones anteriores\" es incorrecta: la primera opción sí describe la propuesta de Huber.",
+      "tipo": "todas-ninguna",
+      "tags": [
+        "salud-publica",
+        "huber",
+        "salud-positiva"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Guía C1 §1.7"
+    },
+    {
+      "id": "c1-06",
+      "enunciado": "¿Cuál de las siguientes afirmaciones distingue correctamente un modelo de un paradigma?",
+      "alternativas": [
+        "El modelo es una representación de una realidad particular",
+        "El paradigma proviene del latín modulus y el modelo del griego",
+        "El modelo es el conjunto de métodos de una comunidad científica",
+        "El paradigma simplifica la realidad para poder explicarla y analizarla",
+        "Ambos términos son sinónimos exactos dentro de la salud pública"
+      ],
+      "respuesta": 0,
+      "pista": "Revisa la etimología de cada palabra y cuál de los dos funciona como marco de fondo de una época y cuál como muestra de un fenómeno específico.",
+      "argumento": "El modelo proviene del latín modulus (medida, manera) y se define como la representación de una realidad particular, una muestra de algún evento o fenómeno específico; su función es simplificar la realidad para poder explicarla y analizarla. El paradigma, en cambio, viene del griego parádeigma (modelo en sentido amplio, patrón o ejemplo) y es el conjunto de métodos compartidos por una comunidad científica en un momento dado, más las teorías, valores, elementos culturales, conocimientos y metodologías; funciona como el marco de fondo desde el cual se construye el conocimiento en una época. La opción que invierte las etimologías es falsa porque asigna a cada término el origen del otro. La opción que define el modelo como el conjunto de métodos de una comunidad científica describe en realidad al paradigma. La opción que atribuye al paradigma la función de simplificar la realidad describe la función del modelo. Y la opción que los iguala es falsa: son conceptos distintos y complementarios, aunque ambos se usen en el mismo campo.",
+      "tipo": "directa",
+      "tags": [
+        "modelos-paradigmas",
+        "modelo",
+        "paradigma"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía C1 §2.1"
+    },
+    {
+      "id": "c1-07",
+      "enunciado": "¿Cuál de los paradigmas explica el proceso salud-enfermedad como resultado de la lucha de clases y del modo de producción de cada sociedad?",
+      "alternativas": [
+        "El materialismo histórico",
+        "El empirista-positivista",
+        "El estructural-funcionalista",
+        "El biopsicosocial o sistémico",
+        "El higienista-preventivo"
+      ],
+      "respuesta": 0,
+      "pista": "Busca el paradigma que pone el acento en las relaciones sociales que generan desigualdad y en el contexto histórico de producción, no en la observación empírica ni en los sistemas.",
+      "argumento": "El paradigma del materialismo histórico explica la salud y la enfermedad como resultado de la lucha de clases, del modo de producción y del contexto histórico de cada sociedad; su foco está en las relaciones sociales que generan desigualdad y, con ella, enfermedad; los modos de producción son la forma en que las personas se organizan para producir, distribuir y consumir bienes y servicios. El paradigma empirista-positivista construye conocimiento por observación y verificación empírica y busca relaciones causa-efecto entre factores biológicos, ambientales e individuales sin cuestionar el orden social. El estructural-funcionalista ve la sociedad como un sistema de partes interrelacionadas que cumplen funciones para mantener su equilibrio, ordena los determinantes en niveles jerárquicos y tampoco cuestiona el orden social vigente. El biopsicosocial o sistémico, formulado desde la teoría general de sistemas, sostiene que ningún nivel aislado (biológico, psicológico o social) explica por sí solo la enfermedad. El higienista-preventivo, en tanto, es un modelo explicativo (no un paradigma) que pone el acento en el equilibrio agente-huésped-ambiente y en la conducta, por lo que confundirlo con un paradigma es un error frecuente.",
+      "tipo": "directa",
+      "tags": [
+        "modelos-paradigmas",
+        "paradigmas",
+        "materialismo-historico"
+      ],
+      "dificultad": "facil",
+      "fuente": "Guía C1 §2.2"
+    },
+    {
+      "id": "c1-08",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre los paradigmas en salud pública es/son correcta(s).  I) El empirista-positivista busca relaciones causa-efecto entre factores biológicos y ambientales sin cuestionar el orden social.  II) El estructural-funcionalista ordena los determinantes en niveles jerárquicos y cuestiona el orden social vigente.  III) El biopsicosocial se formula desde la teoría general de sistemas e integra lo biológico, lo psicológico y lo social.  IV) El materialismo histórico explica la enfermedad por la interacción de factores de riesgo individuales y grupales.",
+      "alternativas": [
+        "Solo I",
+        "Solo III",
+        "Solo I y III",
+        "Solo II y IV",
+        "Todas son correctas"
+      ],
+      "respuesta": 2,
+      "pista": "Revisa qué paradigmas cuestionan el orden social y cuál es el que integra niveles simultáneos; evalúa cada numeral como verdadero o falso antes de combinar.",
+      "argumento": "Valor de verdad de cada numeral: I) VERDADERO. El empirista-positivista busca relaciones causa-efecto entre factores biológicos, ambientales e individuales por observación y verificación empírica, sin cuestionar el orden social. II) FALSO. Es cierto que el estructural-funcionalista ordena los determinantes en niveles jerárquicos y mira cómo responde el sistema, pero precisamente no cuestiona el orden social vigente; solo el materialismo histórico lo cuestiona. III) VERDADERO. El biopsicosocial o sistémico se formula desde la teoría general de sistemas y sostiene que ningún nivel aislado, biológico, psicológico o social, explica por sí solo la enfermedad, porque deben integrarse simultáneamente. IV) FALSO. La interacción de factores de riesgo individuales y grupales bajo una red de causalidad corresponde al modelo epidemiológico clásico, no al materialismo histórico, que se centra en la lucha de clases y el modo de producción. La combinación correcta es solo I y III. \"Solo I\" es falsa porque III también es verdadero; \"Solo III\" es falsa porque I también es verdadero; \"Solo II y IV\" es falsa porque ambos numerales son falsos; y \"Todas son correctas\" es falsa porque II y IV no lo son.",
+      "tipo": "suficiencia",
+      "tags": [
+        "modelos-paradigmas",
+        "paradigmas"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía C1 §2.2"
+    },
+    {
+      "id": "c1-09",
+      "enunciado": "Según el modelo biomédico, la enfermedad es fundamentalmente:",
+      "alternativas": [
+        "La respuesta a la presencia de agentes externos",
+        "El resultado de las condiciones sanitarias del entorno",
+        "El producto de las condiciones de vida y de trabajo",
+        "El desequilibrio entre el huésped y el ambiente",
+        "El resultado del modo de producción y la clase social"
+      ],
+      "respuesta": 0,
+      "pista": "Identifica el modelo cuyo foco es el agente causal biológico y el individuo, y cuyo gran aporte fueron las medidas de control, los fármacos y las vacunas.",
+      "argumento": "La hipótesis central del modelo biomédico es que la enfermedad es la respuesta a la presencia activa de agentes externos, en particular del agente causal biológico; sus variables son el agente patógeno y el individuo, y su aporte fue la identificación del agente biológico causal, que permitió instaurar medidas de control y desarrollar fármacos y vacunas. Sus limitaciones son que no explica por qué el mismo agente no siempre produce la enfermedad, que descifra la causa biológica sin abordar otros factores y que tiende a promover poca participación de los demás actores. Las otras opciones corresponden a otros modelos: el resultado de las condiciones sanitarias del entorno es la hipótesis del modelo sanitarista; el producto de las condiciones de vida y de trabajo corresponde al modelo epidemiológico social; el desequilibrio entre huésped y ambiente es la hipótesis del modelo ecologista; y el resultado del modo de producción y la clase social corresponde al modelo sociomédico del materialismo histórico.",
+      "tipo": "directa",
+      "tags": [
+        "modelos-paradigmas",
+        "modelo-biomedico",
+        "hipotesis-central"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía C1 §2.3"
+    },
+    {
+      "id": "c1-10",
+      "enunciado": "Al comparar el modelo biomédico con el modelo biopsicosocial, ¿cuál de las siguientes afirmaciones es correcta?",
+      "alternativas": [
+        "El rol del enfermo es pasivo en el modelo biomédico",
+        "El biopsicosocial pondera el peso de cada factor",
+        "El biopsicosocial atribuye la causa a un agente externo único",
+        "El biopsicosocial reduce la causa a lo biológico",
+        "Todas las afirmaciones anteriores son correctas"
+      ],
+      "respuesta": 0,
+      "pista": "Compara los dos modelos en cuatro ejes: causa, rol del enfermo, aporte y limitación. Ojo con las afirmaciones que describen una limitación como si fuera una fortaleza.",
+      "argumento": "En la comparación pedida, el modelo biomédico tiene como perspectiva la enfermedad (el órgano o el agente), atribuye la causa a un agente externo biológico único, asigna al enfermo un rol pasivo, aporta medidas de control, fármacos y vacunas, y se limita por ser reduccionista y no explicar por qué el mismo agente no siempre enferma. El modelo biopsicosocial, en cambio, tiene como perspectiva la enfermedad y la persona enferma, plantea causas biológicas, psicológicas y sociales simultáneas, otorga al enfermo un rol activo (el usuario participa), aporta una explicación de por qué personas con la misma condición biológica evolucionan distinto y se limita porque es difícil de operacionalizar y porque no desagrega ni pondera la influencia de cada factor. Por eso es correcto que el rol del enfermo es pasivo en el modelo biomédico. La afirmación de que el biopsicosocial pondera el peso de cada factor es falsa: justamente no pondera el valor específico de cada factor, y esa es una de sus limitaciones. La afirmación de que el biopsicosocial atribuye la causa a un agente externo único es falsa: el agente externo biológico único es la causa propia del modelo biomédico, mientras el biopsicosocial integra simultáneamente lo biológico, lo psicológico y lo social. La afirmación de que el biopsicosocial reduce la causa a lo biológico es falsa: lo biológico es solo una de sus tres dimensiones y el reduccionismo biológico caracteriza al modelo biomédico. Y \"Todas las afirmaciones anteriores son correctas\" es falsa porque tres de las cuatro anteriores no lo son.",
+      "tipo": "todas-ninguna",
+      "tags": [
+        "modelos-paradigmas",
+        "modelo-biomedico",
+        "biopsicosocial"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Guía C1 §2.3"
+    },
+    {
+      "id": "c1-11",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre los modelos explicativos es/son correcta(s).  I) El sanitarista asigna valor a los factores ambientales, pero no contempla los factores sociales que generan las condiciones de vida insalubres.  II) El ecologista plantea que la salud depende del equilibrio entre el huésped y el ambiente.  III) El higienista-preventivo deja fuera la conducta individual y social como factor de riesgo.  IV) El biomédico sostiene que la enfermedad se explica integrando factores biológicos, psicológicos y sociales.",
+      "alternativas": [
+        "Solo I",
+        "Solo II",
+        "Solo I y II",
+        "Solo II y III",
+        "Todas son correctas"
+      ],
+      "respuesta": 2,
+      "pista": "Repasa la hipótesis central y la limitación de cada modelo: varias alternativas se descartan según qué elementos incluye o excluye cada uno. Evalúa numeral por numeral.",
+      "argumento": "Valor de verdad de cada numeral: I) VERDADERO. El modelo sanitarista sostiene que la salud y la enfermedad resultan de las condiciones sanitarias que rodean al individuo y del nivel de prevención sobre ellas; promueve el saneamiento ambiental, pero su limitación es que no contempla los factores sociales que determinan la prevalencia de condiciones de vida insalubres en distintos grupos. II) VERDADERO. El modelo ecologista plantea que las condiciones de salud dependen del equilibrio entre huésped y ambiente, en un contexto bidimensional, y su aporte es asignar valor a los factores del huésped además del ambiente. III) FALSO. El modelo higienista-preventivo considera cuatro factores, entre ellos los conductuales, y de hecho prioriza los hábitos higiénicos y conductuales sobre los que se puede actuar preventivamente; su limitación es que lo social aparece solo como un elemento más del entorno, sin peso específico, no que excluya la conducta. IV) FALSO. La integración simultánea de factores biológicos, psicológicos y sociales corresponde al modelo biopsicosocial; el biomédico reduce la causa a la presencia activa de agentes externos, con el agente patógeno y el individuo como variables. La combinación correcta es solo I y II. \"Solo I\" y \"Solo II\" son falsas porque ambos numerales son verdaderos; \"Solo II y III\" es falsa porque III es falso; y \"Todas son correctas\" es falsa porque III y IV no lo son.",
+      "tipo": "suficiencia",
+      "tags": [
+        "modelos-paradigmas",
+        "modelos",
+        "sanitarista",
+        "ecologista"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía C1 §2.3"
+    },
+    {
+      "id": "c1-12",
+      "enunciado": "¿Cuál es la característica que distingue al enfoque intersectorial del enfoque multifactorial o multidisciplinario?",
+      "alternativas": [
+        "Exige coordinación formal y corresponsable entre sectores",
+        "Se limita a los profesionales de una sola disciplina",
+        "Cruza sectores, sin coordinación ni acuerdos formales",
+        "Incluye solo a profesionales del sector salud y afines",
+        "Considera varios factores, todos dentro del sector salud"
+      ],
+      "respuesta": 0,
+      "pista": "Diferencia dos cosas: cuántos factores o disciplinas se consideran y quiénes participan. Lo decisivo es si hay acuerdos formales y corresponsabilidad entre el sector salud y otros sectores.",
+      "argumento": "El enfoque intersectorial implica una coordinación formal, planificada y corresponsable entre sectores del Estado, y en él participan el sector salud, la comunidad y otros sectores mediante acuerdos formales; es la base del enfoque de Salud en Todas las Políticas y el sustento de la intersectorialidad. El enfoque multifactorial o multidisciplinario, en cambio, considera varios factores y disciplinas, pero todas dentro del sector salud, y participan solo profesionales de la salud; esa es la distinción que el apunte marca explícitamente. Las otras opciones describen enfoques distintos: la que se limita a profesionales de una sola disciplina corresponde al enfoque disciplinario; la que cruza sectores sin coordinación formal ni corresponsabilidad estructurada corresponde al enfoque transectorial, con coordinación débil o informal; la que incluye solo a profesionales del sector salud describe al enfoque multifactorial; y la que considera varios factores todos dentro del sector salud vuelve a describir el enfoque multifactorial, el cual no incorpora a la comunidad ni a otros sectores del Estado.",
+      "tipo": "directa",
+      "tags": [
+        "modelos-paradigmas",
+        "enfoques",
+        "intersectorialidad"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Guía C1 §2.4"
+    },
+    {
+      "id": "c2-01",
+      "enunciado": "Según la Declaración de Helsinki sobre Salud en Todas las Políticas (STP), ¿qué caracteriza a este enfoque de las políticas públicas?",
+      "alternativas": [
+        "Sustituye al sector salud por otros sectores en las decisiones",
+        "Busca sinergias y evita impactos perjudiciales, de forma sistemática",
+        "Es una estrategia clínica de atención primaria para zonas rurales",
+        "Es un programa de financiamiento de las prestaciones de salud pública",
+        "Es un acuerdo comercial que regula el acceso a los medicamentos"
+      ],
+      "respuesta": 1,
+      "pista": "Piensa en un enfoque que atraviesa las decisiones de todos los sectores, y no en un programa, un servicio clínico ni un convenio concreto.",
+      "argumento": "La STP es un enfoque para las políticas públicas en todos los sectores que, de manera sistemática, tiene en cuenta las implicaciones de las decisiones sobre la salud, busca sinergias y evita impactos perjudiciales, con el fin de mejorar la salud de la población y la equidad en salud (Declaración de Helsinki, OMS, 2013); además procura mejorar la rendición de cuentas de los responsables políticos por el impacto en salud de sus decisiones. La opción que habla de sustituir al sector salud confunde complementar con reemplazar: la STP NO reemplaza al sector salud, lo complementa poniendo la salud como criterio transversal de las decisiones de comercio, transporte, vivienda, educación o medio ambiente. La opción de la estrategia clínica de atención primaria rural corresponde a Alma-Ata y ala APS, no a la STP. La del financiamiento de prestaciones la reduce a un mecanismo presupuestario del sector salud, que es justamente lo contrario de un enfoque intersectorial. Y la del acuerdo comercial invierte el ejemplo: el comercio es uno de los sectores cuyas decisiones deben someterse a evaluación de impacto en salud, no el instrumento de la STP.",
+      "tipo": "directa",
+      "tags": [
+        "stp",
+        "definicion"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía C1 §3.1"
+    },
+    {
+      "id": "c2-02",
+      "enunciado": "¿Cuál de los siguientes enunciados corresponde a uno de los principios de la Salud en Todas las Políticas (STP)?",
+      "alternativas": [
+        "La salud es tarea de todo el aparato estatal, no de un ministerio",
+        "El sector privado define las prioridades sanitarias del país",
+        "El Estado centraliza la ejecución de los programas de salud",
+        "Las decisiones técnicas se toman al margen del mandato democrático",
+        "La salud depende de la voluntad individual de cada persona"
+      ],
+      "respuesta": 0,
+      "pista": "Recuerda la lista de los seis principios y descarta las opciones que contradicen el mandato democrático, la evidencia o la responsabilidad del Estado.",
+      "argumento": "Los seis principios de la STP son: legitimidad (decisiones basadas en evidencia y en el mandato democrático de todos los sectores, no solo salud); rendición de cuentas (los responsables políticos responden por el impacto en salud de sus decisiones); transparencia (sobre todo en el manejo de conflictos de interés frente a intereses comerciales); enfoque de todo el gobierno (la salud no es tarea de un ministerio, sino de todo el aparato estatal, que es lo que afirma la opción correcta); sostenibilidad (estructuras y financiamiento permanentes, no iniciativas puntuales); y equidad (reducir las inequidades en salud entre y dentro de los países). La opción del sector privado como definidor de prioridades contradice la legitimidad basada en evidencia y mandato democrático. La de la centralización contradice el enfoque de todo el gobierno y la lógica intersectorial. La que aparta las decisiones técnicas del mandato democrático es exactamente lo opuesto a la legitimidad. Y la que reduce la salud a la voluntad individual contradice todos los principios, en particular el de equidad y el carácter social de los determinantes.",
+      "tipo": "directa",
+      "tags": [
+        "stp",
+        "principios"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía C1 §3.4"
+    },
+    {
+      "id": "c2-03",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre hitos de la Salud en Todas las Políticas es/son correcta(s).  I) La Declaración de Alma-Ata impulsó la Atención Primaria de Salud bajo la consigna \"Salud para todos\".  II) La Declaración de Adelaida de 1988 estableció la primera definición formal de Salud en Todas las Políticas.  III) La Carta de Ottawa propuso la promoción de la salud y sus cinco áreas de acción.  IV) El Plan Regional de la OPS fue el primer plan regional de STP, conocido como \"La Ruta de las Américas\".",
+      "alternativas": [
+        "Solo I y III",
+        "Solo II y IV",
+        "Solo I, III y IV",
+        "Solo II, III y IV",
+        "Solo III y IV"
+      ],
+      "respuesta": 2,
+      "pista": "Asigna a cada hito su aporte. Ojo con Adelaida: hay dos declaraciones con aportes distintos, y la primera definición formal de STP no proviene de la más antigua de ellas.",
+      "argumento": "Valor de verdad de cada numeral: I) VERDADERO: Alma-Ata (1978) impulsó la Atención Primaria de Salud bajo la consigna \"Salud para todos\". II) FALSO: la primera definición formal de STP corresponde a la Declaración de Adelaida de 2010, no a la de 1988; la de 1988 introdujo las \"políticas públicas saludables\" con sus cuatro áreas prioritarias (salud de la mujer, alimentación y nutrición, tabaco y alcohol, ambientes propicios) y la idea de que las decisiones sectoriales deben rendir cuentas de sus consecuencias en salud. III) VERDADERO: la Carta de Ottawa (1986) propuso la promoción de la salud y sus cinco áreas de acción, postulando que la política pública debe ser saludable. IV) VERDADERO: el Plan Regional de la OPS (2014-15) fue el primer plan regional del mundo de STP, conocido como \"La Ruta de las Américas\". Entonces el conjunto correcto es I, III y IV. La opción \"Solo I y III\" falla porque deja fuera el Plan Regional de la OPS, que sí aportó el primer plan regional de STP. La opción \"Solo II y IV\" toma el numeral falso II y descarta el numeral verdadero I. La opción \"Solo II, III y IV\" incluye II, que es falso. Y la opción \"Solo III y IV\" descarta Alma-Ata, que efectivamente impulsó la APS. Ninguna otra opción describe el mismo conjunto que la correcta. Nota: por indicación del temario no se pregunta el año de cada hito, solo su aporte conceptual.",
+      "tipo": "suficiencia",
+      "tags": [
+        "stp",
+        "hitos"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Guía C1 §3.3"
+    },
+    {
+      "id": "c2-04",
+      "enunciado": "¿Cuál de los siguientes aportes corresponde al informe de la Comisión de Determinantes Sociales de la Salud de la OMS (CSDH, 2008)?",
+      "alternativas": [
+        "El lema \"Salud para todos\" y la Atención Primaria de Salud",
+        "El informe \"Subsanar las desigualdades en una generación\"",
+        "La promoción de la salud y sus cinco áreas de acción",
+        "Las políticas públicas saludables y sus cuatro áreas prioritarias",
+        "El primer plan regional de STP, \"La Ruta de las Américas\""
+      ],
+      "respuesta": 1,
+      "pista": "Cada hito deja un producto reconocible: identifica cuál de estos productos es un informe de una comisión de la OMS sobre desigualdades sociales.",
+      "argumento": "El informe de la Comisión sobre Determinantes Sociales de la Salud de la OMS (CSDH, 2008) se titula \"Subsanar las desigualdades en una generación\" y su recomendación central es mejorar las condiciones de vida cotidianas y luchar contra la distribución desigual del poder, el dinero y los recursos. El lema \"Salud para todos\" y la APS corresponden a Alma-Ata (1978). La promoción de la salud y sus cinco áreas de acción corresponden a la Carta de Ottawa (1986). Las políticas públicas saludables con sus cuatro áreas prioritarias corresponden a la Declaración de Adelaida de 1988, que es otro hito distinto de la CSDH. Y \"La Ruta de las Américas\" es el nombre del Plan Regional de la OPS (2014-15), primer plan regional del mundo de STP. Por indicación del temario, el año no es el dato que se pregunta: lo que discrimina es el aporte de cada hito.",
+      "tipo": "directa",
+      "tags": [
+        "stp",
+        "hitos"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía C1 §3.3"
+    },
+    {
+      "id": "c2-05",
+      "enunciado": "En la gobernanza intersectorial de la STP, ¿cuál es el rol del Ministerio de Salud?",
+      "alternativas": [
+        "Facilitar y traducir técnicamente el impacto en salud",
+        "Imponer a los otros ministerios las medidas sanitarias a adoptar",
+        "Fijar por decreto el presupuesto de los sectores involucrados",
+        "Delegar en Hacienda la evaluación del impacto en salud del resto",
+        "Evaluar la salud de la población sin coordinar con otros sectores"
+      ],
+      "respuesta": 0,
+      "pista": "La STP se sostiene en liderazgo compartido: pregúntate si el rol descrito implica mandar jerárquicamente sobre otros sectores o más bien facilitar el diálogo técnico.",
+      "argumento": "En la gobernanza intersectorial el liderazgo es compartido: el Ministerio de Salud actúa como facilitador y \"traductor\" técnico del impacto en salud de las decisiones, NO como autoridad jerárquica sobre otros sectores. Los otros componentes de esa gobernanza son los comités o mesas intersectoriales (espacios formales de coordinación), los mandatos y presupuestos compartidos (decretos, leyes y convenios que dan sostenibilidad más allá de un gobierno de turno) y la participación comunitaria (diálogos ciudadanos y consultas que legitiman las decisiones). Las opciones que hablan de imponer medidas o fijar por decreto el presupuesto de otros sectores describen precisamente el mando jerárquico que el MINSAL no tiene. Delegar en Hacienda la evaluación del impacto en salud desconoce que ese rol técnico es del sector salud; la evaluación de impacto en salud es justamente la herramienta con la que el MINSAL traduce técnicamente el efecto de las políticas de otros sectores. Y evaluar la salud poblacional sin coordinar con otros sectores omite el núcleo de la STP, que es la acción intersectorial.",
+      "tipo": "directa",
+      "tags": [
+        "stp",
+        "gobernanza"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía C1 §3.6"
+    },
+    {
+      "id": "c2-06",
+      "enunciado": "¿Qué caracteriza a la Estrategia Municipios, Comunas y Comunidades Saludables implementada en Chile desde 2015?",
+      "alternativas": [
+        "Cobertura de 331 municipios con diagnóstico participativo y plan trienal",
+        "Cobertura de 331 municipios con plan cuatrienal del nivel central",
+        "Cobertura de las capitales regionales con diagnóstico participativo",
+        "Cobertura de 331 comunas con plan trienal de los servicios de salud",
+        "Cobertura de 331 municipios con plan trienal sin participación social"
+      ],
+      "respuesta": 0,
+      "pista": "Fíjate en dos cosas: el alcance territorial de la estrategia y quién elabora el instrumento de planificación de cada comuna.",
+      "argumento": "La Estrategia Municipios, Comunas y Comunidades Saludables (2015) tiene alcance nacional, con cobertura de 331 municipios, y en cada uno se elabora un diagnóstico integral participativo de calidad de vida junto con un plan estratégico trienal. La gobernanza opera en dos niveles: un comité intersectorial por comuna y un comité interministerial nacional, con liderazgo compartido entre el MINSAL y la Asociación Chilena de Municipalidades; el financiamiento es continuo desde 1998 (Planes Comunales de Promoción de la Salud) y los diálogos ciudadanos son un mecanismo obligatorio conforme a la Ley N° 20.500 sobre Asociaciones y Participación Ciudadana en la Gestión Pública. La opción del plan cuatrienal definido por el nivel central invierte el diseño: el instrumento es trienal y lo elabora cada municipio, no el nivel central. La que limita la cobertura a las capitales regionales desconoce el alcance nacional de 331 municipios. La que atribuye el plan a los servicios de salud se equivoca de actor: el responsable es el municipio, con gobernanza intersectorial. Y la que elimina la participación social contradice el eje transversal más robusto de la experiencia chilena, que son el diagnóstico participativo y los diálogos ciudadanos.",
+      "tipo": "directa",
+      "tags": [
+        "stp",
+        "chile"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía C1 §3.9"
+    },
+    {
+      "id": "c2-07",
+      "enunciado": "Según la definición de la OMS, los determinantes sociales de la salud corresponden a",
+      "alternativas": [
+        "Las circunstancias de vida y las fuerzas estructurales",
+        "Los factores hereditarios y biológicos que condicionan la salud",
+        "Las conductas individuales de autocuidado y adherencia al tratamiento",
+        "La oferta y la calidad de los servicios de salud de cada territorio",
+        "Las condiciones ambientales físicas y los desastres naturales"
+      ],
+      "respuesta": 0,
+      "pista": "La definición une el recorrido vital concreto de las personas (dónde nacen, crecen, viven, trabajan y envejecen) con algo que está por encima de las decisiones individuales.",
+      "argumento": "Para la OMS los determinantes sociales de la salud son las circunstancias en que las personas nacen, crecen, viven, trabajan y envejecen, y las fuerzas estructurales que configuran esas circunstancias; la línea de vida es nacer → crecer → vivir → trabajar → envejecer. La opción de los factores hereditarios y biológicos corresponde a la biología humana y no explica la producción social de la enfermedad. La de las conductas individuales de autocuidado y adherencia es precisamente el reduccionismo que los DSS cuestionan: la salud de un paciente rara vez depende solo de sus decisiones individuales. La de la oferta y calidad de los servicios de salud describe un determinante del sistema sanitario, que en el marco de la CSDH es un determinante intermedio y no la definición completa. Y la de las condiciones ambientales físicas y los desastres naturales es un componente parcial del medio ambiente, que omite los factores sociales, económicos, políticos y culturales.",
+      "tipo": "directa",
+      "tags": [
+        "dss",
+        "definicion"
+      ],
+      "dificultad": "facil",
+      "fuente": "Guía C1 §4.1"
+    },
+    {
+      "id": "c2-08",
+      "enunciado": "¿Cuál de los siguientes enunciados corresponde a la definición de inequidad en salud?",
+      "alternativas": [
+        "Diferencia observable entre grupos en un indicador de salud",
+        "Diferencia sistemática, evitable y considerada injusta",
+        "Distribución de los mismos recursos para todas las personas",
+        "Creación de condiciones para alcanzar el máximo potencial de salud",
+        "Eliminación de la barrera sistémica que produce la diferencia"
+      ],
+      "respuesta": 1,
+      "pista": "Ordena los tres conceptos de lo descriptivo a lo normativo: hay una diferencia que solo se mide, otra que además se produce socialmente y otra que se busca construir.",
+      "argumento": "La inequidad es una diferencia sistemática, producida socialmente, evitable y considerada injusta, como la menor esperanza de vida en comunas pobres. La opción de la diferencia observable entre grupos define desigualdad (por ejemplo, que los jóvenes tengan menos infartos que los ancianos): es una diferencia matemática o descriptiva, sin juicio de justicia. La de distribuir los mismos recursos para todos define igualdad, que no es lo mismo que equidad. La de crear condiciones para alcanzar el máximo potencial de salud define equidad, que exige distribuir los recursos según la necesidad. Y la de eliminar la barrera sistémica define justicia. La matriz conceptual es: igualdad = mismo recurso para todos; equidad = recursos según la necesidad; justicia = eliminación de la barrera sistémica que genera la diferencia.",
+      "tipo": "directa",
+      "tags": [
+        "dss",
+        "equidad"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía C1 §4.2"
+    },
+    {
+      "id": "c2-09",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre el marco conceptual de la CSDH (OMS) es/son correcta(s).  I) La educación de las personas es parte de la posición socioeconómica, un determinante estructural.  II) El contexto socioeconómico y político corresponde a los determinantes intermedios.  III) El sistema de salud y la cohesión social son determinantes intermedios.  IV) Los factores conductuales y biológicos son determinantes estructurales.",
+      "alternativas": [
+        "Solo I y III",
+        "Solo II y III",
+        "Solo I, III y IV",
+        "Solo I y IV",
+        "Solo II y IV"
+      ],
+      "respuesta": 0,
+      "pista": "Decide primero el bloque de cada elemento: los estructurales son el contexto socioeconómico y político más la posición socioeconómica; los intermedios son las circunstancias materiales, los factores psicosociales, conductuales y biológicos, la cohesión social y el sistema de salud.",
+      "argumento": "Valor de verdad de cada numeral: I) VERDADERO: la educación es parte de la posición socioeconómica (junto con clase social, género, etnia, ocupación e ingresos), y la posición socioeconómica es un determinante estructural. Matiz relevante: el efecto de la educación sobre la conducta puede actuar como determinante intermedio, pero como posición socioeconómica es estructural. II) FALSO: el contexto socioeconómico y político (gobierno, políticas macroeconómicas, políticas sociales, cultura y valores) es un determinante ESTRUCTURAL, no intermedio. III) VERDADERO: la cohesión social y el sistema de salud figuran entre los determinantes intermedios, junto con las circunstancias materiales y los factores psicosociales, conductuales y biológicos. IV) FALSO: los factores conductuales y biológicos son determinantes INTERMEDIOS. Por lo tanto el conjunto correcto es I y III. La opción \"Solo II y III\" incluye el numeral falso II. La opción \"Solo I, III y IV\" incluye el numeral falso IV. La opción \"Solo I y IV\" incluye IV y descarta III. Y la opción \"Solo II y IV\" es exactamente el conjunto de los dos numerales falsos. Ninguna otra opción describe el mismo conjunto que la correcta.",
+      "tipo": "suficiencia",
+      "tags": [
+        "dss",
+        "marco-csdh"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Guía C1 §4.7"
+    },
+    {
+      "id": "c2-10",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre los mecanismos diferenciales del marco de la CSDH es/son correcta(s).  I) La exposición diferencial alude al acceso desigual a los factores de riesgo y protectores.  II) La vulnerabilidad diferencial alude a la capacidad desigual de hacer frente a los factores de riesgo.  III) Las consecuencias diferenciales aluden al impacto desigual de la enfermedad y la discapacidad.  IV) La exposición diferencial alude al impacto desigual de la enfermedad entre grupos sociales.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo I, II y III",
+        "Solo II y III",
+        "Solo II, III y IV",
+        "Solo I y IV"
+      ],
+      "respuesta": 1,
+      "pista": "Los tres mecanismos se ordenan en el tiempo: primero exponerse al riesgo, luego enfrentarlo y por último sufrir sus consecuencias.",
+      "argumento": "Valor de verdad de cada numeral: I) VERDADERO: la exposición diferencial es el acceso desigual a los factores de riesgo y a los factores protectores. II) VERDADERO: la vulnerabilidad diferencial es la capacidad desigual de hacer frente a esos factores de riesgo una vez presentes. III) VERDADERO: las consecuencias diferenciales son el impacto desigual de la enfermedad y la discapacidad. IV) FALSO: el impacto desigual de la enfermedad y la discapacidad corresponde a las consecuencias diferenciales, no a la exposición diferencial; el numeral describe el mecanismo equivocado con el nombre equivocado. El conjunto correcto es I, II y III. La opción \"Solo I y II\" omite las consecuencias diferenciales. La opción \"Solo II y III\" omite la exposición diferencial. La opción \"Solo II, III y IV\" incluye el numeral falso IV. Y la opción \"Solo I y IV\" incluye IV y omite II y III. Ninguna otra opción describe el mismo conjunto que la correcta.",
+      "tipo": "suficiencia",
+      "tags": [
+        "dss",
+        "mecanismos"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía C1 §4.7"
+    },
+    {
+      "id": "c2-11",
+      "enunciado": "Según el modelo de Lalonde (1974) sobre los factores que contribuyen a la salud de la población, ¿cuál de las siguientes afirmaciones es correcta?",
+      "alternativas": [
+        "El estilo de vida aporta aproximadamente el 50%",
+        "El medio ambiente aporta aproximadamente el 20%",
+        "La biología humana aporta aproximadamente el 20%",
+        "Los servicios de salud aportan aproximadamente el 10%",
+        "Todas las afirmaciones anteriores son correctas"
+      ],
+      "respuesta": 4,
+      "pista": "Verifica cada porcentaje por separado antes de decidir: el modelo reparte el 100% de la contribución entre cuatro factores de peso desigual.",
+      "argumento": "El modelo de Lalonde (1974) reparte la contribución a la salud de la población en cuatro factores: estilo de vida 50%, medio ambiente 20%, biología humana 20% y servicios de salud 10%, que suman el 100%. Por eso la opción correcta es \"Todas las afirmaciones anteriores son correctas\": cada una de las otras cuatro afirmaciones es verdadera tal como está enunciada. La del estilo de vida es verdadera y es el factor de mayor peso, precisamente el que muestra que la mayor carga no está en el sistema sanitario. La del medio ambiente es verdadera y agrupa el entorno físico, la naturaleza y el entorno social. La de la biología humana es verdadera y corresponde a la genética y la fisiología. Y la de los servicios de salud es verdadera: el acceso y la organización del sistema explican solo una décima parte de la contribución, lo que refuerza el argumento de que la salud se juega fuera del sector salud.",
+      "tipo": "todas-ninguna",
+      "tags": [
+        "dss",
+        "lalonde"
+      ],
+      "dificultad": "facil",
+      "fuente": "Guía C1 §4.6"
+    },
+    {
+      "id": "c2-12",
+      "enunciado": "En el modelo de capas concéntricas de Dahlgren y Whitehead (1991), ¿qué capa se ubica inmediatamente por fuera del centro, donde están la edad, el sexo y los factores hereditarios?",
+      "alternativas": [
+        "Factores de estilo de vida individual",
+        "Redes sociales y comunitarias",
+        "Condiciones de vida y de trabajo",
+        "Condiciones socioeconómicas y culturales generales",
+        "Servicios de salud y cohesión social"
+      ],
+      "respuesta": 0,
+      "pista": "Ordena las capas desde el centro hacia afuera: primero lo propio e intransferible de la persona y después lo que la rodea.",
+      "argumento": "El modelo de Dahlgren y Whitehead (1991) ordena las capas concéntricas del centro hacia afuera así: centro, edad, sexo y factores hereditarios; primera capa, factores de estilo de vida individual (la correcta, es la inmediatamente exterior al centro); segunda capa, redes sociales y comunitarias; tercera capa, condiciones de vida y de trabajo (ambiente laboral, educación, producción agropecuaria y alimentaria, desempleo, agua y servicios sanitarios, servicios de salud, vivienda); y capa exterior, condiciones generales socioeconómicas, culturales y medioambientales. El modelo muestra cómo las inequidades en salud resultan de la interacción entre distintos niveles de condiciones causales, de modo que las personas más desfavorecidas presentan mayor prevalencia de conductas de riesgo. Las redes sociales y comunitarias son la segunda capa, no la primera. Las condiciones de vida y de trabajo son la tercera. Las condiciones socioeconómicas, culturales y medioambientales generales son la capa exterior. Y \"servicios de salud y cohesión social\" mezcla elementos que en el marco de la CSDH corresponden a los determinantes intermedios y, en este modelo, los servicios de salud forman parte de la tercera capa, no de la primera.",
+      "tipo": "directa",
+      "tags": [
+        "dss",
+        "modelos"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía C1 §4.6"
+    },
+    {
+      "id": "c2-13",
+      "enunciado": "Respecto del \"iceberg de la salud\" y la ilusión de la conducta individual, ¿cuál de las siguientes afirmaciones es correcta?",
+      "alternativas": [
+        "Lo visible corresponde al manejo de signos y síntomas",
+        "Lo sumergido son los factores biológicos heredados de la familia",
+        "Lo sumergido corresponde a la atención médica de alta complejidad",
+        "Lo visible concentra los determinantes sociales y la promoción",
+        "Ninguna de las afirmaciones anteriores es correcta"
+      ],
+      "respuesta": 0,
+      "pista": "Separa lo que se ve en la consulta de la enorme masa que sostiene y genera la enfermedad por debajo de la línea de flotación.",
+      "argumento": "En el iceberg de la salud, la parte visible corresponde al enfoque individual: el manejo paliativo, los signos, los síntomas y la atención médica directa, que es lo que efectivamente se ve en la consulta. La parte sumergida corresponde al enfoque poblacional: los estilos de vida y, sobre todo, los determinantes sociales y la promoción de la salud, la masa que sostiene y genera la enfermedad visible. Por eso la opción que sitúa los factores biológicos heredados en la parte sumergida es falsa: la biología no es el componente poblacional del iceberg. La que sitúa allí la atención médica de alta complejidad también es falsa, porque la atención médica pertenece al ámbito visible e individual. La que dice que lo visible concentra los determinantes sociales y la promoción invierte las capas. Y \"Ninguna de las afirmaciones anteriores es correcta\" es falsa, precisamente porque la primera afirmación sí es correcta. La ilusión de la conducta individual consiste en creer que basta la voluntad: prescribir \"coma sano y haga 30 minutos de ejercicio al día\" fracasa si no se analiza el entorno, con transporte público inadecuado, diseño urbano hostil, inseguridad vecinal, jornadas laborales extenuantes y desiertos alimentarios.",
+      "tipo": "todas-ninguna",
+      "tags": [
+        "dss",
+        "iceberg"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía C1 §4.5"
+    },
+    {
+      "id": "c3-01",
+      "enunciado": "Según el marco de las FESP renovadas de la OPS, ¿cuál de las siguientes opciones reúne los cuatro componentes que las definen?",
+      "alternativas": [
+        "Capacidades de las autoridades, fortalecer el sistema, ejercer la salud pública y abordar los DSS",
+        "Capacidades de los prestadores, ampliar la cobertura, ejercer la salud pública y abordar los DSS",
+        "Capacidades del Estado, financiar el sistema, ejercer la medicina privada y abordar los DSS",
+        "Capacidades de las autoridades, debilitar el sistema, ejercer la salud pública y abordar los DSS",
+        "Capacidades de las comisiones de ética, fortalecer el sistema, ejercer la salud pública y abordar los DSS"
+      ],
+      "respuesta": 0,
+      "pista": "Fíjese en quién es el sujeto de la definición (¿los prestadores, el Estado en general, un comité?), y en que las funciones buscan fortalecer —no debilitar— el sistema de salud.",
+      "argumento": "La definición de las FESP renovadas (OPS, 2020) es: capacidades de las autoridades de salud, en todos sus niveles institucionales y en conjunto con la sociedad civil, para fortalecer el sistema de salud y asegurar el completo ejercicio de la salud pública, actuando sobre los factores y determinantes sociales que afectan la salud de la población. Por eso la opción correcta es la que nombra como sujeto a las autoridades de salud y como propósitos fortalecer el sistema, asegurar el ejercicio de la salud pública y actuar sobre los determinantes sociales. La opción que pone como sujeto a los prestadores y agrega 'ampliar la cobertura' cambia el sujeto de la definición: las FESP son capacidades de la autoridad sanitaria. La opción del Estado que 'financia el sistema' y ejerce la 'medicina privada' es falsa porque el componente es asegurar el ejercicio de la salud pública, no la provisión privada. La opción que dice 'debilitar el sistema' invierte el sentido del componente. La opción que atribuye las funciones a 'comisiones de ética' también erró el sujeto: la ética es parte del ejercicio clínico y normativo, pero no es quien detenta las FESP.",
+      "tipo": "directa",
+      "tags": [
+        "fesp",
+        "definicion-fesp"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía C1 §5.2"
+    },
+    {
+      "id": "c3-02",
+      "enunciado": "¿Cuál de las siguientes opciones enumera correctamente los cuatro pilares de las FESP renovadas?",
+      "alternativas": [
+        "Derecho a la salud, solidaridad y equidad; DSS; acceso universal; rectoría",
+        "Derecho a la salud, caridad y eficiencia; DSS; acceso universal; rectoría",
+        "Derecho a la salud, solidaridad y equidad; riesgo individual; acceso privado; rectoría",
+        "Derecho a la salud, solidaridad y equidad; DSS; acceso universal; subsidiariedad",
+        "Derecho al trabajo, solidaridad y eficiencia; DSS; cobertura parcial; rectoría"
+      ],
+      "respuesta": 0,
+      "pista": "Recuerde que el segundo pilar es transversal a los demás y que el cuarto surge justamente de la necesidad de abordar los tres anteriores.",
+      "argumento": "Los cuatro pilares son: (1) fortalecer el derecho a la salud, la solidaridad y la equidad; (2) abordar los determinantes sociales de la salud, que es transversal a los demás pilares; (3) garantizar el acceso universal a servicios de salud pública, integrales e integrados; y (4) expandir la función de rectoría de las autoridades de salud, que surge de la necesidad de abordar los tres pilares previos. La opción que habla de 'caridad y eficiencia' es falsa: la caridad es asistencial y ajena al enfoque de derechos, y la eficiencia no reemplaza a la equidad. La opción que escribe 'riesgo individual' y 'acceso privado' contradice el pilar de los determinantes sociales y el del acceso universal. La opción que termina en 'subsidiariedad' desplaza la rectoría: el pilar es la función rectora de la autoridad sanitaria, no la subsidiariedad del Estado. La opción que parte con 'derecho al trabajo' y termina en 'cobertura parcial' confunde derechos y componentes: el pilar es el derecho a la salud y el acceso es universal, no parcial.",
+      "tipo": "directa",
+      "tags": [
+        "fesp",
+        "pilares"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía C1 §5.4"
+    },
+    {
+      "id": "c3-03",
+      "enunciado": "Una política pública de salud se evalúa diez años después de su implementación para valorar su efecto en la población. ¿Con qué momento del ciclo de políticas y con qué FESP se relaciona principalmente esa evaluación?",
+      "alternativas": [
+        "Evaluación del ciclo y FESP 1, monitoreo y evaluación",
+        "Asignación de recursos del ciclo y FESP 8, financiamiento",
+        "Acceso del ciclo y FESP 9, servicios integrales y de calidad",
+        "Desarrollo de políticas del ciclo y FESP 4, marcos regulatorios",
+        "Vigilancia y control del ciclo y FESP 2, gestión de riesgos"
+      ],
+      "respuesta": 0,
+      "pista": "El ciclo es dinámico y no lineal, pero la pregunta apunta al momento que produce información sobre las causas del problema y sobre la efectividad de la respuesta del sistema.",
+      "argumento": "El ciclo de políticas de las FESP tiene cuatro momentos: evaluación, desarrollo de políticas, asignación de recursos y acceso. Medir el efecto de una política una década después corresponde al momento de evaluación, que consiste en conocer y analizar causas y problemas de salud y la efectividad de la respuesta del sistema; su FESP asociada es la FESP 1 (monitoreo y evaluación), cuyo objetivo es asegurar la disponibilidad, el análisis y el uso de información sobre salud, bienestar, equidad, DSS y desempeño del sistema. Es importante notar que el ciclo es dinámico y no lineal: lo evaluado vuelve a alimentar el desarrollo de políticas. La opción que ubica la evaluación en la asignación de recursos y la FESP 8 (financiamiento) confunde 'evaluar resultados' con 'gestionar recursos humanos, tecnológicos y financieros'. La opción que la ubica en el acceso y la FESP 9 describe la entrega de servicios, no la medición de efectos. La opción del desarrollo de políticas y la FESP 4 describe la formulación e implementación de políticas y marcos regulatorios, es decir, el objeto evaluado y no la evaluación. La opción de vigilancia y control con la FESP 2 se refiere a la vigilancia de riesgos y emergencias, que es otra función.",
+      "tipo": "directa",
+      "tags": [
+        "fesp",
+        "ciclo-de-politicas"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía C1 §5.5 y §5.6"
+    },
+    {
+      "id": "c3-04",
+      "enunciado": "Respecto de las FESP renovadas, señale cuál(es) de las siguientes afirmaciones es/son correcta(s).  I) La FESP 1 busca asegurar la disponibilidad, el análisis y el uso de información sobre la salud, la equidad y los DSS.  II) La FESP 3 corresponde a formular e implementar políticas y marcos regulatorios.  III) La FESP 8 aborda la recaudación, la mancomunación y la asignación de recursos financieros.  IV) La FESP 11 aborda los determinantes sociales mediante iniciativas intersectoriales.",
+      "alternativas": [
+        "Solo I",
+        "Solo III",
+        "Solo I y III",
+        "Solo I, III y IV",
+        "Todas son correctas"
+      ],
+      "respuesta": 3,
+      "pista": "Pregúntese a qué FESP corresponde producir y gestionar conocimiento, y cuál se ocupa de la ley y la regulación, antes de decidir.",
+      "argumento": "Valor de verdad de cada numeral: I) VERDADERO: el objetivo de la FESP 1 (monitoreo y evaluación) es asegurar la disponibilidad, el análisis y el uso de información sobre salud, bienestar, equidad, determinantes sociales y desempeño del sistema. II) FALSO: formular e implementar políticas y fortalecer el marco regulatorio es la FESP 4 (políticas, legislación y marcos regulatorios); la FESP 3 es investigación y gestión del conocimiento, es decir, promover y gestionar la investigación (por ejemplo, financiar estudios alineados con las prioridades de la autoridad sanitaria). III) VERDADERO: la FESP 8 (financiamiento de la salud) comprende recaudación, mancomunación y asignación de recursos, incluyendo financiar prevención y promoción. IV) VERDADERO: la FESP 11 (abordaje de los determinantes sociales) se realiza mediante iniciativas intersectoriales en educación, empleo, violencia y otros ámbitos. Por lo tanto son correctas I, III y IV. La opción 'Solo I' deja fuera III y IV, que son verdaderas. La opción 'Solo III' omite I y IV. La opción 'Solo I y III' omite IV, que también es verdadera. La opción 'Todas son correctas' cae porque el numeral II es falso: describe la FESP 4, no la FESP 3.",
+      "tipo": "suficiencia",
+      "tags": [
+        "fesp",
+        "11-fesp"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía C1 §5.6"
+    },
+    {
+      "id": "c3-05",
+      "enunciado": "La autoridad sanitaria financia investigaciones alineadas con las prioridades de salud del país y promueve el uso de esa evidencia. ¿A qué FESP corresponde esa acción?",
+      "alternativas": [
+        "FESP 3, investigación y gestión del conocimiento",
+        "FESP 1, monitoreo y evaluación de la situación de salud",
+        "FESP 4, políticas, legislación y marcos regulatorios",
+        "FESP 6, desarrollo de recursos humanos para la salud",
+        "FESP 10, promoción de la salud y entornos saludables"
+      ],
+      "respuesta": 0,
+      "pista": "Distinga entre producir y gestionar evidencia científica y usar información para vigilar la situación de salud del país.",
+      "argumento": "La FESP 3 (investigación y gestión del conocimiento) consiste en la promoción y gestión de la investigación; su ejemplo clave es financiar investigaciones alineadas con las prioridades de la autoridad de salud, que es exactamente la situación descrita. La opción de la FESP 1 (monitoreo y evaluación) es cercana pero distinta: se ocupa de la información de salud, equidad, DSS y desempeño del sistema, no de financiar y gestionar investigación. La opción de la FESP 4 corresponde a formular e implementar políticas y fortalecer marcos regulatorios, no a producir evidencia. La opción de la FESP 6 (desarrollo de recursos humanos) se refiere a la formación y reorientación de la educación de pregrado hacia modelos centrados en las personas y comunidades. La opción de la FESP 10 (promoción de la salud) se ocupa de factores de riesgo, entornos saludables y alianzas, como el aumento de impuestos al tabaco, alcohol y bebidas azucaradas.",
+      "tipo": "directa",
+      "tags": [
+        "fesp",
+        "11-fesp"
+      ],
+      "dificultad": "facil",
+      "fuente": "Guía C1 §5.6"
+    },
+    {
+      "id": "c3-06",
+      "enunciado": "En el control de un paciente, ¿cuál de las siguientes acciones del médico se relaciona directamente con la FESP 7 (medicamentos y otras tecnologías de salud)?",
+      "alternativas": [
+        "Prescribir racionalmente antibióticos para evitar la resistencia",
+        "Notificar al sistema la enfermedad de declaración obligatoria",
+        "Registrar y codificar correctamente cada certificado de defunción",
+        "Realizar consejería breve y prevención cuaternaria en el control",
+        "Completar la anamnesis social del paciente y su familia"
+      ],
+      "respuesta": 0,
+      "pista": "Ubique primero qué elemento del acto clínico es una tecnología sanitaria y luego cuál es su uso adecuado.",
+      "argumento": "La FESP 7 (medicamentos y otras tecnologías de salud) abarca el acceso y el uso racional de medicamentos y tecnologías, además de su regulación, selección y financiamiento; su traducción a la práctica médica es prescribir racionalmente y cuidar el uso de antibióticos por el problema de la resistencia. La opción de notificar la enfermedad de declaración obligatoria corresponde a la FESP 2 (vigilancia, control y gestión de riesgos). La opción de registrar y codificar el certificado de defunción es el ejemplo típico de la FESP 1 (monitoreo y evaluación), junto con la historia clínica bien registrada y los indicadores de calidad. La opción de la consejería breve y la prevención cuaternaria corresponde a la FESP 10 (promoción de la salud y comportamientos saludables). La opción de completar la anamnesis social corresponde a la FESP 11 (abordaje de los determinantes sociales), junto con identificar barreras y derivar a redes intersectoriales.",
+      "tipo": "directa",
+      "tags": [
+        "fesp",
+        "practica-medica"
+      ],
+      "dificultad": "facil",
+      "fuente": "Guía C1 §5.6"
+    },
+    {
+      "id": "c3-07",
+      "enunciado": "Respecto de la distinción entre salud internacional y salud global, ¿cuál de las siguientes afirmaciones es correcta?",
+      "alternativas": [
+        "En salud internacional el actor central son las ONG y las empresas",
+        "El marco de análisis de la salud global es la diplomacia sanitaria",
+        "La salud global busca el interés sanitario del propio país",
+        "La meta de la salud internacional es el bien público mundial",
+        "Ninguna de las anteriores"
+      ],
+      "respuesta": 4,
+      "pista": "Compárese, para cada enfoque, quién actúa (Estado o actores múltiples) y qué persigue (interés propio o bien público mundial).",
+      "argumento": "Según la distinción de la OPS (2011) y Kickbusch (2006), la salud internacional se centra en el Estado-nación, sus vínculos bilaterales, subregionales o regionales entre Estados, su marco es la diplomacia sanitaria y su meta es proteger el interés sanitario del propio país (por ejemplo, un convenio bilateral Chile-Perú de vigilancia fronteriza). La salud global, en cambio, tiene como actores centrales a actores múltiples (ONG, empresas, ciencia y Estados), su marco es la gobernanza global e interdisciplinaria, su idea de poder es la interdependencia y los bienes públicos globales, y su meta es la salud como bien público mundial y la equidad (por ejemplo, la respuesta a la COVID-19 con OMS, ONG y privados). Por eso, cada afirmación ofrecida es falsa y la respuesta correcta es 'Ninguna de las anteriores': la primera se equivoca porque el actor central de la salud internacional es el Estado-nación y no las ONG ni las empresas; la segunda, porque la diplomacia sanitaria es el marco de la salud internacional, no de la global; la tercera, porque el interés sanitario del propio país es la meta de la salud internacional; y la cuarta, porque el bien público mundial es la meta de la salud global.",
+      "tipo": "todas-ninguna",
+      "tags": [
+        "salud-global",
+        "salud-internacional"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía C1 §6.3"
+    },
+    {
+      "id": "c3-08",
+      "enunciado": "Respecto de la OMS, la OPS y UNICEF, ¿cuál de las siguientes afirmaciones es correcta?",
+      "alternativas": [
+        "La OPS, fundada en 1902, es el organismo de salud pública más antiguo del mundo",
+        "La OMS, fundada en 1948, reúne a 193 Estados miembros y tiene su sede en Ginebra, Suiza",
+        "UNICEF, fundado en 1948, tiene como foco la salud de las personas adultas",
+        "La OPS, fundada en 1948, funciona desde su sede en Washington D. C.",
+        "La OMS, fundada en 1902, es la voz sanitaria de las Américas"
+      ],
+      "respuesta": 0,
+      "pista": "Revise tres datos por organización: año de fundación, sede y número de Estados miembros (y en UNICEF, su población objetivo).",
+      "argumento": "La OPS se fundó en 1902 en Washington D. C. (sede trasladada a Panamá desde 2025) y es reconocida como el organismo internacional de salud pública más antiguo del mundo; es la voz sanitaria de las Américas y elaboró el marco de las FESP renovadas de 2020. La OMS se fundó en 1948, tiene su sede en Ginebra, Suiza, y agrupa a 194 Estados; es la autoridad sanitaria mundial. UNICEF se creó en 1946, con sede en Nueva York, y tiene como prioridad global la infancia: supervivencia, desarrollo y derechos de la niñez, con presencia en más de 190 países. La opción que dice que la OMS reúne 193 Estados miembros es falsa: son 194. La opción que sitúa a UNICEF en 1948 y con foco en personas adultas es doblemente falsa: es de 1946 y su foco es la niñez. La opción que fecha a la OPS en 1948 y le asigna sede en Washington D. C. como dato de fundación también es falsa: la OPS es de 1902. La opción que dice que la OMS fue fundada en 1902 y es la voz sanitaria de las Américas confunde a la OMS con la OPS: la OMS es de 1948 y es la autoridad sanitaria mundial.",
+      "tipo": "directa",
+      "tags": [
+        "organismos-internacionales",
+        "oms-ops-unicef"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía C1 §6.2"
+    },
+    {
+      "id": "c3-09",
+      "enunciado": "Respecto del Reglamento Sanitario Internacional (RSI), señale cuál(es) de las siguientes afirmaciones es/son correcta(s).  I) Fue adoptado en 2005 por la Asamblea Mundial de la Salud, tras los vacíos que expuso el SARS, y entró en vigor en 2007.  II) Obliga jurídicamente a 196 Estados Partes.  III) Exige notificar a la OMS toda posible ESPII dentro de las 24 horas siguientes.  IV) Sustituyó a la OMS como autoridad sanitaria mundial y reforzó la rectoría de la OPS en la Región.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo I, II y III",
+        "Solo III",
+        "Solo II, III y IV",
+        "Todas son correctas"
+      ],
+      "respuesta": 1,
+      "pista": "Ordene la secuencia histórica del RSI y recuerde que es un instrumento jurídico del sistema mundial de alerta, no una autoridad sanitaria.",
+      "argumento": "Valor de verdad de cada numeral: I) VERDADERO: el RSI original es de 1969 y solo cubría tres enfermedades (cólera, peste y fiebre amarilla); en 2003 el SARS expuso los vacíos del reglamento vigente y en 2005 se adoptó el nuevo RSI en la 58ª Asamblea Mundial de la Salud, entrando en vigor el 15 de junio de 2007. II) VERDADERO: obliga jurídicamente a 196 Estados Partes. III) VERDADERO: los Estados deben notificar a la OMS toda posible Emergencia de Salud Pública de Importancia Internacional dentro de 24 horas, además de mantener capacidades básicas de vigilancia y respuesta y designar un Punto Focal Nacional operativo 24/7. IV) FALSO: el RSI es el instrumento jurídico central del sistema mundial de alerta y respuesta sanitaria; no sustituye a la OMS como autoridad sanitaria mundial, ni altera la rectoría de la OPS sobre la Región. Por lo tanto son correctas I, II y III. La opción 'Solo I y II' omite la obligación de notificación en 24 horas, que sí está establecida. La opción 'Solo III' desconoce el origen y el carácter vinculante del Reglamento. La opción 'Solo II, III y IV' incluye el numeral IV, que es falso. La opción 'Todas son correctas' cae precisamente por el numeral IV.",
+      "tipo": "suficiencia",
+      "tags": [
+        "rsi",
+        "organismos-internacionales"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Guía C1 §6.4"
+    },
+    {
+      "id": "c3-10",
+      "enunciado": "Señale cuál de las siguientes afirmaciones sobre la Emergencia de Salud Pública de Importancia Internacional (ESPII) es INCORRECTA.",
+      "alternativas": [
+        "La declara el Director General de la OMS asesorado por un Comité de Emergencias",
+        "Entre sus criterios están la repercusión grave y el riesgo de propagación",
+        "El H1N1, el ébola y la COVID-19 son ejemplos de ESPII declaradas",
+        "La declara la Asamblea Mundial de la Salud a petición de los Estados Partes",
+        "Todas las afirmaciones anteriores son correctas"
+      ],
+      "respuesta": 3,
+      "pista": "Distinga los órganos técnicos de la OMS de sus órganos deliberativos o de gobierno, y recuerde a quién el RSI le entrega esta facultad.",
+      "argumento": "La afirmación incorrecta es la que atribuye la declaración a la Asamblea Mundial de la Salud: la ESPII la declara el Director General de la OMS, asesorado por un Comité de Emergencias, facultad que le otorga el RSI de 2005. Las demás afirmaciones son verdaderas: los criterios para declararla son la repercusión grave en la salud pública, que el evento sea inusual o imprevisto, el riesgo de propagación internacional y el riesgo de restricciones a los viajes o al comercio; y los ejemplos de ESPII son el H1N1 (2009), el ébola (2014 y 2019) y la COVID-19 (2020). Por eso la opción 'Todas las afirmaciones anteriores son correctas' es falsa: existe una afirmación incorrecta en la lista (la que menciona a la Asamblea Mundial de la Salud). Las opciones que describen al Director General asesorado por el Comité de Emergencias, los criterios y los ejemplos son verdaderas y sirven como distractoras del tipo '¿cuál es la falsa?'.",
+      "tipo": "todas-ninguna",
+      "tags": [
+        "espii",
+        "rsi"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Guía C1 §6.4"
+    },
+    {
+      "id": "c4-01",
+      "enunciado": "Según la Organización Mundial de la Salud, un sistema de salud es el conjunto de organizaciones, personas y acciones cuya finalidad es:",
+      "alternativas": [
+        "promover, restablecer o mantener la salud de las personas",
+        "prevenir, diagnosticar o tratar oportunamente las enfermedades",
+        "financiar, fiscalizar y acreditar a todos los prestadores del país",
+        "administrar los seguros públicos y privados de salud del país",
+        "entregar prestaciones oportunas, seguras y de calidad a los usuarios"
+      ],
+      "respuesta": 0,
+      "pista": "Fíjate en si la opción describe la finalidad última del sistema o más bien una función, una etapa o un atributo de calidad de alguno de sus componentes.",
+      "argumento": "La correcta reproduce la definición de la OMS: conjunto de organizaciones, personas y acciones cuya finalidad es promover, restablecer o mantener la salud, con la persona al centro. Las demás describen componentes o atributos, no la finalidad: prevenir, diagnosticar o tratar son acciones clínicas y de prestación de servicios (elemento 'prestación de servicios'); financiar, fiscalizar y acreditar son funciones de gobernanza y de fiscalización (Superintendencia, SEREMI, ISP); administrar los seguros públicos y privados corresponde al aseguramiento (FONASA e ISAPRES); y 'prestaciones oportunas, seguras y de calidad' es un atributo exigido a la prestación, no la definición del sistema. Recuerda además los valores que lo guían (derecho a la salud, equidad y solidaridad) y sus seis elementos constitutivos: gobernanza, información en salud, financiación, prestación de servicios, recursos humanos y medicamentos y tecnología.",
+      "tipo": "directa",
+      "tags": [
+        "cap7",
+        "sistema-chile",
+        "definicion"
+      ],
+      "dificultad": "facil",
+      "fuente": "Guía C1 §7.1"
+    },
+    {
+      "id": "c4-02",
+      "enunciado": "El artículo 19 Nº9 de la Constitución Política de 1980 asegura a todas las personas el derecho a la protección de la salud. ¿Cuál de las siguientes garantías también establece ese artículo?",
+      "alternativas": [
+        "El deber preferente del Estado de garantizar la ejecución de acciones de salud",
+        "La obligación de cotizar un 7% de la renta imponible en el sistema de salud",
+        "La creación del régimen de garantías explícitas en salud y sus cuatro garantías",
+        "La prohibición de que las ISAPRES repartan utilidades mientras tengan deuda",
+        "El copago cero garantizado para todos los afiliados a FONASA y sus cargas"
+      ],
+      "respuesta": 0,
+      "pista": "Separa lo que está en el texto constitucional de lo que nace de leyes posteriores o de reglas administrativas de financiamiento y de tramos.",
+      "argumento": "El Art. 19 Nº9 asegura el derecho a la protección de la salud, establece que el Estado protege el libre e igualitario acceso a las acciones de promoción, protección, recuperación y rehabilitación de la salud, fija como deber preferente del Estado garantizar la ejecución de las acciones de salud, sea que se presten por instituciones públicas o privadas, y reconoce el derecho de cada persona a elegir el sistema de salud al que desee acogerse, estatal o privado. Por eso la opción del deber preferente del Estado es la correcta. La cotización del 7% es una regla de financiamiento de rango legal, no constitucional; el régimen GES y sus cuatro garantías (acceso, oportunidad, protección financiera y calidad) fueron creados por la Ley 19.966 de 2004; la prohibición de repartir utilidades mientras exista deuda pendiente proviene de la Ley 21.674 ('Ley Corta de ISAPRES', 2024); y el copago cero en la red pública de los afiliados a FONASA depende de la modalidad MAI y de los tramos, no de la Constitución.",
+      "tipo": "directa",
+      "tags": [
+        "cap7",
+        "marco-normativo",
+        "constitucion"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía C1 §7.2"
+    },
+    {
+      "id": "c4-03",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre las leyes del sistema de salud chileno es/son correcta(s).  I) La Ley 19.966 creó el régimen GES con cuatro garantías exigibles: acceso, oportunidad, protección financiera y calidad.  II) La Ley 20.584 estableció la protección financiera para diagnósticos y tratamientos de alto costo.  III) La Ley 21.674 obliga a las ISAPRES a registrar su deuda con los afiliados en cuentas individuales y prohíbe repartir utilidades mientras exista deuda pendiente.  IV) El Código Sanitario (DFL Nº725, 1967) encomienda la vigilancia, inspección y sanción sanitaria a la Superintendencia de Salud.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo I y III",
+        "Solo II y III",
+        "Solo II y IV",
+        "Solo III y IV"
+      ],
+      "respuesta": 1,
+      "pista": "Asocia cada número de ley con su aporte específico: GES, derechos y deberes, alto costo y deuda de las ISAPRES; y recuerda quién fiscaliza el Código Sanitario.",
+      "argumento": "I: V. La Ley 19.966 (2004) creó el régimen GES (ex AUGE) con cuatro garantías exigibles: acceso, oportunidad, protección financiera y calidad, financiado solidariamente por FONASA e ISAPRES. II: F. La Ley 20.584 (2012) regula derechos y deberes de los pacientes (consentimiento informado, confidencialidad de la ficha clínica, trato digno, segunda opinión, reclamos); la protección financiera para diagnósticos y tratamientos de alto costo es la Ley 20.850 'Ricarte Soto' (2015). III: V. La Ley 21.674, 'Ley Corta de ISAPRES' (2024), nace de los fallos de la Corte Suprema por cobros en exceso y la Tabla Única de Factores, y obliga a reconocer esa deuda en cuentas individuales, pagadera en planes de hasta 13 años, prohibiendo repartir utilidades mientras exista deuda pendiente. IV: F. El Código Sanitario es la norma más antigua y general en materia sanitaria y otorga las facultades de vigilancia, inspección y sanción a la SEREMI de Salud; la Superintendencia de Salud fiscaliza el aseguramiento (Intendencia de Fondos y Seguros Previsionales) y a los prestadores (Intendencia de Prestadores). Como solo I y III son verdaderas, las opciones que incluyen II o IV son incorrectas.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap7",
+        "marco-normativo",
+        "leyes"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía C1 §7.2 y §7.5"
+    },
+    {
+      "id": "c4-04",
+      "enunciado": "¿Cuál de las siguientes afirmaciones sobre la estructura del sistema de salud chileno es correcta?",
+      "alternativas": [
+        "El MINSAL es el órgano rector y de él dependen dos subsecretarías",
+        "El ISP es un laboratorio privado de referencia para las ISAPRES",
+        "La Superintendencia de Salud fiscaliza el Código Sanitario en las regiones",
+        "El ISP acredita a los prestadores públicos y privados del país",
+        "Los Servicios de Salud actúan como autoridad sanitaria de su territorio"
+      ],
+      "respuesta": 0,
+      "pista": "Distingue las tres funciones: rectoría, fiscalización y provisión. Cada organismo fiscalizador tiene un ámbito propio y la Superintendencia no depende del MINSAL.",
+      "argumento": "La correcta: el MINSAL es el órgano rector y de él dependen la Subsecretaría de Salud Pública (políticas, normas y programas de promoción y prevención, vigilancia epidemiológica) y la Subsecretaría de Redes Asistenciales (articula la red asistencial pública, define niveles de complejidad y coordina Servicios de Salud y CENABAST). Las demás confunden funciones: el ISP es el laboratorio nacional de referencia, público, que controla medicamentos, cosméticos, dispositivos médicos y vacunas, no un laboratorio privado al servicio de las ISAPRES; la fiscalización del Código Sanitario en las 16 regiones corresponde a la SEREMI de Salud, no a la Superintendencia; la acreditación y certificación de prestadores públicos y privados la realiza la Intendencia de Prestadores de la Superintendencia de Salud, no el ISP; y desde la Ley 19.937 (2004) la función de autoridad sanitaria (SEREMI, ISP) está separada de la de proveedor (Servicios de Salud), de modo que los Servicios de Salud no son autoridad sanitaria. La Superintendencia de Salud es un organismo autónomo, con personalidad jurídica y patrimonio propio, y sus dos intendencias son la de Fondos y Seguros Previsionales y la de Prestadores.",
+      "tipo": "directa",
+      "tags": [
+        "cap7",
+        "estructura",
+        "minsal"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía C1 §7.3"
+    },
+    {
+      "id": "c4-05",
+      "enunciado": "¿Cuál de las siguientes afirmaciones sobre el financiamiento del sistema de salud chileno es correcta?",
+      "alternativas": [
+        "La cotización obligatoria de los trabajadores es el 7% de la renta imponible",
+        "Las empresas aportan un 7% de las remuneraciones para accidentes del trabajo",
+        "El aporte fiscal proveniente de impuestos generales no financia la salud",
+        "FONASA cubre cerca del 13% de la población y las ISAPRES el 87%",
+        "Los copagos y el gasto de bolsillo no son fuentes de financiamiento"
+      ],
+      "respuesta": 0,
+      "pista": "Revisa las cuatro fuentes de financiamiento y sus porcentajes, y no confundas la cotización de los trabajadores con el aporte de los empleadores ni las cifras de cobertura de cada sector.",
+      "argumento": "Las fuentes de financiamiento son el aporte fiscal (impuestos generales), la cotización obligatoria de los trabajadores equivalente al 7% de la renta imponible mensual, el aporte de las empresas de 0,95% para el seguro de accidentes del trabajo y enfermedades profesionales, y los copagos y el gasto de bolsillo. Por eso es correcta solo la que asigna el 7% a la cotización de los trabajadores. La opción que atribuye un 7% a las empresas confunde la cifra: el aporte patronal es de 0,95%. Decir que el aporte fiscal no financia la salud es falso: los impuestos generales son una fuente central, sobre todo para los afiliados de FONASA. La afirmación que invierte las coberturas es falsa: FONASA cubre cerca del 87% de la población (unos 17,1 millones en 2025) y las ISAPRES cerca del 13% (unos 2,5 millones). Finalmente, los copagos y el gasto de bolsillo sí son una fuente de financiamiento reconocida del sistema.",
+      "tipo": "directa",
+      "tags": [
+        "cap7",
+        "financiamiento",
+        "fonasa"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía C1 §7.4"
+    },
+    {
+      "id": "c4-06",
+      "enunciado": "Respecto de los tramos de FONASA y sus modalidades de atención, ¿cuál de las siguientes afirmaciones es correcta?",
+      "alternativas": [
+        "El tramo A no puede comprar bonos en prestadores privados en convenio",
+        "El tramo A puede comprar bonos para atenderse en clínicas en convenio",
+        "La modalidad MAI entrega copago cero en prestadores privados en convenio",
+        "Solo los tramos C y D pueden acceder a la Modalidad de Libre Elección",
+        "Ninguna de las afirmaciones anteriores es correcta"
+      ],
+      "respuesta": 0,
+      "pista": "Recuerda a quiénes agrupa el tramo A y en qué red se aplica el copago cero de la Modalidad de Atención Institucional; distingue esa modalidad de la compra de bonos.",
+      "argumento": "El tramo A agrupa a las personas carentes de recursos y a los causantes de subsidio familiar (Ley 18.020); por su condición no pueden comprar bonos en prestadores privados en convenio, de modo que la primera afirmación es la correcta y, por lo mismo, la opción 'Ninguna de las afirmaciones anteriores es correcta' es falsa. Las demás son falsas: justamente porque es carente de recursos, el tramo A no puede comprar bonos en clínicas en convenio (esa es la distinción clásica con los tramos B, C y D, que sí pueden); la MAI da copago cero en la red pública (CESFAM, SAPU, CDT, CRS y hospitales) y no en prestadores privados en convenio, que corresponden a la MLE; y la Modalidad de Libre Elección está disponible para los tramos B, C y D, no solo para C y D. Recuerda que los tramos se definen por ingresos y cargas (con 3 o más cargas familiares el tramo baja: de C a B y de D a C) y que todos los tramos tienen copago cero en la red pública.",
+      "tipo": "todas-ninguna",
+      "tags": [
+        "cap7",
+        "fonasa",
+        "tramos"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía C1 §7.4"
+    },
+    {
+      "id": "c4-07",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre niveles de atención y complejidad hospitalaria es/son correcta(s).  I) El primer nivel es ambulatorio, resuelve entre el 70% y el 80% de la población y se centra en promoción y prevención.  II) El segundo nivel de atención se accede en forma directa, sin referencia del primer nivel.  III) Los hospitales Tipo 1 o 2, de 250 a 500 camas, desarrollan docencia e investigación y cuentan con UCI.  IV) Los hospitales Tipo 4 tienen entre 100 y 200 camas y corresponden a mediana complejidad.",
+      "alternativas": [
+        "Solo I y III",
+        "Solo I y IV",
+        "Solo II y III",
+        "Solo II y IV",
+        "Solo I, II y III"
+      ],
+      "respuesta": 0,
+      "pista": "Fíjate en cómo se llega a cada nivel de atención y en la relación entre tipo de hospital y número de camas: el Tipo 4 es el de menor complejidad.",
+      "argumento": "I: V. El primer nivel (APS) es ambulatorio, resuelve entre el 70% y el 80% de la población y está centrado en promoción y prevención. II: F. El segundo nivel tiene complejidad y cobertura intermedias y se accede por referencia desde el primer nivel, no en forma directa. III: V. Los hospitales Tipo 1 o 2 tienen 250 a 500 camas, alta complejidad (referencia regional o nacional), todas las especialidades, UCI/UTI, imagenología compleja, hemodinamia y desarrollo de docencia e investigación. IV: F. El Tipo 4 es el hospital comunitario de baja complejidad, con menos de 100 camas; el rango de 100 a 200 camas corresponde al Tipo 3, de mediana complejidad, que actúa como nodo intermedio que recibe y deriva. Como solo I y III son verdaderas, cualquier opción que incluya II o IV es incorrecta; la que agrega II exige aceptar que el segundo nivel es de acceso directo.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap8",
+        "niveles-atencion",
+        "complejidad"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía C1 §7.6"
+    },
+    {
+      "id": "c4-08",
+      "enunciado": "El Estado aplica un impuesto a las bebidas azucaradas para evitar que la población desarrolle factores de riesgo como la obesidad. Esta medida corresponde a prevención:",
+      "alternativas": [
+        "Primordial",
+        "Primaria",
+        "Secundaria",
+        "Terciaria",
+        "Cuaternaria"
+      ],
+      "respuesta": 0,
+      "pista": "Pregúntate si la medida actúa antes de que aparezcan los factores de riesgo, antes de que aparezca la enfermedad, o sobre la enfermedad ya presente o sobre la propia atención.",
+      "argumento": "La prevención primordial actúa antes de que existan los factores de riesgo: son políticas de población que evitan que esos factores aparezcan, como los impuestos saludables o las intervenciones sobre entornos, que es exactamente el caso del impuesto a las bebidas azucaradas. No es primaria, porque la prevención primaria actúa antes de que aparezca la enfermedad combinando promoción o fomento de la salud con protección específica (vacunas, saneamiento, hábitos), es decir, cuando el factor de riesgo ya puede existir; no es secundaria, que se aplica con la enfermedad ya presente en fase preclínica y consiste en diagnóstico precoz o tamizaje y tratamiento oportuno; no es terciaria, propia de la enfermedad ya instaurada o con secuelas, centrada en rehabilitación, reinserción y limitación del daño; y no es cuaternaria, que se dirige a la propia atención para evitar la iatrogenia, el sobrediagnóstico y el sobretratamiento. Conviene no confundirla con la promoción de la salud, que actúa sobre estilos de vida saludables buscando bienestar, mientras la prevención busca disminuir los factores de riesgo.",
+      "tipo": "directa",
+      "tags": [
+        "cap8",
+        "prevencion",
+        "niveles"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía C1 §8.1"
+    },
+    {
+      "id": "c4-09",
+      "enunciado": "¿Cuál de las siguientes afirmaciones distingue correctamente la prevención de la promoción de la salud?",
+      "alternativas": [
+        "La prevención reduce los factores de riesgo; la promoción fomenta estilos de vida",
+        "La prevención fomenta estilos de vida; la promoción reduce los factores de riesgo",
+        "La promoción se limita a la vacunación y la prevención a la educación en salud",
+        "Ambas actúan solo en el período patogénico, es decir, tras el diagnóstico",
+        "Ambas se aplican únicamente en el nivel terciario de la red asistencial"
+      ],
+      "respuesta": 0,
+      "pista": "El objetivo de la prevención es disminuir los factores de riesgo; el de la promoción es el bienestar a través de estilos de vida saludables. Revisa también en qué períodos de la historia natural actúan.",
+      "argumento": "La prevención tiene por objetivo disminuir los factores de riesgo antes de que aparezca la enfermedad, mientras la promoción de la salud actúa sobre los estilos de vida saludables y busca el bienestar; esa es la distinción correcta. La opción que invierte los términos es falsa porque asigna a la prevención la promoción de estilos de vida y a la promoción la reducción de factores de riesgo. La que reduce la promoción a la vacunación y la prevención a la educación en salud es falsa: la vacunación es protección específica, propia de la prevención primaria, y la educación para la salud es una herramienta de promoción, no un compartimento exclusivo. Decir que ambas actúan solo en el período patogénico es falso: siguiendo a Leavell y Clark, la prevención primaria se ubica en el período prepatogénico y las acciones de promoción también operan antes de la enfermedad. Y limitar ambas al nivel terciario es falso: la promoción y la prevención primordial y primaria se desarrollan sobre todo en el primer nivel (APS), la prevención secundaria en el segundo nivel y solo la terciaria y cuaternaria se concentran en el tercer nivel.",
+      "tipo": "directa",
+      "tags": [
+        "cap8",
+        "prevencion",
+        "promocion"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía C1 §8.1 y §8.3"
+    },
+    {
+      "id": "c4-10",
+      "enunciado": "¿Cuál de las siguientes afirmaciones sobre la Atención Primaria de Salud (APS) en Chile es correcta?",
+      "alternativas": [
+        "La APS es la puerta de entrada y se administra a nivel municipal",
+        "La APS fue creada por la Ley 19.966 para garantizar el acceso al GES",
+        "El primer nivel de atención atiende solo por referencia del segundo nivel",
+        "La FESP 9 corresponde a la fiscalización sanitaria que realizan las SEREMI",
+        "Todas las afirmaciones anteriores son correctas"
+      ],
+      "respuesta": 0,
+      "pista": "Ubica históricamente de dónde surge la APS, quién administra sus establecimientos y qué función de la FESP se conecta con ella mediante la referencia y la contrarreferencia.",
+      "argumento": "La APS es el primer nivel de atención y la puerta de entrada al sistema, con administración municipal (CESFAM, SAPU, postas y consultorios), cobertura amplia del 70% al 80% de la población y foco ambulatorio en promoción y prevención: esa afirmación es la correcta, y por eso 'Todas las afirmaciones anteriores son correctas' es falsa (basta que una de las otras sea falsa para descartarla). La APS no fue creada por la Ley 19.966, que instauró el régimen GES: surge como estrategia central en la Conferencia de Alma-Ata de 1978, con la meta 'Salud para todos'. El primer nivel no atiende solo por referencia del segundo: es la puerta de entrada, y el flujo habitual es al revés, con derivación del primer al segundo nivel por referencia y retorno por contrarreferencia. Y la FESP 9 no es la fiscalización sanitaria regional que realizan las SEREMI: se vincula con la APS a través de la referencia y la contrarreferencia oportunas y la continuidad del cuidado.",
+      "tipo": "todas-ninguna",
+      "tags": [
+        "cap8",
+        "aps",
+        "alma-ata"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía C1 §8.2"
+    }
+  ]
+}

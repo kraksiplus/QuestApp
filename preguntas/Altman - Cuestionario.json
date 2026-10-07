@@ -1,0 +1,426 @@
+{
+  "version": 1,
+  "titulo": "Joseph Altman y la neurogénesis adulta — El dogma de «no hay neuronas nuevas»",
+  "preguntas": [
+    {
+      "id": "c10-01",
+      "enunciado": "Sobre el dogma de que no se añaden neuronas al cerebro del mamífero adulto, señale cuál(es) de las siguientes afirmaciones es/son correcta(s).  I) A fines del siglo XIX era aceptado de manera universal por los neuroanatomistas.  II) Koelliker y His describieron un cerebro cuya estructura permanece fija poco después del nacimiento.  III) Ramón y Cajal sostuvo que en los centros adultos las vías nerviosas son fijas, terminadas e inmutables.  IV) Los informes ocasionales de neurogénesis postnatal fueron muy citados por los libros de texto.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo II y III",
+        "Solo I, II y III",
+        "Solo III y IV",
+        "Todas son correctas"
+      ],
+      "respuesta": 2,
+      "pista": "Piense en cómo describían los anatomistas la arquitectura del cerebro adulto y en el destino que el capítulo da a los informes aislados de neurogénesis postnatal.",
+      "argumento": "I: V. El capítulo abre señalando que, desde el comienzo de la doctrina neuronal a fines del siglo XIX hasta comienzos de los 90, un dogma central era que «no se añaden neuronas nuevas al cerebro del mamífero adulto», y que ya entonces la idea de un cerebro estructuralmente constante era sostenida universalmente por los neuroanatomistas. II: V. Koelliker, His y otros describieron en detalle el desarrollo del sistema nervioso central y encontraron que su estructura permanecía fija poco después del nacimiento; como esa elaborada arquitectura se veía constante, añadir neuronas resultaba inconcebible. III: V. Ramón y Cajal describió las fases del desarrollo neuronal hasta la estructura multipolar del adulto y escribió que «en los centros adultos las vías nerviosas son algo fijo, terminado e inmutable. Todo puede morir, nada puede regenerarse». Además, ni figuras mitóticas ni estadios de desarrollo preadultos se habían visto en el cerebro adulto. IV: F. El texto dice lo contrario: esos informes eran habitualmente ignorados por los libros de texto y rara vez citados, presumiblemente por el peso de la autoridad contraria y por la insuficiencia de los métodos para detectar la división celular y para decidir si las células aparentemente nuevas eran glía o neuronas. Por eso la respuesta correcta es «Solo I, II y III».",
+      "tipo": "suficiencia",
+      "tags": [
+        "altman",
+        "dogma"
+      ],
+      "dificultad": "media",
+      "fuente": "Altman, p. 230"
+    },
+    {
+      "id": "c10-02",
+      "enunciado": "¿Qué permite detectar la autorradiografía con [³H]-timidina, introducida a fines de los años 50?",
+      "alternativas": [
+        "La progenie de las células que se dividen",
+        "La velocidad del impulso en axones mielinizados",
+        "La densidad de sinapsis en la corteza adulta",
+        "El número de astrocitos marcados con cresil",
+        "La ubicación de las neuronas sin marcar"
+      ],
+      "respuesta": 0,
+      "pista": "Fíjese en qué momento del ciclo celular se incorpora el marcador al ADN y qué se puede reconstruir a partir de eso.",
+      "argumento": "La timidina tritiada se incorpora al ADN de las células que se dividen; por lo tanto se puede marcar la progenie de las células que acaban de dividirse y determinar su tiempo y lugar de nacimiento. Fue el avance importante de fines de los años 50 y al principio se aplicó exclusivamente a roedores en desarrollo, reflejo de la persistencia del prejuicio de que la neurogénesis no ocurría en el adulto. Las distractoras fallan así: la velocidad del impulso en axones mielinizados y la densidad de sinapsis se estiman con electrofisiología o cuantificación estereológica, no marcando ADN; el «cresil» alude al colorante de contraste de los autorradiogramas, que no es el marcador; y la opción de las neuronas sin marcar invierte la lógica del método, porque lo que se marca y se persigue es la progenie de las células divididas, no lo que quedó sin marcar.",
+      "tipo": "directa",
+      "tags": [
+        "altman",
+        "timidina"
+      ],
+      "dificultad": "facil",
+      "fuente": "Altman, p. 230"
+    },
+    {
+      "id": "c10-03",
+      "enunciado": "¿En qué estructuras del animal adulto reportó Altman neuronas nuevas?",
+      "alternativas": [
+        "En el cerebelo, la médula espinal y el tálamo",
+        "En el giro dentado, el bulbo y la corteza",
+        "En la retina, el nervio óptico y el quiasma",
+        "En la sustancia negra y el tronco encefálico",
+        "En la amígdala y el hipotálamo del gato"
+      ],
+      "respuesta": 1,
+      "pista": "Distinga las regiones que Altman reportó de aquellas que se agregaron al debate en años recientes.",
+      "argumento": "Desde comienzos de los 60, Altman publicó una serie de trabajos con evidencia autorradiográfica de timidina sobre neuronas nuevas en el giro dentado del hipocampo, el bulbo olfatorio y la corteza cerebral de la rata adulta, y también describió neuronas nuevas en la neocorteza y otras zonas del gato adulto (figura 10.1). La mayoría de esas neuronas eran pequeñas y Altman sugirió que eran cruciales para el aprendizaje y la memoria. Las otras opciones corresponden a estructuras y vías que no figuran entre sus hallazgos: el cerebelo, la médula y el tálamo; la retina y la vía óptica; y la sustancia negra, el tronco encefálico, la amígdala y el hipotálamo, reportados por otros grupos recién en años recientes y con confirmaciones desiguales.",
+      "tipo": "directa",
+      "tags": [
+        "altman",
+        "hallazgos-rata"
+      ],
+      "dificultad": "facil",
+      "fuente": "Altman, p. 230"
+    },
+    {
+      "id": "c10-04",
+      "enunciado": "¿Cómo fueron recibidos inicialmente los hallazgos de Altman, pese a publicarse en revistas prestigiosas?",
+      "alternativas": [
+        "Fueron recogidos por los libros de texto de la época",
+        "Fueron refutados de inmediato con microscopía electrónica",
+        "Fueron acogidos como prueba de neurogénesis adulta",
+        "Fueron ignorados o desestimados por más de dos décadas",
+        "Fueron replicados en pocos meses por otros grupos"
+      ],
+      "respuesta": 3,
+      "pista": "Considere lo que todavía sostenía en 1970 un manual autorizado de neurociencia del desarrollo.",
+      "argumento": "Aunque aparecieron en las revistas más prestigiosas del momento —Journal of Comparative Neurology, Science y Nature—, esos hallazgos fueron totalmente ignorados o desestimados como poco importantes durante más de dos décadas; todavía en 1970 un manual autorizado de neurociencia del desarrollo afirmaba que «no hay evidencia convincente de producción de neuronas en el cerebro de mamíferos adultos». La refutación con microscopía electrónica no fue inmediata: quince años después, Kaplan aportó apoyo con esa técnica y aun así su trabajo tuvo escasa repercusión. La aceptación general llegó hacia los años 90, los libros de texto no los recogieron en su momento y no hubo réplica rápida por otros grupos.",
+      "tipo": "directa",
+      "tags": [
+        "altman",
+        "silencio-del-dogma"
+      ],
+      "dificultad": "media",
+      "fuente": "Altman, p. 230"
+    },
+    {
+      "id": "c10-05",
+      "enunciado": "¿Qué le ocurrió a Altman al no reconocerse su trabajo sobre neurogénesis adulta?",
+      "alternativas": [
+        "Fue rechazado en MIT y se trasladó a Purdue",
+        "Fue ascendido a profesor titular en MIT",
+        "Fue contratado por Yale para estudiar primates",
+        "Recibió fondos crecientes para investigar",
+        "Abandonó la ciencia y se dedicó a la medicina"
+      ],
+      "respuesta": 0,
+      "pista": "Compare su destino con el de otros protagonistas del capítulo que también fueron atacados por sus afirmaciones.",
+      "argumento": "A Altman no se le concedió el tenure en MIT y se trasladó a Purdue, donde con el tiempo volvió a preguntas más convencionales del desarrollo, quizá por la falta de reconocimiento de su trabajo sobre neurogénesis adulta; al no poder conseguir subvenciones, sostuvo su investigación produciendo magníficos atlas cerebrales. No fue ascendido: se le negó la promoción. Yale y el estudio del cerebro de primates corresponden a Rakic, no a Altman. Recibió cada vez menos apoyo, no más. Quien dejó el campo, se hizo estudiante de medicina y hoy trabaja en medicina de rehabilitación fue Michael Kaplan, que había sido atacado por sus afirmaciones iconoclastas.",
+      "tipo": "directa",
+      "tags": [
+        "altman",
+        "carrera-de-altman"
+      ],
+      "dificultad": "media",
+      "fuente": "Altman, p. 232"
+    },
+    {
+      "id": "c10-06",
+      "enunciado": "¿Qué mostró Kaplan con sus estudios de microscopía electrónica en ratas adultas?",
+      "alternativas": [
+        "Que las células marcadas eran astrocitos y oligodendrocitos",
+        "Que las células marcadas tenían rasgos de neurona",
+        "Que la timidina también marcaba a las células gliales",
+        "Que en el giro dentado no había células nuevas",
+        "Que la corteza adulta contenía solo interneuronas"
+      ],
+      "respuesta": 1,
+      "pista": "Piense en qué rasgos ultraestructurales permiten separar una neurona de una célula glial.",
+      "argumento": "Kaplan y sus coautores mostraron que las células marcadas con timidina en el giro dentado y el bulbo olfatorio de ratas adultas tenían las características ultraestructurales de neuronas —dendritas y sinapsis— y no de glía (astrocitos u oligodendrocitos); luego reportó evidencia autorradiográfica y ultraestructural de neuronas nuevas en la corteza cerebral de ratas adultas, confirmando los reclamos previos de Altman. Invertir el resultado (células gliales, timidina que marca glía, ausencia de células nuevas) repite justamente el error clásico de confusión que el trabajo venía a resolver. La opción de que la corteza adulta contenía solo interneuronas adelanta un resultado que el propio capítulo deja como tema de debate. Pese a publicar en Science, el Journal of Comparative Neurology y el Journal of Neuroscience, el trabajo de Kaplan tuvo poca repercusión medida en citas o estudios de seguimiento; atacado por sus afirmaciones iconoclastas, dejó el campo, se hizo estudiante de medicina y hoy trabaja en medicina de rehabilitación.",
+      "tipo": "directa",
+      "tags": [
+        "altman",
+        "kaplan"
+      ],
+      "dificultad": "media",
+      "fuente": "Altman, p. 232"
+    },
+    {
+      "id": "c10-07",
+      "enunciado": "¿Qué evidencia aportó Kaplan sobre el cerebro de macacos adultos?",
+      "alternativas": [
+        "Pérdida de neuronas en el hipocampo",
+        "Neurogénesis en la corteza visual",
+        "Mitosis en la zona subventricular",
+        "Migración de neuronas al cerebelo",
+        "Formación de sinapsis en la retina"
+      ],
+      "respuesta": 2,
+      "pista": "El dato proviene de combinar el marcaje con timidina con la microscopía electrónica en primates.",
+      "argumento": "Combinando una vez más el marcaje con [³H]-timidina y la microscopía electrónica, Kaplan mostró mitosis en la zona subventricular de macacos adultos. No reportó neurogénesis en la corteza visual del macaco —la neurogénesis cortical es precisamente el punto que el capítulo deja abierto—, ni pérdida de neuronas hipocampales, ni migración al cerebelo, ni formación de sinapsis retinianas. La relevancia de este dato es que mostraba división celular en un primate adulto, en el mismo período en que su trabajo sobre neuronas nuevas era atacado y escasamente citado.",
+      "tipo": "directa",
+      "tags": [
+        "altman",
+        "kaplan"
+      ],
+      "dificultad": "facil",
+      "fuente": "Altman, p. 232"
+    },
+    {
+      "id": "c10-08",
+      "enunciado": "¿A qué conclusión llegó Rakic tras su estudio con [³H]-timidina en macacos rhesus adultos?",
+      "alternativas": [
+        "Que el hipocampo es la única fuente de neuronas",
+        "Que la neurogénesis persiste en la corteza visual",
+        "Que solo el bulbo olfatorio produce neuronas nuevas",
+        "Que ninguna neurona se genera tras el nacimiento",
+        "Que la timidina no marca células en primates"
+      ],
+      "respuesta": 3,
+      "pista": "El estudio abarcó todas las estructuras y subdivisiones principales del cerebro del primate, incluidos la corteza de asociación, el hipocampo y el bulbo olfatorio.",
+      "argumento": "Rakic examinó «todas las estructuras y subdivisiones principales del cerebro, incluidas la neocorteza visual, motora y de asociación, el hipocampo y el bulbo olfatorio» de macacos rhesus adultos y no encontró «ni una sola célula intensamente marcada con las características morfológicas de una neurona en ningún cerebro de ningún animal adulto»; concluyó que todas las neuronas del cerebro del macaco rhesus se generan durante la vida prenatal y posnatal temprana. Sus trabajos tuvieron una influencia profunda en el desarrollo del campo. Las demás opciones contradicen esa conclusión y la última es falsa porque el método sí marcaba células: de hecho, esa ausencia de células marcadas con rasgos neuronales es el corazón de su resultado negativo.",
+      "tipo": "directa",
+      "tags": [
+        "altman",
+        "rakic"
+      ],
+      "dificultad": "media",
+      "fuente": "Altman, p. 233"
+    },
+    {
+      "id": "c10-09",
+      "enunciado": "¿Con qué argumento cuestionaron Eckenhoff y Rakic los informes de neurogénesis en ratas?",
+      "alternativas": [
+        "Que los estudios se hicieron solo con crías",
+        "Que la timidina no se incorpora al ADN de las ratas",
+        "Que el giro dentado de la rata es demasiado pequeño",
+        "Que las ratas no aprenden tareas del hipocampo",
+        "Que las ratas nunca llegan a ser adultas"
+      ],
+      "respuesta": 4,
+      "pista": "Los autores sostenían que un cerebro estable era una necesidad biológica en organismos cuyo comportamiento aprendido se adquiere durante largos períodos.",
+      "argumento": "El trabajo posterior de Eckenhoff y Rakic en macacos rhesus adultos, con autorradiografía y microscopía electrónica, tampoco encontró neuronas nuevas, y sus autores cuestionaron los informes en ratas sugiriendo que las ratas nunca dejan de crecer y por eso nunca llegan a ser adultas; de hecho existen cepas de ratas que sí dejan de crecer y que muestran neurogénesis adulta, pero en ese momento no se sabía. Para ellos la supuesta ausencia de neurogénesis adulta en primates tenía sentido porque «una población estable de neuronas puede ser una necesidad biológica en un organismo cuya supervivencia depende de comportamiento aprendido adquirido durante un largo período»; Rakic sugirió además que el comportamiento social y cognitivo de los primates podría requerir esa ausencia. Las otras objeciones no aparecen en el texto: el método sí marcaba ADN en ratas, el tamaño del giro dentado no fue el argumento, las ratas sí aprenden tareas hipocampales y los estudios no se limitaron a crías.",
+      "tipo": "directa",
+      "tags": [
+        "altman",
+        "rakic"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Altman, p. 233"
+    },
+    {
+      "id": "c10-10",
+      "enunciado": "¿De qué variables dependía el volumen de los núcleos del canto según Nottebohm?",
+      "alternativas": [
+        "Del sexo, la madurez sexual y la testosterona",
+        "Del peso corporal, la dieta y las horas de sueño",
+        "De la edad del ave, el clima y la latitud",
+        "Del tamaño del huevo y la longevidad de la especie",
+        "De la estación, la dieta y el tamaño del cerebro"
+      ],
+      "respuesta": 0,
+      "pista": "Piense en variables que cambian con el ciclo reproductivo del ave y con la complejidad de su canto.",
+      "argumento": "Nottebohm y sus colegas, en Rockefeller University, descubrieron mecanismos cerebrales cruciales para el canto de las aves y mostraron que el volumen de dos núcleos era función de variables como el sexo, la madurez sexual, la complejidad del canto, la especie, el nivel de testosterona y la estación. Los cambios estacionales y hormonales en el volumen de esos núcleos eran tan grandes en algunas especies que Nottebohm se propuso examinar si se debían a fluctuaciones del número real de neuronas del cerebro adulto del ave. Las demás opciones enumeran factores biológicos verosímiles, pero que el capítulo no menciona: dieta, sueño, tamaño del huevo, longevidad, latitud o tamaño del cerebro.",
+      "tipo": "directa",
+      "tags": [
+        "altman",
+        "aves"
+      ],
+      "dificultad": "media",
+      "fuente": "Altman, p. 234"
+    },
+    {
+      "id": "c10-11",
+      "enunciado": "Respecto de las pruebas que reunieron Nottebohm y sus colegas sobre neuronas nuevas en el cerebro de aves adultas, señale cuál(es) de las siguientes afirmaciones es/son correcta(s).  I) Mostraron la producción de células nuevas mediante marcaje con timidina.  II) Mostraron con ultraestructura que las células nuevas recibían sinapsis.  III) Mostraron que las presuntas neuronas respondían al sonido con potenciales de acción.  IV) Mostraron que la neurogénesis se limita a las especies que cantan.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo II y III",
+        "Solo I, II y III",
+        "Solo I y IV",
+        "Todas son correctas"
+      ],
+      "respuesta": 2,
+      "pista": "El capítulo describe tres tipos de evidencia sucesivos, y luego varios hallazgos adicionales sobre su alcance y su regulación.",
+      "argumento": "I: V. Primero mostraron la producción de células nuevas con marcaje de timidina. II: V. Después aportaron evidencia ultraestructural de que las células nuevas eran neuronas que recibían sinapsis. III: V. Por último, en un verdadero tour de force técnico, mostraron que las presuntas neuronas respondían al sonido con potenciales de acción. IV: F. En estudios posteriores mostraron que la neurogénesis era amplia en todo el prosencéfalo del ave, incluido el hipocampo, tanto en especies cantoras como no cantoras, además de que los axones de las neuronas nuevas se extendían largas distancias y que el nacimiento y la muerte neuronales ocurrían en paralelo. A pesar de esta evidencia, que el capítulo califica de irrebatible, los estudios tendían a verse como una especialización exótica ligada a la necesidad de cerebros livianos para volar y a los ciclos estacionales del canto, y por eso se les consideró irrelevantes para el cerebro de primates o de mamíferos. La respuesta correcta es «Solo I, II y III».",
+      "tipo": "suficiencia",
+      "tags": [
+        "altman",
+        "aves"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Altman, p. 234"
+    },
+    {
+      "id": "c10-12",
+      "enunciado": "¿Qué ventaja del BrdU frente a la timidina tritiada destaca el capítulo?",
+      "alternativas": [
+        "Se incorpora al ADN fuera de la fase S",
+        "Se visualiza con inmunocitoquímica",
+        "Marca solo células que ya no se dividen",
+        "No necesita anticuerpos específicos",
+        "Solo sirve para el bulbo olfatorio"
+      ],
+      "respuesta": 1,
+      "pista": "Piense en el paso técnico que el BrdU permite eliminar del protocolo de detección.",
+      "argumento": "El BrdU (5-bromo-3′-deoxiuridina) es un análogo sintético de la timidina: como ella, es captado por las células durante la fase S de la mitosis y marca a las células en proliferación y a su progenie, pero se visualiza con técnicas inmunocitoquímicas y no requiere autorradiografía. De ahí su ventaja. Las demás opciones son falsas: se incorpora precisamente durante la fase S; lo que marca son células que se están dividiendo (y su progenie), no células postmitóticas; requiere anticuerpos específicos; y sirve para múltiples regiones y especies. El capítulo agrega que más recientemente se introdujo un marcador endógeno de proliferación, la proteína Ki-67, presente durante la mitosis y ausente en la célula en reposo.",
+      "tipo": "directa",
+      "tags": [
+        "altman",
+        "brdu"
+      ],
+      "dificultad": "media",
+      "fuente": "Altman, p. 235"
+    },
+    {
+      "id": "c10-13",
+      "enunciado": "¿Cuál de los siguientes marcadores corresponde a un marcador endógeno de proliferación celular?",
+      "alternativas": [
+        "NeuN",
+        "BrdU",
+        "Ki-67",
+        "MAP-2",
+        "NSE"
+      ],
+      "respuesta": 2,
+      "pista": "Distinga un marcador que la propia célula expresa de un compuesto que hay que administrar, y de los marcadores que identifican neuronas ya maduras.",
+      "argumento": "Ki-67 es una proteína que funciona como marcador endógeno de proliferación: está presente durante la mitosis y ausente en la célula en reposo. BrdU, en cambio, es un análogo exógeno de timidina que debe administrarse y se incorpora al ADN en la fase S. Los otros tres son marcadores de neuronas maduras: NSE, MAP-2 y NeuN (junto con TuJ1, que el capítulo menciona en la misma lista). Aunque algunos de estos marcadores pueden teñir células no neuronales en ciertas condiciones y otros no tiñen todos los tipos neuronales, el capítulo considera que la expresión de varios de esos antígenos en una población de células generadas en el adulto es buena evidencia de que se produjeron neuronas nuevas; combinados con el BrdU, permitieron por fin identificar neuronas nuevas. Existen además marcadores de neuronas inmaduras y de glía (oligodendrocitos y astrocitos).",
+      "tipo": "directa",
+      "tags": [
+        "altman",
+        "marcadores"
+      ],
+      "dificultad": "media",
+      "fuente": "Altman, p. 235"
+    },
+    {
+      "id": "c10-14",
+      "enunciado": "Sobre la regulación de la neurogénesis en el giro dentado del roedor, señale cuál(es) de las siguientes afirmaciones es/son correcta(s).  I) En la rata se generan más de 9.000 células nuevas al día, en su mayoría neuronas.  II) El estrés agudo y crónico disminuye la neurogénesis hipocampal.  III) Los glucocorticoides aumentan la tasa de neurogénesis.  IV) La complejidad ambiental y la rueda de ejercicio son potenciadores bien estudiados.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo III y IV",
+        "Solo I, II y IV",
+        "Solo II, III y IV",
+        "Todas son correctas"
+      ],
+      "respuesta": 2,
+      "pista": "Siga la cadena estrés - esteroides suprarrenales - glucocorticoides y su efecto sobre la tasa de células nuevas.",
+      "argumento": "I: V. En la rata el número de células hipocampales nuevas es enorme, más de 9.000 por día, y la mayoría son neuronas; esa magnitud hace muy improbable que el fenómeno sea solo un retraso ontogenético o un vestigio filogenético. II: V. El estrés agudo y crónico disminuye la neurogénesis hipocampal. III: F. Los esteroides suprarrenales probablemente median ese efecto: el estrés eleva los niveles de esteroides y los glucocorticoides disminuyen la tasa de neurogénesis, no la aumentan. IV: V. Entre las condiciones que aumentan el número de células nuevas del giro dentado, la complejidad ambiental y la rueda de ejercicio son las más estudiadas. La respuesta correcta es «Solo I, II y IV».",
+      "tipo": "suficiencia",
+      "tags": [
+        "altman",
+        "regulacion"
+      ],
+      "dificultad": "media",
+      "fuente": "Altman, p. 236"
+    },
+    {
+      "id": "c10-15",
+      "enunciado": "¿Cuál de las siguientes afirmaciones sobre la neurogénesis del bulbo olfatorio adulto es correcta?",
+      "alternativas": [
+        "Solo ocurre en primates no humanos adultos",
+        "Es un fenómeno exclusivo de aves y reptiles",
+        "También se ha descartado en ratas adultas",
+        "Se replica en mamíferos, humanos incluidos",
+        "Es más intensa que en el giro dentado del adulto"
+      ],
+      "respuesta": 3,
+      "pista": "Averigüe cuál de los hallazgos de Altman quedó fuera de discusión y cuál sigue abierto.",
+      "argumento": "El informe de Altman sobre neurogénesis en el bulbo olfatorio adulto fue replicado aproximadamente al mismo tiempo en que se confirmaba su hallazgo en el giro dentado: hoy se ha mostrado en una variedad de mamíferos, incluidos los humanos, y al menos en ratas está modulada por la experiencia olfatoria y el aprendizaje. No es un fenómeno exclusivo de aves y reptiles, no se ha descartado en ratas, no se limita a primates no humanos y el capítulo no lo compara como más intenso que el del giro dentado. Lo que sí queda en disputa es su informe de neurogénesis en la corteza cerebral: más allá de Altman y Kaplan hay estudios positivos en hámster, rata, marmoseta y macaco, y otros que no encontraron neurogénesis cortical; Gould, Cameron y Dayer revisaron ambos conjuntos y sugirieron que los resultados negativos se debieron a la insuficiente sensibilidad de los métodos y al pequeño número y tamaño de las neuronas corticales nuevas.",
+      "tipo": "directa",
+      "tags": [
+        "altman",
+        "bulbo-olfatorio"
+      ],
+      "dificultad": "media",
+      "fuente": "Altman, p. 237"
+    },
+    {
+      "id": "c10-16",
+      "enunciado": "Sobre las razones por las que los hallazgos de Altman fueron ignorados, señale cuál(es) de las siguientes afirmaciones es/son correcta(s).  I) No había técnicas accesibles y fiables para diferenciar objetivamente neuronas pequeñas de glía.  II) Altman era un profesor senior formado en un prestigioso laboratorio de desarrollo.  III) El dogma de que no hay neuronas nuevas era defendido vigorosamente por los anatomistas del desarrollo de primates más poderosos.  IV) Sus primeros trabajos aparecieron solo en revistas locales de escasa circulación.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo II y III",
+        "Solo I y III",
+        "Solo III y IV",
+        "Todas son correctas"
+      ],
+      "respuesta": 2,
+      "pista": "Separe los obstáculos técnicos y sociológicos reales de los rasgos que el capítulo atribuye a otros protagonistas o que sus publicaciones desmienten.",
+      "argumento": "I: V. No existían técnicas accesibles y fiables para la diferenciación objetiva de neuronas pequeñas y glía, en particular astrocitos; hasta los años 90 esa distinción solo podía hacerla «un ojo experto» y, casi por definición, «los expertos sabían» que no había neurogénesis adulta en mamíferos. II: F. Aunque Altman estaba en una universidad de primer nivel (MIT), al publicar sus primeros trabajos sobre neurogénesis adulta era un miembro junior del cuerpo académico en un departamento de psicología y no se había formado en un laboratorio de desarrollo distinguido —ni en ninguno— ni en técnicas autorradiográficas. III: V. El dogma de que no hay neuronas nuevas era sostenido universalmente y defendido con vigor por los anatomistas del desarrollo de primates más poderosos y destacados de su época. IV: F. Sus trabajos aparecieron en las revistas más prestigiosas del momento, como el Journal of Comparative Neurology, Science y Nature. La respuesta correcta es «Solo I y III».",
+      "tipo": "suficiencia",
+      "tags": [
+        "altman",
+        "por-que-ignorado"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Altman, p. 237"
+    },
+    {
+      "id": "c10-17",
+      "enunciado": "Sobre los casos de investigadores «adelantados a su tiempo» que compara el postscript (Swedenborg, Bernard, Panizza y Altman), ¿cuál de las siguientes afirmaciones es correcta?",
+      "alternativas": [
+        "Swedenborg permaneció ignorado hasta el siglo XX",
+        "Bernard fue el científico francés más famoso",
+        "El trabajo de Panizza circuló a las grandes sociedades",
+        "Altman trabajaba en una institución distinguida",
+        "Todas las anteriores son correctas"
+      ],
+      "respuesta": 4,
+      "pista": "Revise, uno por uno, el grado de difusión y el prestigio que el autor atribuye a cada uno de los cuatro personajes.",
+      "argumento": "Como las cuatro afirmaciones son verdaderas, la respuesta es «Todas las anteriores son correctas». Swedenborg (1688-1772) anticipó en más de cien años la función sensorial y motora de la corteza y, de manera discutible según el autor, incluso la teoría neuronal, pero sus escritos sobre la función cerebral permanecieron desconocidos hasta el siglo XX, cuando muchas de sus ideas ya habían sido confirmadas. Bernard fue el científico francés más famoso de su época, y probablemente de todos los tiempos, y sus ideas sobre la constancia del medio interno tardaron unos 50 años en ser comprendidas. Panizza publicó su descubrimiento de la corteza visual en una revista local, pero que sí circulaba a las grandes sociedades científicas, exactamente como ocurrió con Gregor Mendel, y aunque estaba muy bien considerado en su universidad solo fue citado cuando su descubrimiento fue redescubierto. Altman, en cambio, estaba en una institución de investigación distinguida (a diferencia de Swedenborg, que ni siquiera era reconocido como biólogo), y sus hallazgos sobre neurogénesis adulta estuvieron ampliamente disponibles pero fueron ignorados unos 30 años. Los cuatro compartieron, eso sí, haber tenido ideas difíciles o imposibles de testear en su propia época y haber enfrentado resistencias ideológicas: para Swedenborg, el dogma de que la corteza era una corteza sin función; para Panizza, el de una corteza con funciones «superiores» pero ni sensoriales ni motoras; para Altman, el dogma de que no hay neuronas nuevas.",
+      "tipo": "todas-ninguna",
+      "tags": [
+        "altman",
+        "postscript"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Altman, p. 238"
+    },
+    {
+      "id": "c10-18",
+      "enunciado": "¿Qué incidencia de neuronas nuevas se ha reportado en la corteza cerebral adulta?",
+      "alternativas": [
+        "1.000 a 2.000 células por mm³",
+        "1 a 2 células por cm³",
+        "10 a 20 células por mm³",
+        "100 a 200 células por mm³",
+        "1 a 2 células por mm³"
+      ],
+      "respuesta": 4,
+      "pista": "Piense en un número muy pequeño de células dispersas en un volumen de tejido muy grande.",
+      "argumento": "La incidencia reportada de neuronas corticales nuevas es de 1 a 2 células por mm³, y el autor advierte que esa cifra tan baja no debe hacer dudar de su posible importancia, porque al menos en los sistemas sensoriales se ha mostrado que la actividad de una sola neurona o de unas pocas puede influir en la conducta. Desde 1999, al menos cinco grupos han encontrado evidencia positiva de neurogénesis cortical adulta en roedores y primates y un número similar no lo ha logrado. Entre las razones de la dificultad para replicar los resultados positivos: las neuronas corticales nuevas son mucho más raras y están distribuidas de manera despareja en un volumen de tejido mucho mayor que el del bulbo olfatorio o el hipocampo; son interneuronas mucho más pequeñas que las células piramidales típicas entre las que están dispersas; muchos protocolos histológicos usados reducen la calidad del tejido y la relación señal/ruido; y, quizá lo más importante, los estudios que no encontraron neurogénesis cortical usaron técnicas que tampoco mostraron evidencia adecuada de neuronas nuevas en el giro dentado, es decir, carecían del control positivo necesario. Las restantes opciones alteran la unidad de volumen o multiplican la magnitud.",
+      "tipo": "directa",
+      "tags": [
+        "altman",
+        "corteza-cerebral"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Altman, p. 239"
+    },
+    {
+      "id": "c10-19",
+      "enunciado": "Respecto de las dificultades que Altman describe en su propio recuento, ¿cuál de las siguientes afirmaciones es correcta?",
+      "alternativas": [
+        "Perdió todo su financiamiento en los años 70",
+        "Recuperó los fondos al cambiar de tema",
+        "Sus datos fueron refutados públicamente",
+        "Cerró su laboratorio al negársele el tenure",
+        "Ninguna de las anteriores es correcta"
+      ],
+      "respuesta": 4,
+      "pista": "Compruebe la fecha de la pérdida de apoyo y qué pasó con sus proyectos cuando cambió de línea de investigación.",
+      "argumento": "Las otras cuatro opciones son falsas, de modo que la respuesta es «Ninguna de las anteriores es correcta». (A) Altman sitúa las primeras dificultades para obtener fondos a comienzos de los años 80 y la pérdida de todo el apoyo a mediados de los 80, no en los 70. (B) Nunca volvió a conseguir la aprobación de sus solicitudes, ni siquiera cuando el tema de su investigación pasó de la neurogénesis adulta al estudio embriológico comprehensivo del desarrollo del SNC en ratas y, más tarde, en humanos. (C) Altman declara no tener conocimiento de ninguna crítica ni refutación pública de los datos que presentó; lo que describe es un esfuerzo clandestino de un grupo de neurocientíficos influyentes por suprimir la evidencia y, luego, por silenciarlos cerrando su laboratorio, y da como razones (a) las dificultades crecientes desde comienzos de los 80 para aprobar sus proyectos, (b) la pérdida total del apoyo a mediados de los 80 y (c) el rechazo directo de varios manuscritos a comienzos de los 90. (D) No cerró su laboratorio al negársele el tenure: se trasladó a Purdue y siguió trabajando durante décadas, sosteniéndose con la venta de atlas cerebrales y libros ante la indiferencia y la hostilidad de sus pares.",
+      "tipo": "todas-ninguna",
+      "tags": [
+        "altman",
+        "reflexiones"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Altman, p. 241"
+    },
+    {
+      "id": "c10-20",
+      "enunciado": "¿Qué antecedentes biográficos de Altman menciona el capítulo?",
+      "alternativas": [
+        "Nació en Hungría y llegó a EE.UU. en 1955",
+        "Nació en Australia y emigró a Hungría en 1945",
+        "Llegó a EE.UU. en 1945, tras la liberación",
+        "Se formó en Yale y luego se trasladó a MIT",
+        "Trabajó como bibliotecario en Alemania"
+      ],
+      "respuesta": 0,
+      "pista": "Ordene el periplo: Hungría, campamento de trabajo forzado, Australia y, por último, Estados Unidos.",
+      "argumento": "Altman nació y se educó en Hungría, donde se vio impedido de completar su educación formal en un régimen cuasi fascista por pertenecer a una minoría religiosa y étnica desfavorecida; cuando la Wehrmacht ocupó Hungría fue internado en un campamento de trabajo forzado trabajando en una cuadrilla de ferrocarril, escapó y vivió clandestino en Budapest; en 1945 lo liberó el Ejército Rojo y retomó su educación, pero en 1946 huyó del país, fue un desplazado apátrida en Alemania Occidental y, tras años de espera, obtuvo los documentos para emigrar a Australia, donde trabajó como bibliotecario universitario durante la primera mitad de los años 50. Llegó a Estados Unidos en 1955 y, tras entrenamiento predoctoral y postdoctoral en Nueva York, se incorporó a MIT. Las otras opciones invierten el orden de los países, adelantan la llegada a EE.UU. o trasladan a Altman instituciones y lugares que corresponden a otros protagonistas del capítulo (Yale es el lugar de Rakic).",
+      "tipo": "directa",
+      "tags": [
+        "altman",
+        "biografia"
+      ],
+      "dificultad": "facil",
+      "fuente": "Altman, p. 242"
+    }
+  ]
+}

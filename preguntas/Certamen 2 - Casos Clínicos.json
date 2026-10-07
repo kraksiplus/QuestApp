@@ -1,0 +1,3058 @@
+{
+  "version": 1,
+  "titulo": "Semiología — Certamen 2, casos clínicos (todos los sistemas)",
+  "preguntas": [
+    {
+      "id": "c2-neuro-01",
+      "enunciado": "Una mujer de 45 años presenta, como cuadro habitual, crisis hemicraneales pulsátiles de 6 a 8 horas, con náuseas y foto-fonofobia que mejoran en reposo en una pieza oscura. ¿Qué tipo de cefalea primaria se describe en el cuadro clínico habitual?",
+      "alternativas": [
+        "Cefalea tensional",
+        "Cefalea en racimos",
+        "Migraña sin aura",
+        "Cefalea por abuso de analgésicos",
+        "Cefalea trigémino-autonómica"
+      ],
+      "respuesta": 2,
+      "pista": "Fíjese en la duración, el carácter pulsátil, la localización hemicraneal y los síntomas acompañantes típicos de estas crisis.",
+      "argumento": "La correcta es migraña sin aura: cumple localización hemicraneal, carácter pulsátil, 6-8 h de duración, intensidad moderada-severa, náuseas y foto-fonofobia, con empeoramiento con la actividad y mejoría en reposo. La cefalea tensional es bilateral, opresiva y sin vómitos; la cefalea en racimos es orbitaria estricta, terebrante y con síntomas autonómicos ipsilaterales; la cefalea por abuso de analgésicos es secundaria y requiere consumo excesivo; la trigémino-autonómica cursa con síntomas autonómicos marcados. El cuadro descrito no presenta aura.",
+      "tipo": "directa",
+      "tags": [
+        "cap1",
+        "cefaleas-primarias"
+      ],
+      "dificultad": "facil",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 1, Caso 1"
+    },
+    {
+      "id": "c2-neuro-02",
+      "enunciado": "Un paciente con crisis migrañosas previas presenta ahora una cefalea de inicio explosivo, holocraneal, con vómito en proyectil y signos meníngeos. Esta cefalea nueva debe clasificarse como:",
+      "alternativas": [
+        "Cefalea secundaria",
+        "Cefalea primaria tipo migraña",
+        "Cefalea primaria tensional",
+        "Cefalea primaria en racimos",
+        "Migraña con aura atípica"
+      ],
+      "respuesta": 0,
+      "pista": "Compare la cefalea nueva con las crisis típicas previas y piense en el concepto de cefalea nueva o diferente.",
+      "argumento": "Es una cefalea secundaria: se trata de un cuadro nuevo, de peor intensidad, con inicio hiperagudo, vómito en proyectil y meningismo, por lo que se asume secundaria hasta demostrar lo contrario. No corresponde a migraña (ni con aura) porque el patrón es distinto al habitual y hay signos meníngeos. Tampoco es tensional ni en racimos, que son primarias con semiología opresiva u orbitaria y sin meningismo.",
+      "tipo": "directa",
+      "tags": [
+        "cap1",
+        "cefalea-secundaria"
+      ],
+      "dificultad": "facil",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 1, Caso 1"
+    },
+    {
+      "id": "c2-neuro-03",
+      "enunciado": "Según la brújula etiológica, una cefalea de instauración hiperaguda (segundos a minutos) orienta principalmente a causa:",
+      "alternativas": [
+        "Infecciosa",
+        "Neoplásica",
+        "Inflamatoria",
+        "Vascular",
+        "Degenerativa"
+      ],
+      "respuesta": 3,
+      "pista": "Relacione la velocidad de instauración con la categoría fisiopatológica que produce eventos súbitos.",
+      "argumento": "La correcta es vascular: el inicio súbito en trueno es típico de eventos vasculares como la hemorragia subaracnoidea. Las causas infecciosa e inflamatoria suelen ser subagudas con fiebre o signos sistémicos; las neoplásica y degenerativa tienen curso progresivo de semanas a meses. Por eso la brújula etiológica por velocidad ubica el inicio hiperagudo en el grupo vascular.",
+      "tipo": "directa",
+      "tags": [
+        "cap1",
+        "brujula-etiological"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 1, Caso 1"
+    },
+    {
+      "id": "c2-neuro-04",
+      "enunciado": "¿Cuál de los siguientes parámetros es característico de la cefalea en racimos y no de la migraña?",
+      "alternativas": [
+        "Carácter pulsátil de la cefalea",
+        "Síntomas autonómicos ipsilaterales",
+        "Náuseas y vómitos intensos",
+        "Duración de 4 a 72 horas",
+        "Mejoría en pieza oscura y silenciosa"
+      ],
+      "respuesta": 1,
+      "pista": "Piense en los fenómenos que acompañan a la cefalea en racimos y que son propios de su localización orbitaria.",
+      "argumento": "Los síntomas autonómicos ipsilaterales (epífora, rinorrea, miosis, ptosis, inyección conjuntival) son característicos de la cefalea en racimos. El carácter pulsátil, las náuseas y vómitos, la duración de 4 a 72 h y la mejoría en pieza oscura corresponden a la migraña; la cefalea en racimos dura 15-180 min y produce inquietud, no quietud en reposo.",
+      "tipo": "directa",
+      "tags": [
+        "cap1",
+        "cefaleas-primarias"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 1, Caso 1"
+    },
+    {
+      "id": "c2-neuro-05",
+      "enunciado": "Respecto de las banderas rojas (SNOOP) en una cefalea de inicio súbito, señale cuál(es) afirmación(es) es/son correcta(s).  I) El inicio súbito en trueno es la bandera cardinal.  II) El cambio de patrón respecto a una migraña habitual es una bandera roja.  III) El desencadenante por Valsalva sugiere alza de la presión intracraneana.  IV) La fiebre alta es requisito indispensable para sospechar HSA.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo I, II y III",
+        "Solo II y III",
+        "Solo I y IV",
+        "Todas son correctas"
+      ],
+      "respuesta": 1,
+      "pista": "Recuerde que SNOOP incluye Onset, Neurological signs, Older age, Pattern y Precipitante; evalúe cada numeral por separado.",
+      "argumento": "I: V, el onset súbito en trueno es la bandera cardinal. II: V, el cambio de patrón de una cefalea previa es red flag. III: V, el desencadenante por Valsalva sugiere alza brusca de presión intracraneana. IV: F, la fiebre no es requisito para sospechar HSA; puede estar ausente y confundir con cuadros infecciosos. Por eso la combinación correcta es Solo I, II y III.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap1",
+        "snoop",
+        "red-flags"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 1, Caso 1"
+    },
+    {
+      "id": "c2-neuro-06",
+      "enunciado": "Un paciente presenta una cefalea de inicio explosivo tras un esfuerzo de Valsalva, con vómito en proyectil y rigidez de nuca con Kernig y Brudzinski positivos. El diagnóstico etiológico más probable es:",
+      "alternativas": [
+        "Meningitis bacteriana",
+        "Migraña con aura",
+        "Hemorragia intracerebral",
+        "Trombosis venosa cerebral",
+        "Hemorragia subaracnoidea"
+      ],
+      "respuesta": 4,
+      "pista": "Integre la cefalea en trueno, el esfuerzo previo y el meningismo franco con la causa vascular más frecuente.",
+      "argumento": "La hemorragia subaracnoidea es la causa clásica de cefalea en trueno, aquí con esfuerzo de Valsalva, vómito en proyectil y rigidez de nuca con Kernig y Brudzinski positivos. La meningitis bacteriana daría fiebre y compromiso del estado general; la migraña con aura no explica el inicio explosivo ni el meningismo; la hemorragia intracerebral suele dar focalidad; la trombosis venosa cerebral tiene curso más progresivo y otros hallazgos.",
+      "tipo": "directa",
+      "tags": [
+        "cap1",
+        "hsa"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 1, Caso 1"
+    },
+    {
+      "id": "c2-neuro-07",
+      "enunciado": "En la sospecha de hemorragia subaracnoidea, el examen de elección inicial para confirmarla es:",
+      "alternativas": [
+        "Punción lumbar inmediata sin TC",
+        "Angiografía convencional",
+        "TC de cerebro sin contraste",
+        "Electroencefalograma",
+        "Radiografía de cráneo"
+      ],
+      "respuesta": 2,
+      "pista": "Piense en el estudio más disponible, rápido y con alta sensibilidad en las primeras horas.",
+      "argumento": "La TC de cerebro sin contraste es el examen inicial de elección por su alta sensibilidad en las primeras 6-12 h. La punción lumbar se reserva para cuando la TC es negativa y persiste la sospecha, buscando xantocromía. La angiografía no es el primer paso; el EEG y la radiografía simple no diagnostican hemorragia subaracnoidea.",
+      "tipo": "directa",
+      "tags": [
+        "cap1",
+        "hsa",
+        "neuroimagen"
+      ],
+      "dificultad": "facil",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 1, Caso 1"
+    },
+    {
+      "id": "c2-neuro-08",
+      "enunciado": "En la sospecha de hemorragia subaracnoidea, si la tomografía inicial es negativa y persiste la sospecha clínica, el siguiente examen a considerar es:",
+      "alternativas": [
+        "Punción lumbar buscando xantocromía",
+        "Repetir TC con contraste yodado",
+        "Electroencefalograma de vigilia",
+        "Radiografía simple de columna",
+        "Fondo de ojo seriado cada hora"
+      ],
+      "respuesta": 0,
+      "pista": "El líquido cefalorraquídeo guarda la huella de una hemorragia ya no visible en la tomografía.",
+      "argumento": "La punción lumbar buscando xantocromía permite detectar degradación de hemoglobina cuando la TC ya es negativa. Repetir la TC con contraste no es el paso indicado para HSA; el EEG, la radiografía de columna y el fondo de ojo seriado no confirman el diagnóstico. Puede complementarse con angio-TC o angio-RM según protocolo.",
+      "tipo": "directa",
+      "tags": [
+        "cap1",
+        "hsa",
+        "punción-lumbar"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 1, Caso 1"
+    },
+    {
+      "id": "c2-neuro-09",
+      "enunciado": "¿Qué fármaco se utiliza para prevenir el vasoespasmo tras una hemorragia subaracnoidea?",
+      "alternativas": [
+        "Manitol",
+        "Dexametasona",
+        "Fenitoína",
+        "Nimodipino",
+        "Aspirina"
+      ],
+      "respuesta": 3,
+      "pista": "Es un bloqueador de canales de calcio con indicación específica en esta complicación.",
+      "argumento": "El nimodipino es el calcioantagonista indicado para prevenir el vasoespasmo y la isquemia cerebral tardía. El manitol se usa para edema; la dexametasona es corticoide antiinflamatorio; la fenitoína es anticonvulsivante; la aspirina es antiagregante y estaría contraindicada por el riesgo de resangrado.",
+      "tipo": "directa",
+      "tags": [
+        "cap1",
+        "hsa",
+        "tratamiento"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 1, Caso 1"
+    },
+    {
+      "id": "c2-neuro-10",
+      "enunciado": "Respecto de las complicaciones tempranas de la hemorragia subaracnoidea, ¿cuál de las siguientes afirmaciones es correcta?",
+      "alternativas": [
+        "El resangrado es más frecuente en las primeras 24 horas",
+        "El vasoespasmo suele ocurrir entre los días 3 y 14",
+        "La hidrocefalia aguda puede requerir derivación",
+        "El SIADH puede causar hiponatremia",
+        "Todas las anteriores son correctas"
+      ],
+      "respuesta": 4,
+      "pista": "Evalúe cada complicación por separado; si todas son ciertas, la opción que las agrupa es la correcta.",
+      "argumento": "Todas son correctas. El resangrado es más frecuente y grave en las primeras 24 h; el vasoespasmo con isquemia cerebral tardía aparece entre los días 3 y 14; la hidrocefalia aguda por obstrucción puede requerir derivación; y el SIADH produce hiponatremia. Como cada una de las opciones individuales es verdadera, la alternativa que las agrupa es la válida.",
+      "tipo": "todas-ninguna",
+      "tags": [
+        "cap1",
+        "hsa",
+        "complicaciones"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 1, Caso 1"
+    },
+    {
+      "id": "c2-neuro-11",
+      "enunciado": "El episodio de cefalea intensa y autolimitada que precede en semanas a una hemorragia subaracnoidea mayor se denomina:",
+      "alternativas": [
+        "Cefalea tensional",
+        "Cefalea centinela",
+        "Migraña transformada",
+        "Cefalea hípnica",
+        "Cefalea por Valsalva"
+      ],
+      "respuesta": 1,
+      "pista": "Es un episodio que avisa de un posible resangrado mayor y que puede pasar desapercibido.",
+      "argumento": "La cefalea centinela es una cefalea intensa y autolimitada que puede preceder en semanas a una hemorragia subaracnoidea mayor, por microsangrado. La cefalea tensional es opresiva y crónica; la migraña transformada es una evolución de la migraña; la hípnica despierta de noche; la de Valsalva es desencadenada por esfuerzo, pero el concepto de aviso previo corresponde a la centinela.",
+      "tipo": "directa",
+      "tags": [
+        "cap1",
+        "hsa",
+        "cefalea-centinela"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 1, Caso 1"
+    },
+    {
+      "id": "c2-neuro-12",
+      "enunciado": "En un paciente con rigidez de nuca franca se objetivan signos de Kernig y Brudzinski positivos. Estos hallazgos indican:",
+      "alternativas": [
+        "Déficit piramidal",
+        "Compromiso cerebeloso",
+        "Irritación meníngea",
+        "Neuropatía periférica",
+        "Lesión del tronco encefálico"
+      ],
+      "respuesta": 2,
+      "pista": "Relacione estos signos con la rigidez de nuca y el sangrado subaracnoideo.",
+      "argumento": "Kernig y Brudzinski positivos, junto con rigidez de nuca, traducen irritación meníngea. No son signos piramidales, que se expresan por Babinski y hiperreflexia; tampoco indican compromiso cerebeloso, neuropatía periférica ni lesión de tronco, que darían ataxia, déficit sensitivomotor o síndrome alterno.",
+      "tipo": "directa",
+      "tags": [
+        "cap1",
+        "meningismo"
+      ],
+      "dificultad": "facil",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 1, Caso 1"
+    },
+    {
+      "id": "c2-neuro-13",
+      "enunciado": "Los hallazgos en las manos (atrofia hipotenar y de interóseos, hipotonía, arreflexia y fasciculaciones) corresponden a un síndrome de:",
+      "alternativas": [
+        "Primera motoneurona",
+        "Cerebeloso",
+        "Extrapiramidal",
+        "Cortical sensitivo",
+        "Segunda motoneurona"
+      ],
+      "respuesta": 4,
+      "pista": "Atrofia, hipotonía, arreflexia y fasciculaciones son un patrón característico de la vía motora final.",
+      "argumento": "Corresponde a segunda motoneurona (nervio o asta anterior): atrofia precoz, hipotonía, arreflexia y fasciculaciones. La primera motoneurona da espasticidad, hiperreflexia y Babinski; el cerebeloso da dismetría y ataxia; el extrapiramidal da rigidez y bradicinesia; el cortical sensitivo daría déficit sensitivo cortical, no este patrón.",
+      "tipo": "directa",
+      "tags": [
+        "cap1",
+        "motoneurona"
+      ],
+      "dificultad": "facil",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 1, Caso 2"
+    },
+    {
+      "id": "c2-neuro-14",
+      "enunciado": "La espasticidad, la hiperreflexia con clonus y el Babinski bilateral en las piernas indican compromiso de:",
+      "alternativas": [
+        "Primera motoneurona",
+        "Segunda motoneurona",
+        "Asta anterior",
+        "Nervio periférico",
+        "Músculo estriado"
+      ],
+      "respuesta": 0,
+      "pista": "Piense en el patrón de hipertonía velocidad-dependiente con signo de Babinski.",
+      "argumento": "Es un síndrome de primera motoneurona (vía piramidal): espasticidad velocidad-dependiente, hiperreflexia con clonus y Babinski presente. La segunda motoneurona, el asta anterior y el nervio periférico dan hipotonía y arreflexia; el músculo estriado no explica los reflejos aumentados ni el Babinski.",
+      "tipo": "directa",
+      "tags": [
+        "cap1",
+        "motoneurona"
+      ],
+      "dificultad": "facil",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 1, Caso 2"
+    },
+    {
+      "id": "c2-neuro-15",
+      "enunciado": "Las fasciculaciones visibles en el dorso de la mano se explican por:",
+      "alternativas": [
+        "Hiperexcitabilidad de la vía piramidal",
+        "Pérdida de control cerebeloso del tono",
+        "Desinhibición de reflejos medulares",
+        "Descargas de unidades motoras denervadas",
+        "Aumento del tono por la vía extrapiramidal"
+      ],
+      "respuesta": 3,
+      "pista": "Son contracciones involuntarias y espontáneas de fibras musculares que perdieron su inervación.",
+      "argumento": "Las fasciculaciones resultan de descargas espontáneas de unidades motoras denervadas, típicas de lesión de segunda motoneurona. La hiperexcitabilidad piramidal da espasticidad e hiperreflexia; el control cerebeloso alterado da dismetría; la desinhibición medular da clonus; y la vía extrapiramidal da rigidez, no fasciculaciones.",
+      "tipo": "directa",
+      "tags": [
+        "cap1",
+        "motoneurona",
+        "fasciculaciones"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 1, Caso 2"
+    },
+    {
+      "id": "c2-neuro-16",
+      "enunciado": "Un paciente con atrofia y fasciculaciones en las manos, junto con espasticidad, hiperreflexia y Babinski en las piernas: ¿por qué coexisten signos de primera y de segunda motoneurona?",
+      "alternativas": [
+        "Una lesión difusa de la corteza motora primaria",
+        "La enfermedad afecta nervio periférico y músculo",
+        "Una lesión medular daña el segmento y la vía",
+        "El compromiso simultáneo de asta anterior y raíz",
+        "La vía piramidal lesionada en dos puntos distantes"
+      ],
+      "respuesta": 2,
+      "pista": "Una sola lesión medular puede explicar ambos patrones por su relación con el segmento y con las vías descendentes.",
+      "argumento": "Una lesión medular segmentaria daña la motoneurona inferior del propio segmento (manos, C8-T1) y, a la vez, interrumpe la vía piramidal por debajo, generando signos de primera motoneurona en las piernas. La lesión cortical difusa daría otros signos; la afección de nervio y músculo no produce Babinski; el compromiso de asta anterior y raíz no explica la vía piramidal; y dos lesiones distintas no son necesarias para explicarlo.",
+      "tipo": "directa",
+      "tags": [
+        "cap1",
+        "mielopatia"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 1, Caso 2"
+    },
+    {
+      "id": "c2-neuro-17",
+      "enunciado": "Respecto de los síntomas positivos y negativos en neurología, señale cuál(es) afirmación(es) es/son correcta(s).  I) Las fasciculaciones son un síntoma positivo.  II) La paresia y la hipoestesia son síntomas negativos.  III) La espasticidad refleja desinhibición y es positiva.  IV) La arreflexia es un síntoma positivo por liberación.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo I, II y III",
+        "Solo II y III",
+        "Solo I y IV",
+        "Todas son correctas"
+      ],
+      "respuesta": 1,
+      "pista": "Distinga entre fenómenos de exceso o liberación y fenómenos de pérdida funcional.",
+      "argumento": "I: V, las fasciculaciones son actividad espontánea, síntoma positivo. II: V, la paresia y la hipoestesia son pérdidas funcionales, negativas. III: V, la espasticidad refleja desinhibición y es positiva. IV: F, la arreflexia es pérdida de la función refleja, por lo tanto negativa. La combinación correcta es Solo I, II y III.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap1",
+        "sintomas-positivos-negativos"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 1, Caso 2"
+    },
+    {
+      "id": "c2-neuro-18",
+      "enunciado": "El nivel sensitivo horizontal en T2, el compromiso esfinteriano y el déficit bilateral simétrico localizan la lesión en:",
+      "alternativas": [
+        "Médula espinal",
+        "Corteza cerebral",
+        "Cápsula interna",
+        "Tronco encefálico",
+        "Nervio periférico"
+      ],
+      "respuesta": 0,
+      "pista": "Un nivel sensitivo con compromiso esfinteriano apunta al eje que conduce la sensibilidad y el control vesical.",
+      "argumento": "El nivel sensitivo horizontal, la bilateralidad simétrica y el compromiso esfinteriano localizan la lesión en la médula espinal. La corteza daría signos corticales y déficit facio-braquio-crural; la cápsula interna, hemiparesia pura contralateral; el tronco, síndrome alterno; el nervio periférico, déficit de territorio, sin nivel sensitivo ni esfínteres.",
+      "tipo": "directa",
+      "tags": [
+        "cap1",
+        "localizacion"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 1, Caso 2"
+    },
+    {
+      "id": "c2-neuro-19",
+      "enunciado": "Un paciente con nivel sensitivo horizontal en T2, déficit bilateral y simétrico y compromiso esfinteriano: ¿por qué NO se trata de un síndrome cortical?",
+      "alternativas": [
+        "No existe compromiso de pares craneales",
+        "El déficit es bilateral y simétrico",
+        "Hay nivel sensitivo y compromiso esfinteriano",
+        "No hay afasia, apraxia, agnosia ni crisis focales",
+        "La fuerza está conservada en el hemicuerpo derecho"
+      ],
+      "respuesta": 3,
+      "pista": "Piense en las funciones superiores y las crisis que obligadamente acompañan a una lesión de la corteza.",
+      "argumento": "El argumento decisivo es la ausencia de signos corticales obligados: afasia, apraxia, agnosia, negligencia y crisis focales. La ausencia de compromiso de pares craneales no descarta por sí sola la corteza; la bilateralidad y el nivel sensitivo orientan a médula; y la fuerza del hemicuerpo derecho no es el criterio diferencial.",
+      "tipo": "directa",
+      "tags": [
+        "cap1",
+        "localizacion"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 1, Caso 2"
+    },
+    {
+      "id": "c2-neuro-20",
+      "enunciado": "En un paciente con nivel sensitivo horizontal y compromiso esfinteriano, ¿cuál hallazgo descarta específicamente un síndrome de cápsula interna?",
+      "alternativas": [
+        "La ausencia de compromiso de pares craneales",
+        "La presencia de un nivel sensitivo horizontal",
+        "La arreflexia segmentaria en las manos",
+        "La espasticidad bilateral en las piernas",
+        "La marcha espástica con clonus aquiliano"
+      ],
+      "respuesta": 1,
+      "pista": "La cápsula interna produce un déficit motor puro, proporcionado y contralateral, sin corte de la sensibilidad por niveles.",
+      "argumento": "El nivel sensitivo horizontal es incompatible con una lesión capsular, que daría hemiparesia pura y proporcionada sin nivel sensitivo. La arreflexia segmentaria, la espasticidad y el clonus no descartan por sí solos el compromiso capsular, y la ausencia de pares craneales es inespecífica.",
+      "tipo": "directa",
+      "tags": [
+        "cap1",
+        "localizacion"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 1, Caso 2"
+    },
+    {
+      "id": "c2-neuro-21",
+      "enunciado": "La ausencia de síndrome cruzado o alterno y la integridad de los pares craneales descartan lesión de:",
+      "alternativas": [
+        "Médula cervical baja",
+        "Corteza motora",
+        "Cápsula interna",
+        "Nervio periférico",
+        "Tronco encefálico"
+      ],
+      "respuesta": 4,
+      "pista": "El síndrome alterno es la firma topográfica de esta estructura.",
+      "argumento": "El síndrome cruzado o alterno (par craneal homolateral con déficit contralateral) es propio del tronco encefálico; su ausencia con pares craneales íntegros lo descarta. La médula cervical baja, la corteza, la cápsula interna y el nervio periférico no se definen por ese patrón alterno.",
+      "tipo": "directa",
+      "tags": [
+        "cap1",
+        "localizacion"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 1, Caso 2"
+    },
+    {
+      "id": "c2-neuro-22",
+      "enunciado": "Según la brújula etiológica, la instalación subaguda de semanas en un paciente oncológico orienta a causa:",
+      "alternativas": [
+        "Vascular",
+        "Infecciosa",
+        "Neoplásica",
+        "Degenerativa",
+        "Traumática"
+      ],
+      "respuesta": 2,
+      "pista": "Relacione el ritmo de instalación progresivo y escalonado con la categoría causal correspondiente.",
+      "argumento": "La instalación subaguda a crónica de semanas orienta a proceso neoplásico o expansivo, coherente con metástasis vertebral y compresión medular por cáncer de próstata. Lo vascular es hiperagudo; lo infeccioso suele ser subagudo con fiebre; lo degenerativo es de meses; y no hay antecedente traumático.",
+      "tipo": "directa",
+      "tags": [
+        "cap1",
+        "brujula-etiological"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 1, Caso 2"
+    },
+    {
+      "id": "c2-neuro-23",
+      "enunciado": "Respecto de las red flags y la conducta en un paciente oncológico con nivel sensitivo y compromiso esfinteriano, señale cuál(es) afirmación(es) es/son correcta(s).  I) El compromiso esfinteriano es una bandera roja.  II) El nivel sensitivo constituye una bandera roja.  III) La RM de columna urgente está indicada.  IV) La dexametasona está contraindicada por ser oncológico.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo I, II y III",
+        "Solo II y III",
+        "Solo III y IV",
+        "Todas son correctas"
+      ],
+      "respuesta": 1,
+      "pista": "Separe las señales de alarma y las medidas urgentes del manejo farmacológico del edema.",
+      "argumento": "I: V, el compromiso esfinteriano es red flag. II: V, el nivel sensitivo es red flag. III: V, la RM de columna urgente está indicada. IV: F, la dexametasona no está contraindicada; es parte del manejo del edema medular. La combinación correcta es Solo I, II y III.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap1",
+        "red-flags",
+        "compresion-medular"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 1, Caso 2"
+    },
+    {
+      "id": "c2-neuro-24",
+      "enunciado": "Un paciente con cáncer de próstata presenta déficit motor progresivo en las manos y las piernas, nivel sensitivo y compromiso esfinteriano. ¿Cuál es la conducta urgente más adecuada?",
+      "alternativas": [
+        "TC de cráneo sin contraste inmediata",
+        "Punción lumbar diagnóstica precoz",
+        "Reposo, analgesia y control ambulatorio",
+        "RM de columna urgente y dexametasona",
+        "Electromiografía diferida en policlínico"
+      ],
+      "respuesta": 3,
+      "pista": "La emergencia es medular y oncológica; piense en la imagen y el fármaco que reducen el edema.",
+      "argumento": "La conducta correcta es RM de columna urgente con dexametasona y evaluación por neurocirugía u oncología para descompresión. La TC de cráneo no evalúa la médula; la punción lumbar es peligrosa y no diagnóstica; el manejo ambulatorio retrasa la descompresión; la electromiografía diferida no es urgente ni terapéutica.",
+      "tipo": "directa",
+      "tags": [
+        "cap1",
+        "compresion-medular",
+        "conducta"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 1, Caso 2"
+    },
+    {
+      "id": "c2-neuro-25",
+      "enunciado": "¿Cuál de las siguientes afirmaciones sobre la compresión medular es correcta?",
+      "alternativas": [
+        "El compromiso esfinteriano empeora el pronóstico",
+        "La instalación suele ser progresiva y escalonada",
+        "El dolor local puede preceder al déficit motor",
+        "El nivel sensitivo orienta la altura de la lesión",
+        "Todas las anteriores son correctas"
+      ],
+      "respuesta": 4,
+      "pista": "Revise cada enunciado por separado; si todos son verdaderos, la opción que los reúne es la respuesta.",
+      "argumento": "Todas son correctas. El compromiso esfinteriano precoz ensombrece el pronóstico si se retrasa la descompresión; la instalación suele ser progresiva y escalonada; el dolor local puede preceder al déficit motor; y el nivel sensitivo orienta la altura de la lesión. Al ser verdaderas cada una de las opciones individuales, la alternativa que las agrupa es la válida.",
+      "tipo": "todas-ninguna",
+      "tags": [
+        "cap1",
+        "compresion-medular"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 1, Caso 2"
+    },
+    {
+      "id": "c2-neuro-26",
+      "enunciado": "La sensación ilusoria de movimiento rotatorio corresponde a la categoría de mareo denominada:",
+      "alternativas": [
+        "Presíncope",
+        "Desequilibrio",
+        "Vértigo",
+        "Mareo inespecífico",
+        "Lipotimia"
+      ],
+      "respuesta": 2,
+      "pista": "Distinga entre una ilusión de giro y las sensaciones de desmayo o inseguridad de la marcha.",
+      "argumento": "El vértigo es la ilusión de movimiento, generalmente rotatorio, de origen vestibular. El presíncope y la lipotimia son sensaciones de desmayo inminente con visión de túnel y sudoración fría; el desequilibrio es inseguridad de la marcha referida a las piernas; el mareo inespecífico es una sensación flotante o de cabeza vacía.",
+      "tipo": "directa",
+      "tags": [
+        "cap1",
+        "mareo",
+        "vertigo"
+      ],
+      "dificultad": "facil",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 1, Caso 3"
+    },
+    {
+      "id": "c2-neuro-27",
+      "enunciado": "Respecto de las cuatro categorías del síndrome de mareo, señale cuál(es) afirmación(es) es/son correcta(s).  I) El vértigo es una ilusión de movimiento de origen vestibular.  II) El presíncope se asocia a sudoración fría y visión de túnel.  III) El desequilibrio se refiere a las piernas y mejora al sentarse.  IV) El mareo inespecífico siempre tiene origen cerebeloso.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo I, II y III",
+        "Solo II y III",
+        "Solo III y IV",
+        "Todas son correctas"
+      ],
+      "respuesta": 1,
+      "pista": "Revise cada categoría por separado y desconfíe de los absolutos como siempre.",
+      "argumento": "I: V, el vértigo es ilusión de movimiento vestibular. II: V, el presíncope cursa con sudoración fría y visión de túnel. III: V, el desequilibrio se refiere a las piernas y mejora al sentarse. IV: F, el mareo inespecífico suele asociarse a ansiedad o hiperventilación, no siempre a causa cerebelosa. La combinación correcta es Solo I, II y III.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap1",
+        "mareo"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 1, Caso 3"
+    },
+    {
+      "id": "c2-neuro-28",
+      "enunciado": "El carácter unidireccional del nistagmo, su supresión con la fijación y la ausencia de focalidad neurológica indican vértigo:",
+      "alternativas": [
+        "Central",
+        "Troncal",
+        "Cerebeloso",
+        "Cortical",
+        "Periférico"
+      ],
+      "respuesta": 4,
+      "pista": "El nistagmo que se inhibe al fijar la mirada y no cambia de dirección apunta al sistema vestibular periférico.",
+      "argumento": "El conjunto descrito corresponde a vértigo periférico, por disfunción del laberinto o del nervio vestibular. El central se caracteriza por nistagmo multidireccional o vertical puro, que no se suprime con la fijación, y suele acompañarse de focalidad. Las categorías troncal, cerebeloso y cortical son variantes centrales.",
+      "tipo": "directa",
+      "tags": [
+        "cap1",
+        "vertigo-periferico"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 1, Caso 3"
+    },
+    {
+      "id": "c2-neuro-29",
+      "enunciado": "¿Qué significa que el nistagmo se suprima con la fijación de la mirada?",
+      "alternativas": [
+        "Que el cerebelo conserva la capacidad de inhibirlo",
+        "Que la lesión es central y no periférica",
+        "Que existe compromiso del fascículo longitudinal medial",
+        "Que el nistagmo es de origen vertical puro",
+        "Que hay ataxia troncal severa asociada"
+      ],
+      "respuesta": 0,
+      "pista": "Piense en la vía flóculo-nodular y en su capacidad de frenar el nistagmo al fijar la mirada.",
+      "argumento": "La supresión con la fijación indica que el cerebelo flóculo-nodular conserva la capacidad de inhibir el nistagmo, propio del vértigo periférico. Si la lesión fuera central, esa vía estaría comprometida y el nistagmo no se inhibiría ni se fatigaría; el compromiso del fascículo longitudinal medial daría oftalmoparesia internuclear; el nistagmo vertical puro y la ataxia troncal severa son hallazgos centrales.",
+      "tipo": "directa",
+      "tags": [
+        "cap1",
+        "nistagmo",
+        "vertigo-periferico"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 1, Caso 3"
+    },
+    {
+      "id": "c2-neuro-30",
+      "enunciado": "En el nistagmo vestibular, la fase lenta y la fase rápida corresponden respectivamente a:",
+      "alternativas": [
+        "Corrección central e impulso vestibular",
+        "Fijación ocular y sacada voluntaria",
+        "Sacada voluntaria y fijación ocular",
+        "Impulso vestibular y corrección central",
+        "Convergencia y acomodación pupilar"
+      ],
+      "respuesta": 3,
+      "pista": "El componente que arrastra la mirada nace del desequilibrio vestibular y el de corrección es central.",
+      "argumento": "La fase lenta es el impulso oculomotor generado por el desequilibrio tónico vestibular y la fase rápida es la corrección central que define la dirección del nistagmo. Las demás opciones invierten el orden o aluden a fenómenos de fijación y acomodación que no corresponden a la génesis del nistagmo vestibular.",
+      "tipo": "directa",
+      "tags": [
+        "cap1",
+        "nistagmo"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 1, Caso 3"
+    },
+    {
+      "id": "c2-neuro-31",
+      "enunciado": "Si se sospechara VPPB como causa del vértigo periférico, la maniobra diagnóstica a realizar sería:",
+      "alternativas": [
+        "Romberg",
+        "Dix-Hallpike",
+        "Weber",
+        "Rinne",
+        "HINTS"
+      ],
+      "respuesta": 1,
+      "pista": "Es una maniobra posicional que desencadena un nistagmo transitorio con latencia.",
+      "argumento": "La maniobra de Dix-Hallpike desencadena un nistagmo posicional y transitorio con latencia, y su positividad es diagnóstica de VPPB por canalitiasis. El Romberg evalúa la marcha y el equilibrio; Weber y Rinne son pruebas auditivas de conducción; HINTS ayuda a diferenciar vértigo periférico de central, no a diagnosticar VPPB.",
+      "tipo": "directa",
+      "tags": [
+        "cap1",
+        "vppb",
+        "maniobras"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 1, Caso 3"
+    },
+    {
+      "id": "c2-neuro-32",
+      "enunciado": "En un cuadro de vértigo periférico agudo sin focalidad neurológica, respecto de las red flags neurológicas generales, ¿cuál de las siguientes afirmaciones es correcta?",
+      "alternativas": [
+        "No hay déficit focal ni cefalea en trueno",
+        "No hay compromiso de conciencia ni disartria",
+        "No hay diplopía ni disfagia asociadas",
+        "No hay ataxia troncal incapacitante",
+        "Todas las anteriores son correctas"
+      ],
+      "respuesta": 4,
+      "pista": "La ausencia de signos focales y de ataxia troncal es lo que sostiene el origen periférico.",
+      "argumento": "Todas son correctas: el cuadro no presenta déficit focal, cefalea en trueno, compromiso de conciencia, disartria, diplopía, disfagia ni ataxia troncal incapacitante. La ausencia de red flags y de focalidad es precisamente lo que permite sostener el origen periférico. Al ser verdadera cada opción individual, la alternativa que las agrupa es la correcta.",
+      "tipo": "todas-ninguna",
+      "tags": [
+        "cap1",
+        "vertigo-periferico",
+        "red-flags"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 1, Caso 3"
+    },
+    {
+      "id": "c2-neuro-33",
+      "enunciado": "La batería HINTS resulta útil principalmente para:",
+      "alternativas": [
+        "Confirmar el diagnóstico de VPPB posicional",
+        "Medir la agudeza auditiva del paciente",
+        "Diferenciar vértigo periférico de central",
+        "Evaluar la función cerebelosa de la marcha",
+        "Detectar hipotensión ortostática latente"
+      ],
+      "respuesta": 2,
+      "pista": "Combina el head impulse, la observación del nistagmo y el test of skew en el vértigo agudo.",
+      "argumento": "HINTS (head impulse, nistagmo, test of skew) sirve para diferenciar el vértigo periférico del central en el síndrome vertiginoso agudo. No confirma VPPB, no mide audición, no evalúa específicamente la marcha cerebelosa ni detecta hipotensión ortostática.",
+      "tipo": "directa",
+      "tags": [
+        "cap1",
+        "hints",
+        "vertigo"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 1, Caso 3"
+    },
+    {
+      "id": "c2-neuro-34",
+      "enunciado": "Un hombre de 38 años presenta un vértigo periférico agudo e intenso, sin hipoacusia ni acúfenos, con nistagmo unidireccional suprimible con la fijación y sin focalidad central. El diagnóstico integrador más probable es:",
+      "alternativas": [
+        "Neuritis vestibular",
+        "VPPB",
+        "Enfermedad de Ménière",
+        "Vértigo central",
+        "Presíncope cardiogénico"
+      ],
+      "respuesta": 0,
+      "pista": "Vértigo periférico agudo e intenso, sin hipoacusia ni acúfenos y con nistagmo suprimible.",
+      "argumento": "Corresponde a neuritis vestibular: vértigo periférico agudo, intenso, sin hipoacusia ni acúfenos, con nistagmo unidireccional suprimible y sin focalidad central. El VPPB es posicional y de segundos; la enfermedad de Ménière cursa con hipoacusia fluctuante y tinnitus; el vértigo central tiene nistagmo no suprimible y focalidad; el presíncope es de origen hemodinámico, aquí descartado por no haber hipotensión ortostática.",
+      "tipo": "directa",
+      "tags": [
+        "cap1",
+        "neuritis-vestibular"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 1, Caso 3"
+    },
+    {
+      "id": "c2-neuro-35",
+      "enunciado": "Respecto del vértigo periférico y sus causas, señale cuál(es) afirmación(es) es/son correcta(s).  I) La neuritis vestibular cursa sin hipoacusia ni acúfenos.  II) El VPPB es posicional y de segundos de duración.  III) La enfermedad de Ménière cursa con hipoacusia fluctuante.  IV) El vértigo periférico siempre presenta ataxia troncal incapacitante.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo I, II y III",
+        "Solo II y III",
+        "Solo III y IV",
+        "Todas son correctas"
+      ],
+      "respuesta": 1,
+      "pista": "Compare los rasgos distintivos de cada causa y desconfíe de los absolutos.",
+      "argumento": "I: V, la neuritis vestibular cursa sin hipoacusia ni acúfenos. II: V, el VPPB es posicional y de segundos de duración. III: V, la enfermedad de Ménière cursa con hipoacusia fluctuante, tinnitus y plenitud ótica. IV: F, la ataxia troncal incapacitante es propia del vértigo central, no del periférico. La combinación correcta es Solo I, II y III.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap1",
+        "vertigo-periferico"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 1, Caso 3"
+    },
+    {
+      "id": "c2-gu-01",
+      "enunciado": "Varón de 38 años con dolor lumbar izquierdo de inicio brusco, intensidad máxima inmediata (EVA 10/10), carácter cólico y fluctuante, que lo obliga a moverse sin encontrar postura. ¿Qué tipo de dolor presenta?",
+      "alternativas": [
+        "Cólico renal por distensión capsular",
+        "Dolor somático parietal peritoneal",
+        "Dolor neuropático por compresión",
+        "Dolor óseo por metástasis lumbar",
+        "Dolor muscular por contractura lumbar"
+      ],
+      "respuesta": 0,
+      "pista": "Piense en un dolor visceral que aparece de golpe, oscila en el tiempo y se asocia a una obstrucción aguda.",
+      "argumento": "La correcta es el dolor cólico renal: la obstrucción intraluminal brusca (litiasis) genera hiperpresión retrógrada, distensión de la cápsula renal y de la pelvis/uréter, y espasmo de la musculatura lisa. Se caracteriza por inicio brusco, intensidad máxima inmediata, curso fluctuante y una inquietud motora extrema típica. Las distractoras son incorrectas: el dolor somático parietal peritoneal es continuo y se exacerba con los movimientos (en el cólico renal el enfermo se mueve sin alivio), el neuropático es urente y con parestesias, el óseo es fijo y nocturno sin curso cólico, y el muscular es gravativo, dependiente de la postura y sin irradiación ureteral.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "litiasis",
+        "dolor"
+      ],
+      "dificultad": "facil",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 2, Caso 1"
+    },
+    {
+      "id": "c2-gu-02",
+      "enunciado": "Un varón de 38 años consulta por dolor lumbar izquierdo de inicio brusco, cólico y fluctuante, con hematuria y sin fiebre. ¿Cuál es el mecanismo fisiopatológico de ese dolor?",
+      "alternativas": [
+        "Inflamación difusa de la cápsula",
+        "Isquemia arterial aguda del parénquima renal",
+        "Obstrucción con hiperpresión retrógrada",
+        "Espasmo aislado del detrusor",
+        "Fibrosis progresiva del uréter"
+      ],
+      "respuesta": 2,
+      "pista": "Relacione el dolor con el efecto de un cálculo que bloquea la vía urinaria de forma aguda.",
+      "argumento": "La correcta es la obstrucción con hiperpresión retrógrada: el cálculo impactado genera aumento de presión hacia atrás, distiende la cápsula y la pelvis renal y provoca espasmo ureteral. La inflamación capsular (pielonefritis) da Giordano positivo y fiebre, que no están presentes; la isquemia arterial produce dolor sordo pero no cólico fluctuante; el espasmo del detrusor explica síntomas de llenado, no el dolor lumbar; y la fibrosis ureteral es un proceso crónico sin dolor agudo. El cólico es obstructivo, no inflamatorio ni isquémico.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "litiasis",
+        "fisiopatologia"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 2, Caso 1"
+    },
+    {
+      "id": "c2-gu-03",
+      "enunciado": "Un varón con cólico renal izquierdo por litiasis presenta un dolor que nace en la fosa lumbar. ¿Cuál es su irradiación típica por trayecto ureteral?",
+      "alternativas": [
+        "Hacia el hombro y el cuello",
+        "Hacia la región epigástrica",
+        "Hacia el muslo contralateral",
+        "Hacia el flanco, ingle y testículo",
+        "Hacia la fosa poplítea"
+      ],
+      "respuesta": 3,
+      "pista": "Siga el recorrido anatómico del uréter desde el riñón hasta la pelvis.",
+      "argumento": "La irradiación correcta sigue el trayecto ureteral: flanco, fosa ilíaca, región inguinal y testículo homolateral (por el dermatoma correspondiente y la proximidad embriológica del testículo al uréter). Las demás son incorrectas: el hombro y cuello corresponden a irritación diafragmática, la epigástrica a patología gastroduodenal o pancreática, el muslo contralateral no sigue ningún trayecto ureteral y la fosa poplítea es propia de patología lumbociática o vascular de miembro inferior.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "litiasis",
+        "irradiacion"
+      ],
+      "dificultad": "facil",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 2, Caso 1"
+    },
+    {
+      "id": "c2-gu-04",
+      "enunciado": "Un varón con cólico renal camina de un lado a otro, se agacha y no encuentra ninguna postura que lo alivie. ¿Qué orienta esta actitud postural?",
+      "alternativas": [
+        "Dolor capsular por distensión lenta",
+        "Dolor peritoneal con defensa",
+        "Dolor óseo inflamatorio",
+        "Dolor psicógeno sin ninguna base orgánica",
+        "Dolor cólico visceral por obstrucción"
+      ],
+      "respuesta": 4,
+      "pista": "Compare esa conducta con la que adopta quien tiene dolor peritoneal o capsular.",
+      "argumento": "La inquietud motora extrema es característica del dolor cólico visceral por obstrucción: el enfermo no tolera el reposo y busca alivio cambiando de posición. En cambio, el dolor capsular o peritoneal (peritonitis) típicamente inmoviliza al enfermo, que evita moverse porque el movimiento lo agrava; el dolor óseo inflamatorio también empeora con el movimiento y no genera esta agitación, y el dolor psicógeno no presenta el cortejo vegetativo (diaforesis, náuseas, vómitos) ni un patrón cólico fluctuante con irradiación.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "litiasis",
+        "semiografia"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 2, Caso 1"
+    },
+    {
+      "id": "c2-gu-05",
+      "enunciado": "En la prueba de los tres vasos de Guyon, el sangrado aparece por igual en los tres vasos. ¿Qué origen traduce este hallazgo?",
+      "alternativas": [
+        "Vesical, ureteral o renal",
+        "Uretral distal exclusivo",
+        "Cuello vesical exclusivo",
+        "Próstata distal exclusiva",
+        "Uretra membranosa aislada"
+      ],
+      "respuesta": 0,
+      "pista": "Recuerde qué segmento del aparato urinario produce sangrado inicial, terminal y total.",
+      "argumento": "El sangrado total (igual en los tres vasos) traduce origen vesical, ureteral o renal parenquimatoso, porque la sangre se mezcla con toda la orina almacenada. El sangrado inicial corresponde a uretra o próstata distal, el terminal al cuello vesical o próstata, y el total a vejiga, uréter o riñón. Por eso las opciones que atribuyen el patrón total a un origen uretral, vesical aislado, prostático o de uretra membranosa son incorrectas: esos territorios producen patrones inicial o terminal, no total.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "guyon",
+        "hematuria"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 2, Caso 1"
+    },
+    {
+      "id": "c2-gu-06",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre la hematuria es/son correcta(s).  I) La hematuria urológica presenta coágulos.  II) La hematuria glomerular muestra eritrocitos dismórficos.  III) La hematuria glomerular suele tener cilindros hemáticos.  IV) La hematuria urológica tiene color pardo ahumado.",
+      "alternativas": [
+        "Solo I",
+        "Solo II y III",
+        "Solo I, II y III",
+        "Solo IV",
+        "Todas son correctas"
+      ],
+      "respuesta": 2,
+      "pista": "Distinga el patrón de la hematuria de origen bajo (vías) del de origen glomerular.",
+      "argumento": "I: V. La hematuria urológica forma coágulos porque la sangre se estanca y coagula en la vía. II: V. La glomerular cursa con eritrocitos dismórficos (>80%), deformados al atravesar la membrana basal. III: V. La glomerular presenta cilindros hemáticos, formados en el túbulo. IV: F. El color pardo ahumado ('coca-cola') es propio de la hematuria glomerular, no de la urológica, que es rojo rutilante. Por eso la combinación correcta es I, II y III.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap2",
+        "hematuria",
+        "suficiencia"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 2, Caso 1"
+    },
+    {
+      "id": "c2-gu-07",
+      "enunciado": "¿A qué estructura anatómica corresponde el punto ureteral superior (paraumbilical)?",
+      "alternativas": [
+        "El cruce del uréter con los vasos ilíacos",
+        "La desembocadura del uréter en la vejiga",
+        "El hilio renal y la pelvis",
+        "El meato ureteral intramural",
+        "La unión pieloureteral"
+      ],
+      "respuesta": 4,
+      "pista": "Ubique el punto en la intersección del borde externo del recto anterior con la línea umbilical.",
+      "argumento": "El punto ureteral superior (paraumbilical) corresponde a la unión pieloureteral, en la intersección del borde externo del músculo recto anterior con la línea umbilical transverso-abdominal. El cruce con los vasos ilíacos corresponde al punto ureteral medio, y la desembocadura del uréter en la vejiga al punto ureteral inferior. El hilio y la pelvis renal no tienen un punto ureteral propio, y el meato intramural forma parte del segmento inferior, no del superior.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "puntos-ureterales",
+        "examen-fisico"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 2, Caso 1"
+    },
+    {
+      "id": "c2-gu-08",
+      "enunciado": "La maniobra bimanual de Guyon resulta negativa (riñones no palpables). ¿Cómo se interpreta este hallazgo?",
+      "alternativas": [
+        "Descarta de forma concluyente la litiasis",
+        "Es esperable en el adulto normal",
+        "Obliga a descartar masa renal",
+        "Indica peloteo renal positivo",
+        "Sugiere riñón poliquístico"
+      ],
+      "respuesta": 1,
+      "pista": "Recuerde la frecuencia con que se palpan los riñones en un adulto sano.",
+      "argumento": "La respuesta correcta es que es esperable en el adulto normal: en el adulto sano los riñones habitualmente no son palpables, por lo que la negatividad de Guyon no descarta litiasis ni tiene valor patológico. No descarta la litiasis (el cálculo puede ser pequeño y no agrandar el riñón), no obliga a descartar masa renal por sí misma, no indica peloteo (este se buscaría solo si hubiera masa) y no sugiere poliquistosis, que requeriría riñones aumentados y palpables con superficie irregular.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "guyon",
+        "examen-fisico"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 2, Caso 1"
+    },
+    {
+      "id": "c2-gu-09",
+      "enunciado": "En un varón afebril con cólico renal por litiasis, el Giordano resulta dudoso. ¿Cómo se explica esta diferencia respecto de una pielonefritis aguda?",
+      "alternativas": [
+        "Infeccioso con compromiso capsular",
+        "Inflamatorio autoinmune renal",
+        "Tumoral con invasión capsular",
+        "Obstructivo sin infección asociada",
+        "Vascular por trombosis de la vena renal"
+      ],
+      "respuesta": 3,
+      "pista": "Piense en qué agrega la infección al cuadro obstructivo para volver el Giordano francamente positivo.",
+      "argumento": "El cuadro es obstructivo sin infección asociada: el Giordano traduce inflamación de la cápsula renal, y resulta dudoso porque no hay infección ni fiebre. En la pielonefritis aguda el Giordano es francamente positivo, con fiebre >38 °C, calofríos, piuria y compromiso del estado general. Las opciones infecciosa, autoinmune, tumoral y vascular no corresponden al cuadro: cursa sin fiebre ni síntomas sistémicos, y el examen no sugiere masa ni evento vascular agudo.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "giordano",
+        "pielonefritis"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 2, Caso 1"
+    },
+    {
+      "id": "c2-gu-10",
+      "enunciado": "El signo de Prehn se hace positivo cuando elevar el testículo hacia el canal inguinal alivia el dolor. ¿Hacia qué diagnóstico orienta?",
+      "alternativas": [
+        "Orquiepididimitis aguda",
+        "Torsión testicular incipiente",
+        "Tumor testicular primario",
+        "Hernia inguinal incarcerada",
+        "Varicocele grado III"
+      ],
+      "respuesta": 0,
+      "pista": "Relacione el alivio al elevar el testículo con el efecto de la gravedad sobre el cordón espermático inflamado.",
+      "argumento": "El signo de Prehn positivo orienta a orquiepididimitis aguda: elevar el testículo hacia el canal inguinal lo alivia al reducir la tensión del cordón inflamado. En la torsión, en cambio, el signo de Prehn es negativo o incluso empeora. No orienta a tumor, hernia incarcerada ni varicocele, cuadros con semiología propia (masa dura indolora, tumoración inguinal irreductible y 'bolsa de gusanos' respectivamente) y que no responden de ese modo a la elevación.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "escroto-agudo",
+        "prehn"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 2, Caso 1"
+    },
+    {
+      "id": "c2-gu-11",
+      "enunciado": "El signo de Gouverneur consiste en un testículo elevado y horizontalizado. ¿Qué sugiere?",
+      "alternativas": [
+        "Orquiepididimitis bacteriana",
+        "Hidrocele comunicante",
+        "Epididimitis crónica",
+        "Quiste de epidídimo",
+        "Torsión testicular"
+      ],
+      "respuesta": 4,
+      "pista": "Asocie la horizontalización del testículo con la retracción del cordón espermático.",
+      "argumento": "El signo de Gouverneur (testículo elevado y horizontalizado) sugiere torsión testicular, porque el cordón espermático se acorta y rota, traccionando el testículo hacia arriba y acostándolo. La orquiepididimitis no lo produce (el testículo se mantiene vertical, con signo de Prehn positivo), y el hidrocele, la epididimitis crónica y el quiste de epidídimo son cuadros de curso más lento, con aumento de volumen o nódulos, sin esta deformación postural aguda.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "escroto-agudo",
+        "gouverneur"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 2, Caso 1"
+    },
+    {
+      "id": "c2-gu-12",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre el escroto agudo es/son correcta(s).  I) El reflejo cremastérico está abolido en la torsión.  II) El signo de Prehn positivo orienta a orquiepididimitis.  III) En un cólico renal con dolor irradiado al testículo, el testículo se palpa normal.  IV) La torsión testicular no requiere urgencia quirúrgica.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo I, II y III",
+        "Solo III y IV",
+        "Solo IV",
+        "Todas son correctas"
+      ],
+      "respuesta": 1,
+      "pista": "Separe los signos que apuntan a torsión de los que apuntan a orquiepididimitis, y revise si el dolor testicular irradiado acompaña a patología escrotal primaria.",
+      "argumento": "I: V. El reflejo cremastérico se abole en la torsión y se conserva en la orquiepididimitis. II: V. El signo de Prehn positivo (alivio al elevar el testículo) orienta a orquiepididimitis. III: V. En el cólico renal con dolor irradiado, el testículo se palpa normal, indoloro, en posición vertical, con reflejo cremastérico conservado, por lo que el dolor es irradiado, no primario. IV: F. La torsión es una urgencia quirúrgica con ventana de oro de 6 horas. Por eso la combinación correcta es I, II y III.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap2",
+        "escroto-agudo",
+        "suficiencia"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 2, Caso 1"
+    },
+    {
+      "id": "c2-gu-13",
+      "enunciado": "Ante una clínica compatible con torsión testicular, ¿cuál es la conducta correcta?",
+      "alternativas": [
+        "Observación con analgesia y control",
+        "Ecografía diferida en 24 horas",
+        "Exploración quirúrgica inmediata",
+        "Antibióticos y reposo",
+        "Antiinflamatorios por vía oral"
+      ],
+      "respuesta": 2,
+      "pista": "Recuerde el tiempo máximo que tolera el testículo antes de sufrir daño isquémico irreversible.",
+      "argumento": "La conducta correcta es la exploración quirúrgica inmediata: la torsión compromete la viabilidad testicular en una ventana de oro de 6 horas. La observación, la ecografía diferida y el tratamiento médico con antibióticos o antiinflamatorios son incorrectos porque retrasan la detorsión y aumentan el riesgo de necrosis testicular. Nunca debe asumirse que el dolor testicular es irradiado sin explorar el escroto.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "escroto-agudo",
+        "conducta"
+      ],
+      "dificultad": "facil",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 2, Caso 1"
+    },
+    {
+      "id": "c2-gu-14",
+      "enunciado": "Escolar de 8 años con edema facial matinal, orina 'coca-cola', hipertensión arterial y oliguria tras una faringoamigdalitis. ¿Qué síndrome presenta?",
+      "alternativas": [
+        "Síndrome nefrótico puro",
+        "Insuficiencia renal crónica",
+        "Síndrome prostático obstructivo",
+        "Síndrome nefrítico agudo",
+        "Infección urinaria baja"
+      ],
+      "respuesta": 3,
+      "pista": "Integre la hematuria glomerular, la hipertensión y la caída del filtrado en un síndrome de instauración brusca.",
+      "argumento": "El cuadro corresponde a un síndrome nefrítico agudo, compatible con glomerulonefritis aguda postestreptocócica: instauración brusca, hematuria glomerular macroscópica, edema facial matinal, hipertensión marcada y oliguria con caída del filtrado. El síndrome nefrótico cursa con proteinuria masiva, hipoalbuminemia, edema generalizado y presión normal o baja, ausentes en el síndrome nefrítico; la insuficiencia renal crónica es de curso prolongado; el síndrome prostático es propio de varones mayores; y la infección urinaria baja no produce hematuria glomerular ni hipertensión.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "sindrome-nefritico",
+        "diagnostico"
+      ],
+      "dificultad": "facil",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 2, Caso 2"
+    },
+    {
+      "id": "c2-gu-15",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones diferencia(n) el síndrome nefrítico del nefrótico.  I) El nefrítico se instala en días y el nefrótico en semanas.  II) El nefrótico cursa con proteinuria masiva.  III) El nefrítico tiene hematuria glomerular.  IV) El nefrótico presenta hipertensión marcada.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo II y IV",
+        "Solo I, II y III",
+        "Solo IV",
+        "Todas son correctas"
+      ],
+      "respuesta": 2,
+      "pista": "Repase el perfil típico de presión arterial y proteinuria de cada síndrome.",
+      "argumento": "I: V. El nefrítico es de instauración brusca (días) y el nefrótico insidiosa (semanas a meses). II: V. El nefrótico se define por proteinuria masiva (>3,5 g/24 h). III: V. El nefrítico presenta hematuria glomerular, con cilindros hemáticos y eritrocitos dismórficos. IV: F. El nefrótico cursa con presión arterial normal o baja; la hipertensión marcada es característica del nefrítico. Por eso la combinación correcta es I, II y III.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap2",
+        "nefritico-vs-nefrotico",
+        "suficiencia"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 2, Caso 2"
+    },
+    {
+      "id": "c2-gu-16",
+      "enunciado": "¿Por qué la hematuria glomerular produce una orina pardo-oscura, 'como coca-cola' y sin coágulos?",
+      "alternativas": [
+        "El sangrado es intraglomerular y atraviesa el nefrón sin estancarse",
+        "El sangrado es uretral distal y se estanca en la uretra",
+        "El sangrado es vesical y coagula por estasis en la vejiga",
+        "El sangrado es prostático y se mezcla con secreción",
+        "El sangrado es ureteral alto y queda retenido por obstrucción"
+      ],
+      "respuesta": 0,
+      "pista": "Relacione el color ahumado y la ausencia de coágulos con el sitio donde se origina la sangre.",
+      "argumento": "El aspecto se explica porque el sangrado es intraglomerular y filtrado: la sangre atraviesa la membrana basal y el túbulo, lo que le da color pardo/ahumado y no permite la formación de coágulos, ya que la orina no se estanca. Los orígenes uretral, vesical, prostático y ureteral corresponden a hematuria urológica, que es rojo rutilante y con coágulos, por estancamiento de la sangre en la vía.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "hematuria-glomerular",
+        "semiogenesis"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 2, Caso 2"
+    },
+    {
+      "id": "c2-gu-17",
+      "enunciado": "La coluria puede confundirse con hematuria oscura. ¿Qué la distingue al agitar la muestra de orina?",
+      "alternativas": [
+        "Espuma blanca transitoria",
+        "Sedimento rojo rutilante y abundante",
+        "Coágulos oscuros escasos",
+        "Precipitado blanquecino",
+        "Espuma amarillenta persistente"
+      ],
+      "respuesta": 4,
+      "pista": "Piense en el efecto de los pigmentos biliares sobre la tensión superficial de la orina.",
+      "argumento": "La coluria se debe a bilirrubina conjugada y, al agitar la muestra, produce espuma amarillenta/verdosa persistente. En la hematuria la espuma es blanca o rosada y transitoria, por eso la 'espuma blanca transitoria' no distingue la coluria. El sedimento rojo rutilante, los coágulos oscuros y el precipitado blanquecino no son característicos de la coluria; además, la coluria no contiene hematíes en el sedimento.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "coluria",
+        "hematuria"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 2, Caso 2"
+    },
+    {
+      "id": "c2-gu-18",
+      "enunciado": "¿Cuál es el mecanismo del edema periorbitario matinal en el síndrome nefrítico agudo?",
+      "alternativas": [
+        "Hipoalbuminemia con anasarca",
+        "Retención hidrosalina por bajo filtrado",
+        "Obstrucción del retorno venoso cefálico",
+        "Reacción alérgica local",
+        "Insuficiencia cardíaca derecha"
+      ],
+      "respuesta": 1,
+      "pista": "Relacione la caída del filtrado glomerular con la retención de sodio y agua, y por qué predomina en los párpados.",
+      "argumento": "El edema se debe a retención hidrosalina por caída del filtrado glomerular, con aumento de la presión hidrostática capilar; predomina en tejidos laxos como los párpados y se acentúa tras el decúbito nocturno. La hipoalbuminemia con anasarca es propia del síndrome nefrótico (en el nefrítico la albúmina es normal), la obstrucción venosa cefálica y la reacción alérgica local tienen una distribución y contexto distintos, y la insuficiencia cardíaca derecha produce edema de predominio en miembros inferiores, no periorbitario matinal.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "edema",
+        "sindrome-nefritico"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 2, Caso 2"
+    },
+    {
+      "id": "c2-gu-19",
+      "enunciado": "¿A partir de qué volumen de diuresis en 24 horas se define la oliguria?",
+      "alternativas": [
+        "100 mL en 24 horas",
+        "1.000 mL en 24 horas",
+        "1.500 mL en 24 horas",
+        "400-500 mL en 24 horas",
+        "2.000 mL en 24 horas"
+      ],
+      "respuesta": 3,
+      "pista": "Diferencie el umbral de oliguria del de anuria.",
+      "argumento": "La oliguria se define como una diuresis menor a 400-500 mL/24 h (o <0,5 mL/kg/h). El valor de 100 mL/24 h corresponde a la anuria, y cifras de 1.000, 1.500 y 2.000 mL/24 h son volúmenes normales o de poliuria, no de oliguria. Una diuresis de 350 mL/24 h cumple el criterio de oliguria.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "oliguria",
+        "diuresis"
+      ],
+      "dificultad": "facil",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 2, Caso 2"
+    },
+    {
+      "id": "c2-gu-20",
+      "enunciado": "¿Cuál es el mecanismo de la hipertensión arterial marcada en el síndrome nefrítico?",
+      "alternativas": [
+        "Retención hidrosalina con sobrecarga",
+        "Aumento de renina por isquemia",
+        "Vasodilatación periférica compensadora",
+        "Déficit de catecolaminas",
+        "Hipoaldosteronismo primario"
+      ],
+      "respuesta": 0,
+      "pista": "Relacione la caída del filtrado con la expansión del volumen plasmático.",
+      "argumento": "La hipertensión del síndrome nefrítico se debe a retención hidrosalina con expansión del volumen plasmático, secundaria a la caída del filtrado glomerular. No es un mecanismo renina-dependiente predominante, la vasodilatación periférica bajaría la presión, el déficit de catecolaminas produciría hipotensión y el hipoaldosteronismo primario cursa con pérdida de sodio e hipotensión. La HTA es frecuente y marcada en el nefrítico.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "hipertension",
+        "sindrome-nefritico"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 2, Caso 2"
+    },
+    {
+      "id": "c2-gu-21",
+      "enunciado": "Un escolar con síndrome nefrítico refiere dolor sordo y permanente en ambas fosas lumbares. ¿Cuál es el origen de ese dolor?",
+      "alternativas": [
+        "Cólico ureteral por litiasis",
+        "Espasmo agudo del uréter",
+        "Distensión lenta de la cápsula renal",
+        "Inflamación peritoneal difusa",
+        "Contractura dolorosa del músculo lumbar"
+      ],
+      "respuesta": 2,
+      "pista": "Contraste ese dolor gravativo y fijo con el cólico de origen obstructivo agudo.",
+      "argumento": "El dolor sordo y permanente es de origen capsular, por distensión lenta, progresiva y mantenida de la cápsula fibrosa renal, de ahí su carácter gravativo y fijo, sin la irradiación del cólico. El cólico ureteral por litiasis y el espasmo agudo del uréter son dolorosos, fluctuantes y con irradiación (ausentes en el dolor capsular descrito); la inflamación peritoneal difusa da dolor con defensa y signos peritoneales, y la contractura lumbar es de origen musculoesquelético, sin relación con la enfermedad glomerular.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "dolor-capsular",
+        "sindrome-nefritico"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 2, Caso 2"
+    },
+    {
+      "id": "c2-gu-22",
+      "enunciado": "En el síndrome nefrítico la orina presenta 'mínima espuma'. ¿Cómo se explica este hallazgo?",
+      "alternativas": [
+        "Hay hematuria macroscópica intensa",
+        "La proteinuria es no nefrótica",
+        "Existe glucosuria asociada",
+        "La densidad urinaria es alta",
+        "Hay piuria abundante"
+      ],
+      "respuesta": 1,
+      "pista": "Compare la cuantía de la proteinuria del síndrome nefrítico con la del nefrótico.",
+      "argumento": "La escasa espuma se explica porque la proteinuria es no nefrótica (1,2 g/24 h): la espuma abundante y persistente es propia de la proteinuria masiva del síndrome nefrótico, que altera la tensión superficial. La hematuria, la glucosuria, la densidad alta y la piuria no producen espuma persistente; en particular la glucosuria puede dar espuma pero no es el mecanismo en el síndrome nefrítico.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "proteinuria",
+        "espuma"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 2, Caso 2"
+    },
+    {
+      "id": "c2-gu-23",
+      "enunciado": "En el seguimiento del síndrome nefrítico agudo, ¿qué parámetros es indispensable controlar?",
+      "alternativas": [
+        "Hemograma y plaquetas aisladas",
+        "Glicemia y hemoglobina glicada",
+        "Perfil lipídico y colesterol",
+        "Función hepática y bilirrubina",
+        "PA, peso, diuresis y creatinina"
+      ],
+      "respuesta": 4,
+      "pista": "Piense en los parámetros que reflejan retención hidrosalina y función renal.",
+      "argumento": "Es indispensable controlar presión arterial, peso, diuresis diaria y creatinina, porque reflejan la retención hidrosalina y la función renal, y permiten detectar encefalopatía hipertensiva o insuficiencia renal aguda. El hemograma con plaquetas, la glicemia con hemoglobina glicada, el perfil lipídico y la función hepática no son los parámetros centrales del seguimiento del síndrome nefrítico (el perfil lipídico pertenece más al nefrótico).",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "seguimiento",
+        "sindrome-nefritico"
+      ],
+      "dificultad": "facil",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 2, Caso 2"
+    },
+    {
+      "id": "c2-gu-24",
+      "enunciado": "¿Cuál de los siguientes hallazgos NO corresponde al síndrome nefrótico?",
+      "alternativas": [
+        "Proteinuria mayor a 3,5 g/24 h",
+        "Hipoalbuminemia menor a 3,0 g/dL",
+        "Edema generalizado con anasarca",
+        "Hematuria glomerular con cilindros",
+        "Ninguna de las anteriores"
+      ],
+      "respuesta": 3,
+      "pista": "Recuerde el perfil del sedimento urinario en el síndrome nefrótico.",
+      "argumento": "La hematuria glomerular con cilindros NO corresponde al síndrome nefrótico, donde la hematuria está ausente o es mínima; es propia del nefrítico. La proteinuria mayor a 3,5 g/24 h, la hipoalbuminemia menor a 3,0 g/dL y el edema generalizado con anasarca sí son criterios del nefrótico. 'Ninguna de las anteriores' es incorrecta porque tres de las opciones sí corresponden al síndrome nefrótico.",
+      "tipo": "todas-ninguna",
+      "tags": [
+        "cap2",
+        "sindrome-nefrotico",
+        "todas-ninguna"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 2, Caso 2"
+    },
+    {
+      "id": "c2-gu-25",
+      "enunciado": "En un varón de 72 años con HPB y globo vesical, ¿cuál de los siguientes es un síntoma de llenado (irritativo)?",
+      "alternativas": [
+        "Chorro débil y filiforme",
+        "Goteo terminal posmiccional",
+        "Urgencia miccional",
+        "Intermitencia del chorro",
+        "Dificultad miccional inicial"
+      ],
+      "respuesta": 2,
+      "pista": "Distinga los síntomas que dependen de la fase de almacenamiento de los de la fase de vaciamiento.",
+      "argumento": "La urgencia miccional es un síntoma de llenado (irritativo), junto con la polaquiuria, la nicturia y el tenesmo vesical; su fisiopatología es la hiperexcitabilidad del detrusor o la inflamación de la mucosa. El chorro débil y filiforme, el goteo terminal, la intermitencia y la dificultad inicial son síntomas de vaciado (obstructivos), secundarios a resistencia al flujo de salida.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "sintomas-llenado",
+        "hpb"
+      ],
+      "dificultad": "facil",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 2, Caso 3"
+    },
+    {
+      "id": "c2-gu-26",
+      "enunciado": "Señale cuál(es) de los siguientes son síntomas de vaciado (obstructivos).  I) Chorro débil y filiforme.  II) Intermitencia miccional.  III) Nicturia.  IV) Goteo terminal.",
+      "alternativas": [
+        "Solo I, II y IV",
+        "Solo I y II",
+        "Solo III",
+        "Solo II y III",
+        "Todas son correctas"
+      ],
+      "respuesta": 0,
+      "pista": "Separe los síntomas de la fase de vaciamiento de los de la fase de llenado.",
+      "argumento": "I: V. El chorro débil y filiforme es obstructivo. II: V. La intermitencia del chorro es obstructiva. III: F. La nicturia es un síntoma de llenado (irritativo), no de vaciado. IV: V. El goteo terminal es obstructivo. Por eso la combinación correcta es I, II y IV.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap2",
+        "sintomas-vaciado",
+        "suficiencia"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 2, Caso 3"
+    },
+    {
+      "id": "c2-gu-27",
+      "enunciado": "Un varón con HPB presenta una diuresis total de 1.400 mL en 24 horas, con micciones de pequeño volumen. ¿Cómo se define la polaquiuria?",
+      "alternativas": [
+        "Aumento del volumen urinario total diario",
+        "Micciones frecuentes de pequeño volumen",
+        "Diuresis mayor a 3.000 mL al día",
+        "Ausencia completa de diuresis",
+        "Nicturia aislada sin frecuencia"
+      ],
+      "respuesta": 1,
+      "pista": "Distinga la frecuencia miccional del volumen total eliminado en el día.",
+      "argumento": "La polaquiuria es el aumento de la frecuencia miccional con micciones de pequeño volumen, manteniéndose normal el volumen total de 24 h (como los 1.400 mL mencionados). El aumento del volumen total (>3.000 mL/24 h) define la poliuria, con micciones de volumen normal o elevado; la ausencia completa de diuresis es la anuria, y la nicturia aislada no define la polaquiuria. La clave es frecuencia aumentada con volumen por micción reducido.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "polaquiuria",
+        "poliuria"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 2, Caso 3"
+    },
+    {
+      "id": "c2-gu-28",
+      "enunciado": "En el hipogastrio se palpa una masa redondeada, elástica y dolorosa, con matidez de convexidad superior a la percusión. ¿A qué corresponde?",
+      "alternativas": [
+        "Ascitis con líquido libre peritoneal",
+        "Timpanismo intestinal",
+        "Hepatomegalia dolorosa",
+        "Masa renal palpable",
+        "Globo vesical por retención"
+      ],
+      "respuesta": 4,
+      "pista": "Relacione la matidez de convexidad superior con una vejiga sobredistendida en la línea media.",
+      "argumento": "Corresponde a un globo vesical por retención urinaria: masa redondeada, convexa superiormente, elástica y dolorosa, con matidez de convexidad superior, en la línea media suprapúbica. La ascitis da matidez de concavidad superior o en flancos, el timpanismo intestinal es sonoro (no mate), la hepatomegalia se ubica en hipocondrio derecho y la masa renal en los flancos, no en el hipogastrio con esta forma.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "globo-vesical",
+        "examen-fisico"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 2, Caso 3"
+    },
+    {
+      "id": "c2-gu-29",
+      "enunciado": "Al tacto rectal la próstata está aumentada grado II, de consistencia fibroelástica e indolora, con surco medio conservado. ¿A qué orienta?",
+      "alternativas": [
+        "Prostatitis aguda bacteriana",
+        "Cáncer de próstata avanzado",
+        "Hiperplasia prostática benigna",
+        "Absceso prostático",
+        "Prostatitis crónica granulomatosa"
+      ],
+      "respuesta": 2,
+      "pista": "Considere el tamaño, la consistencia y la ausencia de dolor prostático.",
+      "argumento": "El aumento grado II, fibroelástico, indoloro y con surco medio conservado orienta a hiperplasia prostática benigna, causa de obstrucción crónica de salida. La prostatitis aguda y el absceso prostático dan próstata dolorosa con fiebre; el cáncer avanzado suele ser pétreo, con nódulos y pérdida del surco; y la prostatitis crónica granulomatosa cursa con síntomas irritativos y dolor, no con este patrón indoloro.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "tacto-rectal",
+        "hpb"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 2, Caso 3"
+    },
+    {
+      "id": "c2-gu-30",
+      "enunciado": "En el tacto rectal se explora el punto ureteral inferior. ¿A qué estructura corresponde?",
+      "alternativas": [
+        "Desembocadura ureteral en la vejiga",
+        "La unión pieloureteral",
+        "El cruce del uréter con los vasos ilíacos",
+        "El meato uretral externo",
+        "La pelvis renal"
+      ],
+      "respuesta": 0,
+      "pista": "Ubique el segmento más distal del uréter, accesible por vía rectal.",
+      "argumento": "El punto ureteral inferior corresponde a la desembocadura del uréter en la vejiga (meato ureteral), accesible por tacto rectal, y su dolor puede orientar a compromiso ureteral o pélvico. La unión pieloureteral corresponde al punto superior, el cruce con los vasos ilíacos al punto medio, el meato uretral externo es la salida de la uretra y la pelvis renal es la porción proximal, ninguno explorable por tacto rectal.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "puntos-ureterales",
+        "tacto-rectal"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 2, Caso 3"
+    },
+    {
+      "id": "c2-gu-31",
+      "enunciado": "Un varón de 72 años con HPB refiere salida de aire y burbujas por la uretra al orinar (neumaturia). ¿Cuál es su causa?",
+      "alternativas": [
+        "Infección por bacterias gasógenas",
+        "Cateterismo vesical reciente",
+        "Litiasis ureteral distal",
+        "Fístula entre intestino y vejiga",
+        "Hiperplasia prostática aislada"
+      ],
+      "respuesta": 3,
+      "pista": "Piense en una comunicación anómala entre el tubo digestivo y la vía urinaria.",
+      "argumento": "La neumaturia se debe a una fístula entre el intestino y la vejiga (vesicoentérica), que permite el paso de gas intestinal a la orina. La infección por bacterias gasógenas es una causa excepcional y no explica el cuadro, el cateterismo reciente introduce aire pero no es causa del cuadro crónico, la litiasis ureteral no produce gas en la orina y la HPB aislada no comunica la vía digestiva con la urinaria.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "neumaturia",
+        "fistula"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 2, Caso 3"
+    },
+    {
+      "id": "c2-gu-32",
+      "enunciado": "Un varón de 72 años elimina intermitentemente restos marrones de aspecto fecal por la uretra (fecaluria). ¿Qué significa este signo?",
+      "alternativas": [
+        "Frecuente en la cistitis simple",
+        "Patognomónico de fístula intestinal",
+        "Típico de la prostatitis aguda",
+        "Propio del síndrome nefrítico",
+        "Habitual en la litiasis renal"
+      ],
+      "respuesta": 1,
+      "pista": "Piense en qué tipo de comunicación anatómica permite la salida de materia fecal por la uretra.",
+      "argumento": "La fecaluria es patognomónica de una fístula entre el tubo digestivo y la vejiga, ya que solo una comunicación anómala permite la salida de restos fecales por la uretra. No ocurre en la cistitis simple, la prostatitis aguda, el síndrome nefrítico ni la litiasis renal, cuadros que no comunican el intestino con la vía urinaria. Junto con la neumaturia y la piuria fétida integra el diagnóstico de fístula colovesical.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "fecaluria",
+        "fistula"
+      ],
+      "dificultad": "facil",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 2, Caso 3"
+    },
+    {
+      "id": "c2-gu-33",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre la prostatitis aguda es/son correcta(s).  I) Cursa con próstata dolorosa al tacto rectal.  II) Suele acompañarse de fiebre.  III) El dolor perineal aumenta al sentarse.  IV) La próstata es fibroelástica e indolora.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo IV",
+        "Solo I, II y III",
+        "Solo II y IV",
+        "Todas son correctas"
+      ],
+      "respuesta": 2,
+      "pista": "Compare el patrón prostático y la temperatura corporal con los de la HPB.",
+      "argumento": "I: V. La prostatitis aguda cursa con próstata dolorosa al tacto rectal. II: V. Se acompaña de fiebre y síntomas sistémicos. III: V. El dolor perineal se exacerba al sentarse, defecar y eyacular. IV: F. La próstata fibroelástica e indolora corresponde a la HPB, no a la prostatitis aguda; precisamente la ausencia de dolor y fiebre aleja el diagnóstico de prostatitis. Por eso la combinación correcta es I, II y III.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap2",
+        "prostatitis",
+        "suficiencia"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 2, Caso 3"
+    },
+    {
+      "id": "c2-gu-34",
+      "enunciado": "¿A qué orienta típicamente una anuria (diuresis menor a 100 mL/24 h)?",
+      "alternativas": [
+        "Diabetes insípida central",
+        "Polidipsia psicógena",
+        "Fase poliúrica de recuperación de una IRA",
+        "Diuresis osmótica por glucosuria",
+        "Obstrucción urinaria baja completa"
+      ],
+      "respuesta": 4,
+      "pista": "Relacione la ausencia casi total de orina con un bloqueo completo de la vía de salida.",
+      "argumento": "La anuria orienta típicamente a obstrucción urinaria baja completa o bilateral (globo vesical no drenado, litiasis bilateral, ligadura iatrogénica de uréteres) o a un evento vascular catastrófico. La diabetes insípida central, la polidipsia psicógena, la fase poliúrica de recuperación y la diuresis osmótica por glucosuria producen poliuria, no anuria, por lo que no corresponden a este escenario.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "anuria",
+        "obstruccion"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 2, Caso 3"
+    },
+    {
+      "id": "c2-gu-35",
+      "enunciado": "Frente a un globo vesical doloroso por retención urinaria, ¿cuál es la conducta de urgencia?",
+      "alternativas": [
+        "Cateterismo vesical urgente",
+        "Diuréticos de asa endovenosos",
+        "Restricción hídrica estricta",
+        "Analgesia y observación clínica",
+        "Ninguna de las anteriores"
+      ],
+      "respuesta": 0,
+      "pista": "Piense en la medida que descomprime directamente la vejiga sobredistendida.",
+      "argumento": "La conducta correcta es el cateterismo vesical urgente (y, si fracasa por obstrucción, cistostomía suprapúbica) para descomprimir la vejiga y aliviar el dolor, con monitorización de la diuresis posdrenaje. Los diuréticos de asa están contraindicados en la obstrucción, la restricción hídrica no resuelve la retención y la analgesia con observación retrasa el drenaje. 'Ninguna de las anteriores' es falsa porque el cateterismo es la medida indicada.",
+      "tipo": "todas-ninguna",
+      "tags": [
+        "cap2",
+        "globo-vesical",
+        "conducta"
+      ],
+      "dificultad": "facil",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 2, Caso 3"
+    },
+    {
+      "id": "c2-moe-01",
+      "enunciado": "En un varón de 58 años con dolor nocturno brusco en el primer dedo del pie derecho, con eritema, calor y aumento de volumen fusiforme de contornos capsulares, al aplicar la primera pregunta jerárquica del aparato locomotor, ¿dónde está la estructura dañada?",
+      "alternativas": [
+        "La bursa del primer metatarsiano",
+        "El tendón extensor del pie derecho",
+        "La articulación MTF del pie derecho",
+        "El hueso sesamoideo del pie derecho",
+        "La entesis calcánea del pie derecho"
+      ],
+      "respuesta": 2,
+      "pista": "La primera pregunta jerárquica busca la localización anatómica precisa del daño, no su causa ni su patrón temporal.",
+      "argumento": "La correcta es la articulación MTF del pie derecho: el dolor es difuso, abarca toda la interlínea y la tumefacción sigue los contornos capsulares, lo que ubica el daño en la articulación verdadera. La bursa del primer metatarsiano es incorrecta porque no hay abultamiento focal de bursa ni dolor selectivo; el tendón extensor es incorrecto porque no hay trayectos tendinosos dolorosos lineales; el hueso sesamoideo es incorrecto porque no hay dolor óseo focal selectivo; y la entesis calcánea es incorrecta porque corresponde a una estructura periarticular del talón, ajena a un dolor difuso de la interlínea del primer dedo.",
+      "tipo": "directa",
+      "tags": [
+        "cap3",
+        "razonamiento-jerarquico",
+        "localizacion"
+      ],
+      "dificultad": "facil",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 3, Caso 1"
+    },
+    {
+      "id": "c2-moe-02",
+      "enunciado": "En un varón de 58 años que despertó de madrugada con dolor intenso de inicio brusco en la primera articulación metatarsofalángica del pie derecho, con calor, eritema y tumefacción, ¿qué patrón temporal y fisiopatológico caracteriza el dolor?",
+      "alternativas": [
+        "Dolor inflamatorio de predominio nocturno",
+        "Dolor mecánico de predominio vespertino",
+        "Dolor neuropático de inicio insidioso",
+        "Dolor isquémico de esfuerzo y reposo",
+        "Dolor mixto sin ritmo definido"
+      ],
+      "respuesta": 0,
+      "pista": "Despertó de madrugada con gran intensidad y signos de flogosis locales.",
+      "argumento": "La correcta es inflamatorio de predominio nocturno: inicio agudo, despertar en la madrugada, flogosis y empeoramiento con el reposo prolongado. El dolor mecánico de predominio vespertino es incorrecto porque lo mecánico empeora con la carga y al final del día, no despierta de noche; el neuropático de inicio insidioso es incorrecto porque el dolor descrito fue brusco y con signos inflamatorios, no con parestesias; el isquémico de esfuerzo y reposo es incorrecto porque no hay claudicación vascular ni relación con el ejercicio; y el mixto sin ritmo definido es incorrecto porque aquí el ritmo inflamatorio nocturno está bien definido.",
+      "tipo": "directa",
+      "tags": [
+        "cap3",
+        "razonamiento-jerarquico",
+        "dolor-inflamatorio"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 3, Caso 1"
+    },
+    {
+      "id": "c2-moe-03",
+      "enunciado": "En un varón de 58 años con dolor e inflamación de una sola articulación, la primera metatarsofalángica derecha, sin compromiso contralateral, al responder la tercera pregunta jerárquica (distribución topográfica y número de articulaciones), ¿cuál es la clasificación correcta?",
+      "alternativas": [
+        "Oligoarticular, simétrica, de extremidad superior",
+        "Poliarticular, simétrica, de pequeñas articulaciones",
+        "Monoarticular, simétrica, de extremidad superior",
+        "Poliarticular, asimétrica, de grandes articulaciones",
+        "Monoarticular, asimétrica, de extremidad inferior"
+      ],
+      "respuesta": 4,
+      "pista": "Solo una articulación está comprometida y es del miembro inferior; la simetría requiere comparación bilateral.",
+      "argumento": "La correcta es monoarticular, asimétrica, de extremidad inferior: hay una sola articulación afectada (la primera MTF derecha). Oligoarticular es incorrecto porque se exigen al menos dos articulaciones; poliarticular es incorrecto porque se exigen cinco o más; la mención de extremidad superior es incorrecta porque la MTF pertenece al pie; y las variantes simétricas son incorrectas porque la simetría exige compromiso bilateral equivalente, ausente cuando solo se afecta un pie.",
+      "tipo": "directa",
+      "tags": [
+        "cap3",
+        "razonamiento-jerarquico",
+        "distribucion-articular"
+      ],
+      "dificultad": "facil",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 3, Caso 1"
+    },
+    {
+      "id": "c2-moe-04",
+      "enunciado": "En un varón de 58 años con monoartritis aguda de la primera MTF derecha, con dolor difuso de toda la interlínea, tumefacción que sigue los contornos capsulares y movilidad pasiva dolorosa y limitada, respecto del compromiso articular versus periarticular, señale cuál(es) de las siguientes afirmaciones es/son correcta(s).  I) El dolor es difuso y profundo, abarcando toda la interlínea.  II) El aumento de volumen sigue los contornos de la cápsula articular.  III) La movilidad pasiva es indolora y completa.  IV) No hay dolor focal selectivo a la palpación de entesis ni tendones.",
+      "alternativas": [
+        "Solo I",
+        "Solo III",
+        "Solo I, II y IV",
+        "Solo II y III",
+        "Todas son correctas"
+      ],
+      "respuesta": 2,
+      "pista": "Recuerde que en el compromiso periarticular la movilidad pasiva suele ser indolora; contrástelo con la movilidad de la MTF.",
+      "argumento": "I es verdadera: el dolor difuso y profundo que abarca toda la interlínea es típico de compromiso articular. II es verdadera: la tumefacción capsular/derrame sigue los contornos articulares. III es falsa: la movilidad pasiva está dolorosa y limitada de forma global, lo que confirma compromiso articular; la movilidad pasiva indolora sugeriría estructura periarticular. IV es verdadera: la ausencia de dolor focal selectivo a entesis o tendones descarta el origen periarticular. Por tanto la combinación correcta es Solo I, II y IV. Las opciones que incluyen III son falsas y las demás combinaciones omiten numerales verdaderos.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap3",
+        "articular-vs-periarticular"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 3, Caso 1"
+    },
+    {
+      "id": "c2-moe-05",
+      "enunciado": "En un varón de 58 años con tumefacción, calor, eritema y limitación dolorosa de la primera MTF derecha, en relación con la diferencia conceptual entre artralgia y artritis, ¿cuál afirmación es correcta?",
+      "alternativas": [
+        "Artralgia: tumefacción con calor y eritema local",
+        "Artritis: tumefacción más un signo de flogosis",
+        "Artritis: solo dolor subjetivo sin inflamación",
+        "Artralgia: derrame articular con limitación",
+        "Artritis: dolor referido sin signos objetivos"
+      ],
+      "respuesta": 1,
+      "pista": "La artritis exige un hallazgo objetivo de examen; la artralgia es un síntoma subjetivo.",
+      "argumento": "La correcta es que artritis es tumefacción articular (derrame o proliferación sinovial) más al menos un signo cardinal de flogosis. Decir que artralgia incluye tumefacción con calor y eritema es incorrecto porque la artralgia carece de signos objetivos; definir artritis como solo dolor subjetivo sin inflamación es incorrecto, pues eso es precisamente la artralgia; atribuir derrame articular a la artralgia es incorrecto por la misma razón; y definir artritis como dolor referido sin signos objetivos es incorrecto porque la artritis siempre tiene signos objetivos de inflamación.",
+      "tipo": "directa",
+      "tags": [
+        "cap3",
+        "artralgia-vs-artritis"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 3, Caso 1"
+    },
+    {
+      "id": "c2-moe-06",
+      "enunciado": "En un varón de 58 años con dolor de inicio agudo en la primera MTF derecha, que empeoró con el reposo, lo despertó de madrugada y se acompañó de calor, eritema y tumefacción, respecto de su caracterización como dolor inflamatorio, señale cuál(es) de las siguientes afirmaciones es/son correcta(s).  I) Empeora con el reposo y despertó al paciente en la madrugada.  II) Presenta signos cardinales de flogosis (calor, eritema, tumefacción).  III) Mejora con la carga mecánica sostenida.  IV) Tuvo inicio agudo con gran intensidad y limitación funcional marcada.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo I, II y IV",
+        "Solo II y III",
+        "Solo I y IV",
+        "Todas son correctas"
+      ],
+      "respuesta": 1,
+      "pista": "El dolor mecánico empeora con la carga y alivia con el reposo; revise cuál numeral describe lo contrario.",
+      "argumento": "I es verdadera: empeora con el reposo y despierta de madrugada, rasgo inflamatorio. II es verdadera: la flogosis local confirma inflamación. III es falsa: el dolor inflamatorio no mejora con la carga mecánica sostenida; ese comportamiento es del dolor mecánico. IV es verdadera: el inicio agudo con gran intensidad y limitación funcional marcada respalda el patrón inflamatorio. Por tanto la respuesta correcta es Solo I, II y IV; las combinaciones que omiten un numeral verdadero o incluyen el III son incorrectas.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap3",
+        "dolor-inflamatorio"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 3, Caso 1"
+    },
+    {
+      "id": "c2-moe-07",
+      "enunciado": "En un varón de 58 años con monoartritis aguda de la primera MTF derecha, de inicio brusco y con signos de flogosis, ¿cuáles son los dos diagnósticos etiológicos diferenciales obligatorios que deben plantearse?",
+      "alternativas": [
+        "Artrosis y artritis psoriásica",
+        "Lupus y espondilitis anquilosante",
+        "Fiebre reumática y pseudogota",
+        "Gota y artritis séptica",
+        "Artritis reactiva y bursitis"
+      ],
+      "respuesta": 3,
+      "pista": "Toda monoartritis aguda obliga a considerar la causa microcristalina y la causa infecciosa.",
+      "argumento": "La correcta es gota y artritis séptica: la crisis de podagra por urato monosódico y la artritis bacteriana son los dos diferenciales obligatorios de toda monoartritis aguda. Artrosis es incorrecta porque es un proceso degenerativo crónico, no una monoartritis aguda; lupus y espondilitis anquilosante son incorrectos porque suelen dar patrones poliarticulares o axiales; fiebre reumática y pseudogota son incorrectos porque la fiebre reumática es poliarticular migratoria y la pseudogota por pirofosfato es menos típica de la primera MTF; y artritis reactiva y bursitis son incorrectas porque la reactiva es oligoarticular y la bursitis es periarticular.",
+      "tipo": "directa",
+      "tags": [
+        "cap3",
+        "gota-vs-septica",
+        "diagnostico-diferencial"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 3, Caso 1"
+    },
+    {
+      "id": "c2-moe-08",
+      "enunciado": "Ante una monoartritis aguda de la primera MTF en un varón de 58 años, en quien no puede descartarse una artritis séptica, ¿cuál es la conducta clínica de urgencia prioritaria?",
+      "alternativas": [
+        "Iniciar antibióticos sin punción",
+        "Reposo con hielo y AINE",
+        "Artrocentesis diagnóstica urgente",
+        "Radiografía y alta con analgesia",
+        "Corticoides orales inmediatos"
+      ],
+      "respuesta": 2,
+      "pista": "Antes de tratar hay que obtener el líquido sinovial, y hacerlo sin demora por el riesgo destructivo.",
+      "argumento": "La correcta es la artrocentesis diagnóstica y evacuadora urgente, con estudio citoquímico, Gram, cultivo y búsqueda de microcristales, antes de iniciar antibióticos. Iniciar antibióticos sin punción es incorrecto porque impide el diagnóstico microbiológico y microcristalino; el reposo con hielo y AINE es insuficiente porque no descarta la artritis séptica; la radiografía y el alta con analgesia son incorrectos porque postergan un diagnóstico potencialmente destructivo; y los corticoides orales inmediatos son incorrectos porque pueden agravar una infección no diagnosticada.",
+      "tipo": "directa",
+      "tags": [
+        "cap3",
+        "artrocentesis",
+        "conducta-urgencia"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 3, Caso 1"
+    },
+    {
+      "id": "c2-moe-09",
+      "enunciado": "Si el líquido sinovial de una monoartritis aguda de la primera MTF confirma gota, ¿qué hallazgo microscópico se espera?",
+      "alternativas": [
+        "Urato monosódico, birrefringentes negativos",
+        "Pirofosfato cálcico, birrefringentes positivos",
+        "Colesterol, con forma de placa",
+        "Hidroxiapatita, no birrefringente",
+        "Oxalato cálcico, en agujas positivas"
+      ],
+      "respuesta": 0,
+      "pista": "Piense en el cristal clásico de la gota y en su comportamiento bajo luz polarizada.",
+      "argumento": "La correcta es urato monosódico, cristales en aguja y birrefringentes negativos, hallazgo característico de la gota. El pirofosfato cálcico birrefringente positivo corresponde a la pseudogota, no a la gota; el colesterol en placa se ve en derrames crónicos inespecíficos; la hidroxiapatita no birrefringente se asocia a artropatía por cristales básicos de calcio; y el oxalato cálcico en agujas positivas se relaciona con hiperoxaluria, no con la gota.",
+      "tipo": "directa",
+      "tags": [
+        "cap3",
+        "cristales",
+        "liquido-sinovial"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 3, Caso 1"
+    },
+    {
+      "id": "c2-moe-10",
+      "enunciado": "En un varón de 58 años con monoartritis aguda de la primera MTF, ¿cuál de los siguientes elementos favorece el diagnóstico de crisis de gota?",
+      "alternativas": [
+        "Sexo masculino y consumo de cerveza",
+        "Dieta rica en purinas y obesidad",
+        "Episodios previos autolimitados",
+        "Hipertensión y dislipidemia",
+        "Todas las anteriores"
+      ],
+      "respuesta": 4,
+      "pista": "Revise cada factor de riesgo y su relación con la hiperuricemia.",
+      "argumento": "Todas las anteriores son verdaderas. El sexo masculino y el consumo diario de cerveza son factores clásicos de hiperuricemia; la dieta rica en purinas y la obesidad central favorecen la gota; los episodios previos autolimitados de la misma articulación son muy sugestivos; y la hipertensión y la dislipidemia se asocian a síndrome metabólico e hiperuricemia. Como cada una de las cuatro primeras opciones es verdadera, la respuesta correcta es Todas las anteriores.",
+      "tipo": "todas-ninguna",
+      "tags": [
+        "cap3",
+        "gota",
+        "factores-riesgo"
+      ],
+      "dificultad": "facil",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 3, Caso 1"
+    },
+    {
+      "id": "c2-moe-11",
+      "enunciado": "En una mujer de 48 años con dolor y aumento de volumen de ambas manos, muñecas y pies de 4 meses de evolución, con tumefacción simétrica de MCF, IFP y carpos, ¿cómo se clasifica la distribución articular según el número de articulaciones y la simetría?",
+      "alternativas": [
+        "Oligoartritis asimétrica de pies",
+        "Poliartritis simétrica de manos",
+        "Monoartritis aguda de muñeca",
+        "Poliartritis asimétrica de rodillas",
+        "Artralgia simétrica sin sinovitis"
+      ],
+      "respuesta": 1,
+      "pista": "Cuente las articulaciones comprometidas (MCF, IFP, muñecas y pies) y compare ambos lados.",
+      "argumento": "La correcta es poliartritis simétrica de manos: hay cinco o más articulaciones comprometidas (MCF, IFP, carpos y pies), con patrón simétrico y de pequeñas articulaciones. Oligoartritis es incorrecta porque implica solo dos a cuatro articulaciones; monoartritis es incorrecta porque hay múltiples articulaciones; la poliartritis asimétrica de rodillas es incorrecta porque aquí el patrón es simétrico y de manos y pies, no de rodillas; y la artralgia sin sinovitis es incorrecta porque existe tumefacción sinovial objetiva.",
+      "tipo": "directa",
+      "tags": [
+        "cap3",
+        "distribucion-articular",
+        "artritis-reumatoide"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 3, Caso 2"
+    },
+    {
+      "id": "c2-moe-12",
+      "enunciado": "En una mujer de 48 años con poliartritis simétrica de pequeñas articulaciones de manos y pies que respeta las IFD, ¿qué diagnóstico orienta este patrón?",
+      "alternativas": [
+        "Orientan a artrosis primaria",
+        "Orientan a artritis psoriásica",
+        "Orientan a gota crónica",
+        "Orientan a artritis reumatoide",
+        "Orientan a lupus eritematoso"
+      ],
+      "respuesta": 3,
+      "pista": "El respeto de las IFD y la sinovitis de MCF e IFP son la clave del patrón.",
+      "argumento": "La correcta es artritis reumatoide: la sinovitis predomina en articulaciones con membrana sinovial laxa y pinzamiento funcional (MCF e IFP), respetando las IFD. La artrosis es incorrecta porque compromete típicamente las IFD (nódulos de Heberden) y es de tumefacción ósea dura; la artritis psoriásica es incorrecta porque justamente suele afectar las IFD y asociarse a dactilitis; la gota crónica es incorrecta porque da monoartritis o patrones asimétricos con tofos; y el lupus es un diferencial posible pero menos probable que la AR ante este patrón, y no explica el respeto selectivo de IFD.",
+      "tipo": "directa",
+      "tags": [
+        "cap3",
+        "artritis-reumatoide",
+        "ifd"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 3, Caso 2"
+    },
+    {
+      "id": "c2-moe-13",
+      "enunciado": "En una mujer de 48 años con dolor y aumento de volumen de ambas manos y muñecas, con tumefacción blanda en MCF, IFP y carpos y limitación dolorosa de los arcos de movimiento, respecto de la diferencia entre artralgia y artritis, señale cuál(es) de las siguientes afirmaciones es/son correcta(s).  I) Presenta tumefacción objetiva por sinovitis en MCF, IFP y muñecas.  II) Existe limitación dolorosa de los arcos de movimiento.  III) El dolor es solo subjetivo, sin signos objetivos de inflamación.  IV) Hay dolor difuso a la palpación de las interlíneas.",
+      "alternativas": [
+        "Solo I",
+        "Solo II y III",
+        "Solo I, II y IV",
+        "Solo I y III",
+        "Todas son correctas"
+      ],
+      "respuesta": 2,
+      "pista": "La artritis exige signos objetivos; identifique el numeral que describe a la artralgia.",
+      "argumento": "I es verdadera: la sinovitis en masa con tumefacción objetiva define artritis. II es verdadera: la limitación dolorosa de los arcos de movimiento es signo objetivo. III es falsa: describir el dolor como solo subjetivo sin signos objetivos es la definición de artralgia, que no se aplica aquí. IV es verdadera: el dolor difuso a la palpación apoya el compromiso articular inflamatorio. Por tanto la respuesta correcta es Solo I, II y IV.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap3",
+        "artralgia-vs-artritis"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 3, Caso 2"
+    },
+    {
+      "id": "c2-moe-14",
+      "enunciado": "En una mujer de 48 años con poliartritis de manos de 4 meses de evolución, ¿cuál de los siguientes criterios respalda que el dolor es de tipo inflamatorio?",
+      "alternativas": [
+        "Rigidez matinal mayor a una hora",
+        "Rigidez matinal menor a quince minutos",
+        "Dolor que cede con el reposo",
+        "Dolor que empeora al final del día",
+        "Sin síntomas sistémicos asociados"
+      ],
+      "respuesta": 0,
+      "pista": "Compare la duración de la rigidez matinal y el comportamiento con el reposo y el movimiento.",
+      "argumento": "La correcta es rigidez matinal mayor a una hora, rasgo típico del dolor inflamatorio; en el mecánico dura menos de quince a treinta minutos. La rigidez menor a quince minutos corresponde al dolor mecánico; el alivio con el reposo también es mecánico, ya que lo inflamatorio empeora con el reposo prolongado; el empeoramiento al final del día es mecánico; y la ausencia de síntomas sistémicos es propia del dolor mecánico, mientras el dolor inflamatorio cursa con astenia y baja de peso.",
+      "tipo": "directa",
+      "tags": [
+        "cap3",
+        "dolor-inflamatorio",
+        "rigidez-matinal"
+      ],
+      "dificultad": "facil",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 3, Caso 2"
+    },
+    {
+      "id": "c2-moe-15",
+      "enunciado": "En las manos de un paciente con artritis reumatoide, ¿qué describe la deformidad en cuello de cisne?",
+      "alternativas": [
+        "Flexión de IFP e hiperextensión de IFD",
+        "Desviación cubital de los dedos",
+        "Engrosamiento óseo de la IFD",
+        "Engrosamiento óseo de la IFP",
+        "Hiperextensión de IFP y flexión de IFD"
+      ],
+      "respuesta": 4,
+      "pista": "Recuerde qué articulación se hiperextiende y cuál se flexiona en el cuello de cisne.",
+      "argumento": "La correcta es hiperextensión de la IFP asociada a flexión de la IFD. La flexión de IFP con hiperextensión de IFD describe la deformidad en boutonnière, no el cuello de cisne; la desviación cubital es una deformidad global distinta, en ráfaga; y los engrosamientos óseos de IFD e IFP corresponden a nódulos de Heberden y Bouchard de la artrosis, no al cuello de cisne.",
+      "tipo": "directa",
+      "tags": [
+        "cap3",
+        "manos-reumatoide",
+        "cuello-de-cisne"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 3, Caso 2"
+    },
+    {
+      "id": "c2-moe-16",
+      "enunciado": "¿Qué describe la deformidad en boutonnière o en ojal de las manos reumatoides?",
+      "alternativas": [
+        "Hiperextensión de IFP y flexión de IFD",
+        "Desviación radial de los dedos",
+        "Flexión de IFP e hiperextensión de IFD",
+        "Nódulo duro en la IFD",
+        "Nódulo blando en la MCF"
+      ],
+      "respuesta": 2,
+      "pista": "En el ojal, la articulación proximal se flexiona y la distal se extiende de más.",
+      "argumento": "La correcta es flexión de la IFP asociada a hiperextensión de la IFD. La hiperextensión de IFP con flexión de IFD corresponde al cuello de cisne; la desviación radial no es la deformidad descrita, ya que lo característico es la desviación cubital; y los nódulos duros de IFD o blandos de MCF corresponden a artrosis o a sinovitis, respectivamente, no a la deformidad en ojal.",
+      "tipo": "directa",
+      "tags": [
+        "cap3",
+        "manos-reumatoide",
+        "boutonniere"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 3, Caso 2"
+    },
+    {
+      "id": "c2-moe-17",
+      "enunciado": "En las manos artrósicas, ¿qué son los nódulos de Heberden?",
+      "alternativas": [
+        "Nódulo óseo duro en IFP",
+        "Nódulo óseo duro en IFD",
+        "Sinovitis blanda en MCF",
+        "Sinovitis blanda en IFP",
+        "Afección trapeciometacarpiana"
+      ],
+      "respuesta": 1,
+      "pista": "Distinga la articulación distal de la proximal al recordar el epónimo.",
+      "argumento": "La correcta es nódulo óseo duro en las IFD. El nódulo óseo duro en IFP corresponde al nódulo de Bouchard; la sinovitis blanda de MCF o IFP es un hallazgo inflamatorio reumatoide, no artrósico; y la afección trapeciometacarpiana corresponde a la rizartrosis del pulgar.",
+      "tipo": "directa",
+      "tags": [
+        "cap3",
+        "manos-artrosica",
+        "heberden"
+      ],
+      "dificultad": "facil",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 3, Caso 2"
+    },
+    {
+      "id": "c2-moe-18",
+      "enunciado": "¿Qué son los nódulos de Bouchard en la mano artrósica?",
+      "alternativas": [
+        "Nódulo óseo duro en IFD",
+        "Sinovitis blanda en MCF",
+        "Desviación cubital marcada",
+        "Nódulo óseo duro en IFP",
+        "Afección trapeciometacarpiana"
+      ],
+      "respuesta": 3,
+      "pista": "El epónimo de Bouchard se ubica en la articulación proximal, a diferencia del de Heberden.",
+      "argumento": "La correcta es nódulo óseo duro en las IFP. El nódulo óseo duro en IFD es el de Heberden; la sinovitis blanda de MCF es un signo inflamatorio reumatoide; la desviación cubital marcada pertenece a la mano reumatoide; y la afección trapeciometacarpiana es la rizartrosis del pulgar, un hallazgo aparte.",
+      "tipo": "directa",
+      "tags": [
+        "cap3",
+        "manos-artrosica",
+        "bouchard"
+      ],
+      "dificultad": "facil",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 3, Caso 2"
+    },
+    {
+      "id": "c2-moe-19",
+      "enunciado": "¿Qué es la rizartrosis del pulgar en las manos artrósicas?",
+      "alternativas": [
+        "Artrosis trapeciometacarpiana del pulgar",
+        "Artrosis de la IFD del pulgar",
+        "Sinovitis de la MCF del pulgar",
+        "Artrosis de la muñeca radial",
+        "Entesitis del tendón aquíleo"
+      ],
+      "respuesta": 0,
+      "pista": "Piense en la articulación que une el trapecio con el primer metacarpiano.",
+      "argumento": "La correcta es artrosis de la articulación trapeciometacarpiana. La artrosis de la IFD del pulgar correspondería a un nódulo de Heberden; la sinovitis de la MCF del pulgar es un hallazgo inflamatorio; la artrosis de la muñeca radial no define la rizartrosis; y la entesitis aquílea pertenece a las espondiloartritis del pie, no a la mano.",
+      "tipo": "directa",
+      "tags": [
+        "cap3",
+        "manos-artrosica",
+        "rizartrosis"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 3, Caso 2"
+    },
+    {
+      "id": "c2-moe-20",
+      "enunciado": "Respecto de las características de la mano artrósica, ¿cuál de las siguientes afirmaciones es correcta?",
+      "alternativas": [
+        "Produce sinovitis blanda de MCF",
+        "Respeta las articulaciones IFD",
+        "Causa desviación cubital marcada",
+        "Produce rigidez matinal de una hora",
+        "Ninguna de las anteriores"
+      ],
+      "respuesta": 4,
+      "pista": "Verifique cada afirmación contra el perfil de la artrosis y descarte las que describan más bien la artritis reumatoide.",
+      "argumento": "Ninguna de las anteriores es correcta. La artrosis no produce sinovitis blanda de MCF, que es propia de la artritis reumatoide; no respeta las IFD, sino que las afecta con nódulos de Heberden; no causa desviación cubital marcada, que es un rasgo reumatoide; y no produce rigidez matinal de una hora, que es inflamatoria, sino rigidez de arranque corta. Al ser falsas las cuatro primeras opciones, la correcta es Ninguna de las anteriores.",
+      "tipo": "todas-ninguna",
+      "tags": [
+        "cap3",
+        "manos-artrosica"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 3, Caso 2"
+    },
+    {
+      "id": "c2-moe-21",
+      "enunciado": "En una mujer de 48 años con poliartritis dolorosa de manos, la fuerza de prensión es 4/5 pero se recupera cuando el dolor se atenúa. ¿Cómo se interpreta este hallazgo?",
+      "alternativas": [
+        "Debilidad verdadera de origen miopático",
+        "Debilidad verdadera de origen neurológico",
+        "Impotencia antálgica que cede al dolor",
+        "Paresia por lesión del nervio peroneo",
+        "Plejía por compromiso medular"
+      ],
+      "respuesta": 2,
+      "pista": "Distinga la pérdida real de fuerza contráctil del límite que impone el dolor.",
+      "argumento": "La correcta es impotencia funcional antálgica: músculo e inervación íntegros, pero se limita la fuerza por dolor y se recupera al atenuarlo. La debilidad verdadera miopática o neurológica es incorrecta porque la fuerza se recupera al reducir el estímulo doloroso; la paresia por lesión peronea es incorrecta porque afectaría la dorsiflexión del pie, no la prensión; y la plejía medular es incorrecta porque implicaría déficit grave y permanente, ausente aquí.",
+      "tipo": "directa",
+      "tags": [
+        "cap3",
+        "fuerza",
+        "impotencia-antalgica"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 3, Caso 2"
+    },
+    {
+      "id": "c2-moe-22",
+      "enunciado": "Según la escala MRC, ¿qué grado describe mejor a una persona cuya limitación de fuerza se debe al dolor y no a un déficit neurológico?",
+      "alternativas": [
+        "Grado 5, fuerza completamente normal",
+        "Grado 4, por limitación dolorosa",
+        "Grado 3, vence solo la gravedad",
+        "Grado 2, mueve sin vencer gravedad",
+        "Grado 1, solo contracción visible"
+      ],
+      "respuesta": 1,
+      "pista": "Distinga entre una fuerza realmente normal y una fuerza limitada por dolor al movilizar.",
+      "argumento": "La correcta es grado 4, por limitación dolorosa: vence la gravedad y resistencia moderada, pero se registra 4/5 por el dolor. El grado 5 implicaría fuerza normal que vence resistencia máxima, no lo observado mientras hay dolor; el grado 3 vence solo la gravedad; el grado 2 mueve sin vencer la gravedad; y el grado 1 muestra solo contracción visible, grados todos muy por debajo del hallazgo real.",
+      "tipo": "directa",
+      "tags": [
+        "cap3",
+        "escala-mrc",
+        "fuerza"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 3, Caso 2"
+    },
+    {
+      "id": "c2-moe-23",
+      "enunciado": "En un varón de 24 años con lumbago inflamatorio que presenta dolor y tumefacción de la rodilla izquierda y del tobillo derecho, ¿cómo se clasifica la distribución articular periférica?",
+      "alternativas": [
+        "Poliartritis simétrica de pequeñas articulaciones",
+        "Monoartritis aguda de rodilla",
+        "Poliartritis simétrica de manos y pies",
+        "Oligoartritis asimétrica de EEII",
+        "Oligoartritis simétrica de EEII"
+      ],
+      "respuesta": 3,
+      "pista": "Cuente las articulaciones (rodilla y tobillo) y compare los lados comprometidos.",
+      "argumento": "La correcta es oligoartritis asimétrica de extremidades inferiores: dos a cuatro articulaciones (rodilla izquierda y tobillo derecho), de patrón asimétrico y grandes articulaciones de EEII. Poliarticular es incorrecto porque exige cinco o más articulaciones; monoarticular es incorrecto porque hay más de una; y la variante simétrica es incorrecta porque el compromiso descrito es asimétrico.",
+      "tipo": "directa",
+      "tags": [
+        "cap3",
+        "distribucion-articular",
+        "espondiloartritis"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 3, Caso 3"
+    },
+    {
+      "id": "c2-moe-24",
+      "enunciado": "Un varón de 24 años presenta oligoartritis asimétrica de extremidades inferiores, entesitis, dactilitis, psoriasis y diarrea previa. ¿A qué grupo de enfermedades corresponde este conjunto?",
+      "alternativas": [
+        "Espondiloartritis seronegativas",
+        "Artritis reumatoide",
+        "Artropatías microcristalinas",
+        "Enfermedades del tejido conectivo",
+        "Artrosis primaria generalizada"
+      ],
+      "respuesta": 0,
+      "pista": "Piense en el grupo que reúne artritis, entesitis, dactilitis y compromiso axial.",
+      "argumento": "La correcta es espondiloartritis seronegativas, que agrupan espondilitis anquilosante, artritis reactiva, artritis enteropática y artritis psoriásica. La artritis reumatoide es incorrecta porque es simétrica, de pequeñas articulaciones y respeta las IFD; las artropatías microcristalinas son incorrectas porque dan monoartritis aguda o patrones distintos; las enfermedades del tejido conectivo son incorrectas porque el cuadro no es multisistémico autoinmune; y la artrosis es incorrecta porque es degenerativa, no inflamatoria.",
+      "tipo": "directa",
+      "tags": [
+        "cap3",
+        "espondiloartritis",
+        "grupo-nosologico"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 3, Caso 3"
+    },
+    {
+      "id": "c2-moe-25",
+      "enunciado": "En un varón de 24 años con espondiloartritis, el cuarto dedo del pie derecho está tumefacto globalmente. ¿Cómo se denomina este hallazgo y a qué orienta?",
+      "alternativas": [
+        "Nódulo de Heberden en IFD",
+        "Sinovitis blanda de MCF",
+        "Rizartrosis del pulgar",
+        "Desviación cubital de los dedos",
+        "Dactilitis en dedo en salchicha"
+      ],
+      "respuesta": 4,
+      "pista": "La tumefacción es global de partes blandas y afecta todo el dedo, no una articulación aislada.",
+      "argumento": "La correcta es dactilitis en dedo en salchicha, hallazgo característico de la artritis psoriásica dentro de las espondiloartritis. El nódulo de Heberden es un engrosamiento óseo de IFD artrósico; la sinovitis blanda de MCF es un signo reumatoide de la mano; la rizartrosis es una artrosis del pulgar; y la desviación cubital pertenece a la mano reumatoide, ninguno de los cuales corresponde a la tumefacción global del dedo del pie.",
+      "tipo": "directa",
+      "tags": [
+        "cap3",
+        "dactilitis",
+        "artritis-psoriasica"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 3, Caso 3"
+    },
+    {
+      "id": "c2-moe-26",
+      "enunciado": "En un varón de 24 años con espondiloartritis, que presenta derrame en la rodilla izquierda y dolor focal en la entesis calcánea derecha, respecto del compromiso articular versus periarticular, señale cuál(es) de las siguientes afirmaciones es/son correcta(s).  I) La rodilla izquierda presenta derrame con signo de la ola positivo.  II) La entesis calcánea duele de forma focal y puntual.  III) La movilidad pasiva de la entesis aquílea es dolorosa.  IV) La flexión plantar contra resistencia es dolorosa.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo II y III",
+        "Solo I, II y IV",
+        "Solo I y IV",
+        "Todas son correctas"
+      ],
+      "respuesta": 2,
+      "pista": "En la entesitis la movilidad pasiva es indolora; busque el numeral que contradiga ese dato.",
+      "argumento": "I es verdadera: la rodilla tiene derrame articular con signo de la ola positivo. II es verdadera: el dolor focal y puntual en la entesis calcánea es periarticular. III es falsa: la movilidad pasiva de la entesis aquílea es indolora y completa, porque el tendón no tracciona. IV es verdadera: la flexión plantar isométrica contra resistencia es vivamente dolorosa, típico de entesitis. Por tanto la respuesta correcta es Solo I, II y IV.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap3",
+        "articular-vs-periarticular",
+        "entesitis"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 3, Caso 3"
+    },
+    {
+      "id": "c2-moe-27",
+      "enunciado": "¿Qué conjunto de hallazgos define el compromiso periarticular por entesitis?",
+      "alternativas": [
+        "Dolor difuso con derrame articular",
+        "Dolor focal y contra resistencia",
+        "Movilidad pasiva dolorosa global",
+        "Signo del témpano positivo",
+        "Sinovitis blanda de interlínea"
+      ],
+      "respuesta": 1,
+      "pista": "El tendón no duele al moverse pasivamente, pero sí al contraerse contra resistencia.",
+      "argumento": "La correcta es dolor focal y dolor contra resistencia: dolor puntual a la palpación de la entesis y flexión plantar isométrica dolorosa. El dolor difuso con derrame es articular, no periarticular; la movilidad pasiva dolorosa global es propia de la articulación; el signo del témpano positivo indica derrame intraarticular; y la sinovitis blanda de interlínea también es un hallazgo articular.",
+      "tipo": "directa",
+      "tags": [
+        "cap3",
+        "entesitis",
+        "periarticular"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 3, Caso 3"
+    },
+    {
+      "id": "c2-moe-28",
+      "enunciado": "En un varón de 24 años con lumbago de 3 meses que lo despierta en la segunda mitad de la noche y rigidez matinal de unos 45 minutos, ¿qué caracteriza a este dolor lumbar inflamatorio, a diferencia del mecánico?",
+      "alternativas": [
+        "Alivia con el reposo y la carga",
+        "Rigidez de arranque de quince minutos",
+        "Predomina al final de la jornada",
+        "Despierta de noche y mejora con actividad",
+        "No se asocia a síntomas sistémicos"
+      ],
+      "respuesta": 3,
+      "pista": "Recuerde el ritmo horario y la relación con el reposo y la actividad.",
+      "argumento": "La correcta es que despierta en la segunda mitad de la noche y mejora con la actividad. El alivio con el reposo y la carga es propio del dolor mecánico; la rigidez de arranque de quince minutos es mecánica, aquí dura unos 45 minutos; el predominio al final de la jornada es mecánico; y la ausencia de síntomas sistémicos también es mecánica, mientras el dolor inflamatorio se asocia a psoriasis y compromiso periférico.",
+      "tipo": "directa",
+      "tags": [
+        "cap3",
+        "lumbalgia-inflamatoria"
+      ],
+      "dificultad": "facil",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 3, Caso 3"
+    },
+    {
+      "id": "c2-moe-29",
+      "enunciado": "En la rodilla izquierda de un paciente con oligoartritis asimétrica se detecta un derrame pequeño. ¿Qué tipo de derrame detecta el signo de la ola?",
+      "alternativas": [
+        "Detecta derrames articulares pequeños",
+        "Detecta derrames moderados a severos",
+        "Explora la entesis del tendón aquíleo",
+        "Explora la estabilidad del ligamento",
+        "Detecta la dactilitis del dedo"
+      ],
+      "respuesta": 0,
+      "pista": "El signo de la ola desplaza líquido entre los compartimentos medial y lateral de la rodilla.",
+      "argumento": "La correcta es que detecta derrames pequeños: se desplaza el líquido desde la cara medial hacia el compartimento lateral y reaparece una onda en la depresión medial. Detectar derrames moderados a severos corresponde al signo del témpano; explorar la entesis aquílea es otra maniobra; explorar la estabilidad ligamentaria es una prueba de estrés; y detectar la dactilitis es la inspección del dedo.",
+      "tipo": "directa",
+      "tags": [
+        "cap3",
+        "signo-de-la-ola",
+        "derrame"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 3, Caso 3"
+    },
+    {
+      "id": "c2-moe-30",
+      "enunciado": "En un paciente con derrame de rodilla el signo del témpano (choque rotuliano) resulta negativo. ¿Qué detecta este signo cuando es positivo?",
+      "alternativas": [
+        "Detecta derrames articulares pequeños",
+        "Explora la entesis del tendón aquíleo",
+        "Detecta derrames moderados a severos",
+        "Explora la fuerza del cuádriceps",
+        "Detecta la dactilitis del dedo"
+      ],
+      "respuesta": 2,
+      "pista": "La rótula flota y rebota contra el fémur cuando hay líquido suficiente.",
+      "argumento": "La correcta es que detecta derrames moderados a severos: al comprimir la rótula contra el fémur tras vaciar el fondo de saco, esta flota y rebota si hay líquido abundante. Detectar derrames pequeños corresponde al signo de la ola; explorar la entesis aquílea es una maniobra aparte; explorar la fuerza del cuádriceps evalúa motricidad; y detectar la dactilitis es la inspección del dedo. El resultado negativo es coherente con un derrame pequeño a moderado.",
+      "tipo": "directa",
+      "tags": [
+        "cap3",
+        "signo-del-tempano",
+        "derrame"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 3, Caso 3"
+    },
+    {
+      "id": "c2-moe-31",
+      "enunciado": "Un varón de 24 años con dolor articular y periarticular del pie derecho acorta la fase de apoyo de ese pie y balancea el tronco. ¿Qué tipo de marcha presenta?",
+      "alternativas": [
+        "Marcha de Trendelenburg",
+        "Marcha en estepaje",
+        "Marcha antálgica",
+        "Marcha atáxica",
+        "Marcha parkinsoniana"
+      ],
+      "respuesta": 2,
+      "pista": "El dolor hace descargar el miembro afectado durante la fase de apoyo.",
+      "argumento": "La correcta es la marcha antálgica: acorta la fase de apoyo del lado doloroso con balanceo compensatorio del tronco. La caída de la pelvis al lado opuesto describe la marcha de Trendelenburg; elevar la rodilla por caída del pie describe el estepaje; apoyar primero la punta o caminar con base amplia corresponden a otros patrones, ninguno explicado por el dolor articular/periarticular descrito.",
+      "tipo": "directa",
+      "tags": [
+        "cap3",
+        "marchas",
+        "marcha-antalgica"
+      ],
+      "dificultad": "facil",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 3, Caso 3"
+    },
+    {
+      "id": "c2-moe-32",
+      "enunciado": "¿Qué estructura falla en la marcha de Trendelenburg?",
+      "alternativas": [
+        "Caída del pie por lesión peronea",
+        "Insuficiencia del glúteo medio",
+        "Dolor articular de la rodilla",
+        "Acortamiento del miembro inferior",
+        "Espasticidad del cuádriceps"
+      ],
+      "respuesta": 1,
+      "pista": "La pelvis cae hacia el lado opuesto a la extremidad que se apoya.",
+      "argumento": "La correcta es la insuficiencia del glúteo medio, que provoca caída o claudicación de la pelvis hacia el lado opuesto al apoyo (nervio glúteo superior, raíz L5). La caída del pie por lesión peronea corresponde al estepaje; el dolor articular de rodilla produce marcha antálgica; el acortamiento del miembro genera otro tipo de cojera; y la espasticidad del cuádriceps da un patrón rígido, no la caída pélvica.",
+      "tipo": "directa",
+      "tags": [
+        "cap3",
+        "marchas",
+        "trendelenburg"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 3, Caso 3"
+    },
+    {
+      "id": "c2-moe-33",
+      "enunciado": "¿Qué explica la marcha en estepaje (steppage)?",
+      "alternativas": [
+        "Insuficiencia del glúteo medio",
+        "Dolor articular de la rodilla",
+        "Acortamiento del miembro inferior",
+        "Caída del pie por lesión peronea",
+        "Espasticidad del cuádriceps"
+      ],
+      "respuesta": 3,
+      "pista": "Se eleva exageradamente la rodilla para que la punta del pie no arrastre.",
+      "argumento": "La correcta es la caída del pie por lesión del nervio peroneo común o ciático poplíteo externo (raíz L5), que obliga a elevar la rodilla para no arrastrar la punta. La insuficiencia del glúteo medio produce Trendelenburg; el dolor articular de rodilla produce marcha antálgica; el acortamiento del miembro y la espasticidad del cuádriceps generan otros patrones, no el estepaje.",
+      "tipo": "directa",
+      "tags": [
+        "cap3",
+        "marchas",
+        "estepaje"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 3, Caso 3"
+    },
+    {
+      "id": "c2-moe-34",
+      "enunciado": "En un varón de 24 años con sospecha de espondiloartritis, ¿cuál de los siguientes elementos apoya ese diagnóstico?",
+      "alternativas": [
+        "Lumbalgia inflamatoria de tres meses",
+        "Oligoartritis asimétrica de EEII",
+        "Entesitis aquílea y dactilitis",
+        "Psoriasis y diarrea previa",
+        "Todas las anteriores"
+      ],
+      "respuesta": 4,
+      "pista": "Revise cada antecedente y hallazgo y su relación con el grupo de las espondiloartritis.",
+      "argumento": "Todas las anteriores son verdaderas. La lumbalgia inflamatoria de tres meses con rigidez matinal prolongada sugiere sacroiliitis; la oligoartritis asimétrica de EEII es un patrón característico; la entesitis aquílea y la dactilitis son hallazgos típicos; y la psoriasis con diarrea previa orienta a artritis psoriásica y reactiva. Al ser verdaderas las cuatro primeras opciones, la correcta es Todas las anteriores.",
+      "tipo": "todas-ninguna",
+      "tags": [
+        "cap3",
+        "espondiloartritis"
+      ],
+      "dificultad": "facil",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 3, Caso 3"
+    },
+    {
+      "id": "c2-moe-35",
+      "enunciado": "En un varón de 24 años con lumbago inflamatorio, oligoartritis asimétrica de extremidades inferiores y dactilitis, en quien se sospecha una espondiloartritis, ¿qué exámenes de apoyo se solicitarían para respaldar el diagnóstico?",
+      "alternativas": [
+        "Factor reumatoide y anticuerpos anti-CCP",
+        "Anticuerpos antinucleares y complemento",
+        "HLA-B27 y resonancia de sacroilíacas",
+        "Ácido úrico sérico y radiografía de pies",
+        "Cultivo sinovial y Gram del líquido"
+      ],
+      "respuesta": 2,
+      "pista": "Busque el marcador genético asociado y la imagen que evalúa la articulación axial.",
+      "argumento": "La correcta es HLA-B27 y resonancia de sacroilíacas, útiles en el estudio de la sacroiliitis y las espondiloartritis. El factor reumatoide y los anti-CCP orientan a artritis reumatoide; los anticuerpos antinucleares y el complemento se usan en enfermedades del tejido conectivo; el ácido úrico y la radiografía de pies apuntan a gota; y el cultivo sinovial con Gram es propio del estudio de la artritis séptica, que no corresponde a la hipótesis de espondiloartritis.",
+      "tipo": "directa",
+      "tags": [
+        "cap3",
+        "espondiloartritis",
+        "examenes"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 3, Caso 3"
+    },
+    {
+      "id": "c2-endo-01",
+      "enunciado": "Mujer de 54 años con 8 meses de aumento de peso, intolerancia al frío, constipación, macroglosia y edema pretibial duro; TSH 18,4 mUI/L, T4 libre 0,52 ng/dL y anti-TPO positivos. ¿Cuál es el síndrome y el nivel lesional del eje?",
+      "alternativas": [
+        "Hipotiroidismo central por falla hipofisaria",
+        "Hipertiroidismo primario por bocio difuso",
+        "Hipotiroidismo terciario por falla hipotalámica",
+        "Tiroiditis subaguda de De Quervain",
+        "Hipotiroidismo primario por Hashimoto"
+      ],
+      "respuesta": 4,
+      "pista": "Compare el sentido de la retroalimentación entre hipófisis y tiroides cuando la glándula falla.",
+      "argumento": "Correcta (índice 4): la combinación de T4 libre bajo con TSH alta, bocio difuso firme e indoloro y anti-TPO positivos define hipotiroidismo primario por tiroiditis de Hashimoto. La falla está en la glándula, cae la producción hormonal y se pierde el retrocontrol negativo sobre la adenohipófisis, que eleva la TSH. 'Hipotiroidismo central por falla hipofisaria' y 'hipotiroidismo terciario por falla hipotalámica' corresponden a niveles centrales, donde la TSH no se eleva; 'hipertiroidismo primario por bocio difuso' invertiría el patrón (T4 alto y TSH baja); 'tiroiditis subaguda de De Quervain' cursa dolorosa y con anticuerpos negativos.",
+      "tipo": "directa",
+      "tags": [
+        "unidad4",
+        "tiroides",
+        "hipotiroidismo"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 4, Caso 1"
+    },
+    {
+      "id": "c2-endo-02",
+      "enunciado": "En el hipotiroidismo primario, ¿qué patrón hormonal explica la relación entre T4 libre y TSH?",
+      "alternativas": [
+        "T4 libre bajo con TSH baja por falla hipofisaria",
+        "T4 bajo con TSH alta por pérdida del retrocontrol",
+        "T4 libre alto con TSH elevada por resistencia hormonal",
+        "T4 libre normal con TSH alta por error de laboratorio",
+        "T4 libre bajo con TSH normal por falla hipotalámica"
+      ],
+      "respuesta": 1,
+      "pista": "Recuerde qué hormona cambia de forma logarítmica inversa frente a variaciones del T4 libre.",
+      "argumento": "Correcta (índice 1): en el hipotiroidismo primario el T4 libre cae y la TSH sube por pérdida del retrocontrol negativo. Las opciones con 'TSH baja por falla hipofisaria' y 'TSH normal por falla hipotalámica' describen hipotiroidismo central; 'T4 libre alto con TSH elevada' es propio de la resistencia a hormonas tiroideas; 'TSH alta con T4 normal' correspondería a un hipotiroidismo subclínico, incompatible con un T4 libre de 0,52 ng/dL.",
+      "tipo": "directa",
+      "tags": [
+        "unidad4",
+        "tiroides",
+        "hipotiroidismo"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 4, Caso 1"
+    },
+    {
+      "id": "c2-endo-03",
+      "enunciado": "Si la lesión del eje hipotálamo-hipófisis-tiroides fuese hipofisaria, ¿qué patrón de TSH y T4 libre esperaría?",
+      "alternativas": [
+        "TSH baja con T4 libre bajo",
+        "TSH francamente elevada con T4 libre bajo",
+        "TSH elevada con T4 libre normal",
+        "TSH baja o normal con T4 libre bajo",
+        "TSH normal con T4 libre normal"
+      ],
+      "respuesta": 3,
+      "pista": "Piense qué le ocurre a la hipófisis si ella misma está enferma.",
+      "argumento": "Correcta (índice 3): si la lesión es hipofisaria (secundaria), el T4 libre baja pero la TSH no puede elevarse, por lo que queda baja o inapropiadamente normal. 'TSH elevada con T4 libre bajo' es el patrón primario; 'TSH elevada con T4 libre normal' es subclínico; 'TSH baja con T4 libre bajo' también ocurre en el central, pero la opción correcta incluye el espectro completo baja-o-normal; 'TSH normal con T4 libre normal' es eutiroideo.",
+      "tipo": "directa",
+      "tags": [
+        "unidad4",
+        "tiroides",
+        "hipotiroidismo-central"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 4, Caso 1"
+    },
+    {
+      "id": "c2-endo-04",
+      "enunciado": "¿Por qué la TSH se considera el mejor examen de tamizaje del hipotiroidismo primario?",
+      "alternativas": [
+        "Porque es muy sensible a mínimos cambios hormonales",
+        "Porque refleja la reserva hipofisaria de forma directa",
+        "Porque no se modifica en el hipotiroidismo central",
+        "Porque reemplaza la medición de anticuerpos anti-TPO",
+        "Porque detecta igual el hipotiroidismo central y primario"
+      ],
+      "respuesta": 0,
+      "pista": "Considere la sensibilidad del eje a mínimos cambios en las hormonas circulantes.",
+      "argumento": "Correcta (índice 0): la TSH es el mejor tamizaje porque su secreción responde de forma muy sensible (relación logarítmica inversa) a mínimos cambios del T4 libre; una TSH normal casi descarta hipotiroidismo primario. No 'refleja la reserva hipofisaria de forma directa' (justamente falla en el central), no 'reemplaza los anti-TPO' (estos definen etiología autoinmune), 'no se modifica en el central' es un error conceptual: en el central es engañosa, y tampoco 'detecta igual central y primario'.",
+      "tipo": "directa",
+      "tags": [
+        "unidad4",
+        "tiroides",
+        "tamizaje"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 4, Caso 1"
+    },
+    {
+      "id": "c2-endo-05",
+      "enunciado": "En una mujer de 54 años con hipotiroidismo primario por tiroiditis de Hashimoto y edema pretibial duro, señale cuál(es) afirmación(es) es/son correcta(s).  I) Es un edema duro que no deja fóvea a la presión.  II) Se debe al depósito dérmico de glicosaminoglicanos.  III) Corresponde a un trasudado libre de origen cardíaco.  IV) La piel que lo cubre es pálida, fría y seca.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo I, II y IV",
+        "Solo II y IV",
+        "Solo I y III",
+        "Todas son correctas"
+      ],
+      "respuesta": 1,
+      "pista": "Recuerde de qué está hecho el infiltrado del mixedema y compárelo con un trasudado.",
+      "argumento": "Correcta (índice 1): I) V, es un edema duro que no deja fóvea. II) V, por depósito dérmico de glicosaminoglicanos que atraen agua y forman un gel. IV) V, la piel es pálida, fría, áspera y seca. III) F, no es un trasudado libre de origen cardíaco; ese edema sí deja fóvea. Por eso 'Solo I, II y IV'.",
+      "tipo": "suficiencia",
+      "tags": [
+        "unidad4",
+        "tiroides",
+        "mixedema"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 4, Caso 1"
+    },
+    {
+      "id": "c2-endo-06",
+      "enunciado": "¿Por qué el hipotiroidismo puede producir un tinte amarillento de la piel sin ictericia?",
+      "alternativas": [
+        "Por aumento de bilirrubina indirecta de origen hemolítico",
+        "Por depósito de melanina por estimulación de la ACTH",
+        "Por menor conversión hepática de betacaroteno en retinol",
+        "Por acumulación de hierro en la dermis y los anexos",
+        "Por déficit de vitamina B12 con anemia megaloblástica"
+      ],
+      "respuesta": 2,
+      "pista": "Distinga el tinte amarillento del mixedema de una ictericia verdadera.",
+      "argumento": "Correcta (índice 2): el déficit tiroideo reduce la conversión hepática de betacaroteno en vitamina A (retinol), acumulándose carotenos en la dermis con escleras no ictéricas. 'Bilirrubina indirecta por hemólisis' produciría ictericia con escleras amarillas; 'melanina por ACTH' corresponde a la hiperpigmentación del Addison; 'hierro en la dermis' es la hemocromatosis; 'déficit de B12' da palidez por anemia, no tinte amarillento.",
+      "tipo": "directa",
+      "tags": [
+        "unidad4",
+        "tiroides",
+        "carotenemia"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 4, Caso 1"
+    },
+    {
+      "id": "c2-endo-07",
+      "enunciado": "¿Cuál es la semiogénesis de la intolerancia al frío y la bradicardia en el hipotiroidismo?",
+      "alternativas": [
+        "Menor termogénesis basal y menor efecto cronotrópico",
+        "Mayor pérdida de calor por vasodilatación cutánea",
+        "Estimulación adrenérgica compensadora sostenida del eje",
+        "Aumento del metabolismo por resistencia hormonal",
+        "Ninguna de las anteriores es correcta"
+      ],
+      "respuesta": 0,
+      "pista": "Piense en el efecto de las hormonas tiroideas sobre el metabolismo y el corazón.",
+      "argumento": "Correcta (índice 0): el déficit hormonal reduce la termogénesis basal (intolerancia al frío) y retira el efecto cronotrópico positivo sobre el corazón (bradicardia sinusal). 'Mayor pérdida de calor por vasodilatación' es falso: hay vasoconstricción cutánea; 'estimulación adrenérgica compensadora' no explica el mecanismo; 'aumento del metabolismo por resistencia hormonal' contradice la caída de la tasa metabólica. 'Ninguna de las anteriores' es incorrecta porque la opción 0 es verdadera.",
+      "tipo": "todas-ninguna",
+      "tags": [
+        "unidad4",
+        "tiroides",
+        "hipotiroidismo"
+      ],
+      "dificultad": "facil",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 4, Caso 1"
+    },
+    {
+      "id": "c2-endo-08",
+      "enunciado": "¿Por qué una persona con hipotiroidismo puede subir de peso a pesar de comer menos que antes?",
+      "alternativas": [
+        "Por mayor absorción intestinal de grasas y azúcares",
+        "Por hiperfagia nocturna de origen hipotalámico",
+        "Por retención de sodio y agua por efecto mineralocorticoide renal",
+        "Por retención de mucopolisacáridos y menor gasto energético",
+        "Por aumento de la lipogénesis por hiperinsulinismo"
+      ],
+      "respuesta": 3,
+      "pista": "Separe el aumento de grasa neta de la retención de líquidos y mucopolisacáridos.",
+      "argumento": "Correcta (índice 3): predomina la retención de agua y mucopolisacáridos en el intersticio y cae la tasa metabólica basal, de modo que sube el peso aun con menor ingesta. 'Mayor absorción intestinal de grasas y azúcares' no ocurre; 'hiperfagia nocturna hipotalámica' contradice la hiporexia relativa; 'retención de sodio por mineralocorticoide' es un mecanismo del Cushing; 'lipogénesis por hiperinsulinismo' es propio del síndrome metabólico.",
+      "tipo": "directa",
+      "tags": [
+        "unidad4",
+        "tiroides",
+        "hipotiroidismo"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 4, Caso 1"
+    },
+    {
+      "id": "c2-endo-09",
+      "enunciado": "¿Cómo se realiza la maniobra de Quervain para palpar la glándula tiroides?",
+      "alternativas": [
+        "De frente, desplazando la tráquea con el pulgar",
+        "Con el cuello en flexión forzada y ambas manos en el istmo",
+        "Desde el lado, pinzando el lóbulo entre índice y pulgar",
+        "Con el paciente en decúbito y la cabeza lateralizada",
+        "Detrás, con pulgares en la nuca y dedos en la tráquea"
+      ],
+      "respuesta": 4,
+      "pista": "Recuerde desde qué posición se palpa con los pulgares en la nuca.",
+      "argumento": "Correcta (índice 4): la maniobra de Quervain es el abordaje posterior, con el examinador de pie detrás de la persona sentada, pulgares en la nuca y yemas de índice y medio sobre la tráquea. 'De frente desplazando la tráquea con el pulgar' describe la maniobra de Crile/Lahey; las opciones de 'flexión forzada', 'pinzar el lóbulo de lado' y 'decúbito con cabeza lateralizada' no corresponden a ninguna maniobra estándar.",
+      "tipo": "directa",
+      "tags": [
+        "unidad4",
+        "tiroides",
+        "examen-tiroideo"
+      ],
+      "dificultad": "facil",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 4, Caso 1"
+    },
+    {
+      "id": "c2-endo-10",
+      "enunciado": "Respecto del examen de la glándula tiroides, señale cuál(es) afirmación(es) es/son correcta(s).  I) La glándula asciende con la deglución.  II) La maniobra de Crile/Lahey es un abordaje posterior.  III) La maniobra de Quervain se realiza desde atrás.  IV) Las adenopatías también ascienden al tragar.",
+      "alternativas": [
+        "Solo I y III",
+        "Solo I y II",
+        "Solo II y III",
+        "Solo III y IV",
+        "Todas son correctas"
+      ],
+      "respuesta": 0,
+      "pista": "Distinga qué estructuras cervicales se movilizan al tragar y el abordaje de cada maniobra.",
+      "argumento": "Correcta (índice 0): I) V, las masas tiroideas ascienden con la deglución. III) V, Quervain es el abordaje posterior. II) F, Crile/Lahey es anterior, no posterior. IV) F, las adenopatías no ascienden al tragar, lo que precisamente ayuda a diferenciarlas. Por eso 'Solo I y III'.",
+      "tipo": "suficiencia",
+      "tags": [
+        "unidad4",
+        "tiroides",
+        "examen-tiroideo"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 4, Caso 1"
+    },
+    {
+      "id": "c2-endo-11",
+      "enunciado": "En una persona con bocio difuso indoloro y anti-TPO positivos, ¿qué elemento lo diferencia mejor de una tiroiditis subaguda de De Quervain?",
+      "alternativas": [
+        "La consistencia firme y elástica de la glándula",
+        "El aumento difuso y bilateral del tiroides",
+        "La ausencia de dolor y los anti-TPO positivos",
+        "La presencia de bocio con soplo y frémito",
+        "El ascenso de la glándula con la deglución"
+      ],
+      "respuesta": 2,
+      "pista": "Compare el dolor y el perfil de anticuerpos entre ambas tiroiditis.",
+      "argumento": "Correcta (índice 2): la ausencia de dolor con anti-TPO positivos separa la tiroiditis de Hashimoto de la subaguda. La consistencia firme-elástica y el aumento difuso bilateral son compartidos; 'soplo y frémito' no están presentes y sugieren otro diagnóstico; el ascenso con la deglución es común a toda masa tiroidea y no diferencia.",
+      "tipo": "directa",
+      "tags": [
+        "unidad4",
+        "tiroides",
+        "de-quervain"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 4, Caso 1"
+    },
+    {
+      "id": "c2-endo-12",
+      "enunciado": "¿Cuál es la característica típica de la tiroiditis subaguda de De Quervain?",
+      "alternativas": [
+        "Bocio indoloro con anticuerpos anti-TPO altos",
+        "Nódulo único frío con adenopatías cervicales duras",
+        "Bocio con exoftalmos y retracción palpebral",
+        "Tiroides dolorosa tras un cuadro viral de vías altas",
+        "Atrofia glandular con TSH indetectable"
+      ],
+      "respuesta": 3,
+      "pista": "Recuerde el antecedente infeccioso y el dolor a la palpación.",
+      "argumento": "Correcta (índice 3): la tiroiditis subaguda de De Quervain es dolorosa, sigue a un cuadro viral de vías respiratorias altas, cursa con VSG elevada y puede iniciar con tirotoxicosis por liberación de hormonas preformadas. 'Bocio indoloro con anti-TPO' es Hashimoto; 'nódulo frío con adenopatías' sugiere neoplasia; 'bocio con exoftalmos' es Graves; 'atrofia con TSH indetectable' no corresponde a De Quervain.",
+      "tipo": "directa",
+      "tags": [
+        "unidad4",
+        "tiroides",
+        "de-quervain"
+      ],
+      "dificultad": "facil",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 4, Caso 1"
+    },
+    {
+      "id": "c2-endo-13",
+      "enunciado": "Mujer de 38 años con facies de luna llena, giba dorsal, estrías violáceas y miopatía proximal; cortisol libre urinario elevado, ACTH 82 pg/mL y microadenoma hipofisario de 8 mm. ¿Cuál es el diagnóstico?",
+      "alternativas": [
+        "Síndrome de Cushing independiente de ACTH",
+        "Enfermedad de Cushing dependiente de ACTH",
+        "Síndrome de Addison de origen autoinmune",
+        "Cushing iatrogénico por corticoides exógenos",
+        "Feocromocitoma con hipercortisolismo ectópico"
+      ],
+      "respuesta": 1,
+      "pista": "Mire si el exceso de cortisol viene acompañado de ACTH alta o baja.",
+      "argumento": "Correcta (índice 1): cortisol libre urinario elevado con ACTH elevada y microadenoma hipofisario define enfermedad de Cushing dependiente de ACTH. 'Cushing independiente de ACTH' tendría la ACTH suprimida; 'Addison' tendría cortisol bajo; 'Cushing iatrogénico' se descarta por la historia farmacológica; 'feocromocitoma' no produce este patrón.",
+      "tipo": "directa",
+      "tags": [
+        "unidad4",
+        "suprarrenal",
+        "cushing"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 4, Caso 2"
+    },
+    {
+      "id": "c2-endo-14",
+      "enunciado": "¿Qué indica la combinación de cortisol elevado con ACTH elevada?",
+      "alternativas": [
+        "Que el origen es un adenoma suprarrenal primario",
+        "Que existe supresión de la hormona hipofisaria",
+        "Que el cuadro es un pseudo-Cushing por depresión",
+        "Que el eje está suprimido por retroalimentación",
+        "Que el exceso de cortisol depende de la ACTH"
+      ],
+      "respuesta": 4,
+      "pista": "Pregúntese qué hormona trófica está estimulando la corteza suprarrenal.",
+      "argumento": "Correcta (índice 4): cortisol elevado con ACTH elevada indica que el exceso de cortisol depende de la ACTH (origen hipofisario o ectópico). No es 'adenoma suprarrenal primario', ni 'supresión hipofisaria', ni 'eje suprimido por retroalimentación', todos propios del Cushing independiente de ACTH; 'pseudo-Cushing por depresión' no da esta combinación con adenoma.",
+      "tipo": "directa",
+      "tags": [
+        "unidad4",
+        "suprarrenal",
+        "cushing"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 4, Caso 2"
+    },
+    {
+      "id": "c2-endo-15",
+      "enunciado": "En relación con el hipercortisolismo independiente de ACTH, ¿cuál de las siguientes afirmaciones es correcta?",
+      "alternativas": [
+        "La ACTH está elevada y responde a la dexametasona",
+        "El cortisol está suprimido por falla suprarrenal",
+        "El origen suele ser un adenoma hipofisario productor",
+        "La prueba de dexametasona en dosis alta suprime",
+        "La ACTH está baja por supresión del cortisol"
+      ],
+      "respuesta": 4,
+      "pista": "Recuerde qué le hace el cortisol alto a la secreción de ACTH.",
+      "argumento": "Correcta (índice 4): en el Cushing independiente de ACTH (adenoma o carcinoma suprarrenal) el cortisol elevado suprime la ACTH, que queda baja o indetectable. 'ACTH elevada y responde a la dexametasona' corresponde al Cushing dependiente; 'cortisol suprimido por falla suprarrenal' describe el Addison; 'adenoma hipofisario productor' es dependiente de ACTH; la dexametasona en dosis alta no suprime en el independiente.",
+      "tipo": "directa",
+      "tags": [
+        "unidad4",
+        "suprarrenal",
+        "cushing"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 4, Caso 2"
+    },
+    {
+      "id": "c2-endo-16",
+      "enunciado": "¿Cuál es la semiogénesis de las estrías violáceas anchas del síndrome de Cushing?",
+      "alternativas": [
+        "Distensión mecánica pura de la piel abdominal",
+        "Depósito de carotenos en la dermis atrófica",
+        "Catabolismo del colágeno con rotura dérmica y sangrado",
+        "Hiperpigmentación por exceso de α-MSH circulante",
+        "Infiltrado dérmico de glicosaminoglicanos que retiene agua"
+      ],
+      "respuesta": 2,
+      "pista": "Relacione el exceso de cortisol con el colágeno de la dermis.",
+      "argumento": "Correcta (índice 2): el hipercortisolismo inhibe la síntesis de colágeno y cataboliza la matriz dérmica; la rotura dérmica con sangrado subdérmico da el color violáceo y el ancho mayor de 1 cm. 'Distensión mecánica pura' explica estrías nacaradas, no violáceas; 'carotenos' es del hipotiroidismo; 'α-MSH' produce hiperpigmentación generalizada; 'glicosaminoglicanos' es el mixedema.",
+      "tipo": "directa",
+      "tags": [
+        "unidad4",
+        "suprarrenal",
+        "cushing"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 4, Caso 2"
+    },
+    {
+      "id": "c2-endo-17",
+      "enunciado": "Respecto de las estrías cutáneas, señale cuál(es) afirmación(es) es/son correcta(s).  I) Las del Cushing son anchas, violáceas y de bordes netos.  II) Las nacaradas son delgadas y sin componente vascular.  III) Las nacaradas se asocian a resistencia a la insulina.  IV) Las del Cushing son pálidas y miden menos de 1 cm.",
+      "alternativas": [
+        "Solo I, II y III",
+        "Solo I y II",
+        "Solo II y III",
+        "Solo I y III",
+        "Todas son correctas"
+      ],
+      "respuesta": 0,
+      "pista": "Distinga el componente vascular y el ancho de cada tipo de estría.",
+      "argumento": "Correcta (índice 0): I) V, las del Cushing son anchas, violáceas y de bordes netos. II) V, las nacaradas son delgadas y sin componente vascular. III) V, se asocian a un contexto de resistencia a la insulina. IV) F, las del Cushing son anchas (mayores de 1 cm) y violáceas, no pálidas. Por eso 'Solo I, II y III'.",
+      "tipo": "suficiencia",
+      "tags": [
+        "unidad4",
+        "suprarrenal",
+        "estrias"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 4, Caso 2"
+    },
+    {
+      "id": "c2-endo-18",
+      "enunciado": "¿Por qué la insuficiencia suprarrenal primaria (enfermedad de Addison) produce hiperpigmentación cutáneo-mucosa?",
+      "alternativas": [
+        "Por exceso de cortisol con efecto melanogénico directo",
+        "Por ACTH alta que libera α-MSH desde la POMC",
+        "Por déficit de aldosterona con pérdida de sodio",
+        "Por aumento de la hormona antidiurética circulante",
+        "Por insuficiencia renal con retención de urocromos"
+      ],
+      "respuesta": 1,
+      "pista": "Siga la vía desde la ACTH hasta el receptor de melanocortina.",
+      "argumento": "Correcta (índice 1): al caer el cortisol se pierde el retrocontrol y la hipófisis secreta ACTH en exceso; su precursor común POMC libera α-MSH, que estimula los melanocitos y produce pigmentación bronceada y máculas en mucosas y pliegues. 'Cortisol con efecto melanogénico' es falso (el cortisol está bajo); 'déficit de aldosterona' explica la salomanía e hipotensión, no la pigmentación; 'ADH aumentada' y 'retención de urocromos' no son el mecanismo.",
+      "tipo": "directa",
+      "tags": [
+        "unidad4",
+        "suprarrenal",
+        "addison"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 4, Caso 2"
+    },
+    {
+      "id": "c2-endo-19",
+      "enunciado": "¿Por qué el síndrome de Cushing habitualmente no presenta hiperpigmentación cutánea?",
+      "alternativas": [
+        "Porque el cortisol estimula directamente los melanocitos",
+        "Porque la ACTH ectópica siempre está suprimida",
+        "Porque la piel atrófica impide el depósito de melanina",
+        "Porque el cortisol elevado suprime la ACTH",
+        "Porque el α-MSH se degrada en el hígado"
+      ],
+      "respuesta": 3,
+      "pista": "Compare el nivel de ACTH en el Addison y en el Cushing.",
+      "argumento": "Correcta (índice 3): en el Cushing el cortisol elevado suprime la ACTH, de modo que no hay estímulo melanocítico mediado por α-MSH. No es que el cortisol estimule los melanocitos, ni que la ACTH ectópica esté suprimida, ni que la piel atrófica impida pigmentarse, ni que el α-MSH se degrade en el hígado.",
+      "tipo": "directa",
+      "tags": [
+        "unidad4",
+        "suprarrenal",
+        "cushing"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 4, Caso 2"
+    },
+    {
+      "id": "c2-endo-20",
+      "enunciado": "¿Cuál es el mecanismo de la redistribución centrípeta de la grasa en el síndrome de Cushing?",
+      "alternativas": [
+        "Lipogénesis central con proteólisis muscular periférica",
+        "Aumento homogéneo de la grasa en todo el cuerpo",
+        "Retención hídrica con edema en las extremidades",
+        "Déficit de insulina con catabolismo proteico muscular difuso",
+        "Ninguna de las anteriores es correcta"
+      ],
+      "respuesta": 0,
+      "pista": "Distinga el depósito central de grasa del catabolismo periférico.",
+      "argumento": "Correcta (índice 0): el cortisol aumenta la lipogénesis en territorios centrales (cara, cuello posterior, tronco) y a la vez induce proteólisis y catabolismo de la musculatura proximal. 'Aumento homogéneo de la grasa' contradice la redistribución centrípeta; 'retención hídrica con edema periférico' no corresponde; 'déficit de insulina' no es el mecanismo del Cushing. 'Ninguna de las anteriores' es incorrecta porque la opción 0 es verdadera.",
+      "tipo": "todas-ninguna",
+      "tags": [
+        "unidad4",
+        "suprarrenal",
+        "cushing"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 4, Caso 2"
+    },
+    {
+      "id": "c2-endo-21",
+      "enunciado": "¿Qué explica la hipertensión arterial del síndrome de Cushing?",
+      "alternativas": [
+        "La hipopotasemia por pérdida renal de potasio",
+        "La hipoglucemia relativa por hiperinsulinismo",
+        "La miopatía proximal con menor gasto cardíaco",
+        "El exceso de catecolaminas por estrés crónico",
+        "El efecto mineralocorticoide y vasoconstrictor"
+      ],
+      "respuesta": 4,
+      "pista": "Piense en el efecto del cortisol sobre el sodio y el tono vascular.",
+      "argumento": "Correcta (índice 4): el cortisol tiene efecto mineralocorticoide (retención de sodio y agua), efecto vasoconstrictor y estimula el sistema renina-angiotensina, elevando la presión; la hipopotasemia es consecuencia de ese efecto. 'La hipopotasemia' es consecuencia, no causa, de la HTA; 'hipoglucemia por hiperinsulinismo' no aplica; 'miopatía con menor gasto cardíaco' no explica la HTA; 'exceso de catecolaminas' es propio del feocromocitoma.",
+      "tipo": "directa",
+      "tags": [
+        "unidad4",
+        "suprarrenal",
+        "cushing"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 4, Caso 2"
+    },
+    {
+      "id": "c2-endo-22",
+      "enunciado": "¿Cuál es la causa de las equimosis fáciles en el síndrome de Cushing?",
+      "alternativas": [
+        "Piel atrófica con fragilidad capilar aumentada",
+        "Trombocitopenia por hiperesplenismo secundario",
+        "Déficit de vitamina K por colestasis crónica",
+        "Coagulopatía por insuficiencia hepática avanzada",
+        "Todas las anteriores son correctas"
+      ],
+      "respuesta": 0,
+      "pista": "Relacione la fragilidad capilar con la calidad de la piel.",
+      "argumento": "Correcta (índice 0): la piel fina y atrófica por inhibición de la síntesis de colágeno aumenta la fragilidad capilar y produce equimosis ante traumatismos mínimos. 'Trombocitopenia por hiperesplenismo', 'déficit de vitamina K por colestasis' y 'coagulopatía hepática' no forman parte del síndrome de Cushing. 'Todas las anteriores' es falsa porque solo la opción 0 es correcta.",
+      "tipo": "todas-ninguna",
+      "tags": [
+        "unidad4",
+        "suprarrenal",
+        "cushing"
+      ],
+      "dificultad": "facil",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 4, Caso 2"
+    },
+    {
+      "id": "c2-endo-23",
+      "enunciado": "Respecto del estudio del hipercortisolismo dependiente de ACTH, señale cuál(es) afirmación(es) es/son correcta(s).  I) La dexametasona en dosis alta suprime en la enfermedad de Cushing hipofisaria.  II) La dexametasona en dosis alta no suprime en el síndrome ectópico.  III) La ACTH baja orienta a un adenoma suprarrenal.  IV) La RM de silla turca siempre es diagnóstica.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo II y III",
+        "Solo I, II y III",
+        "Solo I y III",
+        "Todas son correctas"
+      ],
+      "respuesta": 2,
+      "pista": "Recuerde qué prueba separa el origen hipofisario del ectópico.",
+      "argumento": "Correcta (índice 2): I) V, la dexametasona en dosis alta suprime en la enfermedad de Cushing hipofisaria. II) V, no suprime en el síndrome ectópico. III) V, una ACTH baja orienta a causa suprarrenal primaria. IV) F, la RM puede ser negativa y requerir catéter de senos petrosos y estudio de imagen. Por eso 'Solo I, II y III'.",
+      "tipo": "suficiencia",
+      "tags": [
+        "unidad4",
+        "suprarrenal",
+        "cushing"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 4, Caso 2"
+    },
+    {
+      "id": "c2-endo-24",
+      "enunciado": "¿Cuál de las siguientes condiciones puede elevar el cortisol sin constituir un Cushing verdadero?",
+      "alternativas": [
+        "Microadenoma hipofisario productor de ACTH",
+        "Carcinoma suprarrenal con ACTH suprimida",
+        "Síndrome de ACTH ectópico pulmonar",
+        "Hiperplasia adrenal macronodular bilateral",
+        "Depresión mayor, alcoholismo o embarazo"
+      ],
+      "respuesta": 4,
+      "pista": "Piense en estados que elevan el cortisol sin hipercortisolismo verdadero.",
+      "argumento": "Correcta (índice 4): el alcoholismo, la depresión mayor, el embarazo y la obesidad pueden elevar el cortisol (pseudo-Cushing), con prueba de supresión habitualmente normal. Las demás son causas de Cushing verdadero: microadenoma hipofisario, carcinoma suprarrenal, ACTH ectópico e hiperplasia adrenal macronodular.",
+      "tipo": "directa",
+      "tags": [
+        "unidad4",
+        "suprarrenal",
+        "pseudo-cushing"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 4, Caso 2"
+    },
+    {
+      "id": "c2-endo-25",
+      "enunciado": "Hombre de 48 años con poliuria, polidipsia, polifagia y pérdida de 5 kg; glicemia 212 mg/dL, HbA1c 9,4% y glucosuria +++, sin cetonuria. ¿Cuál es el síndrome principal?",
+      "alternativas": [
+        "Diabetes insípida central por déficit de ADH",
+        "Diabetes mellitus descompensada en síndrome metabólico",
+        "Hipertiroidismo con estado hipercatabólico sostenido",
+        "Insuficiencia suprarrenal primaria de Addison",
+        "Diabetes insípida nefrogénica por litio"
+      ],
+      "respuesta": 1,
+      "pista": "Integre las cuatro P con la glucosuria y la ausencia de cetosis.",
+      "argumento": "Correcta (índice 1): poliuria, polidipsia, polifagia y baja de peso con glicemia 212 mg/dL y HbA1c 9,4% corresponden a diabetes mellitus descompensada en contexto de síndrome metabólico, más probable DM2 (adulto, obesidad central, sin cetosis). 'Diabetes insípida central o nefrogénica' no da hiperglicemia ni glucosuria; 'hipertiroidismo' no explica la glucosuria; 'Addison' no da esta tétrada.",
+      "tipo": "directa",
+      "tags": [
+        "unidad4",
+        "diabetes",
+        "sindrome-metabolico"
+      ],
+      "dificultad": "facil",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 4, Caso 3"
+    },
+    {
+      "id": "c2-endo-26",
+      "enunciado": "Respecto de la poliuria de la diabetes mellitus, ¿cuál de las siguientes afirmaciones es correcta?",
+      "alternativas": [
+        "La glucemia supera el umbral renal de glucosa",
+        "La glucosa no reabsorbida actúa como diurético osmótico",
+        "Se produce pérdida de agua libre en la orina",
+        "La osmolaridad plasmática aumenta y estimula la sed",
+        "Todas las anteriores son correctas"
+      ],
+      "respuesta": 4,
+      "pista": "Siga el destino de la glucosa que supera la capacidad de reabsorción tubular.",
+      "argumento": "Correcta (índice 4): todas las afirmaciones son verdaderas. La glucemia supera el umbral tubular renal (~180 mg/dL), la glucosa no reabsorbida queda en la luz tubular y actúa como diurético osmótico, arrastra agua libre y la hiperosmolaridad resultante estimula el centro de la sed. Por eso 'Todas las anteriores son correctas'.",
+      "tipo": "todas-ninguna",
+      "tags": [
+        "unidad4",
+        "diabetes",
+        "poliuria"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 4, Caso 3"
+    },
+    {
+      "id": "c2-endo-27",
+      "enunciado": "¿Cuál es aproximadamente el umbral tubular renal de reabsorción de glucosa sobre el cual aparece glucosuria?",
+      "alternativas": [
+        "80 mg/dL",
+        "120 mg/dL",
+        "150 mg/dL",
+        "180 mg/dL",
+        "250 mg/dL de glucosa en plasma"
+      ],
+      "respuesta": 3,
+      "pista": "Recuerde la cifra clásica sobre la que aparece glucosa en orina.",
+      "argumento": "Correcta (índice 3): el umbral tubular renal de reabsorción de glucosa es de aproximadamente 180 mg/dL; por encima de él la glucosa no reabsorbida aparece en la orina. Las cifras de 80, 120, 150 y 250 mg/dL no corresponden a ese umbral.",
+      "tipo": "directa",
+      "tags": [
+        "unidad4",
+        "diabetes",
+        "umbral-renal"
+      ],
+      "dificultad": "facil",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 4, Caso 3"
+    },
+    {
+      "id": "c2-endo-28",
+      "enunciado": "En la diabetes mellitus descompensada, ¿por qué hay polifagia a pesar de la hiperglucemia circulante?",
+      "alternativas": [
+        "Hambre celular por falta de entrada de glucosa",
+        "Aumento del gasto energético por hipertiroidismo",
+        "Déficit de leptina con saciedad disminuida",
+        "Hipoglucemia reactiva posprandial frecuente",
+        "Estimulación vagal por gastroparesia diabética"
+      ],
+      "respuesta": 0,
+      "pista": "Distinga el hambre celular del apetito de origen central.",
+      "argumento": "Correcta (índice 0): la insuficiencia de insulina y la resistencia periférica impiden la entrada de glucosa a la célula; esa hambre energética estimula los centros del apetito a pesar de la hiperglucemia. 'Aumento del gasto por hipertiroidismo' no es el mecanismo; 'déficit de leptina' no aplica; 'hipoglucemia reactiva' contradice la hiperglucemia; 'gastroparesia vagal' produciría saciedad, no polifagia.",
+      "tipo": "directa",
+      "tags": [
+        "unidad4",
+        "diabetes",
+        "polifagia"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 4, Caso 3"
+    },
+    {
+      "id": "c2-endo-29",
+      "enunciado": "Respecto de la baja de peso y el apetito, señale cuál(es) afirmación(es) es/son correcta(s).  I) La baja de peso con polifagia sugiere un estado hipercatabólico.  II) El hipertiroidismo cursa con baja de peso y polifagia.  III) La neoplasia oculta cursa con baja de peso y anorexia.  IV) La diabetes descompensada cursa con baja de peso y anorexia.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo II y III",
+        "Solo I, II y III",
+        "Solo III y IV",
+        "Todas son correctas"
+      ],
+      "respuesta": 2,
+      "pista": "Separe los cuadros hipercatabólicos de los consuntivos con hiporexia.",
+      "argumento": "Correcta (índice 2): I) V, la baja de peso con polifagia sugiere un estado hipercatabólico o pérdida de sustratos. II) V, el hipertiroidismo cursa con polifagia y baja de peso. III) V, la neoplasia oculta cursa con anorexia. IV) F, la diabetes descompensada cursa con polifagia, no anorexia. Por eso 'Solo I, II y III'.",
+      "tipo": "suficiencia",
+      "tags": [
+        "unidad4",
+        "diabetes",
+        "baja-de-peso"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 4, Caso 3"
+    },
+    {
+      "id": "c2-endo-30",
+      "enunciado": "¿Cuál de las siguientes causas produce baja de peso con anorexia?",
+      "alternativas": [
+        "Diabetes mellitus descompensada con glucosuria",
+        "Neoplasia oculta o tuberculosis crónica",
+        "Hipertiroidismo descompensado",
+        "Malabsorción intestinal crónica",
+        "Ninguna de las anteriores es correcta"
+      ],
+      "respuesta": 1,
+      "pista": "Recuerde que el mecanismo opuesto separa dos grupos de causas.",
+      "argumento": "Correcta (índice 1): las neoplasias ocultas, las infecciones crónicas como la tuberculosis, la depresión mayor y la insuficiencia suprarrenal primaria producen baja de peso con anorexia. 'Diabetes mellitus descompensada' e 'hipertiroidismo' dan baja de peso con polifagia; 'malabsorción intestinal crónica' también cursa con apetito conservado. 'Ninguna de las anteriores' es falsa porque la opción 1 es correcta.",
+      "tipo": "todas-ninguna",
+      "tags": [
+        "unidad4",
+        "diabetes",
+        "baja-de-peso"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 4, Caso 3"
+    },
+    {
+      "id": "c2-endo-31",
+      "enunciado": "¿Qué hallazgo diferencia la poliuria de la diabetes mellitus de la de una diabetes insípida?",
+      "alternativas": [
+        "Volumen urinario mayor de tres litros diarios",
+        "Presencia de sed intensa con polidipsia",
+        "Nicturia con micciones frecuentes nocturnas",
+        "Glucosuria con orina de alta osmolaridad",
+        "Deshidratación intracelular con sed intensa"
+      ],
+      "respuesta": 3,
+      "pista": "Compare la osmolaridad urinaria en ambas poliurias.",
+      "argumento": "Correcta (índice 3): en la diabetes mellitus la poliuria es osmótica, con glucosuria y orina concentrada de alta osmolaridad; en la insípida la orina es hipotónica. El volumen mayor de 3 L/día, la sed con polidipsia, la nicturia y la deshidratación intracelular aparecen en ambas, por lo que no las diferencian.",
+      "tipo": "directa",
+      "tags": [
+        "unidad4",
+        "diabetes",
+        "poliuria"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 4, Caso 3"
+    },
+    {
+      "id": "c2-endo-32",
+      "enunciado": "Respecto de los criterios de síndrome metabólico adaptados para Latinoamérica, señale cuál(es) afirmación(es) es/son correcta(s).  I) El perímetro de cintura ≥90 cm en hombres es un criterio positivo.  II) Se requieren al menos tres componentes alterados.  III) El HDL bajo se define como <40 mg/dL en hombres.  IV) Con cintura 108 cm, PA 148/92 mmHg, triglicéridos 268 mg/dL, HDL 31 mg/dL y glicemia 212 mg/dL se cumple solo dos criterios.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo II y III",
+        "Solo I, II y III",
+        "Solo I y III",
+        "Todas son correctas"
+      ],
+      "respuesta": 2,
+      "pista": "Cuente los criterios alterados y recuerde los puntos de corte latinoamericanos.",
+      "argumento": "Correcta (índice 2): I) V, el perímetro de cintura ≥90 cm en hombres es criterio positivo. II) V, se requieren al menos tres componentes alterados. III) V, el HDL <40 mg/dL en hombres es criterio. IV) F, con esas cifras se cumplen los cinco criterios (cintura 108 cm, PA 148/92, triglicéridos 268, HDL 31 y glicemia 212), no dos. Por eso 'Solo I, II y III'.",
+      "tipo": "suficiencia",
+      "tags": [
+        "unidad4",
+        "diabetes",
+        "sindrome-metabolico"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 4, Caso 3"
+    },
+    {
+      "id": "c2-endo-33",
+      "enunciado": "Respecto de la acantosis nigricans, señale cuál(es) afirmación(es) es/son correcta(s).  I) Es una hiperpigmentación aterciopelada localizada en pliegues.  II) Se asocia a hiperinsulinismo y resistencia a la insulina.  III) Compromete de forma generalizada las mucosas.  IV) Es un marcador cutáneo de síndrome metabólico.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo I, II y IV",
+        "Solo II y IV",
+        "Solo I y III",
+        "Todas son correctas"
+      ],
+      "respuesta": 1,
+      "pista": "Distinga una lesión localizada en pliegues de una pigmentación generalizada.",
+      "argumento": "Correcta (índice 1): I) V, es aterciopelada y localizada en pliegues (cuello posterior, axilas, ingles). II) V, se asocia a hiperinsulinismo y resistencia periférica a la insulina. IV) V, es un marcador cutáneo de síndrome metabólico, obesidad, SOPQ y DM2. III) F, no compromete mucosas de forma generalizada; eso corresponde al Addison. Por eso 'Solo I, II y IV'.",
+      "tipo": "suficiencia",
+      "tags": [
+        "unidad4",
+        "diabetes",
+        "acantosis-nigricans"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 4, Caso 3"
+    },
+    {
+      "id": "c2-endo-34",
+      "enunciado": "Respecto de la poliuria, señale cuál(es) afirmación(es) es/son correcta(s).  I) En la diabetes mellitus es de tipo osmótico con glucosuria.  II) En la diabetes insípida la orina es hipotónica.  III) La diabetes insípida central se debe a déficit de ADH.  IV) La poliuria osmótica cursa con orina diluida y de baja densidad.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo II y III",
+        "Solo I, II y III",
+        "Solo III y IV",
+        "Todas son correctas"
+      ],
+      "respuesta": 2,
+      "pista": "Recuerde qué tipo de orina produce cada poliuria.",
+      "argumento": "Correcta (índice 2): I) V, en la DM la poliuria es osmótica con glucosuria. II) V, en la insípida la orina es hipotónica (baja osmolaridad y densidad). III) V, la insípida central se debe a déficit de ADH y la nefrogénica a resistencia tubular. IV) F, la poliuria osmótica cursa con orina concentrada de alta osmolaridad, no diluida. Por eso 'Solo I, II y III'.",
+      "tipo": "suficiencia",
+      "tags": [
+        "unidad4",
+        "diabetes",
+        "poliuria"
+      ],
+      "dificultad": "media",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 4, Caso 3"
+    },
+    {
+      "id": "c2-endo-35",
+      "enunciado": "Hombre de 48 años con poliuria, polidipsia, polifagia y pérdida de peso, glicemia 212 mg/dL. ¿Cuál de las siguientes afirmaciones es correcta?",
+      "alternativas": [
+        "La polidipsia se debe al exceso de ADH circulante",
+        "La pérdida de peso se explica por anorexia central",
+        "La poliuria se debe a orina hipotónica diluida",
+        "La pérdida de peso refleja catabolismo de grasas",
+        "Ninguna de las anteriores es correcta"
+      ],
+      "respuesta": 3,
+      "pista": "Revise cada afirmación a la luz del catabolismo y la osmolaridad.",
+      "argumento": "Correcta (índice 3): al no poder usar la glucosa, el organismo recurre al catabolismo de grasas y proteínas y pierde calorías por la glucosuria, lo que explica la baja de peso con apetito aumentado. 'Polidipsia por exceso de ADH' es falsa (es por hiperosmolaridad); 'baja de peso por anorexia' es falsa (hay polifagia); 'poliuria por orina hipotónica' es falsa (es osmótica y concentrada). 'Ninguna de las anteriores' es falsa porque la opción 3 es correcta.",
+      "tipo": "todas-ninguna",
+      "tags": [
+        "unidad4",
+        "diabetes",
+        "cuatro-p"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Casos Clínicos Certamen 2, Unidad 4, Caso 3"
+    }
+  ]
+}

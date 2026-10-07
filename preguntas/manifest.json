@@ -1,6 +1,21 @@
 {
   "quizzes": [
     {
+      "archivo": "Epidemiología C1 - Cuestionario.json",
+      "titulo": "Epidemiología y Salud Pública — Certamen 1 (C1)",
+      "total": 45
+    },
+    {
+      "archivo": "Epidemiología C1 - Cuestionario 2.json",
+      "titulo": "Epidemiología y Salud Pública — Certamen 1, set 2 (C1)",
+      "total": 45
+    },
+    {
+      "archivo": "Altman - Cuestionario.json",
+      "titulo": "Joseph Altman y la neurogénesis adulta — El dogma de «no hay neuronas nuevas»",
+      "total": 20
+    },
+    {
       "archivo": "Certamen 1 - Cuestionario.json",
       "titulo": "Neurociencia Psico — Certamen 1 (caps. 2, 4 y 7)",
       "total": 60
@@ -9,6 +24,11 @@
       "archivo": "Certamen 1 - Cuestionario 2.json",
       "titulo": "Neurociencia Psico — Certamen 1, set 2 (caps. 2, 4 y 7)",
       "total": 60
+    },
+    {
+      "archivo": "Certamen 2 - Casos Clínicos.json",
+      "titulo": "Semiología — Certamen 2, casos clínicos (todos los sistemas)",
+      "total": 140
     }
   ]
 }
