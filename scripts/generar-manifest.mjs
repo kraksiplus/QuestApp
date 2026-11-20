@@ -25,18 +25,21 @@ for (const entry of entries) {
     continue;
   }
 
-  const total = data && Array.isArray(data.preguntas) ? data.preguntas.length : 0;
+  const preguntas = data && Array.isArray(data.preguntas) ? data.preguntas : [];
+  const total = preguntas.length;
   if (total === 0) {
     console.warn(`⚠ ${entry.name}: no tiene un arreglo "preguntas" con contenido, se omite`);
     continue;
   }
+
+  const descartadas = preguntas.filter((q) => q && q.util === false).length;
 
   const titulo =
     typeof data.titulo === 'string' && data.titulo.trim()
       ? data.titulo.trim()
       : entry.name.replace(/\.json$/i, '');
 
-  quizzes.push({ archivo: entry.name, titulo, total });
+  quizzes.push({ archivo: entry.name, titulo, total, descartadas });
 }
 
 quizzes.sort((a, b) => a.titulo.localeCompare(b.titulo, 'es'));
