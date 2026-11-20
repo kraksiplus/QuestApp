@@ -1,0 +1,546 @@
+{
+  "version": 1,
+  "titulo": "Medicina del Sueño — Certamen 2 (selección de capítulos)",
+  "preguntas": [
+    {
+      "id": "sueno-01",
+      "enunciado": "¿Quiénes definieron la etapa REM y su relación con los movimientos oculares rápidos y las imágenes oníricas?",
+      "alternativas": [
+        "Berger y Caton",
+        "Loomis y Davis",
+        "Aserinsky y Kleitman",
+        "Dement y Jouvet",
+        "Hess y Hernández-Peón"
+      ],
+      "respuesta": 2,
+      "pista": "Ocurrió a mediados de los años cincuenta, al estudiar el registro de los movimientos oculares de sujetos dormidos.",
+      "argumento": "Aserinsky y Kleitman, entre 1953 y 1957, definieron la etapa REM y su relación con los movimientos oculares rápidos y las imágenes oníricas, y luego Dement y Kleitman consolidaron el modelo de sueño lento (etapas 1–4) y sueño rápido. Berger fue el primero en demostrar el potencial eléctrico cerebral en humanos, y antes Caton lo hizo en perros, pero ninguno describió el REM. Loomis y cols. (1935) clasificaron los ritmos corticales del sueño en etapas a, b, c y d por profundidad. Jouvet no figura como definidor del REM en este capítulo, y Hess trabajó la estimulación talámica inductora de sueño.",
+      "tipo": "directa",
+      "tags": ["cap1", "historia", "rem"],
+      "dificultad": "facil",
+      "fuente": "Medicina del Sueño, cap. 1"
+    },
+    {
+      "id": "sueno-02",
+      "enunciado": "Respecto del polisomnograma, ¿cuál de las siguientes afirmaciones es correcta?",
+      "alternativas": [
+        "Registra los movimientos oculares, pero no la actividad muscular",
+        "Requiere anestesia general para poder realizarse",
+        "Se realiza solo en pacientes mayores de 18 años",
+        "No permite registrar la saturación de oxígeno",
+        "Ninguna de las anteriores"
+      ],
+      "respuesta": 4,
+      "pista": "Revise qué señales incluye el registro y a qué edades y condiciones se puede aplicar.",
+      "argumento": "Ninguna de las anteriores es correcta. El polisomnograma registra EEG, movimientos oculares (EOG), actividad muscular (EMG), frecuencia cardíaca, flujo aéreo y esfuerzo respiratorio, y habitualmente también la saturación de oxígeno; por eso es falso que no registre la actividad muscular y también que no registre la saturación. Es un procedimiento inocuo y bien tolerado a cualquier edad, de modo que no exige anestesia ni se limita a mayores de 18 años.",
+      "tipo": "todas-ninguna",
+      "tags": ["cap1", "polisomnografia"],
+      "dificultad": "facil",
+      "fuente": "Medicina del Sueño, cap. 1"
+    },
+    {
+      "id": "sueno-03",
+      "enunciado": "Respecto del sueño en el reino animal, señale cuál(es) de las siguientes afirmaciones es/son correcta(s).  I) En los vertebrados se describen dos tipos de sueño: pasivo y activo.  II) Los monotremas presentan un sueño REM bien desarrollado.  III) En las aves la proporción de sueño REM es menor que en los mamíferos.  IV) La luz y la temperatura son factores preponderantes del ciclo vigilia-sueño.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo II y III",
+        "Solo I, III y IV",
+        "Solo III y IV",
+        "Todas son correctas"
+      ],
+      "respuesta": 2,
+      "pista": "Recuerde qué grupo de mamíferos parece no presentar sueño REM y qué factores organizan el ciclo.",
+      "argumento": "I: V. En vertebrados se describen dos tipos de sueño, pasivo y activo. II: F. Los monotremas (ornitorrinco, equidna) aparentemente no presentan sueño REM; se hipotetiza que existiría en la etapa prenatal y desaparecería tras el nacimiento. III: V. Las aves tienen sueño activo y quieto, con menor proporción de REM, posiblemente por ser de aparición más reciente. IV: V. La luz y la temperatura son factores preponderantes en la organización del ciclo vigilia-sueño. Por eso la respuesta correcta es «Solo I, III y IV».",
+      "tipo": "suficiencia",
+      "tags": ["cap1", "sueño-animal"],
+      "dificultad": "media",
+      "fuente": "Medicina del Sueño, cap. 1"
+    },
+    {
+      "id": "sueno-04",
+      "enunciado": "¿Qué proporción de las 24 horas duerme aproximadamente un neonato de término?",
+      "alternativas": [
+        "Menos de 40 %",
+        "50 %",
+        "60 %",
+        "70 %",
+        "80 %"
+      ],
+      "respuesta": 3,
+      "pista": "Es bastante más de la mitad del día y algo menos de las tres cuartas partes.",
+      "argumento": "El neonato de término duerme alrededor del 70 % de las 24 horas, con sueño activo/paradójico (REM) y quieto/ortodoxo (no-REM), y en él predomina el REM. Las cifras 40 %, 50 % y 60 % subestiman ese porcentaje, y 80 % lo sobreestima.",
+      "tipo": "directa",
+      "tags": ["cap1", "maduración"],
+      "dificultad": "facil",
+      "fuente": "Medicina del Sueño, cap. 1"
+    },
+    {
+      "id": "sueno-05",
+      "enunciado": "En el adulto, ¿cuál es la duración aproximada de los ciclos de alternancia REM/no-REM?",
+      "alternativas": [
+        "20–30 min",
+        "40–50 min",
+        "90–120 min",
+        "150–180 min",
+        "200–220 min"
+      ],
+      "respuesta": 2,
+      "pista": "El ciclo del adulto dura más que el del bebé, que es de 50–60 minutos.",
+      "argumento": "En el adulto la alternancia REM/no-REM es cíclica y dura 90–120 minutos, y comienza en no-REM para cerrar con REM; el ciclo es de 50–60 minutos en el bebé. La primera etapa no-REM es la más larga, el primer REM es el más breve (2–5 min) y el último, el más prolongado (30–45 min), lo que explica por qué recordamos los sueños al despertar. Las demás cifras no corresponden al ciclo del adulto.",
+      "tipo": "directa",
+      "tags": ["cap2", "organizacion-noche"],
+      "dificultad": "facil",
+      "fuente": "Medicina del Sueño, cap. 2"
+    },
+    {
+      "id": "sueno-06",
+      "enunciado": "Respecto de las funciones endocrinas durante el sueño, señale cuál(es) de las siguientes afirmaciones es/son correcta(s).  I) Cerca del 70 % de los pulsos de GH se asocian al sueño lento, sobre todo al primer episodio de etapa IV.  II) La prolactina aumenta a lo largo de la noche.  III) La testosterona está influida directamente por las fases del sueño.  IV) La TSH alcanza su máximo al inicio del sueño.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo II y IV",
+        "Solo I, III y IV",
+        "Solo I, II y IV",
+        "Todas son correctas"
+      ],
+      "respuesta": 3,
+      "pista": "Una de las cuatro hormonas mencionadas no está influida directamente por el sueño.",
+      "argumento": "I: V. Cerca del 70 % de los pulsos de GH se asocian al sueño lento, principalmente al primer episodio de etapa IV. II: V. La prolactina es el mejor ejemplo de ritmo secretor ligado al sueño y aumenta a lo largo de la noche. III: F. La testosterona no está influida directamente por el sueño; lo descrito es que el SP ocurre en la fase de descenso de LH. IV: V. La TSH aumenta al anochecer y tiene su peak al inicio del sueño, con decremento posterior. Por eso la respuesta correcta es «Solo I, II y IV».",
+      "tipo": "suficiencia",
+      "tags": ["cap2", "endocrino", "sueño"],
+      "dificultad": "media",
+      "fuente": "Medicina del Sueño, cap. 2"
+    },
+    {
+      "id": "sueno-07",
+      "enunciado": "Durante el sueño paradójico, ¿qué ocurre con la termorregulación?",
+      "alternativas": [
+        "Aumenta la producción de calor",
+        "Se suspenden los mecanismos de regulación",
+        "Se mantiene exactamente igual que en vigilia",
+        "Aumenta el temblor muscular",
+        "Se eleva el tono muscular esquelético"
+      ],
+      "respuesta": 1,
+      "pista": "Piense en el efecto conjunto de la caída del tono muscular y la ausencia de temblor.",
+      "argumento": "En el sueño paradójico se suspenden todas las formas de regular la temperatura: por la disminución del tono muscular y la ausencia de temblor no hay producción de calor, y el animal se vuelve poiquilotermo, dependiente de la temperatura ambiental; la temperatura corporal cae durante la noche y más aún durante el SP. Las opciones de aumento de la producción de calor, de temblor o de tono muscular son lo contrario de lo que ocurre, y la idea de que la regulación se mantiene igual que en vigilia ignora esa suspensión.",
+      "tipo": "directa",
+      "tags": ["cap2", "temperatura", "sp"],
+      "dificultad": "media",
+      "fuente": "Medicina del Sueño, cap. 2"
+    },
+    {
+      "id": "sueno-08",
+      "enunciado": "¿Cuántas horas de vigilia ya producen déficits en la atención y en las funciones ejecutivas?",
+      "alternativas": [
+        "8 horas",
+        "16 h",
+        "24 h",
+        "48 h",
+        "72 h"
+      ],
+      "respuesta": 1,
+      "pista": "Es bastante menos que un día completo de vigilia.",
+      "argumento": "El capítulo señala que 16 horas de vigilia ya producen déficits en atención y funciones ejecutivas, dentro de una gradación que, con privación total de hasta 200 h, llega a gran fatiga, irritabilidad, menor discriminación e incluso alucinaciones. Las demás cifras son mayores que ese umbral inicial.",
+      "tipo": "directa",
+      "tags": ["cap2", "privacion"],
+      "dificultad": "facil",
+      "fuente": "Medicina del Sueño, cap. 2"
+    },
+    {
+      "id": "sueno-09",
+      "enunciado": "Respecto de los ensueños, señale cuál(es) de las siguientes afirmaciones es/son correcta(s).  I) Los ensueños ocurren en todos los estados de sueño.  II) El contenido visual está presente en el 100 % de los relatos.  III) Los contenidos de SL y SP serían iguales, lo que sugiere un solo sistema generador.  IV) La emoción más frecuente es la tristeza.",
+      "alternativas": [
+        "Solo I, II y III",
+        "Solo I y II",
+        "Solo II y III",
+        "Solo I, III y IV",
+        "Todas son correctas"
+      ],
+      "respuesta": 0,
+      "pista": "La figura de modalidades sensoriales y emociones permite descartar una de las afirmaciones.",
+      "argumento": "I: V. Los ensueños ocurren en todos los estados (SL y SP), y los últimos SP de la mañana se recuerdan más. II: V. El contenido visual aparece en el 100 % de los relatos. III: V. Los contenidos de SL y SP de igual duración serían iguales, lo que lleva a postular un solo sistema generador de ensueños. IV: F. La emoción más frecuente es la ansiedad (14 %), no la tristeza (4,5 %). Por eso la respuesta correcta es «Solo I, II y III».",
+      "tipo": "suficiencia",
+      "tags": ["cap2", "ensueños"],
+      "dificultad": "media",
+      "fuente": "Medicina del Sueño, cap. 2"
+    },
+    {
+      "id": "sueno-10",
+      "enunciado": "Con FDG-PET, ¿qué ocurre con el metabolismo de la glucosa durante el sueño paradójico?",
+      "alternativas": [
+        "Desciende por debajo del sueño lento",
+        "Se detiene por completo",
+        "Es menor que en el sueño lento",
+        "Aumenta solo en el cerebelo",
+        "Es tan alto como en vigilia"
+      ],
+      "respuesta": 4,
+      "pista": "Compare el gasto energético del SP con el de la vigilia y no con el del sueño lento.",
+      "argumento": "Con FDG-PET, el metabolismo de glucosa baja durante el sueño lento y en el SP se incrementa hasta niveles de vigilia, es decir, es tan alto como despierto; la actividad cerebral no cesa. Las opciones que lo sitúan por debajo del sueño lento o detenido por completo son incorrectas, porque el SP es la fase de mayor consumo relativo, y el aumento no se limita al cerebelo.",
+      "tipo": "directa",
+      "tags": ["cap2", "metabolismo", "sp"],
+      "dificultad": "media",
+      "fuente": "Medicina del Sueño, cap. 2"
+    },
+    {
+      "id": "sueno-11",
+      "enunciado": "Sobre las posibles funciones del sueño, ¿cuál de las siguientes afirmaciones es correcta?",
+      "alternativas": [
+        "La GH del sueño lento apoya la restauración",
+        "La privación mejora la memoria",
+        "El sueño lento no supone ningún ahorro de energía",
+        "El SP no genera MMN alguna",
+        "Todas las anteriores"
+      ],
+      "respuesta": 0,
+      "pista": "Una sola de estas afirmaciones coincide con la evidencia del capítulo.",
+      "argumento": "Es correcta la primera: el aumento de GH durante el sueño lento apoya la hipótesis de recuperación y restauración, aunque otras especies no muestran esa correlación. Las demás son falsas: la privación de sueño produce pérdida de memoria, dificultad de aprendizaje y menor destreza motora; el sueño lento reduce el metabolismo y la temperatura (alrededor de 10 % bajo el basal de vigilia), por lo que sí ahorra energía; y la MMN aparece durante el SP en sujetos entrenados en vigilia. Por eso «Todas las anteriores» no es válida.",
+      "tipo": "todas-ninguna",
+      "tags": ["cap2", "funciones", "sueño"],
+      "dificultad": "media",
+      "fuente": "Medicina del Sueño, cap. 2"
+    },
+    {
+      "id": "sueno-12",
+      "enunciado": "Según Roffwarg y cols., ¿cuál sería el propósito primario del sueño activo en el feto y el recién nacido?",
+      "alternativas": [
+        "Ahorrar energía para el crecimiento corporal",
+        "Ser inductor del desarrollo del SNC",
+        "Consolidar la memoria de la vigilia",
+        "Regular la temperatura corporal",
+        "Favorecer el estado de alerta"
+      ],
+      "respuesta": 1,
+      "pista": "El sueño activo aportaría estimulación endógena a áreas sensoriales que se están mielinizando.",
+      "argumento": "Para Roffwarg y cols., el propósito primario del sueño activo sería ser inductor del desarrollo del SNC en el feto y el recién nacido, aportando estimulación endógena a áreas sensoriales en mielinización (movimientos respiratorios, succión, deglución, bostezos, estiramientos, movimientos oculares). Las demás opciones corresponden a otras hipótesis o funciones (ahorro energético, memoria de la vigilia, termorregulación, estado de alerta) que no son el propósito primario del SA para estos autores.",
+      "tipo": "directa",
+      "tags": ["cap4", "sa", "desarrollo"],
+      "dificultad": "media",
+      "fuente": "Medicina del Sueño, cap. 4"
+    },
+    {
+      "id": "sueno-13",
+      "enunciado": "¿A qué edad se establece aproximadamente el ritmo circadiano del sueño en el lactante?",
+      "alternativas": [
+        "A las 2 semanas de vida",
+        "A las 6 semanas",
+        "A las 12 semanas",
+        "A los 4 meses",
+        "A los 6 meses"
+      ],
+      "respuesta": 2,
+      "pista": "Primero se esboza y luego se consolida, junto con las siestas.",
+      "argumento": "El ritmo circadiano del lactante se esboza a las 6 semanas y se establece hacia las 12 semanas, cuando se consolidan las siestas; antes de eso no hay variación circadiana y el sueño y la vigilia se distribuyen uniformemente. Las 2 semanas corresponden a la aparición variable del patrón circadiano descrita en el capítulo de cronobiología, pero el establecimiento es hacia las 12 semanas; 4 y 6 meses son edades demasiado tardías para el establecimiento inicial.",
+      "tipo": "directa",
+      "tags": ["cap4", "circadiano", "lactante"],
+      "dificultad": "media",
+      "fuente": "Medicina del Sueño, cap. 4"
+    },
+    {
+      "id": "sueno-14",
+      "enunciado": "Respecto del sueño activo (SA) y el sueño quieto (SQ), señale cuál(es) de las siguientes afirmaciones es/son correcta(s).  I) En las etapas tempranas de la vida predomina el SA.  II) El SQ aumenta con la edad.  III) El adulto inicia el sueño en SA.  IV) Al privar selectivamente de SA a un recién nacido hay rebote de SA.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo I y III",
+        "Solo II y III",
+        "Solo I, III y IV",
+        "Todas son correctas"
+      ],
+      "respuesta": 0,
+      "pista": "Recuerde en qué estado inicia el sueño el adulto y cuál es la respuesta compensatoria del recién nacido.",
+      "argumento": "I: V. En todos los mamíferos el SA es mayor en etapas tempranas; el recién nacido inicia el sueño en SA. II: V. El SQ aumenta con la edad. III: F. El adulto inicia el sueño en SQ, no en SA (el inicio en SA cae de 80 % en las primeras tres semanas a 5–10 % a los tres meses y es raro después de los seis meses). IV: F. En los recién nacidos la respuesta compensatoria a la privación selectiva de SA consiste en aumentar el SQ, sin rebote de SA. Por eso la respuesta correcta es «Solo I y II».",
+      "tipo": "suficiencia",
+      "tags": ["cap4", "sa", "sq", "ontogenia"],
+      "dificultad": "media",
+      "fuente": "Medicina del Sueño, cap. 4"
+    },
+    {
+      "id": "sueno-15",
+      "enunciado": "Respecto del sueño y el desarrollo cerebral, ¿cuál de las siguientes afirmaciones es correcta?",
+      "alternativas": [
+        "La privación de SA acelera la plasticidad",
+        "El sueño quieto no participa de la sinaptogénesis",
+        "La visión es prescindible en el período crítico",
+        "Los animales privados de SA tienen cerebro menor",
+        "Ninguna de las anteriores"
+      ],
+      "respuesta": 3,
+      "pista": "Considere los hallazgos experimentales de privación de SA en gatos y ratas.",
+      "argumento": "Es correcta la opción del cerebro menor: los animales privados de SA muestran cerebro menor, hiperactividad, ansiedad, dificultades de atención y aprendizaje, mayor consumo de alcohol y menor comportamiento sexual masculino. Las demás son falsas: la privación de SA retrasa la plasticidad sináptica y la reducción de LTP (no la acelera); el SQ también es importante para el desarrollo, con formación de inervación tálamo-cortical, sinaptogénesis y remodelación sináptica; y la experiencia visual en el período crítico es necesaria para el desarrollo visual (Hubel y Wiesel). Por eso «Ninguna de las anteriores» no corresponde.",
+      "tipo": "todas-ninguna",
+      "tags": ["cap4", "desarrollo", "privacion-sa"],
+      "dificultad": "dificil",
+      "fuente": "Medicina del Sueño, cap. 4"
+    },
+    {
+      "id": "sueno-16",
+      "enunciado": "¿Qué ocurre al lesionar los núcleos supraquiasmáticos?",
+      "alternativas": [
+        "Aumenta la amplitud de todos los ritmos",
+        "Se pierden los ritmos circadianos",
+        "Se adelanta la fase del sueño",
+        "Se conserva la ritmicidad normal",
+        "Se duplica el período circadiano"
+      ],
+      "respuesta": 1,
+      "pista": "El trasplante del tejido donante restaura la ritmicidad, con el período del donante.",
+      "argumento": "La lesión de los NSQ produce pérdida de los ritmos circadianos, y el trasplante de NSQ restaura la ritmicidad con un período que depende del tejido donante. Por eso no aumenta la amplitud ni se conserva la ritmicidad normal; tampoco se adelanta la fase de forma característica ni se duplica el período por la lesión.",
+      "tipo": "directa",
+      "tags": ["cap5", "nsq", "circadiano"],
+      "dificultad": "facil",
+      "fuente": "Medicina del Sueño, cap. 5"
+    },
+    {
+      "id": "sueno-17",
+      "enunciado": "Respecto de los ritmos biológicos, señale cuál(es) de las siguientes afirmaciones es/son correcta(s).  I) Los ritmos circadianos son endógenos y se mantienen en ausencia de zeitgeber.  II) La alternancia de estados de sueño es un ejemplo de ritmo ultradiano.  III) El ciclo menstrual es un ejemplo de ritmo infradiano.  IV) Los ritmos circadianos tienen una periodicidad de 12 horas.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo II y III",
+        "Solo I, II y III",
+        "Solo I, III y IV",
+        "Todas son correctas"
+      ],
+      "respuesta": 2,
+      "pista": "La tabla de frecuencias del capítulo ubica cada ejemplo en su período.",
+      "argumento": "I: V. Los ritmos circadianos son endógenos y se mantienen en ausencia de zeitgeber. II: V. La alternancia de estados de sueño, de unos 90 min, es un ejemplo de ritmo ultradiano. III: V. El ciclo menstrual, de unos 28 días, es un ejemplo de ritmo infradiano. IV: F. Los circadianos tienen una periodicidad cercana a 24 h, no de 12 h. Por eso la respuesta correcta es «Solo I, II y III».",
+      "tipo": "suficiencia",
+      "tags": ["cap5", "ritmos", "circadiano"],
+      "dificultad": "facil",
+      "fuente": "Medicina del Sueño, cap. 5"
+    },
+    {
+      "id": "sueno-18",
+      "enunciado": "¿Cómo se denomina la ventana circadiana en la que es casi imposible iniciar el sueño?",
+      "alternativas": [
+        "La acrofase",
+        "El nadir",
+        "El cronotipo individual",
+        "La fase libre",
+        "La zona prohibida"
+      ],
+      "respuesta": 4,
+      "pista": "Aparece descrita en los experimentos de aislamiento de Aschoff.",
+      "argumento": "Los experimentos de aislamiento (bunker del Max Planck) describen la «zona prohibida»: una ventana circadiana en la que es casi imposible iniciar el sueño. La acrofase es la fase del máximo de un ritmo, el nadir el mínimo, el cronotipo la preferencia individual de horarios y la fase libre el período endógeno en ausencia de sincronizadores; ninguna designa esa ventana.",
+      "tipo": "directa",
+      "tags": ["cap5", "zona-prohibida"],
+      "dificultad": "media",
+      "fuente": "Medicina del Sueño, cap. 5"
+    },
+    {
+      "id": "sueno-19",
+      "enunciado": "Sobre el modelo de dos procesos del control del sueño, ¿cuál de las siguientes afirmaciones es correcta?",
+      "alternativas": [
+        "El homeostático fija la temporalidad de los estados",
+        "El circadiano acumula la necesidad de sueño",
+        "Ambos procesos comparten período y sincronía",
+        "Regula la propensión según las horas de vigilia",
+        "Ninguna de las anteriores"
+      ],
+      "respuesta": 3,
+      "pista": "Un proceso regula umbrales de inicio y fin; el otro, la propensión acumulada.",
+      "argumento": "Es correcta la tercera: el proceso homeostático regula la propensión al sueño según las horas de vigilia previas, que se acumula despierto y se disipa al dormir. Las demás son falsas: la temporalidad de los estados la fija el proceso circadiano, la necesidad de sueño la acumula el homeostático, y ambos no comparten período, por lo que requieren una señal fuerte (zeitgeber) para sincronizarse. Por eso «Ninguna de las anteriores» no corresponde.",
+      "tipo": "todas-ninguna",
+      "tags": ["cap5", "modelo-dos-procesos"],
+      "dificultad": "media",
+      "fuente": "Medicina del Sueño, cap. 5"
+    },
+    {
+      "id": "sueno-20",
+      "enunciado": "¿Cuál es la dosis habitual de melatonina recomendada para conciliar el sueño?",
+      "alternativas": [
+        "0,3 mg",
+        "1 mg",
+        "3 mg",
+        "10 mg",
+        "20 mg"
+      ],
+      "respuesta": 2,
+      "pista": "Se toma unos 30 minutos antes de acostarse.",
+      "argumento": "La dosis habitual es 3 mg, alrededor de 30 minutos antes de acostarse, aunque también se emplean dosis menores o mayores. En el insomnio del envejecimiento se usa esta melatonina para acortar la latencia del sueño; las demás cifras no corresponden a la dosis habitual descrita.",
+      "tipo": "directa",
+      "tags": ["cap6", "melatonina", "dosis"],
+      "dificultad": "facil",
+      "fuente": "Medicina del Sueño, cap. 6"
+    },
+    {
+      "id": "sueno-21",
+      "enunciado": "Respecto de la melatonina, señale cuál(es) de las siguientes afirmaciones es/son correcta(s).  I) Su peak plasmático nocturno es de 100–200 pg/mL.  II) Los betabloqueantes disminuyen la amplitud del peak.  III) La luz brillante de 2.500 lux anula el peak en 10–20 min.  IV) La melatonina no atraviesa las membranas celulares.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo I y III",
+        "Solo II, III y IV",
+        "Solo I, II y III",
+        "Todas son correctas"
+      ],
+      "respuesta": 3,
+      "pista": "La melatonina es liposoluble, y eso condiciona uno de los enunciados.",
+      "argumento": "I: V. Los máximos nocturnos son de 100–200 pg/mL y los mínimos diurnos de 10–30 pg/mL en adultos. II: V. Los betabloqueantes y las benzodiacepinas disminuyen la amplitud del peak. III: V. La luz brillante de 2.500 lux anula el peak nocturno en 10–20 min, con recuperación tras 40 min de oscuridad. IV: F. Por su liposolubilidad la melatonina atraviesa las membranas y se asocia a proteínas citoplasmáticas. Por eso la respuesta correcta es «Solo I, II y III».",
+      "tipo": "suficiencia",
+      "tags": ["cap6", "melatonina", "secrecion"],
+      "dificultad": "media",
+      "fuente": "Medicina del Sueño, cap. 6"
+    },
+    {
+      "id": "sueno-22",
+      "enunciado": "Sobre la melatonina en la enfermedad de Alzheimer, ¿cuál de las siguientes afirmaciones es correcta?",
+      "alternativas": [
+        "Protege a las neuronas de la toxicidad amiloide",
+        "Su secreción está aumentada respecto del sano",
+        "El receptor MT-1 está disminuido en el hipocampo",
+        "La melatonina no modifica el sueño lento",
+        "Ninguna de las anteriores"
+      ],
+      "respuesta": 0,
+      "pista": "En hipocampo de Alzheimer hay up-regulation del receptor MT-1.",
+      "argumento": "Es correcta la primera: la melatonina protege a las neuronas de la toxicidad del beta-amiloide y, en ratones transgénicos, inhibió parcialmente la elevación de depósitos amiloides y aumentó la supervivencia. Las demás son falsas: la secreción de melatonina está disminuida y el descenso en LCR puede ser un evento temprano; en hipocampo hay aumento (up-regulation) de la inmunorreactividad del receptor MT-1 por el menor nivel circulante; y la melatonina favorece principalmente el sueño de ondas lentas en el anciano. Por eso «Ninguna de las anteriores» no corresponde.",
+      "tipo": "todas-ninguna",
+      "tags": ["cap6", "melatonina", "alzheimer"],
+      "dificultad": "dificil",
+      "fuente": "Medicina del Sueño, cap. 6"
+    },
+    {
+      "id": "sueno-23",
+      "enunciado": "Según Arzt y cols., ¿cuánto aumenta el riesgo de enfermedad cerebrovascular con un IER ≥ 20?",
+      "alternativas": [
+        "1,5 veces",
+        "2 veces más",
+        "3,8 veces",
+        "8 veces",
+        "4,3 veces"
+      ],
+      "respuesta": 4,
+      "pista": "El riesgo se corrige a 3,8 al ajustar por hipertensión y diabetes.",
+      "argumento": "Arzt y cols. encontraron que un IER ≥ 20 confiere 4,3 veces más riesgo de ECV, que se reduce a 3,8 al corregir por hipertensión y diabetes, con mayor riesgo en los cuatro años siguientes. La cifra 3,8 veces corresponde al valor ajustado, 2 veces al riesgo de ECV oclusiva en roncadores del estudio de Palomaki, y 8 veces al riesgo de esos roncadores cuando además tienen somnolencia diurna y obesidad; 1,5 veces no corresponde a ese contexto.",
+      "tipo": "directa",
+      "tags": ["cap19", "sahos", "ecv"],
+      "dificultad": "media",
+      "fuente": "Medicina del Sueño, cap. 19"
+    },
+    {
+      "id": "sueno-24",
+      "enunciado": "Respecto de los mecanismos que vinculan el SAHOS con la enfermedad cerebrovascular, señale cuál(es) de las siguientes afirmaciones es/son correcta(s).  I) La hiperfibrinogenemia se asocia al SAHOS.  II) El SAHOS se asocia a menor grosor de la pared carotídea.  III) La disfunción endotelial mejora con CPAP.  IV) El SAHOS no guarda relación con las arritmias cardíacas.",
+      "alternativas": [
+        "Solo I",
+        "Solo III",
+        "Solo I y III",
+        "Solo I, II y III",
+        "Todas son correctas"
+      ],
+      "respuesta": 2,
+      "pista": "Se describen arritmias, hiperfibrinogenemia, mayor grosor carotídeo y disfunción endotelial.",
+      "argumento": "I: V. Existe correlación entre fibrinógeno e IER, duración de las apneas y gravedad de la hipoxemia (Wessendorf y cols.). II: F. La asociación es con mayor grosor de la pared carotídea, marcador de riesgo (Silvestrini y cols.). III: V. La menor dilatación dependiente de endotelio en la arteria braquial mejora con CPAP (Ip y cols.). IV: F. Las arritmias son un mecanismo relevante: cerca del 80 % de pacientes con SAHOS tenía arritmias, que se corrigieron con CPAP nasal (Harbison y cols.). Por eso la respuesta correcta es «Solo I y III».",
+      "tipo": "suficiencia",
+      "tags": ["cap19", "sahos", "ecv", "mecanismos"],
+      "dificultad": "dificil",
+      "fuente": "Medicina del Sueño, cap. 19"
+    },
+    {
+      "id": "sueno-25",
+      "enunciado": "Según Chervin y cols., ¿qué porcentaje de pacientes con cefalea cluster tenía SAHOS?",
+      "alternativas": [
+        "El 44 %",
+        "52 %",
+        "64 %",
+        "80 %",
+        "89 %"
+      ],
+      "respuesta": 3,
+      "pista": "El 44 % correspondía al criterio estricto de IER > 10 y el 52 % a la cefalea en la primera mitad de la noche.",
+      "argumento": "Chervin y cols. encontraron que el 80 % de 40 pacientes con cefalea cluster tenía SAHOS; el 44 % cumplía el criterio estricto de IER > 10, y el 52 % reportó cefalea en la primera mitad de la noche. El 64 % corresponde a Graff-Radford y Newman, y el 89 % a Palombi y cols. en el contexto de la neuropatía óptica isquémica, no a esta serie.",
+      "tipo": "directa",
+      "tags": ["cap19", "cefalea-cluster", "sahos"],
+      "dificultad": "media",
+      "fuente": "Medicina del Sueño, cap. 19"
+    },
+    {
+      "id": "sueno-26",
+      "enunciado": "Sobre la relación entre el SAHOS y la patología neurológica, ¿cuál de las siguientes afirmaciones es correcta?",
+      "alternativas": [
+        "La polineuropatía asociada al SAHOS es desmielinizante",
+        "La NOI se manifiesta preferentemente al dormirse",
+        "La cefalea cluster se asocia al sueño no-REM",
+        "La NOI se asocia al SAHOS en cerca del 71 %",
+        "Ninguna de las anteriores"
+      ],
+      "respuesta": 3,
+      "pista": "Mojon y cols. estudiaron la neuropatía óptica isquémica no arterítica.",
+      "argumento": "Es correcta la opción del 71 %: Mojon y cols. hallaron que el 71 % de los pacientes con neuropatía óptica isquémica no arterítica tenía SAHOS, frente a 18 % de los controles. Las demás son falsas: la polineuropatía del SAHOS es axonal (Lüdemann y cols.); la NOI se manifiesta al despertar, no al dormirse, por los cambios de presión arterial, la hipoxia-reperfusión y la alteración de la autorregulación del flujo; y la cefalea cluster ocurre durante el sueño en relación con el REM, no con el no-REM. Por eso «Ninguna de las anteriores» no corresponde.",
+      "tipo": "todas-ninguna",
+      "tags": ["cap19", "noi", "polineuropatia"],
+      "dificultad": "dificil",
+      "fuente": "Medicina del Sueño, cap. 19"
+    },
+    {
+      "id": "sueno-27",
+      "enunciado": "¿Cuál es la secuencia de fases del síndrome de adaptación general de Selye?",
+      "alternativas": [
+        "Alarma, agotamiento y resistencia",
+        "Alarma, resistencia y agotamiento",
+        "Resistencia, alarma y agotamiento",
+        "Agotamiento, alarma y resistencia",
+        "Resistencia, agotamiento y alarma"
+      ],
+      "respuesta": 1,
+      "pista": "Primero se moviliza energía, luego se sostiene el esfuerzo y al final se pierde la adaptación.",
+      "argumento": "El síndrome de adaptación general de Selye sigue el orden: reacción de alarma (activación simpático-adrenomedular), fase de resistencia (eje hipotálamo-hipófisis-adrenal y glucocorticoides) y fase de agotamiento o exhaustación (úlceras y gastritis, hipertensión, infarto de miocardio, asma, trastornos del sueño, depresión y alteraciones endocrinas, inmunológicas y metabólicas). Las demás opciones alteran ese orden.",
+      "tipo": "directa",
+      "tags": ["cap48", "estres", "selye"],
+      "dificultad": "facil",
+      "fuente": "Medicina del Sueño, cap. 48"
+    },
+    {
+      "id": "sueno-28",
+      "enunciado": "¿Qué receptor de glucocorticoides se ocupa principalmente en condiciones basales?",
+      "alternativas": [
+        "GR / tipo II",
+        "MR / tipo I",
+        "MT-1",
+        "CRF-R1",
+        "Receptor GABA-A"
+      ],
+      "respuesta": 1,
+      "pista": "El de alta afinidad se ocupa a concentraciones basales; el de baja afinidad responde al estrés.",
+      "argumento": "Los MR o tipo I, de alta afinidad, se ocupan en condiciones basales y se localizan en hipocampo, núcleo olfativo, amígdala, estriado, septum y algunos núcleos hipotalámicos. Los GR o tipo II, de baja afinidad, se activan principalmente en situaciones estresantes y están ampliamente distribuidos. MT-1 es un receptor de melatonina, CRF-R1 es un receptor de la hormona liberadora de corticotropina y el receptor GABA-A es un canal de cloro, ajeno a esta clasificación.",
+      "tipo": "directa",
+      "tags": ["cap48", "hha", "receptores"],
+      "dificultad": "media",
+      "fuente": "Medicina del Sueño, cap. 48"
+    },
+    {
+      "id": "sueno-29",
+      "enunciado": "Respecto del eje hipotálamo-hipófisis-adrenal, señale cuál(es) de las siguientes afirmaciones es/son correcta(s).  I) El CRF estimula la liberación de ACTH en la hipófisis anterior.  II) Los glucocorticoides ejercen retroalimentación negativa sobre CRF y ACTH.  III) La vasopresina y la oxitocina potencian la acción del CRF.  IV) La amígdala inhibe el eje HHA.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo II y III",
+        "Solo I, II y III",
+        "Solo I y IV",
+        "Todas son correctas"
+      ],
+      "respuesta": 2,
+      "pista": "Una estructura del sistema límbico excita el eje y otra lo inhibe.",
+      "argumento": "I: V. El CRF llega a la eminencia media y estimula la hipófisis anterior, que libera ACTH (y beta-endorfina). II: V. Los glucocorticoides tienen retroalimentación negativa, rápida sobre CRF y ACTH y a mediano-largo plazo vía GR. III: V. La vasopresina y la oxitocina (neuronas magnocelulares) potencian la acción del CRF. IV: F. La amígdala tiene efectos excitatorios sobre el eje HHA; el efecto inhibidor corresponde al hipocampo. Por eso la respuesta correcta es «Solo I, II y III».",
+      "tipo": "suficiencia",
+      "tags": ["cap48", "hha", "retroalimentacion"],
+      "dificultad": "media",
+      "fuente": "Medicina del Sueño, cap. 48"
+    },
+    {
+      "id": "sueno-30",
+      "enunciado": "Sobre la relación entre el estrés y el sueño, ¿cuál de las siguientes afirmaciones es correcta?",
+      "alternativas": [
+        "El sueño REM predomina en las fases tempranas",
+        "El cortisol es mínimo al comenzar el sueño",
+        "La amígdala ejerce efecto inhibidor del eje",
+        "Los GR se ocupan solo en condiciones basales",
+        "Ninguna de las anteriores"
+      ],
+      "respuesta": 1,
+      "pista": "El eje HHA tiene actividad circadiana vinculada al ciclo sueño-vigilia.",
+      "argumento": "Es correcta la segunda: el cortisol es alto en la mañana y mínimo al comenzar el sueño. Las demás son falsas: el sueño REM predomina en las fases tardías de la noche, asociado a mayor actividad del eje HHA y del simpático, mientras que las fases tempranas tienen más ondas lentas; la amígdala es excitatoria del eje HHA y el hipocampo es el inhibidor; y los receptores ocupados en condiciones basales son los MR (tipo I), no los GR. Por eso «Ninguna de las anteriores» no corresponde.",
+      "tipo": "todas-ninguna",
+      "tags": ["cap48", "estres", "sueño"],
+      "dificultad": "media",
+      "fuente": "Medicina del Sueño, cap. 48"
+    }
+  ]
+}

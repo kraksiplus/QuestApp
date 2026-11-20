@@ -1,0 +1,929 @@
+{
+  "version": 1,
+  "titulo": "Neurociencias C2 — Set B: conciencia, inconsciente, neuropsiquiatría y CTE",
+  "preguntas": [
+    {
+      "id": "c2b-01",
+      "enunciado": "El correlato neuronal de contenido específico se define como:",
+      "alternativas": [
+        "El mecanismo mínimo de una experiencia particular",
+        "El sustrato que sostiene toda la experiencia consciente",
+        "Un factor permisivo de glucosa y oxígeno",
+        "La red fronto-parietal completa y necesaria",
+        "La modulación colinérgica del tronco"
+      ],
+      "respuesta": 0,
+      "pista": "Piense en el nivel más pequeño del correlato: el que corresponde a ver una cara o a oír una nota, y no al conjunto.",
+      "argumento": "La correcta es el mecanismo mínimo que activa una experiencia concreta; su prueba es que la estimulación artificial de ese grupo neuronal genera el contenido sin estímulo físico (destellos por estimulación magnética transcraneal). El sustrato de toda la experiencia, independiente del contenido, es el NCC completo, no el de contenido: por eso esa alternativa confunde los dos niveles extremos. El factor permisivo de glucosa y oxígeno corresponde a las condiciones basales, que no aportan contenido, solo permiten generarlo. La red fronto-parietal no es el correlato de contenido sino, precisamente, la candidata que la evidencia de la clase desmonta. La modulación colinérgica del tronco también es condición basal, no contenido.",
+      "tipo": "directa",
+      "tags": [
+        "cap04",
+        "ncc",
+        "niveles-del-correlato"
+      ],
+      "dificultad": "facil",
+      "fuente": "04_Conciencia_NCC, diapo 58"
+    },
+    {
+      "id": "c2b-02",
+      "enunciado": "En el paradigma clásico de la conciencia, se presenta un estímulo breve cerca del umbral y el sujeto informa si lo vio; además, presiona un botón. Al restar la condición «no vi» de la condición «sí vi», la diferencia incluye, además de la respuesta visual:",
+      "alternativas": [
+        "Memoria de trabajo, decisión y orden motora",
+        "La actividad del área visual primaria",
+        "El artefacto de movimiento de la resonancia",
+        "La modulación monoaminérgica del tronco",
+        "La desincronización del EEG al despertar"
+      ],
+      "respuesta": 0,
+      "pista": "Piense en todo lo que el sujeto hace entre ver el estímulo y presionar el botón.",
+      "argumento": "El contraste resta la actividad común a ambas condiciones y deja la respuesta visual, pero el sujeto, cuando ve, además mantiene el estímulo en memoria de trabajo, decide y emite una orden motora; esos procesos post-perceptuales entran en la diferencia y fueron la causa histórica de atribuir a la corteza prefrontal un papel en la experiencia. La actividad del área visual primaria es justamente la parte que el contraste pretende conservar, no un proceso agregado. El artefacto de movimiento se controla por diseño. La modulación monoaminérgica del tronco no cambia por reportar. La desincronización del EEG al despertar pertenece a la transición vigilia-sueño, no a este paradigma.",
+      "tipo": "directa",
+      "tags": [
+        "cap04",
+        "contraste-minimo",
+        "sesgo-del-reporte"
+      ],
+      "dificultad": "media",
+      "fuente": "04_Conciencia_NCC, diapo 58-59"
+    },
+    {
+      "id": "c2b-03",
+      "enunciado": "La crisis de ausencia es la prueba clínica contra el papel frontal porque en ella:",
+      "alternativas": [
+        "La red fronto-parietal se activa al perder conciencia",
+        "El sueño NREM profundo tiene más flujo frontal que la vigilia",
+        "La corteza posterior se apaga durante la crisis",
+        "El P3b aparece solo en pacientes epilépticos",
+        "La vigilia y el contenido son un mismo estado"
+      ],
+      "respuesta": 0,
+      "pista": "Busque el dato que va en dirección opuesta a lo que predeciría la hipótesis frontal.",
+      "argumento": "La crisis de ausencia es el contraejemplo simétrico: el paciente pierde la conciencia mientras la señal de la red fronto-parietal aumenta de forma masiva. Si el frontal activo garantizara experiencia, debería estar más consciente, y ocurre lo contrario. La comparación entre sueño NREM profundo y vigilia no es un contraejemplo sino la evidencia que históricamente apoyó la hipótesis fronto-parietal, y además confunde estado con contenido. La corteza posterior no se apaga: si algo muestra la clase es que su actividad sostiene la experiencia. El P3b no es exclusivo de epilepsia y, en todo caso, mide procesos post-perceptuales. Confundir estado y contenido es justamente el error que la crisis de ausencia permite denunciar, no lo que la crisis demuestra.",
+      "tipo": "directa",
+      "tags": [
+        "cap04",
+        "crisis-de-ausencia",
+        "evidencia-clinica"
+      ],
+      "dificultad": "media",
+      "fuente": "04_Conciencia_NCC, diapo 59"
+    },
+    {
+      "id": "c2b-04",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre los correlatos de la conciencia es/son correcta(s). Considere que «sin tarea» significa sin respuesta verbal ni motora: la percepción se infiere de marcadores involuntarios, como los movimientos oculares y el reflejo pupilar.  I) La rivalidad binocular sin tarea de reporte mantiene activa la corteza prefrontal.  II) La electrocorticografía muestra respuesta posterior constante ante el estímulo visto.  III) Las lobectomías frontales bilaterales abolen la conciencia.  IV) El paradigma dentro del sueño aísla la zona caliente posterior.",
+      "alternativas": [
+        "Solo II",
+        "Solo IV",
+        "Solo II y IV",
+        "Solo I y III",
+        "Solo I, II y IV"
+      ],
+      "respuesta": 2,
+      "pista": "Evalúe por separado qué ocurre cuando se elimina la necesidad de reportar y qué ocurre tras extirpar corteza frontal.",
+      "argumento": "I: FALSO. Cuando se suprime la necesidad de reportar y se usan marcadores involuntarios —movimientos oculares, reflejo pupilar— la activación prefrontal desaparece y solo persiste la corteza posterior témporo-parieto-occipital; la frase «sin tarea» no significa ausencia de estímulo, sino ausencia de respuesta del sujeto. II: VERDADERO. Con mallas subdurales, la corteza posterior descarga de forma constante y rápida ante el estímulo visto, sin modificarse por las demandas motoras de la tarea. III: FALSO. Las lobectomías frontales bilaterales no abolen la conciencia; la evidencia muestra que el territorio prefrontal no es necesario para tener la experiencia. IV: VERDADERO. El paradigma que induce y reporta experiencias dentro del sueño aísla la actividad de la zona caliente posterior como correlato del contenido. Por eso la correcta es Solo II y IV.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap04",
+        "paradigmas",
+        "zona-caliente"
+      ],
+      "dificultad": "dificil",
+      "fuente": "04_Conciencia_NCC, diapo 59-61"
+    },
+    {
+      "id": "c2b-05",
+      "enunciado": "Respecto de los correlatos neuronales de la conciencia, ¿cuál afirmación es correcta?",
+      "alternativas": [
+        "El P3b no es un marcador específico de conciencia",
+        "El P3b mide la ignición cortical consciente",
+        "La zona caliente posterior es fronto-parietal",
+        "La crisis de ausencia apaga la red fronto-parietal",
+        "Ninguna de las anteriores es correcta"
+      ],
+      "respuesta": 0,
+      "pista": "Piense qué le ocurre al componente cuando el estímulo es visible pero irrelevante para la tarea.",
+      "argumento": "El P3b es una onda fronto-parietal posterior a los 300 ms que se interpretó como ignición cortical consciente, pero se disocia de la experiencia en tres sentidos: desaparece si el estímulo es visible aunque irrelevante para la tarea, puede evocarse con estímulos subliminales y mide memoria de trabajo, actualización de contexto y atención dirigida. Por eso la afirmación que lo describe como «ignición cortical consciente» es falsa. La zona caliente posterior no es fronto-parietal sino témporo-parieto-occipital: el frontal no aparece en el contraste limpio. La crisis de ausencia no apaga la red fronto-parietal: la hiperactiva mientras el paciente pierde la conciencia. Y «Ninguna de las anteriores» es falsa porque la primera opción sí es correcta; quien la elige probablemente sigue atribuyendo al P3b un valor de marcador específico.",
+      "tipo": "todas-ninguna",
+      "tags": [
+        "cap04",
+        "p3b",
+        "marcadores"
+      ],
+      "dificultad": "media",
+      "fuente": "04_Conciencia_NCC, diapo 59-60"
+    },
+    {
+      "id": "c2b-06",
+      "enunciado": "A un paciente con sección del cuerpo calloso se le coloca una llave en la mano izquierda, con los ojos cerrados y fuera de su campo visual. ¿Qué ocurre?",
+      "alternativas": [
+        "Se reconoce y se usa, pero no se nombra",
+        "Se nombra sin dificultad por el hemisferio derecho",
+        "No llega a ningún hemisferio y queda aislada",
+        "Se transfiere al izquierdo por vías subcorticales",
+        "Genera una tercera conciencia integradora"
+      ],
+      "respuesta": 0,
+      "pista": "Separe lo que el hemisferio derecho puede hacer de lo que necesita el lenguaje para ocurrir.",
+      "argumento": "La mano izquierda proyecta al hemisferio derecho, que reconoce formas y objetos mejor que el izquierdo pero no habla: el paciente puede reconocer la llave y usarla con esa mano, pero no puede nombrarla ni elegirla con la mano derecha, y responde que no sabe qué es. Que se nombre sin dificultad es imposible porque el habla reside en el hemisferio izquierdo, que no recibió el objeto. La opción de que no llega a ningún hemisferio es falsa: la información somatosensorial sí llega al derecho. La transferencia subcortical al izquierdo es justamente lo que la sección impide. No surge una tercera conciencia: el fenómeno muestra dos esferas de procesamiento separadas, no una tercera integradora.",
+      "tipo": "directa",
+      "tags": [
+        "cap04",
+        "cerebro-dividido",
+        "sperry"
+      ],
+      "dificultad": "media",
+      "fuente": "04_Conciencia_NCC, cap. 7 pp. 224-226"
+    },
+    {
+      "id": "c2b-07",
+      "enunciado": "Según el capítulo 14, el inconsciente freudiano es:",
+      "alternativas": [
+        "Huellas reordenadas, no espejo de lo externo",
+        "Un sistema de memoria implícita y procedimental",
+        "Un almacén localizado de recuerdos reprimidos",
+        "La transcripción fiel de la realidad externa",
+        "Un conjunto de reflejos innatos del tronco"
+      ],
+      "respuesta": 0,
+      "pista": "El autor insiste en que sus huellas no pueden transponerse a las estructuras de memoria que localiza la neuropsicología.",
+      "argumento": "El inconsciente es un sistema de huellas mnémicas reordenadas por asociaciones múltiples que perdieron el lazo con la experiencia inicial; no refleja la realidad externa y produce sus propios estímulos, y sus apariciones se describen como un trastorno de la memoria. Equipararlo a la memoria implícita o procedimental es el error que el capítulo combate: esa memoria es automática pero descriptible y retorna a la conciencia. Un almacén localizado de recuerdos reprimidos confunde el inconsciente con un depósito anatómico, cuando se define dinámicamente y no por localización. La transcripción fiel de la realidad externa corresponde a una de las dos funciones de la plasticidad, la que sostiene la memoria explícita, no al inconsciente. Los reflejos innatos del tronco no tienen relación con la tesis del capítulo.",
+      "tipo": "directa",
+      "tags": [
+        "cap05",
+        "inconsciente",
+        "huellas"
+      ],
+      "dificultad": "media",
+      "fuente": "05_Inconsciente_Memoria_Represion, pp. 201-202"
+    },
+    {
+      "id": "c2b-08",
+      "enunciado": "La memoria procedimental no equivale al inconsciente freudiano porque:",
+      "alternativas": [
+        "Es descriptible y puede volver a la conciencia",
+        "No participa de la plasticidad sináptica",
+        "Se localiza en la amígdala y no en el hipocampo",
+        "Requiere represión previa para funcionar",
+        "Depende solo de la vía tálamo-amigdalina"
+      ],
+      "respuesta": 0,
+      "pista": "Compare las dos formas de falta de conciencia por su vía de acceso, no por su automaticidad.",
+      "argumento": "Conducir o mecanografiar al tacto son automáticos, pero ponen en juego mecanismos cognitivos totalmente recordables por la conciencia: el sujeto puede describir lo que hace y el mecanismo puede volver a hacerse consciente, algo imposible con el escenario fantasmático. Decir que no participa de la plasticidad sináptica es falso: la plasticidad es el sustrato de toda inscripción, incluida la procedimental. La localización amigdalina es una confusión anatómica: la memoria procedimental es un sistema distribuido de ganglios basales y corteza, no una estructura única. Que requiera represión previa invierte el orden del capítulo, donde el inconsciente primario precede a la represión. La vía tálamo-amigdalina explica el afecto inconsciente, no el aprendizaje de destrezas.",
+      "tipo": "directa",
+      "tags": [
+        "cap05",
+        "memoria-procedimental",
+        "dos-inconscientes"
+      ],
+      "dificultad": "media",
+      "fuente": "05_Inconsciente_Memoria_Represion, p. 204"
+    },
+    {
+      "id": "c2b-09",
+      "enunciado": "Según el capítulo 14, la plasticidad sináptica no solo inscribe la experiencia: también permite que las huellas se reasocien. Esa segunda función explica que:",
+      "alternativas": [
+        "cada sujeto construya una realidad interna propia",
+        "la memoria sea una copia exacta de lo vivido",
+        "el afecto se borre junto con el recuerdo",
+        "la huella quede fija e inmutable",
+        "el inconsciente sea un almacén anatómico"
+      ],
+      "respuesta": 0,
+      "pista": "Una función copia; la otra reorganiza y produce algo nuevo.",
+      "argumento": "La plasticidad cumple dos funciones: inscribe una transcripción relativamente fiel de la realidad externa —base de la memoria explícita— y abre la posibilidad de reasociaciones que constituyen una realidad interna nueva y propia de cada sujeto, que además se vuelve fuente de estímulos. De ahí la fórmula «a cada cual su realidad interna». La copia exacta describe solo la primera función y niega la segunda. El borrado del afecto corresponde a la represión, no a la plasticidad. La huella fija e inmutable contradice la reasociación. El almacén anatómico confunde un sistema dinámico con un depósito.",
+      "tipo": "directa",
+      "tags": [
+        "cap05",
+        "plasticidad",
+        "realidad-interna"
+      ],
+      "dificultad": "media",
+      "fuente": "05_Inconsciente_Memoria_Represion, p. 202"
+    },
+    {
+      "id": "c2b-10",
+      "enunciado": "Según Freud, la represión actúa:",
+      "alternativas": [
+        "Sobre el representante y sobre el monto de afecto",
+        "De manera global sobre toda la pulsión",
+        "Solo sobre el componente somático y no el psíquico",
+        "Solo cuando la pulsión es de origen sexual",
+        "Con igual eficacia sobre ambas partes"
+      ],
+      "respuesta": 0,
+      "pista": "Distinga los dos elementos de la pulsión y pregúntese cuál de ellos vuelve como angustia.",
+      "argumento": "La represión se formula sobre dos elementos separables: el representante pulsional, que queda fuera de la conciencia, y el monto de afecto, sobre el que fracasa y que retorna como angustia o ansiedad, perturbando además la ejecución de la acción. Tratarla como un acto global sobre toda la pulsión impide explicar esa disociación. Invertir los términos —reprimir lo somático y conservar lo psíquico— es exactamente lo contrario de lo que ocurre. Restringirla a las pulsiones sexuales agrega una condición que el material no establece. Sostener igual eficacia sobre ambas partes es incompatible con la fórmula clínica de la fobia, donde la representación se reprime con éxito y el afecto no.",
+      "tipo": "directa",
+      "tags": [
+        "cap05",
+        "represion",
+        "pulsion"
+      ],
+      "dificultad": "media",
+      "fuente": "05_Inconsciente_Memoria_Represion, pp. 207-211"
+    },
+    {
+      "id": "c2b-11",
+      "enunciado": "En el paradigma de pensar/no pensar de Anderson, los sujetos aprenden pares de palabras y luego deben suprimir la recuperación de uno de ellos. La neuroimagen muestra:",
+      "alternativas": [
+        "Prefrontal dorsolateral activa e hipocampo hipoactivo",
+        "Prefrontal hipoactivo e hipocampo activado",
+        "Amígdala bilateral activada de forma aislada y sostenida",
+        "Borrado permanente del contenido suprimido",
+        "Activación del cuerpo calloso y del tálamo"
+      ],
+      "respuesta": 0,
+      "pista": "Es un mecanismo de control: alguien manda y alguien obedece. Identifique el que manda.",
+      "argumento": "El patrón descrito es control ejecutivo: activación prefrontal dorsolateral con hipoactivación hipocampal, es decir, interferencia en la recuperación. Invertir los polos —prefrontal hipoactivo con hipocampo activado— describe la recuperación exitosa, no la supresión. La amígdala no es el nodo de este paradigma. El borrado permanente es precisamente lo que no se demuestra: hay interferencia con límites y costos. El cuerpo calloso y el tálamo no son las estructuras que discriminan la tarea.",
+      "tipo": "directa",
+      "tags": [
+        "cap05",
+        "supresion",
+        "anderson"
+      ],
+      "dificultad": "media",
+      "fuente": "05_Inconsciente_Memoria_Represion, pp. 208-209"
+    },
+    {
+      "id": "c2b-12",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre el inconsciente es/son correcta(s).  I) El inconsciente freudiano equivale a la memoria procedimental.  II) La vía tálamo-amigdalina permite respuestas emocionales sin análisis cortical detallado.  III) La supresión de Anderson es un control ejecutivo consciente.  IV) La represión actúa con igual eficacia sobre la representación y el afecto.",
+      "alternativas": [
+        "Solo II",
+        "Solo III",
+        "Solo II y III",
+        "Solo I y IV",
+        "Solo I, II y III"
+      ],
+      "respuesta": 2,
+      "pista": "Los dos numerales falsos son los que igualan cosas que el capítulo separa expresamente.",
+      "argumento": "I: FALSO. La memoria procedimental es automática pero descriptible y re-consciente; el capítulo la distingue explícitamente del inconsciente freudiano. II: VERDADERO. Las vías sensoriales que del tálamo van directamente a la amígdala permiten una respuesta emocional rápida sin procesamiento cortical detallado, y son el mejor candidato para explicar por qué algo perturba sin que se sepa por qué. III: VERDADERO. El modelo de Anderson es supresión voluntaria y consciente: activación prefrontal dorsolateral con descenso hipocampal, con límites y costos. IV: FALSO. La represión es eficaz sobre el representante y fracasa sobre el monto de afecto, que retorna como angustia. La correcta es II y III: «Solo II» omite el control ejecutivo, «Solo III» omite la vía anatómica, y las opciones que incluyen I o IV incorporan numerales falsos.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap05",
+        "talamo-amigdalina",
+        "represion"
+      ],
+      "dificultad": "dificil",
+      "fuente": "05_Inconsciente_Memoria_Represion, pp. 204-213"
+    },
+    {
+      "id": "c2b-13",
+      "enunciado": "El cambio de paradigma que la clase describe para el TEA va:",
+      "alternativas": [
+        "De cuadro infantil unitario a espectro poligénico dinámico",
+        "De trastorno genético a trastorno ambiental puro",
+        "De inicio temprano a inicio solo en la adultez",
+        "De hipótesis E/I a hipótesis monoaminérgica",
+        "De enfermedad de red a enfermedad de una molécula"
+      ],
+      "respuesta": 0,
+      "pista": "El modelo nuevo no niega la genética: la multiplica y la vuelve dinámica.",
+      "argumento": "El desplazamiento es de una entidad conductual infantil unitaria —ventana de tres años, hipótesis excitatoria/inhibitoria y modelo monogénico— a una arquitectura poligénica dinámica, con millones de variantes comunes en perfiles diferenciados y dos factores con correlación biológica baja. Pasar a un trastorno puramente ambiental niega la genética, que es el corazón del paradigma nuevo. Restringir el inicio a la adultez exagera el otro extremo: lo que cambia es que el inicio tardío se reconoce como gradiente, no que el temprano desaparezca. Sustituir la hipótesis E/I por una monoaminérgica es propio del modelo de la depresión, no del TEA. Ir de enfermedad de red a enfermedad de una molécula invierte la dirección del cambio, que va de la molécula al sistema.",
+      "tipo": "directa",
+      "tags": [
+        "cap08",
+        "tea",
+        "paradigma"
+      ],
+      "dificultad": "facil",
+      "fuente": "08_Neuropsiquiatria, diapo 62-63"
+    },
+    {
+      "id": "c2b-14",
+      "enunciado": "En el experimento de fMRI con frases concretas y abstractas, el cerebro autista:",
+      "alternativas": [
+        "Activa áreas visuales con ambos tipos de frase",
+        "Conecta lenguaje y visión solo con frases abstractas",
+        "Activa únicamente el área de Broca en ambos casos",
+        "Muestra mayor sincronía frontal-posterior que el control",
+        "No activa áreas del lenguaje en ningún tipo de frase"
+      ],
+      "respuesta": 0,
+      "pista": "El control aprovecha la imagen solo cuando la frase la trae; el cerebro autista no hace esa distinción.",
+      "argumento": "El cerebro control conecta a larga distancia las áreas del lenguaje con las visuales posteriores cuando la frase es concreta y visual, y usa solo las áreas del lenguaje cuando es abstracta. En el cerebro autista esa diferencia casi desaparece: activa las áreas visuales de manera constante y se apoya en imágenes mentales para compensar el procesamiento verbal. Por eso invertir la condición —visión solo con frases abstractas— describe al revés el hallazgo. Reducir la activación al área de Broca contradice el dato de que las áreas visuales están permanentemente reclutadas. Mayor sincronía frontal-posterior es lo contrario del patrón de hipoconectividad a distancia descrito. Y sostener que no activa áreas del lenguaje es incompatible con que el sujeto comprenda las frases.",
+      "tipo": "directa",
+      "tags": [
+        "cap08",
+        "tea",
+        "conectoma"
+      ],
+      "dificultad": "media",
+      "fuente": "08_Neuropsiquiatria, diapo 64"
+    },
+    {
+      "id": "c2b-15",
+      "enunciado": "SHANK3 y FMR1 se asocian a síndromes monogénicos del neurodesarrollo. La correspondencia correcta es:",
+      "alternativas": [
+        "SHANK3: Phelan-McDermid (22q13); FMR1: X frágil",
+        "SHANK3: X frágil; FMR1: Phelan-McDermid (22q13)",
+        "SHANK3: esclerosis tuberosa; FMR1: Rett",
+        "SHANK3: Huntington; FMR1: ataxia espinocerebelosa",
+        "Ambos genes producen el síndrome de X frágil"
+      ],
+      "respuesta": 0,
+      "pista": "Uno de los genes está en el cromosoma 22 y el otro es la causa hereditaria más frecuente de discapacidad intelectual.",
+      "argumento": "SHANK3, en el cromosoma 22, causa el síndrome de Phelan-McDermid, con ausencia o retraso del lenguaje, hipotonía neonatal y discapacidad intelectual; FMR1 causa el X frágil, la causa más frecuente de discapacidad intelectual hereditaria. Intercambiar ambos genes es el error clásico. La esclerosis tuberosa corresponde a TSC1/TSC2 y el síndrome de Rett a MECP2. Huntington es HTT y las ataxias espinocerebelosas son expansiones CAG de otros genes. Solo FMR1 produce X frágil, no ambos.",
+      "tipo": "directa",
+      "tags": [
+        "cap08",
+        "tea",
+        "genetica"
+      ],
+      "dificultad": "media",
+      "fuente": "08_Neuropsiquiatria, diapo 62"
+    },
+    {
+      "id": "c2b-16",
+      "enunciado": "En el TEA, la falla de la poda microglial produce:",
+      "alternativas": [
+        "Exceso de sinapsis cortas e hipersensibilidad",
+        "Pérdida de sinapsis locales y atrofia cortical",
+        "Hipoconectividad local con retraso global",
+        "Desmielinización difusa de los tractos largos",
+        "Muerte de neuronas dopaminérgicas del ATV"
+      ],
+      "respuesta": 0,
+      "pista": "Si no se eliminan las sinapsis sobrantes, el circuito local queda con más conexiones de las necesarias.",
+      "argumento": "La microglía elimina las sinapsis redundantes en los períodos críticos; cuando falla quedan sinapsis de más, con exceso de conexiones cortas en áreas sensoriales y visuales primarias, lo que da procesamiento de gran detalle junto con hipersensibilidad al ruido y a la luz. Pérdida de sinapsis locales es el resultado inverso al que produce una poda insuficiente. Hipoconectividad local contradice el patrón descrito, que es hiperconectividad local más hipoconectividad a distancia. La desmielinización de tractos largos no es el mecanismo que la clase atribuye a la microglía. La muerte de neuronas dopaminérgicas del área tegmental ventral pertenece al circuito de recompensa, no a la fisiopatología del TEA.",
+      "tipo": "directa",
+      "tags": [
+        "cap08",
+        "tea",
+        "microglia"
+      ],
+      "dificultad": "media",
+      "fuente": "08_Neuropsiquiatria, diapo 63"
+    },
+    {
+      "id": "c2b-17",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre los cuadros neuropsiquiátricos es/son correcta(s).  I) El TEA presenta dos factores poligénicos con correlación baja (r = 0,38).  II) La microglía poda sinapsis y en el TEA esa poda falla.  III) El ISRS alcanza su efecto clínico máximo en las primeras horas.  IV) El bloqueo de receptores D2 se correlaciona con la eficacia antipsicótica.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo I y IV",
+        "Solo I, II y IV",
+        "Solo II y III",
+        "Solo III y IV"
+      ],
+      "respuesta": 2,
+      "pista": "Hay un solo numeral falso y es el que confunde el bloqueo agudo del transportador con el efecto clínico.",
+      "argumento": "I: VERDADERO. Los estudios de asociación fragmentan el riesgo en dos factores independientes con correlación biológica baja, r = 0,38, uno de desarrollo y otro de vulnerabilidad afectiva. II: VERDADERO. La microglía es el ejecutor de la poda sináptica y en el TEA esa poda falla, dejando sinapsis redundantes. III: FALSO. El ISRS bloquea el transportador de serotonina en horas, pero el efecto clínico tarda dos a cuatro semanas porque requiere cambios plásticos: desensibilización de autorreceptores, normalización del eje, BDNF y espinogénesis. IV: VERDADERO. La eficacia de los antipsicóticos se correlaciona con su capacidad de bloquear D2, y los antagonistas dopaminérgicos producen catalepsia. La correcta incluye I, II y IV; las opciones que omiten uno de los verdaderos o que incorporan III son incorrectas.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap08",
+        "tea",
+        "depresion",
+        "esquizofrenia"
+      ],
+      "dificultad": "dificil",
+      "fuente": "08_Neuropsiquiatria, diapo 63 y clase 6/11"
+    },
+    {
+      "id": "c2b-18",
+      "enunciado": "Sobre los mecanismos del TEA y de la depresión, ¿cuál afirmación es correcta?",
+      "alternativas": [
+        "En el TEA hay hiperconectividad local excesiva",
+        "El autismo idiopático es cerca del 85% de la práctica",
+        "La ketamina es antagonista de receptores NMDA",
+        "El cortisol alto es neurotóxico para el hipocampo",
+        "Todas las anteriores son correctas"
+      ],
+      "respuesta": 4,
+      "pista": "Compruebe una por una: si las cuatro anteriores se sostienen en la guía, la respuesta se resuelve sola.",
+      "argumento": "Las cuatro afirmaciones son verdaderas, por lo que «Todas las anteriores son correctas» es la única opción válida. El patrón conectómico del TEA combina hiperconectividad local —exceso de sinapsis cortas sin podar en áreas visuales y sensoriales primarias, con hipersensibilidad al ruido y la luz— e hipoconectividad a distancia; la primera mitad es la que afirma la opción. El autismo idiopático corresponde a cerca del 85% de la práctica clínica, fracción que el modelo monogénico no explicaba. La ketamina es antagonista de receptores NMDA y actúa en horas por la vía GABA–glutamato–AMPA–mTOR. El exceso de cortisol es neurotóxico a largo plazo para el hipocampo, donde además frena la neurogénesis. Ninguna de las opciones individuales es falsa, de modo que marcar solo una de ellas sería incompleto.",
+      "tipo": "todas-ninguna",
+      "tags": [
+        "cap08",
+        "integracion",
+        "mecanismos"
+      ],
+      "dificultad": "dificil",
+      "fuente": "08_Neuropsiquiatria, diapos 62-67"
+    },
+    {
+      "id": "c2b-19",
+      "enunciado": "El hallazgo que separa la CTE del Alzheimer esporádico es:",
+      "alternativas": [
+        "Ovillos neocorticales con hipocampo respetado",
+        "Ovillos en entorrinal y en hipocampo temprano",
+        "Cuerpos de Lewy difusos en la corteza",
+        "Atrofia cortical difusa con hidrocefalia",
+        "Placas neuríticas de progresión entorrinal"
+      ],
+      "respuesta": 0,
+      "pista": "No importa tanto qué lesión hay, sino dónde empieza y qué estructura queda libre.",
+      "argumento": "En la CTE los ovillos y hebras se distribuyen en la neocorteza, en banda y en llama, alrededor de vasos penetrantes, mientras el hipocampo y la corteza entorrinal quedan libres. En el Alzheimer esporádico el compromiso comienza en corteza entorrinal e hipocampo y luego avanza a la neocorteza: por eso esa opción describe el patrón opuesto. Los cuerpos de Lewy son un hallazgo de otra enfermedad y en este caso estaban ausentes en la sustancia negra. La atrofia cortical difusa con hidrocefalia no corresponde: el encéfalo pesó 1565 gramos sin atrofia. Las placas neuríticas de progresión entorrinal son propias del Alzheimer; aquí las placas eran difusas y neocorticales.",
+      "tipo": "directa",
+      "tags": [
+        "cap09",
+        "cte",
+        "diagnostico-diferencial"
+      ],
+      "dificultad": "media",
+      "fuente": "09_CTE_Omalu_y_Pelicula, pp. 130-131"
+    },
+    {
+      "id": "c2b-20",
+      "enunciado": "Los macrófagos con hemosiderina en los espacios perivasculares indican:",
+      "alternativas": [
+        "Hemorragias remotas por injuria microvascular",
+        "Inflamación aguda de origen infeccioso",
+        "Depósito de amiloide en la pared de los vasos",
+        "Degeneración de la sustancia negra",
+        "Pérdida neuronal del asta anterior"
+      ],
+      "respuesta": 0,
+      "pista": "La hemosiderina es un pigmento de hierro: pregúntese de dónde sale ese hierro y por qué está fuera de los vasos.",
+      "argumento": "La hemosiderina es el residuo del catabolismo de la hemoglobina: su presencia en macrófagos perivasculares documenta sangrados antiguos y, por lo tanto, injuria microvascular sostenida por conmociones repetidas. Es el dato histológico que sostiene el carácter repetido del trauma. La inflamación aguda no deja hemosiderina, que requiere tiempo. El amiloide vascular se identifica con tinciones específicas y no con pigmento de hierro. La degeneración de la sustancia negra fue un hallazgo aparte, con pérdida neuronal y astrogliosis sin cuerpos de Lewy. La pérdida de células del asta anterior no ocurrió: la médula espinal era normal.",
+      "tipo": "directa",
+      "tags": [
+        "cap09",
+        "cte",
+        "histologia"
+      ],
+      "dificultad": "media",
+      "fuente": "09_CTE_Omalu_y_Pelicula, pp. 130-131"
+    },
+    {
+      "id": "c2b-21",
+      "enunciado": "El examen macroscópico del encéfalo del jugador del reporte de Omalu (2005) mostró:",
+      "alternativas": [
+        "Sin atrofia cortical ni contusiones ni infartos",
+        "Atrofia cortical severa y ventrículos dilatados",
+        "Hematoma subdural crónico con desviación",
+        "Atrofia hipocampal marcada y simétrica",
+        "Infartos lacunares múltiples en la sustancia blanca"
+      ],
+      "respuesta": 0,
+      "pista": "El peso del órgano y la ausencia de hallazgos groseros son el dato: el daño estaba en otro nivel de observación.",
+      "argumento": "El encéfalo pesó 1565 gramos, sin atrofia cortical, sin contusiones, infartos ni hemorragias, con ventrículos no dilatados e hipocampos sin atrofia: el daño era microscópico. Atrofia cortical severa con ventrículos dilatados contradice directamente ese registro y corresponde al patrón de una demencia establecida. El hematoma subdural crónico no se describe en la autopsia. La atrofia hipocampal marcada es incompatible con hipocampos sin atrofia, y es además el patrón del Alzheimer. Los infartos lacunares múltiples implicarían enfermedad vascular macroangiopática, que el examen macroscópico descartó.",
+      "tipo": "directa",
+      "tags": [
+        "cap09",
+        "cte",
+        "macroscopia"
+      ],
+      "dificultad": "facil",
+      "fuente": "09_CTE_Omalu_y_Pelicula, p. 129"
+    },
+    {
+      "id": "c2b-22",
+      "enunciado": "La conclusión más defendible del artículo de Omalu y colaboradores es que existen:",
+      "alternativas": [
+        "Posibles efectos neurodegenerativos que exigen estudio",
+        "Pruebas de que el fútbol americano causa enfermedad de Alzheimer",
+        "Todos los jugadores retirados desarrollarán CTE",
+        "Cascos que eliminan por completo el riesgo de conmoción",
+        "Una forma hereditaria de demencia con inicio temprano"
+      ],
+      "respuesta": 0,
+      "pista": "El propio artículo reconoce que la prevalencia y los mecanismos no estaban establecidos.",
+      "argumento": "El artículo describe «posibles resultados neurodegenerativos de largo plazo» y recomienda estudiar la cohorte de jugadores retirados: su valor es heurístico, no demostrativo. Afirmar que el fútbol causa Alzheimer confunde dos entidades y, además, convierte una asociación en causalidad que el reporte no establece. Extender el hallazgo a todos los jugadores retirados supone una prevalencia que un caso único no puede sostener. Los cascos no eliminan el riesgo, y el artículo no evalúa su eficacia. Una forma hereditaria de demencia con inicio temprano contradice los datos: el genotipo era E3/E3 y no había historia familiar de Alzheimer.",
+      "tipo": "directa",
+      "tags": [
+        "cap09",
+        "cte",
+        "lectura-critica"
+      ],
+      "dificultad": "media",
+      "fuente": "09_CTE_Omalu_y_Pelicula, p. 128"
+    },
+    {
+      "id": "c2b-23",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre el reporte de Omalu y colaboradores es/son correcta(s).  I) El paciente era APOE E3/E3, sin historia familiar de Alzheimer.  II) El hipocampo y la corteza entorrinal mostraban ovillos abundantes.  III) Los macrófagos con hemosiderina indican hemorragias remotas.  IV) El estudio estableció la prevalencia de CTE en jugadores retirados.",
+      "alternativas": [
+        "Solo I",
+        "Solo III",
+        "Solo I y III",
+        "Solo II y IV",
+        "Solo I, II y III"
+      ],
+      "respuesta": 2,
+      "pista": "Distinga los hallazgos anatomopatológicos del alcance epidemiológico que un caso único no puede tener.",
+      "argumento": "I: VERDADERO. El genotipo era E3/E3 y no había historia familiar de Alzheimer, lo que descarta el principal factor de riesgo genético del Alzheimer esporádico. II: FALSO. El hipocampo y la corteza entorrinal no presentaban ovillos ni hebras: la formación del hipocampo quedó libre, y ese es justamente el rasgo que separa la CTE del Alzheimer. III: VERDADERO. Los macrófagos cargados de hemosiderina en los espacios de Virchow-Robin indican hemorragias remotas e injuria microvascular sostenida. IV: FALSO. Es un caso único sin serie ni controles, con historia neuropsiquiátrica retrospectiva por teléfono; el artículo no puede establecer prevalencia ni causalidad. La correcta reúne I y III.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap09",
+        "cte",
+        "limites"
+      ],
+      "dificultad": "dificil",
+      "fuente": "09_CTE_Omalu_y_Pelicula, pp. 128-131"
+    },
+    {
+      "id": "c2b-24",
+      "enunciado": "Sobre los hallazgos del reporte de Omalu, ¿cuál afirmación es correcta?",
+      "alternativas": [
+        "Los ovillos se concentran alrededor de vasos",
+        "El reporte establece la prevalencia de CTE en la NFL",
+        "El paciente tenía atrofia cortical marcada",
+        "El genotipo APOE del paciente era E4/E4",
+        "Ninguna de las anteriores es correcta"
+      ],
+      "respuesta": 0,
+      "pista": "El patrón perivascular es el rasgo distributivo que la guía subraya como propio de la CTE.",
+      "argumento": "La tríada histológica —placas difusas de amiloide, hebras neuríticas escasas y ovillos escasos en banda y en llama— se concentra alrededor de vasos penetrantes, y ese patrón perivascular neocortical es característico. Atribuir al reporte el establecimiento de la prevalencia es imposible: se trata de un caso único sin controles, y la propia conclusión recomienda estudiar la cohorte. La atrofia cortical marcada es falsa: el encéfalo de 1565 gramos no tenía atrofia. El genotipo era E3/E3, no E4/E4; E4/E4 habría apoyado la hipótesis de Alzheimer. «Ninguna de las anteriores» es falsa porque la primera afirmación sí es correcta.",
+      "tipo": "todas-ninguna",
+      "tags": [
+        "cap09",
+        "cte",
+        "hallazgos"
+      ],
+      "dificultad": "media",
+      "fuente": "09_CTE_Omalu_y_Pelicula, pp. 129-131"
+    },
+    {
+      "id": "c2b-25",
+      "enunciado": "Un manifold neural es:",
+      "alternativas": [
+        "Una descripción matemática de estados coordinados",
+        "Una estructura anatómica del tronco encefálico",
+        "Un tipo de célula glial con función inmune",
+        "Una interfaz cerebro-computador de circuito cerrado",
+        "Un protocolo de registro con Neuropixels"
+      ],
+      "respuesta": 0,
+      "pista": "La guía advierte expresamente qué es y qué no es: no es anatomía.",
+      "argumento": "El manifold es el conjunto de estados coordinados posibles de una población neuronal, descrito como trayectorias en un espacio de baja dimensionalidad; relaciona la dinámica poblacional con percepción, aprendizaje y movimiento. Es una descripción matemática, no una estructura anatómica, de modo que ubicarlo en el tronco encefálico confunde el modelo con el órgano. La célula glial con función inmune es la microglía, y la definición de glía corresponde al área 1. La interfaz cerebro-computador es un circuito cerrado de señal, decodificación, acción y retroalimentación, del área 5. Neuropixels es una sonda de registro de alta densidad: una herramienta, no el concepto.",
+      "tipo": "directa",
+      "tags": [
+        "cap14",
+        "manifold",
+        "circuitos"
+      ],
+      "dificultad": "facil",
+      "fuente": "14_Integrado_5_Topicos, diapo 9"
+    },
+    {
+      "id": "c2b-26",
+      "enunciado": "Para pasar de correlación a causalidad en el estudio de circuitos hay que:",
+      "alternativas": [
+        "Perturbar el sistema y ver si cambia la conducta",
+        "Registrar más tiempo la misma población",
+        "Aumentar el número de sujetos estudiados",
+        "Reemplazar la electrofisiología por fMRI",
+        "Repetir el modelo predictivo con más datos"
+      ],
+      "respuesta": 0,
+      "pista": "La misma distinción que separa un modelo predictivo de uno explicativo aplicada al registro.",
+      "argumento": "El método tiene tres pasos —registrar, modelar y perturbar— y es el tercero el que prueba causalidad: estimulación, optogenética o lesión permiten ver si la conducta cambia en la dirección prevista. Registrar durante más tiempo mejora la estimación de la correlación, pero no la convierte en causa. Aumentar sujetos mejora la generalización estadística, no la inferencia causal. Cambiar de técnica de registro mantiene el problema: sin intervención se sigue describiendo covariación. Repetir un modelo predictivo con más datos aumenta la precisión, que es el criterio de éxito del modelo predictivo y no del explicativo.",
+      "tipo": "directa",
+      "tags": [
+        "cap14",
+        "causalidad",
+        "perturbacion"
+      ],
+      "dificultad": "media",
+      "fuente": "14_Integrado_5_Topicos, diapo 10"
+    },
+    {
+      "id": "c2b-27",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre las cinco fronteras es/son correcta(s).  I) El desplazamiento de neuronas a sistemas incorpora glía, inmunidad y periferia.  II) El manifold neural es una estructura anatómica del tronco.  III) Sin perturbación, el registro solo establece correlación.  IV) La plasticidad es siempre adaptativa y beneficiosa.",
+      "alternativas": [
+        "Solo I",
+        "Solo III",
+        "Solo I y III",
+        "Solo II y III",
+        "Solo I, II y III"
+      ],
+      "respuesta": 2,
+      "pista": "Dos numerales describen el marco correcto y dos confunden un modelo con una estructura o un mecanismo con su resultado.",
+      "argumento": "I: VERDADERO. El paso de neuronas a sistemas implica que la glía, la inmunidad y los órganos periféricos también participan en la función cerebral. II: FALSO. El manifold es una descripción matemática de la actividad, no una estructura anatómica; la guía lo precisa expresamente. III: VERDADERO. Sin el paso de perturbación, el registro establece correlación y no causalidad. IV: FALSO. La plasticidad puede ser maladaptativa: sostiene dolor persistente, adicción y algunos trastornos, y su valor depende del resultado funcional. La correcta reúne I y III.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap14",
+        "marco",
+        "plasticidad"
+      ],
+      "dificultad": "dificil",
+      "fuente": "14_Integrado_5_Topicos, diapos 2-16"
+    },
+    {
+      "id": "c2b-28",
+      "enunciado": "Un paciente mantiene dolor persistente y consumo compulsivo después de que el episodio inicial ya resolvió. El proceso por el cual el sistema nervioso consolida ese estado se denomina:",
+      "alternativas": [
+        "plasticidad maladaptativa",
+        "plasticidad del desarrollo",
+        "reserva cerebral",
+        "reinervación colateral",
+        "habituación"
+      ],
+      "respuesta": 0,
+      "pista": "El mecanismo es el mismo que permite aprender; lo que cambia es el resultado.",
+      "argumento": "La plasticidad no equivale a mejoría: el mismo mecanismo que permite aprender y recuperarse puede consolidar estados patológicos, y la guía nombra el dolor persistente y la adicción. La plasticidad del desarrollo se refiere a los períodos críticos de maduración. La reserva cerebral es la capacidad de compensar daño, no el proceso que lo consolida. La reinervación colateral es el brote axonal de una motoneurona intacta, un fenómeno anatómico distinto. La habituación es la disminución de la respuesta ante un estímulo repetido, no la consolidación de un estado patológico.",
+      "tipo": "directa",
+      "tags": [
+        "cap14",
+        "plasticidad",
+        "maladaptativa"
+      ],
+      "dificultad": "facil",
+      "fuente": "14_Integrado_5_Topicos, diapo 16"
+    },
+    {
+      "id": "c2b-29",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre neurotecnología y envejecimiento es/son correcta(s).  I) La interfaz cerebro-computador decodifica patrones asociados a una intención.  II) Usuario y decodificador se ajustan mutuamente con el uso.  III) La reserva cerebral depende solo de factores genéticos.  IV) La plasticidad cesa al terminar el desarrollo.",
+      "alternativas": [
+        "Solo I",
+        "Solo II",
+        "Solo I y II",
+        "Solo I, III y IV",
+        "Solo III y IV"
+      ],
+      "respuesta": 2,
+      "pista": "Una interfaz no lee contenidos mentales: traduce patrones, y el sistema aprende en ambos sentidos.",
+      "argumento": "I: VERDADERO. La interfaz decodifica patrones asociados a una intención concreta; no «lee la mente». II: VERDADERO. El sistema incluye aprendizaje y adaptación: el usuario y el decodificador se ajustan mutuamente. III: FALSO. La reserva y la resiliencia dependen también de factores modificables como actividad física, sueño y salud vascular. IV: FALSO. La plasticidad persiste en la vida adulta; lo que cambia es su magnitud y las condiciones en que se expresa. Por eso la correcta es Solo I y II.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap14",
+        "bci",
+        "reserva"
+      ],
+      "dificultad": "dificil",
+      "fuente": "14_Integrado_5_Topicos, diapos 16-20"
+    },
+    {
+      "id": "c2b-30",
+      "enunciado": "Sobre las cinco fronteras de la neurociencia contemporánea, ¿cuál afirmación es correcta?",
+      "alternativas": [
+        "El manifold describe estados coordinados posibles",
+        "La plasticidad adaptativa siempre mejora la función",
+        "Un modelo predictivo identifica el mecanismo causal",
+        "La interfaz cerebro-computador lee la mente del usuario",
+        "Ninguna de las anteriores es correcta"
+      ],
+      "respuesta": 0,
+      "pista": "Distinga describir la actividad de explicar el mecanismo, y recordar que el éxito predictivo tiene su propio criterio.",
+      "argumento": "El manifold es el conjunto de estados coordinados posibles de una población, descrito como trayectorias en un espacio de baja dimensionalidad: esa es la formulación correcta. Decir que la plasticidad adaptativa siempre mejora la función confunde el mecanismo con su resultado, ya que existe plasticidad maladaptativa. Sostener que un modelo predictivo identifica el mecanismo causal borra la distinción central del área 3: el criterio del modelo predictivo es precisión y generalización, y el del explicativo es interpretabilidad y pruebas causales. La interfaz decodifica patrones asociados a una intención, no lee contenidos mentales. «Ninguna de las anteriores» es falsa porque la primera afirmación es correcta.",
+      "tipo": "todas-ninguna",
+      "tags": [
+        "cap14",
+        "integracion",
+        "modelos"
+      ],
+      "dificultad": "media",
+      "fuente": "14_Integrado_5_Topicos, diapos 9-20"
+    },
+    {
+      "id": "c2b-31",
+      "enunciado": "Respecto de las once propiedades de la conciencia de Edelman y Tononi, ¿cuál afirmación es correcta?",
+      "alternativas": [
+        "La integración admite dos escenas simultáneas",
+        "La capacidad se mide por trozos de información",
+        "La naturaleza seriada ordena los actos uno tras otro",
+        "La privacidad permite compartir la percepción completa",
+        "Ninguna de las anteriores es correcta"
+      ],
+      "respuesta": 2,
+      "pista": "Revise cada propiedad por separado: dos de ellas tratan sobre información y no son equivalentes, y una se refiere al orden temporal de los actos.",
+      "argumento": "Correcta: la propiedad de naturaleza seriada establece que los actos conscientes son uno detrás de otro, y que el cambio de agrupamiento neuronal toma unas 150 milésimas de segundo (pp. 247-251). «La integración admite dos escenas simultáneas» es falsa: la integración o unidad es un acto único, no se es consciente de dos cosas a la vez, y las figuras ambivalentes lo demuestran. «La capacidad se mide por trozos de información» es falsa: la propiedad de capacidad no se mide por trozos, sino por la capacidad de diferenciar innumerables estados en una fracción de segundo. «La privacidad permite compartir la percepción completa» es falsa: la percepción es un acto privado que se puede describir, pero no compartir por completo. «Ninguna de las anteriores es correcta» es falsa porque la afirmación sobre el carácter seriado sí lo es.",
+      "tipo": "todas-ninguna",
+      "tags": [
+        "cap4",
+        "propiedades"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Guía 04, §9 bis (cap. 7, pp. 247-251)"
+    },
+    {
+      "id": "c2b-32",
+      "enunciado": "Según el cierre del capítulo 7, el sí mismo o «yo» es:",
+      "alternativas": [
+        "Una construcción funcional que se actualiza",
+        "Un dato primitivo de la experiencia inmediata",
+        "Una sustancia estable que no cambia con los años",
+        "Un módulo cerebral localizado en la ínsula",
+        "Una ilusión que el cerebro no puede integrar"
+      ],
+      "respuesta": 0,
+      "pista": "El capítulo insiste en que el yo de hoy no es el de hace treinta años, y en que se rehace en el contacto del cuerpo con el mundo.",
+      "argumento": "Correcta: el reconocimiento de mí mismo no es un dato primitivo, sino una construcción funcional que diferencia al individuo del resto del mundo y le da individualidad; se actualiza a diario en el contacto del cuerpo con el mundo y cambia con los años, aunque la sensación de identidad persista, de ahí la fórmula «hay unión, luego soy» (pp. 251-253). «Un dato primitivo de la experiencia inmediata» es exactamente lo que la tesis niega. «Una sustancia estable que no cambia con los años» contradice la actualización diaria y el hecho de que el yo de hoy difiere del de hace treinta años. «Un módulo cerebral localizado en la ínsula» convierte en estructura localizada lo que el capítulo presenta como proceso. «Una ilusión que el cerebro no puede integrar» invierte el planteamiento: el cerebro integra los componentes fracturados del mundo externo e interno en un único constructo, y esa invención es conveniente y útil. El caso de Jimmie G. muestra la dependencia de la memoria episódica y el de la dama desencarnada, la del flujo somatosensorial.",
+      "tipo": "directa",
+      "tags": [
+        "cap4",
+        "yo"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 04, §9 bis (cap. 7, pp. 251-253)"
+    },
+    {
+      "id": "c2b-33",
+      "enunciado": "Para estudiar la conciencia, Posner y Raichle objetan el uso de la tomografía por emisión de positrones porque:",
+      "alternativas": [
+        "Su ventana temporal excede el proceso",
+        "Solo registra la actividad de superficie",
+        "No detecta cambios en el flujo sanguíneo",
+        "Confunde la vigilia con el contenido",
+        "Mide la actividad eléctrica de las neuronas"
+      ],
+      "respuesta": 0,
+      "pista": "Compare la escala temporal del instrumento con la del fenómeno que quiere medir.",
+      "argumento": "La objeción es temporal: la tomografía por emisión de positrones promedia unos 40 segundos de actividad, mientras el procesamiento cerebral ocurre en 100 a 200 ms, de modo que la secuencia de áreas debe reconstruirse con potenciales evocados. Que solo registre actividad de superficie corresponde al EEG, no a una técnica que mide metabolismo en profundidad. Que no detecte cambios de flujo es falso: su señal se basa precisamente en el flujo y el metabolismo regional. Confundir la vigilia con el contenido es el defecto del contraste entre despierto y sueño NREM profundo, ajeno a la técnica de imagen. Atribuirle registro eléctrico confunde la tomografía con la electroencefalografía.",
+      "tipo": "directa",
+      "tags": [
+        "cap04",
+        "metodos",
+        "posner-raichle"
+      ],
+      "dificultad": "media",
+      "fuente": "04_Conciencia_NCC, cap. 7 pp. 227-235"
+    },
+    {
+      "id": "c2b-34",
+      "enunciado": "Según las once propiedades de Edelman y Tononi, cada acto consciente del proceso diferenciado dura:",
+      "alternativas": [
+        "Entre 60 y 100 milésimas de segundo",
+        "Entre 150 y 200 milésimas de segundo",
+        "Alrededor de 300 milésimas de segundo",
+        "Menos de 10 milésimas de segundo",
+        "Cerca de un segundo completo"
+      ],
+      "respuesta": 0,
+      "pista": "Distinga la duración de un acto del tiempo que tarda en cambiar el agrupamiento de neuronas.",
+      "argumento": "La propiedad de proceso diferenciado exige una sucesión de escenas distintas y fija la duración de cada acto consciente entre 60 y 100 milésimas de segundo. Las cifras de 150 a 200 milésimas corresponden al cambio de agrupamiento de la propiedad de naturaleza seriada, que es un dato distinto y la confusión más frecuente. Las 300 milésimas se asocian al componente P3b, que aparece después de ese umbral y mide procesos post-perceptuales, no la duración del acto. Las cifras menores a 10 milésimas corresponden al orden de magnitud de la transmisión sináptica, y el segundo completo al de una escena narrativa: ninguno de los dos aparece en la tabla de propiedades.",
+      "tipo": "directa",
+      "tags": [
+        "cap04",
+        "propiedades",
+        "tiempo"
+      ],
+      "dificultad": "media",
+      "fuente": "04_Conciencia_NCC, cap. 7 pp. 247-251"
+    },
+    {
+      "id": "c2b-35",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre la conciencia es/son correcta(s).  I) La lesión de V4 impide ver color sin afectar forma ni movimiento.  II) Searle sostiene que la conciencia se suma de microconciencias.  III) En el centro dinámico los grupos encendidos son funcionales y variables.  IV) El despertar fisiológico se caracteriza por sincronía de ondas lentas.",
+      "alternativas": [
+        "Solo I",
+        "Solo III",
+        "Solo I y III",
+        "Solo II y IV",
+        "Solo II y III"
+      ],
+      "respuesta": 2,
+      "pista": "Separe la tesis de Zeki de la objeción de Searle, y recuerde qué patrón eléctrico define el despertar.",
+      "argumento": "I: VERDADERO. Zeki describe microconciencias relativamente autónomas: la lesión de V4 impide ver color sin afectar forma ni movimiento, y la de V5 produce el patrón inverso. II: FALSO. Searle sostiene lo contrario: la conciencia es un proceso global intrínseco a los sistemas tálamo-corticales y no se crea por suma de microconciencias; su metáfora es que encender la luz no introduce conciencia, solo modifica la que ya existía. III: VERDADERO. En el centro dinámico de Tononi y Edelman los grupos encendidos son funcionales y variables, nunca anatómicos y fijos: la anatomía aporta las conexiones, pero no el código temporal. IV: FALSO. El despertar fisiológico se caracteriza por desincronización, con ondas lentas de alto voltaje reemplazadas por actividad rápida de bajo voltaje; la sincronía de ondas lentas con el paciente despierto se observa en ciertos estatus epilépticos no convulsivos. La correcta reúne I y III: las opciones con II o IV incorporan un numeral falso, y las que dicen solo I o solo III omiten un numeral verdadero.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap04",
+        "microconciencias",
+        "centro-dinamico"
+      ],
+      "dificultad": "dificil",
+      "fuente": "04_Conciencia_NCC, diapo 60 y cap. 7 pp. 239-246"
+    },
+    {
+      "id": "c2b-36",
+      "enunciado": "Freud escribió en alemán «Unbewusst», término que, a diferencia del francés «inconscient», deja oír el participio del verbo «saber». Esa elección subraya que el inconsciente es, ante todo:",
+      "alternativas": [
+        "Lo no sabido por el sujeto",
+        "Un almacén de recuerdos borrados",
+        "Un espejo fiel de lo vivido",
+        "Una memoria implícita más",
+        "Un efecto solo de la represión"
+      ],
+      "respuesta": 0,
+      "pista": "El autor vuelve sobre el participio del verbo saber.",
+      "argumento": "El término alemán contiene, más explícitamente que el francés, la referencia a lo no sabido: el inconsciente es, en primer lugar, lo no sabido del sujeto. Un almacén de recuerdos borrados confunde un sistema dinámico con un depósito anatómico y supone un borrado que el capítulo no postula. Un espejo fiel invierte la tesis: el inconsciente no refleja la realidad externa. La memoria implícita es la noción cognitiva que el capítulo distingue del inconsciente freudiano. Reducirlo a un efecto de la represión olvida que hay un inconsciente primario, anterior a ella.",
+      "tipo": "directa",
+      "tags": [
+        "cap05",
+        "inconsciente",
+        "unbewusst"
+      ],
+      "dificultad": "media",
+      "fuente": "05_Inconsciente_Memoria_Represion, pp. 205-206"
+    },
+    {
+      "id": "c2b-37",
+      "enunciado": "¿Cuál es el blanco de la cura analítica, según el capítulo 14?",
+      "alternativas": [
+        "El significante primario",
+        "La huella primaria",
+        "El síntoma conductual",
+        "El monto de afecto",
+        "La respuesta condicionada"
+      ],
+      "respuesta": 0,
+      "pista": "Distinga la huella que inscribe el hecho del significante que articula la cadena.",
+      "argumento": "La cura analítica apunta al significante primario, la huella de doble cara entre la realidad externa y la cadena significante interna, para hilar la red asociativa del escenario fantasmático. La huella primaria, inscripción relativamente fiel del acontecimiento, es el blanco de la terapia comportamental, que no alcanza las reasociaciones. El síntoma conductual y la respuesta condicionada pertenecen al modelo comportamental. El monto de afecto es lo que la represión separa del representante, no el blanco de la cura.",
+      "tipo": "directa",
+      "tags": [
+        "cap05",
+        "trabajo-analitico",
+        "terapia"
+      ],
+      "dificultad": "media",
+      "fuente": "05_Inconsciente_Memoria_Represion, pp. 202 y 206"
+    },
+    {
+      "id": "c2b-38",
+      "enunciado": "La formulación clásica de la sinopatía incluye tres alteraciones. ¿Cuál de ellas queda fuera de esa lista?",
+      "alternativas": [
+        "La velocidad de conducción del axón",
+        "La concentración del neurotransmisor",
+        "La unión del ligando con el receptor",
+        "La señalización río abajo del receptor",
+        "Las fosforilaciones que activan genes"
+      ],
+      "respuesta": 0,
+      "pista": "La lista es sináptica: pregúntese si la conducción del axón pertenece a ese nivel.",
+      "argumento": "Las tres alteraciones de la sinopatía clásica son la concentración del neurotransmisor, la unión ligando-receptor y las vías de señalización río abajo, con las fosforilaciones que generan proteínas nucleares. La velocidad de conducción del axón no figura en esa lista: es una propiedad de la fibra nerviosa, dependiente de la mielina, ajena al modelo sináptico. La concentración del neurotransmisor es la primera de las tres. La unión del ligando con su receptor es la segunda. La señalización río abajo del receptor es la tercera, y las fosforilaciones que activan genes son su descripción molecular. Por eso las otras cuatro opciones sí pertenecen a la formulación clásica.",
+      "tipo": "directa",
+      "tags": [
+        "cap08",
+        "sinopatia",
+        "modelo-clasico"
+      ],
+      "dificultad": "media",
+      "fuente": "08_Neuropsiquiatria, diapo 62"
+    },
+    {
+      "id": "c2b-39",
+      "enunciado": "¿Cuál de los mecanismos de la depresión pertenece al grupo de los más recientes?",
+      "alternativas": [
+        "Disfunción mitocondrial",
+        "Desbalance monoaminérgico",
+        "Aumento de corticotrofina",
+        "Eje hipotálamo-hipofisario",
+        "Alteración glutamatérgica"
+      ],
+      "respuesta": 0,
+      "pista": "El bloque antiguo gira en torno a monoaminas, estrés y glutamato; el nuevo, en torno a organelos, vasos, microbiota y epigenética.",
+      "argumento": "El bloque de mecanismos recientes incluye la neurogénesis hipocampal alterada, la disfunción mitocondrial, las implicancias del VEGF, los cambios de microbiota y los factores epigenéticos con metilación del ADN: la disfunción mitocondrial y del VEGF pertenece a ese grupo. El desbalance monoaminérgico, la alteración del eje hipotálamo-hipófisis-adrenal, la alteración glutamatérgica-GABAérgica, los mecanismos proinflamatorios y el aumento de corticotrofina forman el bloque de los clásicos. Por eso las otras cuatro opciones son mecanismos del primer grupo y no del segundo, incluso cuando siguen vigentes como parte del cuadro.",
+      "tipo": "directa",
+      "tags": [
+        "cap08",
+        "depresion",
+        "mecanismos"
+      ],
+      "dificultad": "facil",
+      "fuente": "08_Neuropsiquiatria, PPT depresión diapos 2-3"
+    },
+    {
+      "id": "c2b-40",
+      "enunciado": "Sobre los cuadros neuropsiquiátricos revisados, ¿cuál afirmación es correcta?",
+      "alternativas": [
+        "La ansiedad es el cuadro más frecuente",
+        "El bloqueo D2 explica la causa de la esquizofrenia",
+        "La mayoría de los deprimidos remite con ISRS",
+        "La adicción refleja un fallo de la voluntad",
+        "Ninguna de las anteriores es correcta"
+      ],
+      "respuesta": 0,
+      "pista": "Verifique cada afirmación con la tabla diferencial y con las cifras de respuesta al tratamiento.",
+      "argumento": "La ansiedad es el grupo psiquiátrico más frecuente, con la amígdala como nodo central de amenaza y la corteza prefrontal como regulador. Atribuir al bloqueo D2 la causa de la esquizofrenia confunde correlación con causalidad: la eficacia antipsicótica se correlaciona con ese bloqueo, lo que identifica un sistema necesario para el efecto, no la etiología. Sostener que la mayoría de los deprimidos remite con ISRS contradice las cifras de Trivedi: 50% no responde y solo 17% alcanza remisión total, incluso con dosis adecuada y hasta seis semanas. Decir que la adicción es un fallo de voluntad invierte la formulación de la clase, que la describe como aprendizaje patológico del circuito de recompensa. «Ninguna de las anteriores es correcta» es falsa porque la afirmación sobre la frecuencia de la ansiedad sí lo es.",
+      "tipo": "todas-ninguna",
+      "tags": [
+        "cap08",
+        "integracion",
+        "ansiedad"
+      ],
+      "dificultad": "media",
+      "fuente": "08_Neuropsiquiatria, diapos 62-67 y clase 6/11"
+    },
+    {
+      "id": "c2b-41",
+      "enunciado": "En el reporte de Omalu y colaboradores (2005) sobre jugadores de la NFL, solo el 9,3% de las conmociones cursó con pérdida de conciencia. Ese dato implica que:",
+      "alternativas": [
+        "La conmoción no exige perder la conciencia",
+        "La conmoción siempre deja secuelas remotas",
+        "El diagnóstico exige pérdida de conciencia",
+        "Solo ese 9,3% acumula daño cerebral",
+        "El registro depende del autorreporte tardío"
+      ],
+      "respuesta": 0,
+      "pista": "Un porcentaje bajo de pérdida de conciencia no puede ser requisito diagnóstico.",
+      "argumento": "Si solo el 9,3% cursó con pérdida de conciencia, entonces la conmoción no la exige: el traumatismo cerebral leve se define por una alteración traumática de la función cerebral con o sin pérdida de conciencia. Que siempre deje secuelas remotas exagera el dato y confunde una frecuencia de presentación aguda con un pronóstico. Que el diagnóstico exija pérdida de conciencia contradice directamente la cifra. Que solo ese 9,3% acumule daño es una inferencia que el reporte no hace. El autorreporte tardío es un límite metodológico del estudio, no lo que el dato implica.",
+      "tipo": "directa",
+      "tags": [
+        "cap09",
+        "cte",
+        "epidemiologia"
+      ],
+      "dificultad": "media",
+      "fuente": "09_CTE_Omalu_y_Pelicula, p. 131"
+    },
+    {
+      "id": "c2b-42",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre las cinco fronteras es/son correcta(s).  I) El desplazamiento de observación a intervención permite probar causalidad.  II) El envejecimiento cerebral se explica por una lesión única.  III) La vulnerabilidad emerge de la interacción entre niveles.  IV) Los modelos de IA pueden sobreajustar y sostener inferencias biológicas excesivas.",
+      "alternativas": [
+        "Solo I y III",
+        "Solo III y IV",
+        "Solo I, III y IV",
+        "Solo II, III y IV",
+        "Solo II y IV"
+      ],
+      "respuesta": 2,
+      "pista": "Distinga el nivel de análisis del envejecimiento de la idea de una causa única.",
+      "argumento": "I: VERDADERO. El tercer desplazamiento va de la observación a la intervención, y es la perturbación la que permite probar causalidad; sin ella el registro solo establece correlación. II: FALSO. El envejecimiento cerebral se entiende como un proceso de niveles múltiples —molecular, celular, de circuitos y funcional— y no como una lesión única. III: VERDADERO. La vulnerabilidad emerge de la interacción entre esos niveles, no de uno solo. IV: VERDADERO. Entre los riesgos de los modelos de IA la clase enumera el sesgo de los datos, el sobreajuste, la falta de interpretabilidad y las inferencias biológicas excesivas. La correcta reúne I, III y IV; toda opción que incluya II incorpora el numeral falso.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap14",
+        "envejecimiento",
+        "modelos"
+      ],
+      "dificultad": "dificil",
+      "fuente": "14_Integrado_5_Topicos, diapos 2, 13-14 y 17"
+    }
+  ]
+}

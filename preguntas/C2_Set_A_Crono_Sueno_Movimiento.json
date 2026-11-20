@@ -1,0 +1,1056 @@
+{
+  "version": 1,
+  "titulo": "Neurociencias C2 — Set A: cronobiología, sueño, neuroinflamación y movimiento",
+  "preguntas": [
+    {
+      "id": "c2a-01",
+      "enunciado": "En aislamiento temporal, sin señales ambientales que puedan generar el ritmo, el período endógeno del ritmo circadiano humano es:",
+      "alternativas": [
+        "Cerca de 25 h, acotado a casi 24 h",
+        "Cerca de 20 h, como el hámster tau",
+        "Cerca de 30 h en la mayoría de sujetos",
+        "Cerca de 12 h, por partición del NSQ",
+        "Cerca de 48 h durante el libre curso"
+      ],
+      "respuesta": 0,
+      "pista": "Separe el período del oscilador de lo que ocurre cuando dos osciladores se desacoplan en un subgrupo de sujetos.",
+      "argumento": "Correcta: Aschoff y Wever registraron en aislamiento un período cercano a 25 h, y Czeisler lo acotó a valores muy próximos a 24 h; el ritmo persiste en libre curso y debe reajustarse cada día. La opción de 20 h corresponde al hámster tau, cuyo período se acorta por la mutación de CK1ε, no al humano. La de 30 h confunde el período del oscilador con la desincronización interna espontánea, donde el ciclo sueño-vigilia puede superar 30-36 h en hasta 10% de los sujetos mientras la temperatura conserva ~24-25 h. La de 12 h describe la partición (splitting), en que dos osciladores se desacoplan en antifase. La de 48 h no aparece en el material: el libre curso humano es circadiano, no de dos días.",
+      "tipo": "directa",
+      "tags": [
+        "cap1",
+        "ritmos-circadianos"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 01, p. 23 y p. 75 (Aschoff, Wever, Czeisler)"
+    },
+    {
+      "id": "c2a-02",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre el reloj molecular de mamíferos es/son correcta(s).  I) CLOCK–BMAL1 se une a la caja E y activa Per y Cry.  II) En mamíferos el represor eficaz es el dímero PER–TIM.  III) CK1ε fosforila PER y su exceso alarga el período.  IV) PER2 activa Bmal1 y refuerza la oscilación.",
+      "alternativas": [
+        "Solo I",
+        "Solo II y III",
+        "Solo I, III y IV",
+        "Solo I y IV",
+        "Solo II, III y IV"
+      ],
+      "respuesta": 2,
+      "pista": "Distinga el represor de mamíferos del de Drosophila y recuerde qué bucle estabiliza la amplitud.",
+      "argumento": "I: V. El heterodímero CLOCK–BMAL1 es el elemento positivo: se une a la caja E y activa Per1/2/3, Cry1/2 y genes controlados por reloj como la vasopresina. II: F. El dímero PER–TIM es el represor de Drosophila; en mamíferos el complejo eficaz incluye criptocromos, y mPer/mTim solos no producen inhibición marcada. III: V. CK1ε fosforila PER, la desestabiliza y alarga el período; es el mecanismo del hámster tau, de 20 h. IV: V. Es la vía secundaria: PER2 activa Bmal1, cuya proteína alcanza su máximo en antifase con Per y refuerza la oscilación. Por eso la combinación correcta es I, III y IV. La opción que incluye II incorpora un numeral falso; la que omite III o IV deja fuera un numeral verdadero.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap1",
+        "reloj-molecular"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Guía 01b, p. 50-51 (diapos 21 y 23)"
+    },
+    {
+      "id": "c2a-03",
+      "enunciado": "La información luminosa que sincroniza al núcleo supraquiasmático llega por:",
+      "alternativas": [
+        "Ganglionares con melanopsina al NSQ",
+        "Conos y bastones por vía geniculada",
+        "Amacrinas por el nervio óptico",
+        "Fotorreceptores pineales, vía humoral",
+        "Células horizontales del tracto óptico"
+      ],
+      "respuesta": 0,
+      "pista": "La vía que mide cantidad de luz no es la misma que construye la imagen.",
+      "argumento": "Correcta: un subconjunto de células ganglionares retinianas con melanopsina proyecta por el tracto retinohipotalámico a la subregión ventrolateral del NSQ; mide cantidad de luz, no imagen. Conos y bastones pertenecen a la vía visual consciente y no son los fotorreceptores circadianos; precisamente por eso un ciego por lesión de fotorreceptores puede conservar la sincronización. Las amacrinas y las horizontales son interneuronas retinianas de procesamiento visual, sin proyección al hipotálamo descrita en el material. Los fotorreceptores pineales y la vía humoral no existen como aferencia sincronizadora: la pineal es efectora, produce melatonina bajo control del NSQ.",
+      "tipo": "directa",
+      "tags": [
+        "cap1",
+        "sincronizacion-fotica"
+      ],
+      "dificultad": "facil",
+      "fuente": "Guía 01b, p. 43-44 (diapo 6)"
+    },
+    {
+      "id": "c2a-04",
+      "enunciado": "Respecto de la melatonina pineal, ¿cuál afirmación es correcta?",
+      "alternativas": [
+        "Se secreta con la luz y suprime el sueño",
+        "Pico nocturno de 100 a 200 pg/mL",
+        "Se produce en la hipófisis anterior",
+        "Su pico coincide con la fase REM",
+        "Ninguna de las anteriores"
+      ],
+      "respuesta": 1,
+      "pista": "Revise el rango de concentraciones y si la señal sigue a la noche o a las etapas del sueño.",
+      "argumento": "Correcta: la glándula pineal secreta melatonina de noche, con picos de 100 a 200 pg/mL y mínimos diurnos de 10 a 30 pg/mL. La opción que la hace secretar con la luz invierte la relación: la luz la suprime, y con 2.500 lux anula el pico en 10 a 20 minutos. La que la ubica en la hipófisis anterior confunde el efector: se sintetiza en la pineal, bajo control multis sináptico del NSQ. La que hace coincidir el pico con la fase REM ignora que la secreción no guarda relación episódica con las fases del sueño; el máximo ocurre entre las 2 y las 6 de la mañana y su amplitud refleja la actividad del NSQ. Por eso 'Ninguna de las anteriores' también es falsa: la cifra de 100 a 200 pg/mL es la correcta.",
+      "tipo": "todas-ninguna",
+      "tags": [
+        "cap1",
+        "melatonina"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 01, p. 63-64 (diapo 9)"
+    },
+    {
+      "id": "c2a-05",
+      "enunciado": "Un viajero que cruza seis husos horarios sufre más si viaja hacia el este. La razón es que ese viaje:",
+      "alternativas": [
+        "Al este, porque exige adelantar la fase",
+        "Al oeste, porque exige adelantar la fase",
+        "Al este, porque exige retrasar la fase",
+        "Al oeste, porque exige retrasar la fase",
+        "Ambos por igual, sin asimetría de fase"
+      ],
+      "respuesta": 0,
+      "pista": "Piense en qué dirección de cambio de fase tolera mal el sistema.",
+      "argumento": "Correcta: viajar al este obliga a adelantar la fase, y el sistema retrasa con facilidad pero adelanta con dificultad; por eso el jet lag al este tarda más en resolverse. Las opciones que atribuyen la dificultad al oeste invierten la dirección del cambio: ese viaje exige retrasar, y la adaptación es relativamente rápida. La que dice que al este hay que retrasar confunde el sentido del ajuste con el sentido del desplazamiento. La que niega la asimetría contradice el dato central: el reloj no se adapta igual en ambos sentidos, y esa asimetría es la que explica la diferencia entre viajar al este y al oeste.",
+      "tipo": "directa",
+      "tags": [
+        "cap1",
+        "jet-lag"
+      ],
+      "dificultad": "facil",
+      "fuente": "Guía 01b, p. 26 (tabla 4)"
+    },
+    {
+      "id": "c2a-06",
+      "enunciado": "El trasplante de NSQ fetal en un animal arrítmico restaura la ritmicidad con el período del donante. ¿Qué demuestra ese experimento?",
+      "alternativas": [
+        "Que el NSQ es un oscilador autónomo",
+        "Que el NSQ depende del hospedero",
+        "Que la pineal genera el ritmo",
+        "Que la luz induce el período",
+        "Que el ritmo es un reflejo pasivo del ambiente"
+      ],
+      "respuesta": 0,
+      "pista": "Fíjese en qué dato del resultado descarta que el huésped haya recuperado su propio reloj.",
+      "argumento": "Correcta: si el período restaurado es el del donante —el hámster tau, de 20 h—, el tejido trasplantado impone su propio oscilador; no se trata de plasticidad del hospedero. La opción que hace depender al NSQ del hospedero contradice justamente ese período del donante. La que atribuye el ritmo a la pineal confunde efector con marcapasos: la pineal produce melatonina bajo control del NSQ y su lesión no elimina la ritmicidad central. La que dice que la luz induce el período olvida que la luz reajusta la fase de un oscilador que ya late. La del reflejo pasivo niega la propiedad definitoria del sistema: el ritmo persiste en oscuridad constante.",
+      "tipo": "directa",
+      "tags": [
+        "cap1",
+        "nsq"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 01, p. 25 y p. 69 (evidencia del trasplante)"
+    },
+    {
+      "id": "c2a-07",
+      "enunciado": "La distribución porcentual del sueño en el adulto sano, del total de la noche, es aproximadamente:",
+      "alternativas": [
+        "I 5%, II 50%, III-IV 20%, REM 20-25%",
+        "I 50%, II 20%, III-IV 25%, REM 5%",
+        "I 20%, II 50%, III-IV 5%, REM 25% del total",
+        "I 5%, II 20%, III-IV 50%, REM 25%",
+        "I 10%, II 30%, III-IV 30%, REM 30%"
+      ],
+      "respuesta": 0,
+      "pista": "La etapa que ocupa la mitad de la noche es la de los husos del sueño, no la de las ondas lentas.",
+      "argumento": "Correcta: la etapa I ocupa cerca del 5%, la II cerca del 50%, las etapas III-IV cerca del 20% y el REM 20-25%. La opción que da 50% a la etapa I confunde la etapa de transición con la etapa de los husos. La que asigna 5% a las etapas III-IV subestima el sueño lento propiamente tal, que se define por ondas de gran amplitud. La que da 50% a las etapas III-IV describe el patrón del neonato, en quien el sueño de ondas lentas y el REM dominan el día. La de 10/30/30/30 reparte el total sin respetar los valores del adulto sano y sobredimensiona el REM.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "arquitectura-del-sueno"
+      ],
+      "dificultad": "facil",
+      "fuente": "Guía 02, p. 27 (tabla 1)"
+    },
+    {
+      "id": "c2a-08",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre los ciclos del sueño es/son correcta(s).  I) El adulto inicia el sueño en NREM y lo cierra con REM.  II) El primer período REM de la noche es el más largo.  III) Se completan cuatro a seis ciclos de 90 a 120 minutos.  IV) El sueño REM ocupa la mayor parte de la noche en el adulto.",
+      "alternativas": [
+        "Solo I",
+        "Solo II y III",
+        "Solo I y III",
+        "Solo I y II",
+        "Solo I, II y III"
+      ],
+      "respuesta": 2,
+      "pista": "Compare el primero y el último REM de la noche y recuerde qué proporción de la noche ocupa cada etapa en el adulto.",
+      "argumento": "I: V. El adulto comienza en NREM y cierra la noche con REM. II: F. El primer REM es el más breve, de dos a cinco minutos, y el último el más largo, de 30 a 45; por eso recordamos los sueños al despertar. III: V. Son cuatro a seis ciclos ultradianos de 90 a 120 minutos en el adulto; los 50 a 60 minutos corresponden al bebé. IV: F. El REM ocupa 20 a 25% de la noche en el adulto; el predominio REM y el inicio en sueño activo son propios del neonato, no del adulto. La opción que incluye II suma un numeral falso; la que solo admite I deja fuera el número de ciclos; las que suman II o IV incorporan un enunciado falso.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap2",
+        "ciclos-del-sueno"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 02, p. 24-27"
+    },
+    {
+      "id": "c2a-09",
+      "enunciado": "Durante el sueño REM, los signos característicos son liderados por neuronas:",
+      "alternativas": [
+        "Colinérgicas del tegmento pontino dorsolateral",
+        "GABAérgicas del hipotálamo anterior y el cerebro basal",
+        "Histaminérgicas de los núcleos tuberomamilares",
+        "Orexinérgicas del área perifornical",
+        "Noradrenérgicas del locus coeruleus pontino"
+      ],
+      "respuesta": 0,
+      "pista": "En REM se libera la actividad monoaminérgica y queda un predominio colinérgico pontino.",
+      "argumento": "Correcta: en REM la interacción colinérgica contra monoaminérgica del tronco deja a las colinérgicas del tegmento pontino dorsolateral liderando los signos del REM, incluida la atonía por inhibición de las motoneuronas espinales. Las GABAérgicas del hipotálamo anterior y del cerebro basal organizan el sueño lento, y los GABAmiméticos aumentan ese sueño, no el REM. Las histaminérgicas tuberomamilares y las orexinérgicas perifornicales son sistemas de vigilia: su descarga mantiene el estado despierto. Las noradrenérgicas del locus coeruleus también son de vigilia y, lejos de liderar el REM, quedan silentes durante él.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "neuroquimica-sueno"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 02, p. 36 (tabla 2)"
+    },
+    {
+      "id": "c2a-10",
+      "enunciado": "Respecto del SAHOS y la enfermedad cerebrovascular, ¿cuál afirmación es correcta?",
+      "alternativas": [
+        "Un IER ≥ 20 cuadruplica el riesgo",
+        "Solo si coexiste hipertensión arterial",
+        "El roncador aislado duplica el riesgo",
+        "No se asocia al infarto nocturno",
+        "Ninguna de las afirmaciones anteriores"
+      ],
+      "respuesta": 0,
+      "pista": "El punto del estudio de Arzt es la independencia del riesgo respecto de la hipertensión y la diabetes.",
+      "argumento": "Correcta: un índice de eventos respiratorios ≥ 20 se asoció a 4,3 veces el riesgo de evento vascular, y a 3,8 al corregir por hipertensión y diabetes; es factor de riesgo independiente. La opción que lo condiciona a la hipertensión niega esa independencia, que es justamente el hallazgo clave. La del roncador aislado confunde roncopatía con apneas: el material atribuye el riesgo al SAHOS, no al ronquido simple. La que niega la asociación con el infarto nocturno contradice el dato de que el infarto cerebral nocturno predice SAHOS. Por eso 'Ninguna de las anteriores' es falsa: la cifra de 4,3 veces está en el material.",
+      "tipo": "todas-ninguna",
+      "tags": [
+        "cap2",
+        "sahos"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 02, p. 188 (cap. 19)"
+    },
+    {
+      "id": "c2a-11",
+      "enunciado": "Respecto de la hormona de crecimiento y el sueño, es correcto que:",
+      "alternativas": [
+        "Concentra ~70% de sus pulsos en sueño lento",
+        "Se secreta sobre todo durante los episodios REM",
+        "Depende solo del ritmo circadiano central",
+        "Aumenta con la privación total de sueño",
+        "Alcanza su máximo durante la etapa II"
+      ],
+      "respuesta": 0,
+      "pista": "Piense en qué etapa se pierde si se impide el sueño de ondas lentas y qué le ocurre entonces a la GH.",
+      "argumento": "Correcta: cerca del 70% de los pulsos de GH se asocia al sueño lento, sobre todo al primer episodio de etapa IV; si se impide el sueño lento no hay secreción. La opción del REM invierte la relación: los episodios REM ocurren en el nadir de la GH. La que la hace depender solo del ritmo circadiano ignora que la secreción está ligada al estado de sueño. La del aumento con privación total es falsa: la privación suprime el pulso asociado al sueño lento. La del máximo en la etapa II confunde la etapa de los husos con la etapa de ondas de gran amplitud que sostiene la secreción.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "fisiologia-sueno"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 02, p. 32"
+    },
+    {
+      "id": "c2a-12",
+      "enunciado": "La exposición a 2.500 lux durante la noche, en un sujeto con secreción de melatonina establecida:",
+      "alternativas": [
+        "Anula el pico en 10 a 20 minutos",
+        "Aumenta el pico de melatonina",
+        "No modifica la secreción de la pineal",
+        "Retrasa el pico unas 6 horas",
+        "Adelanta el pico al atardecer"
+      ],
+      "respuesta": 0,
+      "pista": "La luz es el sincronizador principal y actúa sobre la pineal a través del ganglio cervical superior.",
+      "argumento": "Correcta: con 2.500 lux el pico nocturno se anula en 10 a 20 minutos, y la recuperación exige unos 40 minutos de oscuridad. La opción que aumenta el pico invierte el signo de la respuesta: la luz suprime la melatonina, no la estimula. La que niega todo efecto contradice la vía descrita, en la que la luz inhibe la señal que va del NSQ al ganglio cervical superior y de ahí a la pineal. Las dos que proponen desplazamientos de horas confunden la supresión aguda del pico con un reajuste de fase del oscilador, que es un fenómeno distinto y depende de la curva de respuesta de fase.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "melatonina"
+      ],
+      "dificultad": "facil",
+      "fuente": "Guía 02, p. 63-64"
+    },
+    {
+      "id": "c2a-13",
+      "enunciado": "La neuroinflamación se define por la concurrencia de:",
+      "alternativas": [
+        "Activación glial más infiltración periférica",
+        "Aumento aislado de la PCR ultrasensible",
+        "Degeneración selectiva de motoneuronas",
+        "Activación exclusiva de linfocitos T",
+        "Pérdida de la barrera hematoencefálica aislada"
+      ],
+      "respuesta": 0,
+      "pista": "La definición exige dos componentes simultáneos, uno residente y otro procedente de la periferia.",
+      "argumento": "Correcta: se define por dos elementos simultáneos, la activación de microglía y astrocitos residentes y la infiltración de células inmunes periféricas; es rasgo compartido por la mayoría de los trastornos neurológicos. La PCR ultrasensible aislada es un marcador indirecto de inflamación sistémica, no la definición del proceso, y puede estar normal con inflamación de bajo grado presente. La degeneración de motoneuronas describe la ELA, una enfermedad y no el mecanismo. La activación exclusiva de linfocitos T omite el componente residente, que es indispensable. La alteración aislada de la barrera es un mecanismo de la segunda etapa de la cascada, no la definición.",
+      "tipo": "directa",
+      "tags": [
+        "cap3",
+        "definicion"
+      ],
+      "dificultad": "facil",
+      "fuente": "Guía 03, diapo 5 (Science 2025)"
+    },
+    {
+      "id": "c2a-14",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre los biomarcadores de la neuroinflamación es/son correcta(s).  I) La GFAP refleja activación astrocitaria.  II) La NfL indica principalmente patología tau.  III) La p-tau informa sobre patología tau.  IV) La PCR ultrasensible es específica de neuroinflamación.",
+      "alternativas": [
+        "Solo I",
+        "Solo III",
+        "Solo I y III",
+        "Solo II y IV",
+        "Solo I, II y III"
+      ],
+      "respuesta": 2,
+      "pista": "Asocie cada marcador con la célula o el proceso que lo libera y recuerde que ninguno es específico.",
+      "argumento": "I: V. La proteína ácida fibrilar glial refleja activación astrocitaria. II: F. La cadena ligera de neurofilamento se libera con el daño axonal, no con la patología tau; es el error clásico de atribuirle origen glial o tau. III: V. La p-tau informa sobre patología tau. IV: F. La PCR ultrasensible informa de inflamación sistémica y no es específica de neuroinflamación; por eso los marcadores se interpretan en conjunto y en contexto clínico. La combinación correcta es por lo tanto I y III; las opciones que incluyen II o IV suman un numeral falso, y las que admiten solo uno de los dos verdaderos descartan un numeral correcto.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap3",
+        "biomarcadores"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 03, diapo 11"
+    },
+    {
+      "id": "c2a-15",
+      "enunciado": "El efecto de la ketamina sobre la neuroinflamación se explica porque:",
+      "alternativas": [
+        "Bloquea NMDA y reduce el QUIN tóxico",
+        "Aumenta la liberación sináptica de ATP",
+        "Destruye las células senescentes del SNC",
+        "Aumenta la permeabilidad de la barrera",
+        "Reduce la permeabilidad de la barrera"
+      ],
+      "respuesta": 0,
+      "pista": "Siga la cadena de tres pasos: receptor, metabolito neurotóxico y respuesta microglial.",
+      "argumento": "Correcta: bloquea los receptores NMDA y reduce los efectos neurotóxicos del ácido quinurénico liberado por la microglía; esa menor neurotoxicidad disminuye la liberación de ATP y la microglía adopta un estado menos reactivo. La opción del ATP invierte el sentido: el ATP baja, y esa caída es la que apaga la señal de daño. La de las células senescentes describe un mecanismo senolítico, que no es el de la ketamina en esta clase. Las dos que modifican la permeabilidad de la barrera no corresponden al mecanismo descrito, que es sináptico y microglial. Corresponde precisar que el material la presenta como modelo mecanístico, no como indicación terapéutica.",
+      "tipo": "directa",
+      "tags": [
+        "cap3",
+        "farmacologia"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 03, diapo 13"
+    },
+    {
+      "id": "c2a-16",
+      "enunciado": "En Alzheimer y Parkinson, la activación microglial es:",
+      "alternativas": [
+        "Bifásica: protectora y luego dañina",
+        "Dañina desde el primer momento",
+        "Irrelevante para la progresión",
+        "Exclusivamente periférica en la fase aguda",
+        "Propia solo de la esclerosis múltiple"
+      ],
+      "respuesta": 0,
+      "pista": "Considere qué hace la microglía con la proteína mal plegada al inicio y qué ocurre cuando el estímulo persiste.",
+      "argumento": "Correcta: la activación es bifásica; al inicio elimina proteína mal plegada y su efecto es beneficioso, y cuando el estímulo persiste la misma célula pasa a producir daño. No cambia de naturaleza: cambia la utilidad de la respuesta según su duración. La opción que la declara dañina desde el inicio describe lo que el material atribuye a la esclerosis múltiple, no al Alzheimer ni al Parkinson. La que la considera irrelevante contradice su papel en la progresión. La que la sitúa solo en la periferia ignora la compartimentalización propia de estas enfermedades. La que la atribuye en exclusiva a la esclerosis múltiple invierte el contraste entre las cuatro enfermedades comparadas.",
+      "tipo": "directa",
+      "tags": [
+        "cap3",
+        "microglia"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 03, diapo 12 (Science 2025)"
+    },
+    {
+      "id": "c2a-17",
+      "enunciado": "Sobre el tratamiento de la neuroinflamación, ¿cuál afirmación es correcta?",
+      "alternativas": [
+        "En ELA temprana bastan fármacos periféricos",
+        "En Alzheimer se requiere acceso al SNC",
+        "Los antiinflamatorios sirven para todas",
+        "La ketamina está indicada en la práctica",
+        "Ninguna de las anteriores"
+      ],
+      "respuesta": 1,
+      "pista": "El fármaco debe actuar en el compartimento donde ocurre el proceso, y ese compartimento cambia con la fase.",
+      "argumento": "Correcta: en Alzheimer y Parkinson la inflamación se compartimentaliza en el SNC con microglía persistente, de modo que se requieren fármacos que penetren la barrera hematoencefálica y modulen la glía. La opción de la ELA temprana aplica el criterio de las enfermedades con infiltración periférica —esclerosis múltiple y accidente cerebrovascular— a una enfermedad neurodegenerativa. La que generaliza los antiinflamatorios ignora que cambian dos variables, el compartimento y la fase. La que indica ketamina en la práctica excede el material, que la presenta como modelo del eje NMDA–ATP–microglía. 'Ninguna de las anteriores' es falsa porque la necesidad de acceso al SNC en Alzheimer sí está sostenida.",
+      "tipo": "todas-ninguna",
+      "tags": [
+        "cap3",
+        "tratamiento"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Guía 03, diapo 12 y diapo 13"
+    },
+    {
+      "id": "c2a-18",
+      "enunciado": "El inflammaging se explica porque:",
+      "alternativas": [
+        "La inmunosenescencia acumula senescentes",
+        "Aumenta la producción de anticuerpos con la edad",
+        "Se pierde la microglía con la edad",
+        "Disminuye la permeabilidad de la barrera",
+        "El SASP suprime las citoquinas"
+      ],
+      "respuesta": 0,
+      "pista": "El eslabón es la falla del aclaramiento de células que dejaron de dividirse.",
+      "argumento": "Correcta: con la edad el sistema inmune reduce su eficacia para eliminar células senescentes; estas se acumulan y liberan SASP, que mantiene la inflamación de bajo grado, en una relación bidireccional. La opción de los anticuerpos describe un cambio inmune que no es el mecanismo del inflammaging. La de la pérdida de microglía es falsa: la microglía persiste y se mantiene reactiva. La de la menor permeabilidad de la barrera no explica el fenómeno. La del SASP invierte su efecto: el SASP libera citoquinas, proteasas y factores de crecimiento, y perpetúa la inflamación en lugar de suprimirla.",
+      "tipo": "directa",
+      "tags": [
+        "cap3",
+        "inflammaging"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 03, diapo 4 y diapo 29"
+    },
+    {
+      "id": "c2a-19",
+      "enunciado": "Una unidad motora está formada por:",
+      "alternativas": [
+        "Una motoneurona alfa y sus fibras",
+        "Una motoneurona gamma y el huso",
+        "Un pool motor con su tendón",
+        "Una motoneurona superior y su pool",
+        "Dos motoneuronas alfa y un huso"
+      ],
+      "respuesta": 0,
+      "pista": "Es la unidad de fuerza más pequeña que un potencial de acción puede activar completa.",
+      "argumento": "Correcta: una motoneurona alfa más todas las fibras musculares que inerva; como un potencial de acción lleva a umbral todas sus fibras, es la unidad de fuerza más pequeña activable. La opción de la motoneurona gamma y el huso describe el sistema fusimotor, que ajusta la sensibilidad del receptor y no genera fuerza. La del pool y el tendón confunde el conjunto de motoneuronas de un músculo con la unidad funcional. La de la motoneurona superior y su pool invierte la jerarquía: la superior modula el circuito local. La de dos motoneuronas y un huso es incompatible con el hecho de que cada fibra extrafusal madura está inervada por una sola motoneurona alfa.",
+      "tipo": "directa",
+      "tags": [
+        "cap6",
+        "unidad-motora"
+      ],
+      "dificultad": "facil",
+      "fuente": "Guía 06, p. 357 (Purves p. 357)"
+    },
+    {
+      "id": "c2a-20",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre la organización del asta ventral es/son correcta(s).  I) En el eje transversal, lo axial ocupa la línea media y lo distal el borde lateral.  II) Los grupos mediales reciben proyecciones que terminan bilateralmente.  III) Las interneuronas laterales tienen axones de más de cinco segmentos.  IV) Los músculos del brazo se localizan en el ensanchamiento lumbar.",
+      "alternativas": [
+        "Solo I",
+        "Solo I y II",
+        "Solo II y III",
+        "Solo I y IV",
+        "Solo III y IV"
+      ],
+      "respuesta": 1,
+      "pista": "El eje del mapa es medial-lateral, y la longitud del axón se relaciona con el control fino o grueso.",
+      "argumento": "I: V. El mapa va de medial a lateral: musculatura axial y proximal en la línea media y distal hacia el borde lateral; invertir este eje es el error más frecuente. II: V. Los grupos mediales, que gobiernan postura y equilibrio, reciben proyecciones largas que descienden por la sustancia blanca anteromedial y terminan bilateralmente. III: F. Las interneuronas laterales tienen axones cortos, de menos de cinco segmentos, y homolaterales, lo que sostiene el control fino de los dedos; los axones largos son de las mediales. IV: F. El brazo se ubica en el ensanchamiento cervical y la pierna en el lumbar. Por eso la combinación correcta es I y II, y toda opción que incluya III o IV incorpora un numeral falso.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap6",
+        "somatotopia"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 06, p. 355-356 (Purves pp. 355-356)"
+    },
+    {
+      "id": "c2a-21",
+      "enunciado": "Al aumentar progresivamente la fuerza de una contracción, el orden de reclutamiento de las unidades motoras es:",
+      "alternativas": [
+        "Primero las lentas pequeñas",
+        "Primero las rápidas fatigables",
+        "Todas a la vez, sin orden",
+        "Primero las rápidas resistentes",
+        "Según la longitud del axón"
+      ],
+      "respuesta": 0,
+      "pista": "El criterio es el tamaño de la motoneurona y su umbral de activación.",
+      "argumento": "Correcta: el principio del tamaño, descrito por Henneman, establece un orden fijo según tamaño; la estimulación sináptica débil activa solo las unidades pequeñas, que son las lentas y tónicamente activas en la postura, y las grandes se suman después. La de las rápidas fatigables invierte el orden: son las de mayor umbral y entran al final. La de todas a la vez niega el reclutamiento ordenado. La de las rápidas resistentes ubica en primer lugar una unidad de tamaño intermedio. La de la longitud del axón introduce un criterio que no participa en la gradación de la fuerza, que se hace por reclutamiento y por frecuencia de descarga.",
+      "tipo": "directa",
+      "tags": [
+        "cap6",
+        "reclutamiento"
+      ],
+      "dificultad": "facil",
+      "fuente": "Guía 06, p. 358 (Purves p. 358)"
+    },
+    {
+      "id": "c2a-22",
+      "enunciado": "Una relación de inervación de aproximadamente 3 fibras musculares por motoneurona corresponde a:",
+      "alternativas": [
+        "Músculos extraoculares",
+        "Músculo sóleo postural",
+        "Músculo gastrocnemio",
+        "Músculos intrínsecos de la mano",
+        "Músculos del pie"
+      ],
+      "respuesta": 0,
+      "pista": "La relación de inervación es inversa al control fino y a la precisión requerida.",
+      "argumento": "Correcta: los músculos extraoculares requieren precisión con poca fuerza y tienen alrededor de tres fibras por motoneurona. El sóleo, postural, tiene cerca de 180. El gastrocnemio, que debe generar fuerza rápida, entre 1.000 y 2.000. Los músculos de la mano y del pie son plausibles por su Control fino, pero el material solo entrega la cifra de tres para los extraoculares; la mano, pese a su destreza, no tiene ese valor en la fuente.",
+      "tipo": "directa",
+      "tags": [
+        "cap6",
+        "inervacion"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 06, p. 358 (Purves p. 358)"
+    },
+    {
+      "id": "c2a-23",
+      "enunciado": "El ganglio estomatogástrico de la langosta es el modelo mejor caracterizado de:",
+      "alternativas": [
+        "Generador central de patrón",
+        "Reflejo miotático espinal",
+        "Unidad motora de control fino",
+        "Placa neuromuscular motora",
+        "Inhibición recíproca medular"
+      ],
+      "respuesta": 0,
+      "pista": "Sus neuronas producen ritmo sin recibir estimulación sensitiva continua.",
+      "argumento": "Correcta: unas 30 neuronas motoras e interneuronas generan los patrones de molienda gástrica y pilórico sin aferencia sensitiva continua, y cada célula está identificada por posición y caracterizada electrofisiológicamente; es el ejemplo clásico de ritmo por propiedad intrínseca del circuito. El reflejo miotático es una respuesta a aferencia, lo contrario de un generador central. La unidad motora de control fino es un concepto del asta ventral de mamíferos y no describe un circuito rítmico. La placa neuromuscular es la sinapsis entre motoneurona y fibra. La inhibición recíproca es un mecanismo de coordinación entre músculos antagonistas, no un oscilador.",
+      "tipo": "directa",
+      "tags": [
+        "cap6",
+        "cpg"
+      ],
+      "dificultad": "facil",
+      "fuente": "Guía 06, p. 370 (Purves p. 370, recuadro 16C)"
+    },
+    {
+      "id": "c2a-24",
+      "enunciado": "Sobre la esclerosis lateral amiotrófica, ¿cuál afirmación es correcta?",
+      "alternativas": [
+        "Compromete las vías superior e inferior",
+        "Respeta siempre la corteza motora",
+        "Es familiar en cerca del 50% de los casos",
+        "Produce síntomas sensitivos desde el inicio",
+        "Ninguna de las afirmaciones anteriores"
+      ],
+      "respuesta": 0,
+      "pista": "Compromete los dos niveles de la vía motora y eso explica la combinación de atrofia con signos de vía superior.",
+      "argumento": "Correcta: degenera las motoneuronas alfa del asta ventral y de los núcleos motores del tronco junto con las neuronas de la corteza motora; de ahí la debilidad progresiva con atrofia y los signos de vía superior, con intelecto preservado. La que respeta la corteza describe solo la mitad inferior del cuadro, error explícito del recuadro. La de 50% familiar exagera el dato: las formas familiares son cerca del 10%, con SOD1 y dinactina. La de síntomas sensitivos tempranos contradice el carácter exclusivamente motor de la enfermedad. 'Ninguna de las anteriores' es falsa porque el compromiso de ambos niveles está establecido.",
+      "tipo": "todas-ninguna",
+      "tags": [
+        "cap6",
+        "ela"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 06, p. 373 (Purves p. 373, recuadro 16D)"
+    },
+    {
+      "id": "c2a-25",
+      "enunciado": "¿Qué proporción de los axones corticoespinales se decusa en el bulbo caudal?",
+      "alternativas": [
+        "Alrededor del 90%",
+        "Alrededor del 10%",
+        "Alrededor del 50%",
+        "Alrededor del 30%",
+        "La totalidad de los axones"
+      ],
+      "respuesta": 0,
+      "pista": "El resto forma un tracto que sigue homolateral y termina bilateralmente por colaterales.",
+      "argumento": "Correcta: cerca del 90% cruza en la decusación piramidal y forma el tracto corticoespinal lateral, que termina en el asta ventral lateral y la sustancia gris intermedia. El 10% restante no cruza y forma el tracto corticoespinal ventral, de función postural y proximal. La cifra de 50% no corresponde a ningún tracto descrito. La de 30% se confunde con el aporte de la corteza premotora al tracto, que es más del 30% de los axones y no una fracción decusada. La totalidad describiría un sistema íntegramente cruzado, lo que dejaría sin explicación el tracto ventral.",
+      "tipo": "directa",
+      "tags": [
+        "cap7",
+        "corticoespinal"
+      ],
+      "dificultad": "facil",
+      "fuente": "Guía 07, p. 378-380 (Purves pp. 378-380)"
+    },
+    {
+      "id": "c2a-26",
+      "enunciado": "Sobre las células de Betz, es correcto que:",
+      "alternativas": [
+        "Están en la capa V y son ≤5% de la vía",
+        "Son la mayoría de la vía corticoespinal",
+        "Se ubican en el asta ventral medular",
+        "Inervan directamente el huso muscular",
+        "Forman casi todo el tracto corticoespinal"
+      ],
+      "respuesta": 0,
+      "pista": "Son las neuronas más grandes del SNC humano por soma, pero escasas en la proyección.",
+      "argumento": "Correcta: son neuronas piramidales gigantes de la capa V de la corteza motora primaria y representan menos del 5% de la proyección hacia la médula; el resto son pirámides de la misma capa distribuidas entre M1 y la premotora. La que las hace mayoría y la que las hace formar casi todo el tracto cometen el mismo error de magnitud, y probablemente actúan sobre motoneuronas de las extremidades distales. La que las ubica en el asta ventral medular confunde la corteza con la médula. La que las hace inervar el huso las convierte en motoneuronas gamma, que son pequeñas y fusimotoras.",
+      "tipo": "directa",
+      "tags": [
+        "cap7",
+        "corteza-motora"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 07, p. 377 (Purves p. 377)"
+    },
+    {
+      "id": "c2a-27",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre los sistemas descendentes medial y lateral es/son correcta(s).  I) El sistema medial se origina sobre todo en el tronco del encéfalo.  II) El sistema lateral desciende por la sustancia blanca lateral.  III) El sistema medial termina en pocos segmentos y de forma unilateral.  IV) El sistema lateral controla la musculatura axial y proximal.",
+      "alternativas": [
+        "Solo I",
+        "Solo I y II",
+        "Solo II y III",
+        "Solo I y IV",
+        "Solo III y IV"
+      ],
+      "respuesta": 1,
+      "pista": "Compare origen, trayecto, terminación y función de ambos sistemas como un bloque.",
+      "argumento": "I: V. El sistema medial se origina sobre todo en el tronco del encéfalo, desciende por la sustancia blanca anteromedial y controla postura, equilibrio y orientación de la mirada. II: V. El lateral se origina mayoritariamente en la corteza y desciende por la sustancia blanca lateral hacia el asta ventral lateral. III: F. Es el sistema medial el que termina bilateralmente en varios segmentos; la terminación en pocos segmentos y de forma unilateral corresponde al lateral. IV: F. El lateral controla la musculatura distal con movimientos finos; la axial y proximal es territorio del medial. La combinación correcta es I y II, y las opciones con III o IV incorporan un numeral falso.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap7",
+        "vias-descendentes"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 07, p. 376 (Purves p. 376, tabla 1)"
+    },
+    {
+      "id": "c2a-28",
+      "enunciado": "Una paresia facial que compromete la musculatura peribucal contralateral pero respeta la frente y el cierre de los ojos se explica por una lesión:",
+      "alternativas": [
+        "de la motoneurona superior",
+        "del nervio facial ipsilateral",
+        "del núcleo facial completo",
+        "de la motoneurona inferior",
+        "de la vía corticoespinal ventral"
+      ],
+      "respuesta": 0,
+      "pista": "La musculatura facial superior recibe aferencia distinta de la inferior, y eso separa los dos patrones.",
+      "argumento": "Correcta: la lesión de motoneurona superior, como un infarto de la arteria cerebral media, compromete la musculatura peribucal contralateral y respeta la frente, porque las columnas dorsales del núcleo facial reciben su aferencia principal del cíngulo anterior, irrigado por la cerebral anterior. Las opciones del nervio facial, del núcleo facial completo y de la motoneurona inferior describen el patrón periférico, que compromete toda la hemicara del mismo lado incluida la frente. La de la vía corticoespinal ventral confunde una vía motora somática con la corticobulbar, que es la que termina en los núcleos motores craneales.",
+      "tipo": "directa",
+      "tags": [
+        "cap7",
+        "corticobulbar"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 07, p. 379-380 (Purves pp. 379-380)"
+    },
+    {
+      "id": "c2a-29",
+      "enunciado": "La lesión de la corteza premotora medial produce principalmente:",
+      "alternativas": [
+        "Menos movimientos espontáneos",
+        "Pérdida de tareas condicionales",
+        "Parálisis flácida contralateral",
+        "Hemianopsia homónima derecha",
+        "Afasia de Broca por lesión lateral"
+      ],
+      "respuesta": 0,
+      "pista": "Distinga las tareas de asa abierta de las que dependen de una señal externa.",
+      "argumento": "Correcta: la premotora medial sirve movimientos autogenerados de asa abierta, con neuronas que descargan 1-2 s antes del movimiento autoiniciado; su lesión reduce los movimientos espontáneos y conserva la respuesta a señales externas. La pérdida de tareas condicionales corresponde a la premotora lateral, que depende de una señal externa y cuya lesión también deteriora la respuesta a órdenes verbales. La parálisis flácida contralateral describe una lesión de motoneurona inferior o de la vía corticoespinal, no de un área premotora. La hemianopsia es un déficit visual por lesión de la vía óptica. La afasia de Broca corresponde a la porción rostral de la premotora lateral del hemisferio izquierdo, no a la medial.",
+      "tipo": "directa",
+      "tags": [
+        "cap7",
+        "premotora"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Guía 07, p. 387-389 (Purves pp. 387-389)"
+    },
+    {
+      "id": "c2a-30",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre la corteza motora primaria es/son correcta(s).  I) Su somatotopía es más grosera que la de la corteza somatosensitiva primaria.  II) Cada neurona de M1 codifica un músculo individual.  III) La dirección del movimiento se codifica por el vector poblacional.  IV) Corresponde al área 4 de Brodmann, en la circunvolución precentral.",
+      "alternativas": [
+        "Solo I",
+        "Solo I y III",
+        "Solo I, III y IV",
+        "Solo II y III",
+        "Solo II, III y IV"
+      ],
+      "respuesta": 2,
+      "pista": "Pregúntese si el mapa representa músculos o movimientos, y recuerde la numeración de Brodmann.",
+      "argumento": "I: V. Mantiene las desproporciones del mapa sensitivo, con rostro y manos sobrerrepresentados, pero su somatotopía es mucho más grosera que la somatosensitiva. II: F. Los axones piramidales individuales terminan sobre conjuntos de motoneuronas que inervan músculos distintos, incluso en la representación de la mano; el mapa no es un teclado de músculos. III: V. Cada neurona tiene una dirección preferida y la dirección se codifica por la actividad conjunta de la población, el vector poblacional. IV: V. M1 es el área 4, en la circunvolución precentral, y se distingue por su bajo umbral de estimulación. La combinación correcta es I, III y IV; toda opción con II incorpora el numeral falso sobre la unidad muscular.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap7",
+        "mapas-motores"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Guía 07, p. 377 y p. 381, p. 386 (Purves)"
+    },
+    {
+      "id": "c2a-31",
+      "enunciado": "La privación breve de sueño favorece un balance energético positivo porque:",
+      "alternativas": [
+        "Sube la leptina y baja la grelina",
+        "Suben la grelina y la leptina a la vez",
+        "Sube la grelina y baja la leptina",
+        "Bajan la grelina y la leptina a la vez",
+        "Cambia solo el gasto energético, no el apetito"
+      ],
+      "respuesta": 2,
+      "pista": "Piense qué péptido abre el apetito y cuál lo cierra, y qué pasa con la sensibilidad a la insulina.",
+      "argumento": "Correcta: el sueño breve sube la grelina y baja la leptina, de modo que el hambre aumenta y la saciedad cae; a eso se suman la menor sensibilidad a la insulina, el mayor apetito por lo dulce, la mayor ingesta calórica, la comida nocturna y los despertares, con balance energético positivo. La relación es bidireccional: el exceso de peso fragmenta el sueño y cierra el círculo (diapo 39; Sejbuk y cols., 2022). «Sube la leptina y baja la grelina» invierte los dos péptidos y describe el patrón de saciedad, opuesto al observado. «Suben la grelina y la leptina a la vez» no explica el aumento de ingesta: una leptina alta frenaría el apetito. «Bajan la grelina y la leptina a la vez» también es falsa, porque la grelina sube. «Cambia solo el gasto energético, no el apetito» niega el componente hormonal y conductual, que es justamente el mecanismo descrito.",
+      "tipo": "directa",
+      "tags": [
+        "cap1",
+        "sustancias"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 01, §10 bis (diapo 39)"
+    },
+    {
+      "id": "c2a-32",
+      "enunciado": "Dos o tres horas después de beber alcohol, el sueño se fragmenta porque:",
+      "alternativas": [
+        "El alcohol aún elevado deprime el sueño lento",
+        "Cae el alcohol en sangre y aparece un rebote",
+        "El GABA sigue actuando y acorta el REM",
+        "La tolerancia aguda suprime las ondas lentas",
+        "El sueño lento se adelanta y dura más horas"
+      ],
+      "respuesta": 1,
+      "pista": "El fenómeno ocurre cuando la concentración sanguínea ya bajó, no mientras el alcohol sigue alto.",
+      "argumento": "Correcta: dos o tres horas después de beber, el alcohol en sangre cae y aparece un rebote de excitación, con prolongación del REM en la segunda mitad de la noche que fragmenta el sueño (diapos 42-43). «El alcohol aún elevado deprime el sueño lento» describe la primera mitad y no el momento del rebote; además, el alcohol agudo prolonga el sueño lento en vez de deprimirlo. «El GABA sigue actuando y acorta el REM» es el error clásico de atribuir la fragmentación a una acción gabaérgica persistente: el material la atribuye a la caída del alcohol y al rebote de excitación. «La tolerancia aguda suprime las ondas lentas» confunde tolerancia con efecto agudo. «El sueño lento se adelanta y dura más horas» corresponde al efecto de las primeras horas, no al rebote de la segunda mitad.",
+      "tipo": "directa",
+      "tags": [
+        "cap1",
+        "alcohol"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 01, §10 bis (diapos 42-43)"
+    },
+    {
+      "id": "c2a-33",
+      "enunciado": "En personas sanas, dosis bajas de alcohol antes de acostarse se asocian a:",
+      "alternativas": [
+        "Menor latencia y menos despertares",
+        "Aumento del REM en la primera mitad",
+        "Protección frente a la apnea obstructiva",
+        "Ronquido, apnea y mayor riesgo vascular",
+        "Descenso de la presión arterial nocturna"
+      ],
+      "respuesta": 3,
+      "pista": "El alcohol adelanta el sueño lento, pero su efecto sobre la vía aérea superior es el contrario al que se le atribuye popularmente.",
+      "argumento": "Correcta: dosis bajas de alcohol pueden provocar ronquido y apnea obstructiva incluso en personas sanas, y esa combinación con la apnea aumenta el riesgo de accidente cerebrovascular, infarto y muerte súbita (diapos 44-45). «Menor latencia y menos despertares» recoge la expectativa popular de que el alcohol «ayuda a dormir»: acorta la latencia, pero fragmenta la segunda mitad y agrega despertares por poliuria y sed. «Aumento del REM en la primera mitad» es falso: con dosis altas el REM se inhibe al inicio y la prolongación aparece en la segunda mitad. «Protección frente a la apnea obstructiva» invierte el efecto, porque el alcohol la agrava. «Descenso de la presión arterial nocturna» no es un efecto descrito; el material menciona gastritis, reflujo gastroesofágico y poliuria.",
+      "tipo": "directa",
+      "tags": [
+        "cap1",
+        "alcohol"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 01, §10 bis (diapos 44-45)"
+    },
+    {
+      "id": "c2a-34",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre sustancias y sueño es/son correcta(s).  I) La cafeína reduce el tiempo total de sueño y empeora su calidad.  II) La nicotina se asocia a apnea y respiración anormal por su efecto colinérgico.  III) El consumo crónico de marihuana aumenta la duración total del sueño.",
+      "alternativas": [
+        "Solo I",
+        "Solo II",
+        "Solo I y II",
+        "Solo II y III",
+        "Solo I y III"
+      ],
+      "respuesta": 2,
+      "pista": "Dos de las tres sustancias empeoran el sueño en el sentido descrito; revise la dirección del efecto de la marihuana crónica.",
+      "argumento": "I es verdadera: la cafeína reduce el tiempo total de sueño y empeora su calidad, con somnolencia diurna compensatoria. II es verdadera: la nicotina se asocia a apnea y respiración anormal por su efecto colinérgico. III es falsa: el consumo crónico de marihuana reduce el rendimiento y la duración total del sueño, aumenta la latencia y genera tolerancia (diapo 46). Por eso la combinación correcta es solo I y II. «Solo I» omite la nicotina, que también es verdadera; «Solo II» omite la cafeína; «Solo II y III» y «Solo I y III» incluyen el numeral falso de la marihuana.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap1",
+        "sustancias"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 01, §10 bis (diapo 46)"
+    },
+    {
+      "id": "c2a-35",
+      "enunciado": "El ejercicio regular mejora el sueño del paciente con apnea obstructiva porque:",
+      "alternativas": [
+        "Baja el peso y el líquido cervical",
+        "Aumenta el tono simpático nocturno",
+        "Reduce el diámetro de la vía aérea",
+        "Disminuye la secreción de melatonina",
+        "Aumenta la latencia del sueño lento"
+      ],
+      "respuesta": 0,
+      "pista": "Son varias vías simultáneas: piense en el cuello, en la vía aérea superior y en la glándula pineal.",
+      "argumento": "Correcta: el ejercicio regular, aeróbico o de resistencia y de intensidad moderada, mejora la calidad del sueño por varias vías simultáneas; la pérdida de peso reduce el líquido acumulado en el cuello, aumenta la actividad y el diámetro de la vía aérea superior y eleva la secreción de melatonina, con lo que disminuye la apnea obstructiva (diapo 47). «Aumenta el tono simpático nocturno» no es una vía descrita y va en contra del efecto buscado. «Reduce el diámetro de la vía aérea» invierte el mecanismo: el diámetro aumenta. «Disminuye la secreción de melatonina» invierte el dato: la secreción aumenta. «Aumenta la latencia del sueño lento» no es el beneficio descrito; la diapositiva agrega un efecto favorable sobre la consolidación de la memoria.",
+      "tipo": "directa",
+      "tags": [
+        "cap1",
+        "ejercicio"
+      ],
+      "dificultad": "facil",
+      "fuente": "Guía 01, §10 bis (diapo 47)"
+    },
+    {
+      "id": "c2a-36",
+      "enunciado": "En el modelo hipocampo–neocorteza, la consolidación de la memoria ocurre cuando:",
+      "alternativas": [
+        "El hipocampo retiene la huella a largo plazo",
+        "La neocorteza envía la información al hipocampo",
+        "El REM reinstala la huella en la corteza",
+        "Los husos corticales suprimen las ondas agudas",
+        "Se acoplan husos, ondas lentas y ondas agudas"
+      ],
+      "respuesta": 4,
+      "pista": "Distinga cuál de los dos almacenes es temporal y en qué fase del sueño se acoplan los tres ritmos.",
+      "argumento": "Correcta: consolidar es transferir la información del hipocampo, almacén temporal de lo recién codificado, a la neocorteza, almacén de largo plazo; la transferencia ocurre sobre todo en sueño lento, cuando se acoplan las oscilaciones lentas corticales, los husos talamocorticales y las ondas agudas del hipocampo, y el evento huso-onda aguda reactiva la huella y la reinstala en la corteza (diapos 40-41; Rasch y Born, 2013). «El hipocampo retiene la huella a largo plazo» invierte los papeles de los dos almacenes. «La neocorteza envía la información al hipocampo» invierte la dirección de la transferencia. «El REM reinstala la huella en la corteza» traslada la consolidación al REM, cuando el material la sitúa en el sueño lento. «Los husos corticales suprimen las ondas agudas» es falso: se acoplan con ellas.",
+      "tipo": "directa",
+      "tags": [
+        "cap1",
+        "memoria"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 01, §10 bis (diapos 40-41)"
+    },
+    {
+      "id": "c2a-37",
+      "enunciado": "En el paradigma de reactivación dirigida, un odorante que acompañó el aprendizaje se presenta de nuevo durante el sueño lento. La recuperación mejora porque:",
+      "alternativas": [
+        "El odorante refuerza el material durante la vigilia",
+        "La clave se presenta en REM y consolida la huella",
+        "El olor reduce los despertares de la segunda mitad",
+        "El odorante reactiva el hipocampo en sueño lento",
+        "La clave inhibe la corteza y protege la huella"
+      ],
+      "respuesta": 3,
+      "pista": "El odorante se usa dos veces: al aprender y, como clave aislada, mientras el sujeto duerme. Fíjese en la fase.",
+      "argumento": "Correcta: el odorante se presenta junto con el material a memorizar y luego, durante el sueño lento, se vuelve a presentar solo como clave; la recuperación mejora y la neuroimagen muestra reactivación hipocampal (diapo 41; Rasch y Born, 2013). «El odorante refuerza el material durante la vigilia» elimina la condición esencial del paradigma, que es aplicar la clave dormido. «La clave se presenta en REM y consolida la huella» comete el error clásico de trasladar el fenómeno al REM, cuando el acople descrito pertenece al sueño lento. «El olor reduce los despertares de la segunda mitad» atribuye el efecto a la continuidad del sueño y no a la reactivación de la huella. «La clave inhibe la corteza y protege la huella» propone un mecanismo inhibitorio que el material no describe.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "memoria"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 02, §5 bis (diapo 41)"
+    },
+    {
+      "id": "c2a-38",
+      "enunciado": "Sobre la farmacocinética de la melatonina, es correcto que:",
+      "alternativas": [
+        "Cerca del 50% se excreta intacta por la orina",
+        "Menos del 1% se excreta intacta por la orina",
+        "Se metaboliza a 6-hidroximelatonina en el riñón",
+        "Se metaboliza a N-acetilserotonina en el hígado",
+        "Difunde a la saliva pero no al líquido cefalorraquídeo"
+      ],
+      "respuesta": 1,
+      "pista": "Separe el órgano que metaboliza del metabolito que se conjuga y se elimina, y recuerde que casi toda la hormona se degrada.",
+      "argumento": "Correcta: la melatonina se metaboliza sobre todo en el hígado a 6-hidroximelatonina, que se conjuga con sulfato o glucurónido y se elimina por la orina; menos del 1% se excreta intacta (pp. 162-163). «Cerca del 50% se excreta intacta por la orina» exagera la fracción intacta, que es mínima. «Se metaboliza a 6-hidroximelatonina en el riñón» conserva el metabolito correcto pero cambia el órgano: el metabolismo principal es hepático y el riñón elimina el conjugado. «Se metaboliza a N-acetilserotonina en el hígado» confunde un intermediario de la síntesis, sustrato de HIOMT, con un producto de degradación. «Difunde a la saliva pero no al líquido cefalorraquídeo» contradice su carácter liposoluble: difunde a saliva, LCR, líquido seminal y amniótico.",
+      "tipo": "directa",
+      "tags": [
+        "cap1",
+        "melatonina"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Guía 01, §7 (pp. 162-163)"
+    },
+    {
+      "id": "c2a-39",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre los mecanismos de acción de la melatonina es/son correcta(s).  I) Los efectos antioxidante e inhibidor de la calmodulina se describieron con dosis suprafisiológicas.  II) MT1 y MT2 están acoplados a proteína Gi/o y reducen el AMPc.  III) En humanos los receptores se localizan en la pars tuberalis hipofisaria.",
+      "alternativas": [
+        "Solo I",
+        "Solo II",
+        "Solo I y III",
+        "Solo II y III",
+        "Solo I y II"
+      ],
+      "respuesta": 4,
+      "pista": "La guía insiste en separar lo demostrado de lo supuesto, y en dónde se han localizado los receptores en humanos.",
+      "argumento": "I es verdadera: los efectos antioxidante e inhibidor de la calmodulina se describieron con dosis superiores a las fisiológicas, así que no deben presentarse como mecanismos de la hormona endógena. II es verdadera: MT1 y MT2 son receptores de membrana acoplados a proteína Gi/o que reducen el AMPc. III es falsa: en humanos los receptores se han localizado en el NSQ y el cerebelo, no en la pars tuberalis hipofisaria (pp. 162-163). Por eso la respuesta es solo I y II. «Solo I» omite el acoplamiento a Gi/o, que sí es correcto; «Solo II» omite la advertencia sobre las dosis; «Solo I y III» y «Solo II y III» incluyen el numeral falso de la pars tuberalis.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap1",
+        "melatonina"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Guía 01, §7 (pp. 162-163)"
+    },
+    {
+      "id": "c2a-40",
+      "enunciado": "Respecto del perfil hormonal y metabólico de la noche, es correcto que:",
+      "alternativas": [
+        "El consumo de glucosa cae en sueño lento y sube en REM",
+        "La privación suprime la secreción total de GH en 24 h",
+        "La prolactina y la TSH carecen de patrón nocturno",
+        "El cortisol depende solo de la presión homeostática",
+        "El ahorro energético es uniforme en todas las fases"
+      ],
+      "respuesta": 0,
+      "pista": "Compare el gasto de glucosa del sueño lento con el del REM y revise qué hace la privación con el total diario de hormona de crecimiento.",
+      "argumento": "Correcta: el consumo de glucosa cae en el sueño lento y el REM iguala o supera el de la vigilia, de modo que el ahorro energético no es uniforme (pp. 32-33). «La privación suprime la secreción total de GH en 24 h» es falsa: la privación no suprime el total secretado, lo redistribuye en pulsos menores a lo largo del día. «La prolactina y la TSH carecen de patrón nocturno» es falsa: ambas tienen su propio patrón nocturno. «El cortisol depende solo de la presión homeostática» es falsa: depende de un oscilador circadiano relativamente independiente del sueño. «El ahorro energético es uniforme en todas las fases» contradice justamente la diferencia entre sueño lento y REM.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "neuroendocrino"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 02, §5 (pp. 32-33)"
+    },
+    {
+      "id": "c2a-41",
+      "enunciado": "La hojuela intergeniculada es una aferencia del NSQ. Su lesión experimental:",
+      "alternativas": [
+        "altera el ángulo de fase y acorta el período",
+        "impide por completo la sincronización a la luz",
+        "elimina la ritmicidad del NSQ en oscuridad",
+        "suprime la secreción nocturna de melatonina",
+        "bloquea el tracto retinohipotalámico"
+      ],
+      "respuesta": 0,
+      "pista": "Recuerde que esa vía no es la retiniana: modula el reloj, no lo informa de la luz.",
+      "argumento": "Correcta: la hojuela intergeniculada no impide sincronizar, pero altera el ángulo de fase y acorta el período en luz continua (Guía 01, tabla 3, p. 71). La opción que dice que impide la sincronización a la luz describe el efecto de seccionar la vía retiniana, que es otra aferencia. La que elimina la ritmicidad del NSQ confunde una aferencia moduladora con el oscilador mismo. La que suprime la melatonina nocturna corresponde a la vía NSQ–paraventricular–ganglio cervical superior. La que bloquea el tracto retinohipotalámico nombra una vía anatómica distinta, la única necesaria y suficiente para la sincronización fótica.",
+      "tipo": "directa",
+      "tags": [
+        "cap1",
+        "nsq"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 01, §4 (tabla 3, p. 71)"
+    },
+    {
+      "id": "c2a-42",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre el efecto de la luz sobre el reloj es/son correcta(s).  I) La sinapsis retinohipotalámica libera glutamato y PACAP.  II) La luz induce la expresión de Per1 y Per2 en el NSQ.  III) La misma luz adelanta la fase a cualquier hora del día.  IV) La luz enciende un oscilador que está detenido en oscuridad.",
+      "alternativas": [
+        "Solo I",
+        "Solo II",
+        "Solo I y II",
+        "Solo II y III",
+        "Solo I, II y III"
+      ],
+      "respuesta": 2,
+      "pista": "Separe lo que la luz hace en la sinapsis de lo que hace con la fase del oscilador.",
+      "argumento": "I: V. La señal retinohipotalámica libera glutamato y PACAP, que elevan el calcio y activan quinasas y factores de transcripción. II: V. Esa cascada induce Per1 y Per2 en el NSQ y con ello desplaza la fase. III: F. El sentido del desplazamiento depende de la hora del estímulo: la misma luz adelanta o atrasa según la curva de respuesta de fase. IV: F. El NSQ ya oscila en oscuridad; la luz no lo enciende, lo reajusta. La respuesta correcta es Solo I y II: las combinaciones que incluyen III o IV suman un enunciado falso, y las que omiten I o II descartan uno verdadero.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap1",
+        "sincronizacion-fotica"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 01, §6 (pp. 55-58, 72-73)"
+    },
+    {
+      "id": "c2a-43",
+      "enunciado": "Durante el sueño REM, la temperatura corporal:",
+      "alternativas": [
+        "se mantiene por temblor y vasoconstricción",
+        "desciende por aumento del tono simpático",
+        "se eleva y activa la sudoración compensatoria",
+        "sigue la del ambiente, sin regulación",
+        "depende del eje tiroideo, no del ambiente"
+      ],
+      "respuesta": 3,
+      "pista": "Piense en lo que ocurre con la regulación térmica cuando el EEG se parece al de la vigilia.",
+      "argumento": "Correcta: en REM se pierde la termorregulación —poiquilotermia— y la temperatura sigue la del ambiente, sin temblor ni sudoración compensatoria (Guía 02, conceptos clave). La que invoca temblor y vasoconstricción describe la termorregulación conservada del NREM. La que atribuye el descenso al aumento del tono simpático invierte el cuadro: el REM cursa con fluctuaciones simpáticas y sin control térmico. La que hace subir la temperatura con sudoración supone una respuesta reguladora que en REM no ocurre. La que remite al eje tiroideo ignora que la dependencia es del ambiente.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "fisiologia-sueno"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 02, conceptos clave (poiquilotermia)"
+    },
+    {
+      "id": "c2a-44",
+      "enunciado": "En un adulto con epilepsia de inicio reciente y crisis sobre todo nocturnas, conviene buscar SAHOS porque:",
+      "alternativas": [
+        "la CPAP puede reducir las crisis",
+        "la apnea acorta las crisis nocturnas",
+        "el SAHOS eleva el umbral convulsivo",
+        "los anticonvulsivantes corrigen la apnea",
+        "la hipoxemia suprime las descargas corticales"
+      ],
+      "respuesta": 0,
+      "pista": "Distinga quién trata a quién: el fármaco antiepiléptico no corrige la vía aérea.",
+      "argumento": "Correcta: la apnea empeora el control de las crisis nocturnas y la presión positiva las mejora e incluso las suprime sin cambios en los anticonvulsivantes (Guía 02, §7, pp. 190-191). La que dice que la apnea acorta las crisis invierte el efecto descrito: las agrava. La que sostiene que el SAHOS eleva el umbral convulsivo contradice el mismo dato. La que atribuye a los anticonvulsivantes la corrección de la apnea confunde el tratamiento, que es la presión positiva. La que afirma que la hipoxemia suprime las descargas corticales va en contra de que la hipoxemia intermitente favorece las crisis.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "sahos"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Guía 02, §7 (pp. 190-191)"
+    },
+    {
+      "id": "c2a-45",
+      "enunciado": "Los husos del sueño y la onda aguda de vértex aparecen:",
+      "alternativas": [
+        "en el neonato de término",
+        "desde el tercer mes extrauterino",
+        "después del primer año de vida",
+        "al inicio de la adolescencia",
+        "solo en el sueño REM del adulto"
+      ],
+      "respuesta": 1,
+      "pista": "Distinga la maduración del sueño quieto de la identificación de las cuatro etapas.",
+      "argumento": "Correcta: los husos fusiformes y la onda aguda de vértex aparecen desde el tercer mes extrauterino, cuando madura el sueño quieto (Guía 02, §3, pp. 26-27). La que los sitúa en el neonato de término adelanta el hito: al nacer predomina el sueño activo y el no REM aún no tiene husos. La que espera hasta después del primer año confunde este hito con la identificación de las cuatro etapas del NREM, que sí se completa entonces. La que los ubica en la adolescencia no corresponde a ningún cambio descrito. La que los restringe al REM del adulto es incompatible con que los husos definen la etapa II del NREM.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "arquitectura-del-sueno"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 02, §3 (pp. 26-27)"
+    },
+    {
+      "id": "c2a-46",
+      "enunciado": "El desencadenante inicial de la cascada de neuroinflamación es el reconocimiento microglial de:",
+      "alternativas": [
+        "anticuerpos dirigidos contra la mielina",
+        "citoquinas reguladoras IL-10 y TGF-β",
+        "DAMPs como ATP y proteínas mal plegadas",
+        "linfocitos T CD4 que cruzan la barrera",
+        "complemento C1q unido a las sinapsis"
+      ],
+      "respuesta": 2,
+      "pista": "Piense en las señales que libera el tejido dañado, no en las que produce la inflamación ya establecida.",
+      "argumento": "Correcta: los DAMPs —ATP, oligómeros proteicos y proteínas mal plegadas— activan a la microglía como primera línea de respuesta (Guía 03, §2, diapo 11). Los anticuerpos contra la mielina corresponden a un mecanismo de enfermedad desmielinizante, no al disparador descrito. Las citoquinas reguladoras IL-10 y TGF-β son la señal opuesta: suprimen la respuesta. Los linfocitos T CD4 que cruzan la barrera pertenecen a la etapa de reclutamiento periférico, posterior a la activación microglial. El complemento unido a sinapsis es un efector tardío que las marca para su eliminación.",
+      "tipo": "directa",
+      "tags": [
+        "cap3",
+        "microglia"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 03, §2 (diapo 11)"
+    },
+    {
+      "id": "c2a-47",
+      "enunciado": "Respecto de la inflamación crónica de bajo grado, ¿cuál afirmación es correcta?",
+      "alternativas": [
+        "Difiere de la aguda por su intensidad, no por su duración",
+        "Produce los signos clásicos de la inflamación aguda",
+        "Queda descartada con una PCR ultrasensible normal",
+        "Es exclusiva de las enfermedades neurodegenerativas",
+        "Ninguna de las anteriores"
+      ],
+      "respuesta": 4,
+      "pista": "Examine cada opción con la tabla que compara inflamación aguda y crónica.",
+      "argumento": "Correcta: ninguna de las anteriores describe el proceso. La que la diferencia de la aguda por la intensidad es falsa, porque la diferencia está en la duración y en la falla de los mecanismos de resolución, no en la intensidad. La que le atribuye los signos clásicos corresponde a la forma aguda: la crónica es asintomática. La que la descarta con una PCR ultrasensible normal ignora la disociación entre marcadores convencionales y fisiopatología, advertida en la guía. La que la hace exclusiva de las neurodegeneraciones olvida que es transversal a distintas patologías y al envejecimiento.",
+      "tipo": "todas-ninguna",
+      "tags": [
+        "cap3",
+        "inflammaging"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Guía 03, §1 (diapo 26)"
+    },
+    {
+      "id": "c2a-48",
+      "enunciado": "El tracto tectoespinal, que orienta la cabeza y los ojos hacia un estímulo, se origina en:",
+      "alternativas": [
+        "el núcleo vestibular lateral",
+        "el colículo superior",
+        "la formación reticular pontina",
+        "el núcleo rojo mesencefálico",
+        "la corteza premotora medial"
+      ],
+      "respuesta": 1,
+      "pista": "Busque el centro que recibe el mapa visual y lo traduce en orientación.",
+      "argumento": "Correcta: el colículo superior origina el tracto tectoespinal, que orienta ojos y cabeza hacia un estímulo (Guía 07, §9, p. 389). El núcleo vestibular lateral origina el tracto vestibuloespinal lateral, ligado al tono postural y no a la orientación visual. La formación reticular aporta los tractos reticuloespinales, que regulan postura y tono. El núcleo rojo participa en el control motor por vías distintas de la orientación de la mirada. La corteza premotora medial organiza movimientos autoiniciados por señales internas, no la orientación hacia un estímulo.",
+      "tipo": "directa",
+      "tags": [
+        "cap7",
+        "vias-descendentes"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 07, §9 (p. 389)"
+    },
+    {
+      "id": "c2a-49",
+      "enunciado": "Las terminales de una motoneurona alfa se ramifican sobre fibras musculares dispersas. Ese reparto tiene por efecto:",
+      "alternativas": [
+        "concentrar la fuerza en una sola fibra",
+        "permitir que una fibra reciba varias motoneuronas",
+        "reducir el número de unidades activas",
+        "repartir la fuerza y limitar el daño",
+        "acoplar la contracción de músculos sinérgicos"
+      ],
+      "respuesta": 3,
+      "pista": "Piense en qué pasaría si todas las fibras de una unidad estuvieran juntas.",
+      "argumento": "Correcta: la distribución difusa reparte la fuerza y reduce el efecto del daño de una motoneurona aislada (Guía 06, §6, p. 357). La que concentra la fuerza en una sola fibra ignora que una unidad agrupa muchas fibras. La que permite que una fibra reciba varias motoneuronas contradice la regla de que cada fibra extrafusal madura tiene una sola motoneurona alfa. La que reduce el número de unidades activas confunde el reparto espacial con la gradación de la fuerza. La que acopla músculos sinérgicos atribuye a la unidad motora una coordinación que corresponde al circuito local.",
+      "tipo": "directa",
+      "tags": [
+        "cap6",
+        "unidad-motora"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Guía 06, §6 (p. 357)"
+    },
+    {
+      "id": "c2a-50",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre la vulnerabilidad selectiva de la motoneurona en la ELA es/son correcta(s).  I) La longitud de su axón la expone a defectos de transporte.  II) Su capacidad para amortiguar el calcio intracelular es alta.  III) Es especialmente sensible a la falla mitocondrial.  IV) La microglía no participa en la degeneración.",
+      "alternativas": [
+        "Solo I",
+        "Solo III",
+        "Solo I y III",
+        "Solo II y IV",
+        "Solo I, II y III"
+      ],
+      "respuesta": 2,
+      "pista": "Recuerde que la vulnerabilidad se explicó por dos rasgos celulares y por la longitud del axón.",
+      "argumento": "I: V. La longitud axónica expone a la motoneurona a defectos de transporte, descritos primero en ratones con SOD1 mutante. II: F. Su capacidad de amortiguar el calcio intracelular es escasa, y eso la hace vulnerable. III: V. Es excepcionalmente sensible a la interrupción de la función mitocondrial. IV: F. La microglía participa en el proceso degenerativo. La respuesta correcta es Solo I y III: las opciones que incluyen II o IV suman un enunciado falso, y las que omiten I o III descartan uno verdadero.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap6",
+        "ela"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Guía 06, §9 (p. 373, recuadro 16D)"
+    }
+  ]
+}

@@ -1,34 +1,76 @@
 {
   "quizzes": [
     {
+      "archivo": "Cronobiología C2 - Cuestionario.json",
+      "titulo": "Cronobiología C2 — Aspectos moleculares y clínicos",
+      "total": 30,
+      "descartadas": 0
+    },
+    {
       "archivo": "Epidemiología C1 - Cuestionario.json",
       "titulo": "Epidemiología y Salud Pública — Certamen 1 (C1)",
-      "total": 45
+      "total": 45,
+      "descartadas": 0
     },
     {
       "archivo": "Epidemiología C1 - Cuestionario 2.json",
       "titulo": "Epidemiología y Salud Pública — Certamen 1, set 2 (C1)",
-      "total": 45
+      "total": 45,
+      "descartadas": 0
     },
     {
       "archivo": "Altman - Cuestionario.json",
       "titulo": "Joseph Altman y la neurogénesis adulta — El dogma de «no hay neuronas nuevas»",
-      "total": 20
+      "total": 20,
+      "descartadas": 0
+    },
+    {
+      "archivo": "Medicina del Sueño C2 - Cuestionario.json",
+      "titulo": "Medicina del Sueño — Certamen 2 (selección de capítulos)",
+      "total": 30,
+      "descartadas": 0
     },
     {
       "archivo": "Certamen 1 - Cuestionario.json",
       "titulo": "Neurociencia Psico — Certamen 1 (caps. 2, 4 y 7)",
-      "total": 60
+      "total": 60,
+      "descartadas": 0
     },
     {
       "archivo": "Certamen 1 - Cuestionario 2.json",
       "titulo": "Neurociencia Psico — Certamen 1, set 2 (caps. 2, 4 y 7)",
-      "total": 60
+      "total": 60,
+      "descartadas": 0
+    },
+    {
+      "archivo": "C2_Set_A_Crono_Sueno_Movimiento.json",
+      "titulo": "Neurociencias C2 — Set A: cronobiología, sueño, neuroinflamación y movimiento",
+      "total": 50,
+      "descartadas": 0
+    },
+    {
+      "archivo": "C2_Set_B_Conciencia_Psiquiatria_CTE.json",
+      "titulo": "Neurociencias C2 — Set B: conciencia, inconsciente, neuropsiquiatría y CTE",
+      "total": 42,
+      "descartadas": 0
+    },
+    {
+      "archivo": "C2_Set_C_Integral_Mecanismos.json",
+      "titulo": "Neurociencias C2 — Set C: integral, mecanismos y estructura",
+      "total": 70,
+      "descartadas": 0
+    },
+    {
+      "archivo": "C2_Set_D_Integral_Clinica.json",
+      "titulo": "Neurociencias C2 — Set D: integral, clínica y comparaciones",
+      "total": 70,
+      "descartadas": 0
     },
     {
       "archivo": "Certamen 2 - Casos Clínicos.json",
       "titulo": "Semiología — Certamen 2, casos clínicos (todos los sistemas)",
-      "total": 140
+      "total": 140,
+      "descartadas": 0
     }
   ]
 }

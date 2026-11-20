@@ -1,0 +1,1476 @@
+{
+  "version": 1,
+  "titulo": "Neurociencias C2 — Set D: integral, clínica y comparaciones",
+  "preguntas": [
+    {
+      "id": "c2d-01",
+      "enunciado": "El cortisol alcanza su máximo horas antes del despertar, mientras el sujeto aún duerme. Ese patrón ejemplifica mejor:",
+      "alternativas": [
+        "Homeostasis predictiva",
+        "Homeostasis reactiva",
+        "Enmascaramiento por la luz",
+        "Desalineación circadiana",
+        "Un ritmo ultradiano"
+      ],
+      "respuesta": 0,
+      "pista": "Pregúntate si el sistema responde al cambio una vez ocurrido o lo anticipa.",
+      "argumento": "Correcta: homeostasis predictiva. El cortisol sube antes de la vigilia y la temperatura asciende durante el sueño, de modo que el sistema no corrige una desviación sino que la anticipa (p. 22). «Homeostasis reactiva» es la de Cannon y Bernard: responde después del estímulo, como las hormonas que bajan la glucosa tras la ingesta. «Enmascaramiento» es el efecto directo de un sincronizador sobre el ritmo sin mediar el reloj. «Desalineación» es la pérdida de coherencia de fase entre la hora interna y la externa, no un patrón anticipatorio normal. «Ritmo ultradiano» alude a períodos menores de 24 h, categoría que no describe este ciclo diario.",
+      "tipo": "directa",
+      "tags": [
+        "cap1",
+        "homeostasis-predictiva"
+      ],
+      "dificultad": "facil",
+      "fuente": "Guía 01, §2 (p. 22); Guía 01b, §1"
+    },
+    {
+      "id": "c2d-02",
+      "enunciado": "Dentro del núcleo supraquiasmático, la subregión ventrolateral se caracteriza porque:",
+      "alternativas": [
+        "Recibe la mayoría de las proyecciones retinianas",
+        "Es rica en vasopresina y define la coherencia eléctrica",
+        "Proyecta directamente a la glándula pineal",
+        "Aloja el oscilador que gobierna el hígado",
+        "Es la única capaz de oscilar de forma autónoma"
+      ],
+      "respuesta": 0,
+      "pista": "Distingue las dos mitades del núcleo por su aferencia y por el péptido que contienen.",
+      "argumento": "Correcta: la subregión ventrolateral concentra las proyecciones retinales y es rica en VIP, GRP y PHL (pp. 43-44, 68). La descripción de la opción «rica en vasopresina y define la coherencia» corresponde a la subregión dorsomedial, no a la ventrolateral. La proyección a la pineal no es directa: pasa por el núcleo paraventricular, la columna intermediolateral y el ganglio cervical superior. El oscilador hepático es un oscilador periférico propio, no una subregión del NSQ. La capacidad de oscilar autónomamente es del núcleo completo, incluso con células disociadas, y no un atributo exclusivo de una subregión.",
+      "tipo": "directa",
+      "tags": [
+        "cap1",
+        "nsq-anatomia"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 01, §4 (pp. 43-44, 68)"
+    },
+    {
+      "id": "c2d-03",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre las aferencias del núcleo supraquiasmático es/son correcta(s).  I) La sección del tracto retinohipotalámico impide la sincronización a la luz.  II) La lesión de la hoja intergeniculada impide sincronizar.  III) Los núcleos del rafe modulan la fase sin impedir la sincronización.  IV) La información luminosa llega por conos y bastones.",
+      "alternativas": [
+        "Solo I",
+        "Solo II",
+        "Solo I y III",
+        "Solo II y IV",
+        "Solo I, II y III"
+      ],
+      "respuesta": 2,
+      "pista": "Solo una de las vías de entrada es necesaria y suficiente para sincronizar.",
+      "argumento": "I: V. La enucleación o la sección del tracto retinohipotalámico impiden la sincronización fótica (p. 71). II: F. La lesión de la hoja intergeniculada no impide sincronizar: altera el ángulo de fase y acorta el período en luz continua. III: V. El sistema serotoninérgico del rafe modula la fase sin bloquear la sincronización. IV: F. La luz llega por células ganglionares con melanopsina, no por conos ni bastones. Por eso la respuesta correcta es «Solo I y III»; «Solo I» omite un numeral verdadero, «Solo II» invierte el valor de II, «Solo II y IV» toma dos falsos y «Solo I, II y III» incluye el numeral falso II.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap1",
+        "nsq-aferencias"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 01, §4, Tabla 3 (p. 71)"
+    },
+    {
+      "id": "c2d-04",
+      "enunciado": "Respecto de la melatonina y su uso clínico, ¿cuál afirmación es correcta?",
+      "alternativas": [
+        "3 mg por 4 semanas prolongan el sueño del anciano",
+        "10 mg por 24 semanas es la pauta de la falla cardíaca",
+        "Su pico se suprime con 2.500 lux en 10 a 20 min",
+        "Los betabloqueantes reducen su amplitud nocturna",
+        "Todas las anteriores son correctas"
+      ],
+      "respuesta": 4,
+      "pista": "Revisa cada enunciado por separado antes de decidir.",
+      "argumento": "Correcta: «Todas las anteriores son correctas», porque los cuatro enunciados son verdaderos. En el insomnio del adulto mayor, 3 mg por 4 semanas prolongaron el sueño medido por actigrafía (pp. 66-70). Los 10 mg por 24 semanas corresponden al ensayo en insuficiencia cardíaca, que bajó el NT-proBNP sin cambio ecocardiográfico: es un dato de otra población, no una objeción. La luz de 2.500 lux anula el pico nocturno en 10 a 20 minutos (p. 64). Los betabloqueantes y las benzodiacepinas reducen la amplitud del pico (pp. 63-64). Ninguna de las otras opciones es falsa, de modo que las alternativas que niegan alguna de estas afirmaciones quedarían descartadas.",
+      "tipo": "todas-ninguna",
+      "tags": [
+        "cap1",
+        "melatonina"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 01, §7 (pp. 63-69); Guía 02, §6"
+    },
+    {
+      "id": "c2d-05",
+      "enunciado": "El trabajo por turnos rotativos se asocia sobre todo a:",
+      "alternativas": [
+        "Un jet lag crónico con desalineación sostenida",
+        "Un trastorno endógeno del núcleo supraquiasmático",
+        "Una forma de privación sin desalineación de fase",
+        "Un jet lag al oeste, de adaptación rápida",
+        "Un efecto del gen per3 sin componente ambiental"
+      ],
+      "respuesta": 0,
+      "pista": "El problema no es solo dormir poco: compara la hora interna con la impuesta.",
+      "argumento": "Correcta: los turnos rotativos funcionan como un jet lag crónico, porque los cambios repetidos impiden la adaptación completa y el sujeto vive desalineado (pp. 64-67). No es un trastorno endógeno: los endógenos son la ceguera con vía retinohipotalámica dañada, el envejecimiento con menor amplitud y los tumores del NSQ. Tampoco es privación pura: hay desfase entre fase interna y horario. No es un jet lag al oeste, que exige retrasar la fase y se tolera bien. El gen per3 se asocia a matutinidad-vespertinidad, pero el cuadro es ambiental y conductual, no un efecto genético aislado.",
+      "tipo": "directa",
+      "tags": [
+        "cap1",
+        "turnos"
+      ],
+      "dificultad": "facil",
+      "fuente": "Guía 01b, §5; Guía 01, §8 (pp. 64-67)"
+    },
+    {
+      "id": "c2d-06",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre el turno nocturno y el metabolismo es/son correcta(s).  I) El reloj hepático se desfasa por el horario de las comidas.  II) El NSQ pierde su ritmicidad durante el turno nocturno.  III) El desfase hepático mejora la tolerancia a la glucosa.  IV) Los relojes periféricos oscilan de forma autónoma.",
+      "alternativas": [
+        "Solo I",
+        "Solo III",
+        "Solo I y IV",
+        "Solo II y III",
+        "Solo I, II y IV"
+      ],
+      "respuesta": 2,
+      "pista": "El marcapasos central sigue en hora aunque el trabajador coma de noche.",
+      "argumento": "I: V. El zeitgeber alimentario domina sobre los relojes hepáticos y los desfasa del NSQ (p. 27). II: F. El NSQ sigue en hora; lo que se desalinea son los osciladores periféricos respecto de él. III: F. El desfase hepático altera negativamente la tolerancia a la glucosa, no la mejora. IV: V. Retina, hígado, músculo, pulmón y fibroblastos oscilan de forma autónoma, aunque dependan de señales externas para mantenerse sincronizados. Por eso corresponde «Solo I y IV»; las demás opciones omiten un verdadero o incluyen el falso III.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap1",
+        "ritmos-enfermedad"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 01, §3 (p. 27)"
+    },
+    {
+      "id": "c2d-07",
+      "enunciado": "Un lactante de tres semanas inicia el sueño en REM cerca del 80% de las veces. Esto indica que:",
+      "alternativas": [
+        "Es normal a esa edad y cae a 5-10% a los 3 meses",
+        "Es un signo precoz de narcolepsia infantil",
+        "Corresponde al patrón del adulto joven sano",
+        "Sugiere apnea obstructiva del sueño",
+        "Desaparece recién después del primer año"
+      ],
+      "respuesta": 0,
+      "pista": "El neonato duerme distinto: piensa en el orden de las etapas, no en la duración.",
+      "argumento": "Correcta: iniciar en sueño activo es normal en las primeras tres semanas (80%), baja a 5-10% a los 3 meses y es raro después de los 6 meses (pp. 52-53). El adulto inicia en sueño lento, no en REM. La narcolepsia no se define por este dato y, además, la guía no la desarrolla. La apnea obstructiva no se manifiesta por el orden de las etapas. La caída del inicio en REM ocurre hacia los 3 meses, no después del primer año; lo que se completa después del año es la identificación de las cuatro etapas NREM.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "maduración"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 02, §3 (pp. 52-53)"
+    },
+    {
+      "id": "c2d-08",
+      "enunciado": "Un adulto que durmió bien siente somnolencia a media tarde. Según el modelo de dos procesos, esto se debe a que:",
+      "alternativas": [
+        "El proceso circadiano tiene una ventana de sueño",
+        "La presión homeostática llega a su máximo diario",
+        "El sueño REM acumulado genera deuda pendiente",
+        "El cortisol de la tarde induce somnolencia",
+        "La temperatura corporal alcanza su mínimo"
+      ],
+      "respuesta": 0,
+      "pista": "Separa lo que se acumula despierto de lo que marca la hora del día.",
+      "argumento": "Correcta: el proceso C determina ventanas de alerta y de somnolencia con independencia de la presión acumulada, y eso explica el bajón vespertino de quien durmió suficiente (p. 66). La presión homeostática no está en su máximo a media tarde: crece con la vigilia y es máxima al final del día. No existe una «deuda de REM» en el modelo. El cortisol no induce somnolencia; su descenso matinal es parte del eje, no del proceso C. El mínimo de temperatura ocurre de madrugada, no a media tarde. Nota de alcance: la guía no usa el término «siesta»; describe la ventana circadiana de somnolencia, que es la base del patrón bifásico.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "dos-procesos"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 01b, §6 (p. 66); Guía 01, §9"
+    },
+    {
+      "id": "c2d-09",
+      "enunciado": "En el SAHOS, el vínculo con arritmias e hipertensión se explica sobre todo por:",
+      "alternativas": [
+        "Hipoxemia intermitente con descargas adrenérgicas",
+        "Aumento sostenido del tono vagal nocturno",
+        "Descenso excesivo de la presión arterial durante la noche",
+        "Hipocapnia mantenida por hiperventilación",
+        "Reducción del grosor íntima-media carotídeo"
+      ],
+      "respuesta": 0,
+      "pista": "Cada apnea termina con un despertar y una descarga simpática.",
+      "argumento": "Correcta: la hipoxemia intermitente con descargas adrenérgicas nocturnas es el mecanismo que la guía enumera, junto con la hipertensión no dipper, la hiperfibrinogenemia, el mayor grosor íntima-media, la disfunción endotelial y el estrés oxidativo por hipoxia-reoxigenación (pp. 188-189). No hay aumento del tono vagal: predomina el simpático. El patrón es no dipper, es decir, ausencia de descenso nocturno, no descenso excesivo. No hay hipocapnia mantenida. El grosor íntima-media aumenta, no disminuye, y eso es consecuencia, no explicación del cuadro.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "sahos"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 02, §7 (pp. 188-189)"
+    },
+    {
+      "id": "c2d-10",
+      "enunciado": "El sistema orexina-hipocretina, cuya alteración se asocia a la cataplejía, cumple la función de:",
+      "alternativas": [
+        "Mantener la vigilia desde el área perifornical",
+        "Organizar el sueño lento desde el hipotálamo anterior",
+        "Generar la atonía del REM desde el tegmento pontino",
+        "Suprimir la vigilia desde el rafe dorsal",
+        "Sintetizar melatonina en la glándula pineal"
+      ],
+      "respuesta": 0,
+      "pista": "Es un sistema de vigilia; su pérdida desestabiliza el tono muscular durante la vigilia.",
+      "argumento": "Correcta: la orexina-hipocretina del área perifornical es uno de los sistemas que sostienen la vigilia y converge con noradrenalina, serotonina e histamina en tálamo y corteza (p. 36). El sueño lento lo organizan las neuronas GABAérgicas del hipotálamo anterior. La atonía del REM depende de la inhibición de motoneuronas espinales dentro de la interacción colinérgica-monoaminérgica del tronco, no de la orexina. El rafe dorsal aporta serotonina y no suprime la vigilia. La melatonina se sintetiza en la pineal bajo control del NSQ. Advertencia de alcance: la guía solo menciona la narcolepsia al pasar, al definir orexina-hipocretina; no desarrolla latencia REM ni cataplejía como cuadro clínico.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "narcolepsia"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 02, §4, Tabla 2 (p. 36)"
+    },
+    {
+      "id": "c2d-11",
+      "enunciado": "Que ratas privadas de sueño mueran entre los 15 y 22 días se usa para sostener que:",
+      "alternativas": [
+        "El sueño es una necesidad biológica no postergable",
+        "El sueño es un estado pasivo de reposo muscular y visceral",
+        "El REM es la fase prescindible del sueño",
+        "La privación solo altera el ánimo y la atención",
+        "El reloj circadiano basta para generar el sueño"
+      ],
+      "respuesta": 0,
+      "pista": "El dato es letal, no conductual: pregúntate qué implica para la función del sueño.",
+      "argumento": "Correcta: el desenlace letal sostiene que el sueño es un estado vital activo, con funciones variadas y no postergables (p. 37); el experimento se cita junto a la observación de que la función primordial sigue siendo desconocida. La opción del reposo muscular pasivo es justamente lo que el material descarta. El REM no es prescindible ni es la fase más profunda: su EEG se parece al de la vigilia. La privación no se limita al ánimo y la atención, y el reloj circadiano temporiza el sueño, pero no lo genera por sí solo.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "privacion"
+      ],
+      "dificultad": "facil",
+      "fuente": "Guía 02, §4 (p. 29) y §5 (p. 37)"
+    },
+    {
+      "id": "c2d-12",
+      "enunciado": "¿Cuál afirmación sobre los hipnóticos es correcta?",
+      "alternativas": [
+        "El ramelteon actúa en MT1/MT2 sin abstinencia",
+        "El ramelteon potencia la transmisión GABA-A",
+        "Las benzodiacepinas elevan el pico de melatonina",
+        "La melatonina revierte los síntomas depresivos",
+        "Todas las anteriores son correctas"
+      ],
+      "respuesta": 0,
+      "pista": "Distingue el análogo de melatonina de los GABAmiméticos clásicos.",
+      "argumento": "Correcta: el ramelteon es un análogo con actividad sobre MT1 y MT2, aprobado por la FDA en 2005 como el primer hipnótico sin control de la agencia antidrogas por carecer de efectos adictivos o de abstinencia (p. 69). No potencia GABA-A: eso corresponde a las benzodiacepinas. Las benzodiacepinas reducen la amplitud del pico de melatonina, no la elevan. La melatonina mejora el sueño en la depresión, pero no los síntomas depresivos. Por eso «Todas las anteriores» es falsa: solo la opción del ramelteon resiste la verificación.",
+      "tipo": "todas-ninguna",
+      "tags": [
+        "cap2",
+        "hipnoticos"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 02, §6 (pp. 64-69)"
+    },
+    {
+      "id": "c2d-13",
+      "enunciado": "En el accidente cerebrovascular, el patrón de neuroinflamación implica que:",
+      "alternativas": [
+        "Predomina la infiltración periférica temprana",
+        "La inflamación se compartimentaliza desde el inicio",
+        "La microglía es protectora durante toda la evolución",
+        "No hay participación de células periféricas",
+        "Solo los astrocitos amplifican la respuesta"
+      ],
+      "respuesta": 0,
+      "pista": "El patrón agudo se parece al de la esclerosis múltiple temprana.",
+      "argumento": "Correcta: en el ACV la infiltración periférica es temprana y marcada, y por eso los fármacos periféricos muestran promesa en ensayos tempranos (Tabla 3). La compartimentalización es propia de la fase crónica y de las enfermedades neurodegenerativas, no del inicio del ACV. No se afirma que la microglía sea protectora en todo el curso; en la esclerosis múltiple se la considera perjudicial desde el comienzo. Sí participan células periféricas, y no son solo los astrocitos: también microglía y linfocitos T.",
+      "tipo": "directa",
+      "tags": [
+        "cap3",
+        "acv"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 03, §6, Tabla 3"
+    },
+    {
+      "id": "c2d-14",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre la topografía de la neurodegeneración es/son correcta(s).  I) La pérdida de motoneuronas superiores e inferiores corresponde a la ELA.  II) La pérdida de neuronas hipocampales corresponde al Alzheimer.  III) El mecanismo molecular difiere entre las distintas enfermedades.  IV) La topografía explica el fenotipo mejor que el mecanismo.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo I y IV",
+        "Solo II y III",
+        "Solo I, II y IV",
+        "Solo II, III y IV"
+      ],
+      "respuesta": 3,
+      "pista": "El mecanismo es compartido; lo que cambia es el mapa de la pérdida.",
+      "argumento": "I: V. La ELA corresponde a la pérdida de motoneuronas superiores e inferiores (diapo 25). II: V. El Alzheimer corresponde a la pérdida de neuronas hipocampales. III: F. El mecanismo molecular es compartido: agregación proteica, disfunción sináptica, proteostasis, energía, citoesqueleto, ADN/ARN e inflamación. IV: V. Precisamente porque el mecanismo es común, la región que degenera es lo que explica el fenotipo. Por eso la respuesta es «Solo I, II y IV»; las demás incluyen el numeral falso III u omiten verdaderos.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap3",
+        "topografia"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 03, §7 (diapo 25)"
+    },
+    {
+      "id": "c2d-15",
+      "enunciado": "En el panel de biomarcadores de la neuroinflamación, APOE y TREM2 informan sobre:",
+      "alternativas": [
+        "Riesgo genético y función microglial",
+        "Daño axonal y activación astrocitaria",
+        "Patología tau y muerte neuronal",
+        "Inflamación intestinal y disbiosis",
+        "Permeabilidad de la barrera hematoencefálica"
+      ],
+      "respuesta": 0,
+      "pista": "Uno es el principal factor de riesgo genético; el otro, un receptor de la microglía.",
+      "argumento": "Correcta: la guía asigna a APOE y TREM2 el riesgo genético y la función microglial (diapo 11). El daño axonal corresponde a la NfL y la activación astrocitaria a la GFAP. La patología tau corresponde a la p-tau. La inflamación intestinal se explora por el conectoma neuroinmune y el microbioma, no por estos marcadores. La permeabilidad de la barrera no se mide con APOE ni TREM2. Ninguno de estos marcadores es específico de neuroinflamación: se interpretan en conjunto y en contexto.",
+      "tipo": "directa",
+      "tags": [
+        "cap3",
+        "biomarcadores"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 03, §5 (diapo 11, 26-27)"
+    },
+    {
+      "id": "c2d-16",
+      "enunciado": "En el modelo de la ketamina, el ácido quinurénico es relevante porque:",
+      "alternativas": [
+        "La microglía lo libera y es neurotóxico",
+        "Bloquea los receptores AMPA del hipocampo",
+        "Es el metabolito que produce melatonina",
+        "Actúa como factor neurotrófico en la glía",
+        "Impide la entrada de leucocitos al SNC"
+      ],
+      "respuesta": 0,
+      "pista": "Sigue la cadena: glutamato, NMDA y una señal de daño liberada por la glía.",
+      "argumento": "Correcta: la microglía activada libera ácido quinurénico, que es neurotóxico; la ketamina bloquea los receptores NMDA y reduce ese efecto, con lo que baja la liberación de ATP y la microglía se vuelve menos reactiva (diapo 13). No bloquea AMPA: la vía AMPA-mTOR es la de la ketamina como antidepresivo en la guía 08, no el mecanismo del QUIN. No es un precursor de melatonina, sino un metabolito de la vía de la quinurenina. No es trófico: es neurotóxico. No impide la entrada de leucocitos.",
+      "tipo": "directa",
+      "tags": [
+        "cap3",
+        "ketamina"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 03, §8 (diapo 13) y conceptos clave"
+    },
+    {
+      "id": "c2d-17",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre la compartimentalización de la neuroinflamación es/son correcta(s).  I) Explica por qué los fármacos periféricos pierden efecto en la fase crónica.  II) En el accidente cerebrovascular la infiltración periférica es temprana y marcada.  III) En Alzheimer la microglía es inicialmente beneficiosa.  IV) En la esclerosis múltiple la inflamación permanece periférica en todas las fases.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo II y III",
+        "Solo I y III",
+        "Solo I, II y III",
+        "Solo I, II y IV"
+      ],
+      "respuesta": 3,
+      "pista": "Una de las enfermedades cambia de compartimento con el tiempo.",
+      "argumento": "I: V. Cuando la inflamación queda contenida en el SNC deja de responder a las señales periféricas de resolución, y por eso se requieren fármacos que penetren la barrera (diapo 12, Science 2025). II: V. En el ACV la infiltración periférica es temprana y marcada. III: V. En Alzheimer y Parkinson la activación microglial es bifásica: al inicio elimina proteína mal plegada y luego daña. IV: F. En la esclerosis múltiple hay infiltración periférica marcada al inicio, pero luego se compartimentaliza. Por eso corresponde «Solo I, II y III»; la opción que combina I, II y IV incluye el numeral falso IV.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap3",
+        "compartimentalizacion"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Guía 03, §6, Tabla 3 (Science 2025)"
+    },
+    {
+      "id": "c2d-18",
+      "enunciado": "Sobre el conectoma neuroinmune, ¿cuál afirmación es correcta?",
+      "alternativas": [
+        "El núcleo vagal limita la inflamación",
+        "La insulina es su principal señal medular",
+        "La corteza insular no participa en la interocepción",
+        "Sus señales van solo de la periferia al SNC",
+        "Ninguna de las anteriores es correcta"
+      ],
+      "respuesta": 0,
+      "pista": "El sistema es bidireccional; busca el nodo con salida colinérgica.",
+      "argumento": "Correcta: en el núcleo vagal, la noradrenalina y la acetilcolina actúan sobre linfocitos T esplénicos y limitan la inflamación por vía colinérgica (Tabla 2). La insulina no aparece como señal de este circuito. La corteza insular sí participa: aloja un «engrama inmune» ligado a inflamación intestinal y es región de interocepción. La comunicación es bidireccional, no unidireccional desde la periferia. Por eso «Ninguna de las anteriores» es falsa: la opción del núcleo vagal es verdadera.",
+      "tipo": "todas-ninguna",
+      "tags": [
+        "cap3",
+        "conectoma"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 03, §4, Tabla 2 (diapos 5-6)"
+    },
+    {
+      "id": "c2d-19",
+      "enunciado": "En el debate sobre el cerebro dividido, McDougall sostuvo que tras seccionar el cuerpo calloso:",
+      "alternativas": [
+        "La conciencia seguiría siendo única e indivisible",
+        "La mente se dividiría en dos conciencias",
+        "El hemisferio derecho perdería el lenguaje",
+        "Surgirían tantas conciencias como áreas",
+        "La conciencia dependería solo del tálamo"
+      ],
+      "respuesta": 0,
+      "pista": "Uno de los dos esperaba demostrar la unidad de la mente y se ofreció para la cirugía.",
+      "argumento": "Correcta: McDougall sostenía que la conciencia seguiría siendo un proceso unitario e indivisible, y llegó a pedir a Sherrington que le seccionara el calloso si enfermaba, para demostrarlo (cap. 7, p. 224). La división en dos conciencias es la tesis de Fechner, que Sperry comprobó en pacientes callosotomizados. La pérdida del lenguaje en el hemisferio derecho no es un postulado de ese debate: el derecho ya no habla en la mayoría de las personas. La multiplicación de conciencias por área corresponde a Zeki, y la dependencia exclusiva del tálamo a la formulación de Searle sobre el campo unificado.",
+      "tipo": "directa",
+      "tags": [
+        "cap4",
+        "cerebro-dividido"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 04, §6 (cap. 7, p. 224)"
+    },
+    {
+      "id": "c2d-20",
+      "enunciado": "El caso de la dama desencarnada ilustra la contribución de la propiocepción a:",
+      "alternativas": [
+        "La experiencia del cuerpo como propio",
+        "La formación de nuevos recuerdos",
+        "El reconocimiento visual de objetos",
+        "La producción del lenguaje proposicional",
+        "La atribución de la pierna a un impostor"
+      ],
+      "respuesta": 0,
+      "pista": "Perdió el flujo sensorial de músculos y articulaciones, no la memoria ni la visión.",
+      "argumento": "Correcta: la pérdida de propiocepción convierte el caso en el mejor argumento sobre la contribución de las señales somatosensoriales e interoceptivas a la experiencia de sí mismo (Sacks pp. 57-69). La formación de recuerdos es el eje del marinero perdido. El reconocimiento visual de objetos corresponde al hombre que confundió a su mujer con un sombrero. El lenguaje no es el déficit de este caso. La pierna ajena corresponde al hombre que se cayó de la cama, que ilustra la pertenencia del miembro. El profesor advierte que estos casos muestran disociaciones, pero no identifican por sí solos los correlatos neuronales.",
+      "tipo": "directa",
+      "tags": [
+        "cap4",
+        "sacks"
+      ],
+      "dificultad": "facil",
+      "fuente": "Guía 04, §8 (Sacks pp. 57-69)"
+    },
+    {
+      "id": "c2d-21",
+      "enunciado": "En la visión ciega por lesión de V1, el paciente típicamente:",
+      "alternativas": [
+        "Sigue el punto con el dedo, pero niega verlo",
+        "Ve el punto, pero no puede seguirlo con el dedo",
+        "Pierde la visión de los colores con forma intacta",
+        "No reconoce caras, pero distingue colores",
+        "Confunde el color con el movimiento de los objetos"
+      ],
+      "respuesta": 0,
+      "pista": "La información llega por vías alternativas: hay conducta visual sin experiencia.",
+      "argumento": "Correcta: en la visión ciega el paciente sigue con el dedo un punto de luz con precisión pero niega verlo, porque la información viaja por vías alternativas que no generan experiencia, con lesión en V1 (cap. 7, pp. 237-238). La opción contraria invierte el hallazgo: no hay experiencia y sí conducta. La pérdida de color con forma intacta es una lesión de V4, no de V1. La disociación entre reconocer caras y distinguir colores no describe el cuadro. La confusión color-movimiento corresponde a las microconciencias de Zeki, no a la visión ciega.",
+      "tipo": "directa",
+      "tags": [
+        "cap4",
+        "vision-ciega"
+      ],
+      "dificultad": "facil",
+      "fuente": "Guía 04, §7 (cap. 7, pp. 237-238)"
+    },
+    {
+      "id": "c2d-22",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre los estados de conciencia es/son correcta(s).  I) En el estado vegetativo fallan las condiciones basales.  II) La agnosia visual del Dr. P. compromete un contenido con el estado conservado.  III) El coma preserva la conciencia aunque no haya reporte.  IV) Un P3b conservado basta para diagnosticar conciencia.",
+      "alternativas": [
+        "Solo I",
+        "Solo II",
+        "Solo I y II",
+        "Solo III y IV",
+        "Solo I, II y IV"
+      ],
+      "respuesta": 2,
+      "pista": "Distingue el nivel de vigilia del contenido de la experiencia.",
+      "argumento": "I: V. El estado vegetativo tiene deterioradas las condiciones basales, que son permisivas y no aportan contenido (diapo 58). II: V. El Dr. P. conserva el estado consciente y pierde un contenido específico, el reconocimiento. III: F. En el coma se pierde la conciencia; no es un caso de conciencia sin reporte. IV: F. El P3b mide procesos post-perceptuales y puede evocarse con estímulos subliminales, de modo que no certifica conciencia. Por eso la respuesta es «Solo I y II»; las demás opciones incluyen numerales falsos.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap4",
+        "estados-conciencia"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 04, §1-2 (diapo 58) y §5"
+    },
+    {
+      "id": "c2d-23",
+      "enunciado": "Que el P3b pueda evocarse con estímulos subliminales indica que:",
+      "alternativas": [
+        "Registra procesamiento post-perceptual, no experiencia",
+        "Es un marcador específico de conciencia",
+        "Depende sobre todo de la corteza prefrontal dorsolateral",
+        "Solo aparece cuando el estímulo se reporta",
+        "Refleja la integridad de la vía visual primaria"
+      ],
+      "respuesta": 0,
+      "pista": "Separa lo que la onda mide de lo que el paradigma asumía que medía.",
+      "argumento": "Correcta: si aparece sin experiencia, el P3b no puede ser la firma de la conciencia; mide memoria de trabajo, actualización de contexto y atención dirigida (diapo 60). No es específico de conciencia: también desaparece ante estímulos visibles no relevantes para la tarea. No se lo atribuye a la prefrontal dorsolateral como su generador; la clase lo usa para mostrar que la frontal ejecuta tareas. No requiere reporte: precisamente se evoca sin él. No refleja la integridad de V1, que se explora con la visión ciega y la perimetría.",
+      "tipo": "directa",
+      "tags": [
+        "cap4",
+        "p3b"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 04, §5 (diapo 60)"
+    },
+    {
+      "id": "c2d-24",
+      "enunciado": "Un paciente identifica a quién pertenece una cara pero no distingue su expresión. El cuadro corresponde a:",
+      "alternativas": [
+        "Agnosia emocional",
+        "Prosopagnosia",
+        "Agnosia visual aperceptiva",
+        "Visión ciega",
+        "Acinetopsia"
+      ],
+      "respuesta": 0,
+      "pista": "Reconoce la identidad; lo que falla es el canal de la emoción.",
+      "argumento": "Correcta: la agnosia emocional reconoce a quién pertenece la cara pero no distingue su expresión (cap. 7, pp. 237-238). La prosopagnosia es lo inverso: ve una cara y sabe que es una cara, pero no sabe de quién. La agnosia visual aperceptiva impide integrar el objeto como totalidad. La visión ciega es conducta visual sin experiencia por lesión de V1. La acinetopsia es la pérdida selectiva de la visión del movimiento por lesión de V5.",
+      "tipo": "directa",
+      "tags": [
+        "cap4",
+        "percepcion-sin-conciencia"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 04, §7 (cap. 7, pp. 237-238)"
+    },
+    {
+      "id": "c2d-25",
+      "enunciado": "En la fobia del lobo descrita en el capítulo 14, el animal temido:",
+      "alternativas": [
+        "Sustituye al representante reprimido",
+        "Es el representante mismo, no desplazado",
+        "Corresponde al monto de afecto intacto",
+        "Es una huella primaria sin reordenar",
+        "Es el significante primario de la interfaz"
+      ],
+      "respuesta": 0,
+      "pista": "La representación se reprime y el afecto no: ¿dónde se aloja entonces el miedo?",
+      "argumento": "Correcta: el lobo ocupa el sitio del representante reprimido, y el afecto no reprimido se transpone en angustia desplazada a ese sustituto (pp. 210-211). No es el representante mismo: ese quedó fuera de la conciencia. No es el monto de afecto: el afecto es la carga, no el objeto. No es una huella primaria: es un significante fóbico, un elemento cualquiera que activa la red asociativa. Tratar solo el objeto temido deja intacto el circuito afectivo.",
+      "tipo": "directa",
+      "tags": [
+        "cap5",
+        "represion-clinica"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 05, §5 (pp. 210-211)"
+    },
+    {
+      "id": "c2d-26",
+      "enunciado": "Se dice que la represión es fundamentalmente fallida porque:",
+      "alternativas": [
+        "El afecto persiste y retorna como angustia",
+        "La representación vuelve intacta a la conciencia",
+        "El afecto se borra y queda solo la idea",
+        "Ambos elementos se eliminan del psiquismo",
+        "El sujeto recuerda el conflicto a voluntad"
+      ],
+      "respuesta": 0,
+      "pista": "Separa los dos destinos: uno se reprime bien y el otro casi nunca.",
+      "argumento": "Correcta: la represión actúa con éxito relativo sobre el representante y fracasa sobre el estado somático; el afecto persiste como emoción desagradable que perturba la acción, y lo reprimido retorna (pp. 207-211). La representación no vuelve intacta: queda fuera de la conciencia y retorna de forma desplazada. El afecto es lo que no se borra. No se eliminan ambos elementos. El recuerdo voluntario no es el mecanismo de la represión, sino el de la supresión estudiada en el laboratorio.",
+      "tipo": "directa",
+      "tags": [
+        "cap5",
+        "retorno-reprimido"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 05, §5 (pp. 207-211)"
+    },
+    {
+      "id": "c2d-27",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre la evidencia de la represión es/son correcta(s).  I) La supresión voluntaria demuestra el borrado permanente del recuerdo.  II) Los estudios de supresión muestran control de la recuperación, con costos.  III) La plasticidad sináptica es el sustrato de inscripción de las huellas.  IV) La evidencia permite identificar el contenido reprimido de un paciente.",
+      "alternativas": [
+        "Solo II",
+        "Solo III",
+        "Solo II y III",
+        "Solo I y IV",
+        "Solo II, III y IV"
+      ],
+      "respuesta": 2,
+      "pista": "Distingue lo que se demuestra de lo que solo se postula.",
+      "argumento": "I: F. Lo demostrado son mecanismos de control que interfieren en la recuperación, con límites y costos, no un borrado permanente. II: V. Anderson describe activación prefrontal dorsolateral con hipoactividad hipocampal y dificultad de retención posterior. III: V. La plasticidad sináptica es el sustrato de inscripción de las huellas y de la realidad interna. IV: F. La evidencia no verifica un contenido reprimido concreto; solo autoriza mecanismos análogos. Por eso corresponde «Solo II y III».",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap5",
+        "limites-evidencia"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Guía 05, §6 y §8 (pp. 201-209)"
+    },
+    {
+      "id": "c2d-28",
+      "enunciado": "La objeción del capítulo 14 al modelo de Anderson es que sus experimentos:",
+      "alternativas": [
+        "Evalúan supresión voluntaria, no represión",
+        "Usaron muestras demasiado pequeñas para concluir",
+        "No emplearon neuroimagen funcional validada",
+        "Confunden memoria implícita con explícita",
+        "No se replicaron en población clínica"
+      ],
+      "respuesta": 0,
+      "pista": "El fenómeno de laboratorio exige que el sujeto quiera olvidar.",
+      "argumento": "Correcta: el modelo involucra procesos cognitivos sobre los que se ejerce voluntad consciente, mientras la represión freudiana ocurre sin que el sujeto lo advierta; solo cabe postular mecanismos análogos (p. 209). El tamaño muestral no es la objeción planteada. Sí se usó neuroimagen funcional, y ese no es el reparo. La distinción implícita/explícita no es el eje de la crítica. La falta de replicación clínica tampoco se discute: el problema es conceptual, no de población.",
+      "tipo": "directa",
+      "tags": [
+        "cap5",
+        "anderson"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 05, §6 y §8 (pp. 208-209)"
+    },
+    {
+      "id": "c2d-29",
+      "enunciado": "La terapia comportamental no alcanza el escenario fantasmático porque actúa sobre:",
+      "alternativas": [
+        "Huellas primarias, no sobre las reasociadas",
+        "El significante primario de la interfaz",
+        "La red asociativa completa del escenario fantasmático",
+        "El monto de afecto y su desplazamiento",
+        "Los significantes fóbicos de la cadena"
+      ],
+      "respuesta": 0,
+      "pista": "Solo llega a la sinapsis facilitada por el acontecimiento original.",
+      "argumento": "Correcta: la comportamental actúa si percepción e inscripción guardan relación lineal y unívoca, y libera del condicionamiento las sinapsis facilitadas por el acontecimiento, es decir, las huellas primarias (p. 203). El significante primario es el blanco de la cura analítica, no de la comportamental. La red asociativa completa es justamente lo que no alcanza. El monto de afecto y su desplazamiento pertenecen al análisis de la represión. Los significantes fóbicos se abordan atrapando la red, tarea analítica.",
+      "tipo": "directa",
+      "tags": [
+        "cap5",
+        "psicoterapia"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 05, §5-6 (pp. 203, 206-207)"
+    },
+    {
+      "id": "c2d-30",
+      "enunciado": "El caso de Jimmie G. aporta a la tesis del capítulo 14 porque muestra que:",
+      "alternativas": [
+        "La procedimental se conserva sin memoria episódica",
+        "La memoria implícita equivale al inconsciente freudiano",
+        "Sin hipocampo desaparece toda habilidad",
+        "La represión explica la amnesia del paciente",
+        "El lenguaje depende de la memoria episódica"
+      ],
+      "respuesta": 0,
+      "pista": "Mecanografía al tacto, pero no recuerda el minuto anterior.",
+      "argumento": "Correcta: Jimmie conserva sus facultades y su mecanografía al tacto mientras sus huellas episódicas se borran al cabo de un minuto; eso separa procedimental, episódico e inconsciente freudiano (Sacks pp. 30-34). La memoria implícita no equivale al inconsciente: es descriptible y recordable. No desaparece toda habilidad, precisamente porque la procedimental se mantiene. La amnesia es orgánica, no represiva. El lenguaje se conserva, lo que muestra que no depende de la memoria episódica.",
+      "tipo": "directa",
+      "tags": [
+        "cap5",
+        "sacks"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 05, §7 (Sacks pp. 30-34)"
+    },
+    {
+      "id": "c2d-31",
+      "enunciado": "En la esclerosis lateral amiotrófica, la forma familiar corresponde a:",
+      "alternativas": [
+        "≈10% y se asocia a SOD1",
+        "≈10% y se asocia a FMR1",
+        "≈50% y se asocia a APOE",
+        "≈90% y se asocia a SOD1",
+        "≈90% y se asocia a dinactina"
+      ],
+      "respuesta": 0,
+      "pista": "La mayoría de los casos no tiene una mutación identificada.",
+      "argumento": "Correcta: las formas familiares son cerca del 10% y se asocian a SOD1 (superóxido dismutasa Cu/Zn) y a dinactina (p. 373). FMR1 corresponde al X frágil y al TEA, no a la ELA. APOE es el factor de riesgo del Alzheimer esporádico. Invertir la proporción (90% familiar) es el error más frecuente. La dinactina sí participa, pero en el 10% familiar, no en el 90% esporádico.",
+      "tipo": "directa",
+      "tags": [
+        "cap6",
+        "ela"
+      ],
+      "dificultad": "facil",
+      "fuente": "Guía 06, §9, Tabla 3 (p. 373)"
+    },
+    {
+      "id": "c2d-32",
+      "enunciado": "La combinación de atrofia muscular progresiva con signos de vía superior en un mismo paciente se explica porque la ELA:",
+      "alternativas": [
+        "Compromete motoneuronas superiores e inferiores",
+        "Compromete solo las motoneuronas inferiores",
+        "Compromete solo las motoneuronas superiores",
+        "Afecta primero a las neuronas sensitivas periféricas",
+        "Respeta los núcleos motores del tronco"
+      ],
+      "respuesta": 0,
+      "pista": "Revisa si el recuadro incluye corteza y asta ventral a la vez.",
+      "argumento": "Correcta: la ELA degenera motoneuronas alfa del asta ventral y núcleos motores del tronco junto con neuronas de la corteza motora; de ahí la atrofia con signos de vía superior (p. 373). Decir que es solo de motoneurona inferior es el error que el recuadro corrige expresamente. Tampoco es solo superior. La enfermedad no produce síntomas sensitivos. Los núcleos motores del tronco sí están comprometidos, lo que explica la disfagia y la disartria.",
+      "tipo": "directa",
+      "tags": [
+        "cap6",
+        "ela-clinica"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 06, §9 (p. 373)"
+    },
+    {
+      "id": "c2d-33",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre la motoneurona inferior es/son correcta(s).  I) Su lesión produce atrofia en el territorio exacto que inerva.  II) La lesión de la motoneurona superior produce atrofia focal.  III) La ELA respeta la corteza motora.  IV) La motoneurona inferior es la vía final común del movimiento.",
+      "alternativas": [
+        "Solo I",
+        "Solo II",
+        "Solo I y IV",
+        "Solo II y III",
+        "Solo I, II y IV"
+      ],
+      "respuesta": 2,
+      "pista": "La vía final común ejecuta; la superior modula.",
+      "argumento": "I: V. Toda lesión de la motoneurona inferior produce debilidad en el territorio exacto que inerva, con atrofia (p. 354). II: F. La lesión de motoneurona superior se expresa de forma más gruesa por pérdida de la modulación, sin atrofia focal. III: F. La ELA compromete también la corteza motora. IV: V. Sherrington la denominó así porque su axón es el único que contacta directamente las fibras extrafusales. Por eso corresponde «Solo I y IV».",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap6",
+        "mni-vs-mns"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 06, §2 (p. 354) y §9"
+    },
+    {
+      "id": "c2d-34",
+      "enunciado": "Las biopsias musculares de velocistas y maratonistas se citan para mostrar que:",
+      "alternativas": [
+        "Las propiedades de la unidad motora dependen del uso",
+        "El número de motoneuronas es fijo desde el nacimiento",
+        "La relación de inervación no cambia con el entrenamiento",
+        "El tipo de fibra está determinado solo por el genotipo",
+        "El entrenamiento no modifica la fatigabilidad"
+      ],
+      "respuesta": 0,
+      "pista": "El dato es plástico, no genético: compara dos deportistas.",
+      "argumento": "Correcta: la guía señala que las propiedades de la unidad motora son plásticas y dependen del uso, y lo ilustra con las biopsias de velocistas y maratonistas (p. 358). El número de motoneuronas no es el punto del ejemplo. La relación de inervación es un dato funcional del músculo y no se presenta como inmutable, pero el ejemplo apunta a la plasticidad, no a su rigidez. El genotipo no es el único determinante, y la fatigabilidad sí cambia con el entrenamiento. El ejemplo sirve para explicar por qué la atrofia por desuso y el acondicionamiento modifican el rendimiento.",
+      "tipo": "directa",
+      "tags": [
+        "cap6",
+        "atrofia-uso"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 06, §7 (p. 358)"
+    },
+    {
+      "id": "c2d-35",
+      "enunciado": "En una contracción sostenida, la caída progresiva de la tensión se explica porque:",
+      "alternativas": [
+        "Se fatigan las unidades rápidas reclutadas",
+        "Se reclutan en orden inverso las lentas",
+        "Las unidades lentas dejan de descargar",
+        "Aumenta la frecuencia de descarga global",
+        "Se pierde la aferencia de los husos"
+      ],
+      "respuesta": 0,
+      "pista": "La unidad que sostiene la postura casi no decae; la otra cae a cero en minutos.",
+      "argumento": "Correcta: al sumarse unidades rápidas fatigables para sostener la fuerza, su tensión cae a cero en minutos, mientras la lenta prácticamente no decae (Figura 3, p. 358). El reclutamiento no se invierte: sigue el principio del tamaño, de menor a mayor. Las unidades lentas no dejan de descargar; son las que mejor resisten. La frecuencia de descarga aumenta la tensión, no la reduce. La pérdida de aferencia de los husos no explica la caída de tensión en este modelo.",
+      "tipo": "directa",
+      "tags": [
+        "cap6",
+        "fatiga"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 06, §7, Figura 3 (p. 358)"
+    },
+    {
+      "id": "c2d-36",
+      "enunciado": "Si se pierde la actividad de la motoneurona gamma, el huso muscular:",
+      "alternativas": [
+        "Deja de informar cuando el músculo se acorta",
+        "Aumenta su sensibilidad en todo el rango",
+        "Produce fuerza extrafusal por sí mismo",
+        "Se desconecta de la médula espinal",
+        "Detecta tensión tendinosa en su lugar"
+      ],
+      "respuesta": 0,
+      "pista": "La gamma no hace fuerza: configura el receptor.",
+      "argumento": "Correcta: la gamma inerva las fibras intrafusales y mantiene el huso en un rango de longitud útil; sin ese ajuste, el receptor deja de detectar cambios cuando el músculo se acorta (pp. 356-357). No aumenta la sensibilidad en todo el rango: la pierde en el acortamiento. No produce fuerza, porque las extrafusales dependen de la alfa. No se desconecta de la médula: sigue inervado sensitivamente. El huso informa longitud, no tensión tendinosa; eso corresponde al órgano de Golgi.",
+      "tipo": "directa",
+      "tags": [
+        "cap6",
+        "gamma-huso"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 06, §5 (pp. 356-357)"
+    },
+    {
+      "id": "c2d-37",
+      "enunciado": "Tras una lesión corticoespinal, el paciente recupera fuerza gruesa pero no los movimientos fraccionados porque:",
+      "alternativas": [
+        "Las vías indirectas no ejecutan movimientos finos",
+        "El tracto lateral se regenera solo en parte",
+        "El tracto ventral suple la conexión monosináptica directa",
+        "Los ganglios basales asumen la vía directa",
+        "El cerebelo reemplaza la corteza motora"
+      ],
+      "respuesta": 0,
+      "pista": "El movimiento grueso tiene relevos; los dedos dependen de conexión directa.",
+      "argumento": "Correcta: el movimiento voluntario grueso reaparece mediado por vías indirectas y centros del tronco, pero persiste la incapacidad para escribir, mecanografiar o abotonarse, porque se perdió la proyección directa a las motoneuronas del antebrazo y la mano (p. 380). El tracto no se regenera de forma funcional. El tracto ventral no suple la conexión monosináptica perdida. Los ganglios basales preparan la iniciación y no ejecutan la vía directa. El cerebelo corrige el error motor, no reemplaza la corteza.",
+      "tipo": "directa",
+      "tags": [
+        "cap7",
+        "hemiplejia"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 07, §3 (p. 380)"
+    },
+    {
+      "id": "c2d-38",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre la paresia facial es/son correcta(s).  I) La paresia central respeta la frente y el cierre de los ojos.  II) El infarto de la cerebral media compromete la frente.  III) Las columnas dorsales del núcleo facial reciben aferencia del cíngulo anterior.  IV) La lesión periférica del facial respeta la frente.",
+      "alternativas": [
+        "Solo I",
+        "Solo II",
+        "Solo I y III",
+        "Solo III y IV",
+        "Solo I, II y III"
+      ],
+      "respuesta": 2,
+      "pista": "La explicación actual no es solo la proyección bilateral: hay otra arteria.",
+      "argumento": "I: V. La lesión de motoneurona superior compromete la musculatura peribucal contralateral y respeta la frente y el cierre de los ojos. II: F. El infarto de la cerebral media respeta la frente; por eso el patrón es central. III: V. Las columnas dorsales del núcleo facial, que inervan la musculatura superior, reciben su aferencia principal del cíngulo anterior, irrigado por la cerebral anterior (pp. 379-380). IV: F. La lesión periférica compromete todos los músculos de la expresión del mismo lado, incluida la frente. Por eso corresponde «Solo I y III».",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap7",
+        "facial"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Guía 07, §4 (pp. 378-380)"
+    },
+    {
+      "id": "c2d-39",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre la hemisección medular derecha es/son correcta(s).  I) Se pierde dolor y temperatura del mismo lado de la lesión.  II) Se pierde tacto fino y propiocepción del lado derecho.  III) El espinotalámico cruza dentro de la médula.  IV) Las columnas dorsales cruzan dentro de la médula.",
+      "alternativas": [
+        "Solo II",
+        "Solo III",
+        "Solo II y III",
+        "Solo I y IV",
+        "Solo II, III y IV"
+      ],
+      "respuesta": 2,
+      "pista": "Ordena los cruces: uno es medular y el otro es bulbar.",
+      "argumento": "I: F. El dolor y la temperatura se pierden del lado contralateral, porque el espinotalámico ya cruzó en la médula. II: V. El tacto fino, la vibración y la propiocepción se pierden del mismo lado, porque las columnas dorsales ascienden homolaterales hasta el bulbo. III: V. La segunda neurona cruza la comisura blanca anterior y asciende por el cuadrante anterolateral contralateral (pp. 214-215). IV: F. Las columnas dorsales cruzan en el bulbo, no en la médula. Por eso corresponde «Solo II y III».",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap7",
+        "brown-sequard"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Guía 07, §3 bis (pp. 214-215)"
+    },
+    {
+      "id": "c2d-40",
+      "enunciado": "La diferencia esencial entre el tracto corticoespinal lateral y el espinotalámico es que:",
+      "alternativas": [
+        "Uno baja al asta ventral y el otro sube al tálamo",
+        "Ambos descienden, pero a distintos cuernos medulares",
+        "Ambos cruzan en el bulbo caudal",
+        "El espinotalámico termina en el asta ventral",
+        "El corticoespinal cruza dentro de la médula"
+      ],
+      "respuesta": 0,
+      "pista": "Mira la dirección de la flecha y el destino, no la vecindad anatómica.",
+      "argumento": "Correcta: los axones corticoespinales bajan desde la capa V y terminan sobre motoneuronas del asta ventral; los espinotalámicos suben desde el asta dorsal y terminan en el complejo nuclear ventral posterior del tálamo (pp. 214-215). No son dos tractos descendentes. No cruzan en el mismo nivel: el corticoespinal lo hace en el bulbo caudal y el anterolateral en la médula segmentaria. El espinotalámico no termina en el asta ventral. El corticoespinal no cruza en la médula, sino en el bulbo.",
+      "tipo": "directa",
+      "tags": [
+        "cap7",
+        "vias-comparadas"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 07, §3 bis (pp. 214-215)"
+    },
+    {
+      "id": "c2d-41",
+      "enunciado": "La lesión de la corteza premotora lateral deteriora sobre todo:",
+      "alternativas": [
+        "Tareas condicionales y órdenes verbales",
+        "Movimientos autoiniciados sin señal externa",
+        "La fuerza distal de la mano contralateral",
+        "La propiocepción del miembro superior",
+        "El campo visual contralateral"
+      ],
+      "respuesta": 0,
+      "pista": "La lateral trabaja con señales externas; la medial, con intención interna.",
+      "argumento": "Correcta: la premotora lateral sirve tareas condicionales de asa cerrada, y su lesión deteriora tareas condicionales y la respuesta a órdenes verbales (pp. 387-389). Los movimientos autoiniciados dependen de la premotora medial, cuya lesión reduce los movimientos espontáneos y conserva la respuesta a señales externas. La fuerza distal se pierde con la lesión de la vía corticoespinal o de M1, no de forma selectiva aquí. La propiocepción es una función sensitiva. El campo visual no depende de la premotora.",
+      "tipo": "directa",
+      "tags": [
+        "cap7",
+        "premotora"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 07, §7, Tabla 3 (pp. 387-389)"
+    },
+    {
+      "id": "c2d-42",
+      "enunciado": "Las neuronas espejo de la premotora ventral responden cuando el sujeto:",
+      "alternativas": [
+        "Observa una acción con meta, aunque esté oculta",
+        "Ejecuta el movimiento sin objetivo alguno",
+        "Solo recibe estimulación eléctrica cortical",
+        "Imagina un objeto sin movimiento asociado",
+        "Observa cualquier movimiento pasivo del experimentador"
+      ],
+      "respuesta": 0,
+      "pista": "Codifican la intención de la acción, no su imagen.",
+      "argumento": "Correcta: responden al observar una acción dirigida a una meta, aunque la etapa final quede oculta tras una barrera, y responden mucho menos cuando se copia el mismo movimiento sin objetivo (p. 388). No se limitan a la ejecución propia: también descargan al observar. No requieren estimulación eléctrica. No responden a la mera imaginación de un objeto. No responden a cualquier movimiento pasivo, sino a acciones con meta. Se propone que participan en una red parietofrontal de imitación, con alcance aún no resuelto, lo que sostiene su uso en rehabilitación.",
+      "tipo": "directa",
+      "tags": [
+        "cap7",
+        "neuronas-espejo"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 07, §8 (p. 388)"
+    },
+    {
+      "id": "c2d-43",
+      "enunciado": "¿Cuál afirmación sobre el TEA en la práctica clínica es correcta?",
+      "alternativas": [
+        "Cerca del 85% de los casos es idiopático",
+        "La mayoría tiene mutación de alta penetrancia",
+        "El lenguaje normal temprano lo descarta",
+        "Siempre se manifiesta antes de los 3 años",
+        "Ninguna de las anteriores es correcta"
+      ],
+      "respuesta": 0,
+      "pista": "Las formas sindromáticas explican una minoría de lo que se ve en consulta.",
+      "argumento": "Correcta: cerca del 85% de los casos vistos en la práctica son idiopáticos, y para ellos el modelo monogénico no ofrece explicación (diapo 62). Las mutaciones raras de alta penetrancia explican una minoría, no la mayoría. Un desarrollo temprano normal de los hitos del lenguaje no descarta el espectro: el gradiente puede descompensarse en la adolescencia. No siempre se manifiesta antes de los 3 años; esa fue justamente la ventana temporal del modelo clásico. Por eso «Ninguna de las anteriores» es falsa.",
+      "tipo": "todas-ninguna",
+      "tags": [
+        "cap8",
+        "tea"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 08, §2-4 (diapos 62-63)"
+    },
+    {
+      "id": "c2d-44",
+      "enunciado": "El efecto clínico del ISRS tarda semanas aunque el transportador se bloquee en horas porque:",
+      "alternativas": [
+        "Requiere cambios plásticos, no solo más serotonina",
+        "La dosis se titula lentamente hasta el óptimo",
+        "El transportador tarda en ocuparse por completo",
+        "El fármaco se acumula en el tejido adiposo",
+        "El hígado induce su propio metabolismo"
+      ],
+      "respuesta": 0,
+      "pista": "Piensa en lo que el retraso demuestra, no en la farmacocinética.",
+      "argumento": "Correcta: el efecto depende de desensibilización de autorreceptores, normalización del eje HHA, aumento de BDNF, arborización dendrítica, espinogénesis y neurogénesis (clase 6/11). El retraso no se explica por titulación de dosis: en el escenario descrito ya se usó dosis adecuada. El transportador se bloquea en horas, según el propio enunciado. La acumulación en grasa no es el mecanismo propuesto. La inducción hepática afectaría los niveles plasmáticos, no la latencia del efecto clínico. El retraso es la mejor evidencia de que la depresión es, en parte, un problema sináptico.",
+      "tipo": "directa",
+      "tags": [
+        "cap8",
+        "depresion-isrs"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 08, §7 (clase 6/11)"
+    },
+    {
+      "id": "c2d-45",
+      "enunciado": "El efecto antidepresivo rápido de la ketamina se explica por la secuencia:",
+      "alternativas": [
+        "NMDA en interneuronas, glutamato, AMPA y mTOR",
+        "Bloqueo del SERT y aumento de serotonina sináptica",
+        "Bloqueo D2 y reducción de la catalepsia",
+        "Inhibición de la MAO y menor degradación",
+        "Activación de TrkB por BDNF exógeno"
+      ],
+      "respuesta": 0,
+      "pista": "Empieza por la desinhibición: bloquea un freno GABAérgico.",
+      "argumento": "Correcta: bloquea los receptores NMDA de las interneuronas GABAérgicas, desinhibe la liberación de glutamato, activa AMPA y por mTOR aumenta la síntesis de proteínas sinápticas con sinaptogénesis rápida (clase 6/11). El bloqueo del SERT es el mecanismo del ISRS, con latencia de semanas. El bloqueo D2 es el de los antipsicóticos y produce catalepsia. La inhibición de la MAO es de otra familia de antidepresivos. La activación de TrkB por BDNF es parte de la vía plástica del ISRS, no el mecanismo agudo de la ketamina.",
+      "tipo": "directa",
+      "tags": [
+        "cap8",
+        "ketamina"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 08, §7, Tabla 3"
+    },
+    {
+      "id": "c2d-46",
+      "enunciado": "¿Cuál afirmación sobre la reserpina es correcta?",
+      "alternativas": [
+        "Depleta monoaminas y produjo depresión",
+        "Bloquea de forma selectiva los receptores D2",
+        "Fue el primer inhibidor de la MAO clínico",
+        "Aumenta la dopamina en el núcleo accumbens",
+        "Ninguna de las anteriores es correcta"
+      ],
+      "respuesta": 0,
+      "pista": "No bloquea el receptor: vacía la vesícula.",
+      "argumento": "Correcta: la reserpina depleta monoaminas al bloquear su captación vesicular, y su efecto adverso fue la depresión en pacientes hipertensos, hallazgo que vinculó las aminas biógenas con el ánimo (clase 6/11). No bloquea D2; eso define a los antipsicóticos. No es un inhibidor de la MAO. No aumenta la dopamina: la reduce al impedir su almacenamiento vesicular. Por eso «Ninguna de las anteriores» es falsa.",
+      "tipo": "todas-ninguna",
+      "tags": [
+        "cap8",
+        "esquizofrenia"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 08, §8 (clase 6/11)"
+    },
+    {
+      "id": "c2d-47",
+      "enunciado": "En los trastornos de ansiedad, el nodo central del circuito de amenaza y su regulador son:",
+      "alternativas": [
+        "Amígdala y corteza prefrontal",
+        "Hipocampo y núcleo del rafe",
+        "Accumbens y área tegmental ventral",
+        "Sustancia negra y estriado dorsal",
+        "Tálamo y vermis cerebeloso"
+      ],
+      "respuesta": 0,
+      "pista": "Uno detecta la amenaza; el otro la modula desde arriba.",
+      "argumento": "Correcta: la fisiopatología comparte con la depresión el eje del estrés y los circuitos de amenaza, con la amígdala como nodo central y la corteza prefrontal como regulador (clase 6/11). Hipocampo y rafe participan en el eje del estrés y en el estado de ánimo, pero no son el par nodo-regulador del circuito de amenaza. El accumbens y el ATV son el circuito de recompensa. La sustancia negra y el estriado corresponden al control motor y al Parkinson. El tálamo y el vermis no definen este circuito. La diferencia clínica con la depresión está en el objeto y en la forma de la respuesta: anticipación y evitación.",
+      "tipo": "directa",
+      "tags": [
+        "cap8",
+        "ansiedad"
+      ],
+      "dificultad": "facil",
+      "fuente": "Guía 08, §9 (clase 6/11)"
+    },
+    {
+      "id": "c2d-48",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre la adicción es/son correcta(s).  I) La tolerancia es la menor respuesta con la repetición.  II) La abstinencia reproduce el efecto de la droga al suspenderla.  III) La adicción es un aprendizaje patológico del circuito de recompensa.  IV) La dopamina actúa como señal de predicción y no solo de placer.",
+      "alternativas": [
+        "Solo I y III",
+        "Solo I y IV",
+        "Solo III y IV",
+        "Solo I, III y IV",
+        "Solo I, II y III"
+      ],
+      "respuesta": 3,
+      "pista": "Una de las definiciones está invertida respecto de lo que ocurre al suspender.",
+      "argumento": "I: V. La tolerancia es la menor respuesta con la repetición del consumo. II: F. La abstinencia son síntomas opuestos al efecto de la droga al suspenderla, no la reproducción de ese efecto. III: V. La adicción se entiende como un aprendizaje patológico del circuito de recompensa, no como un fallo de voluntad (clase 6/11). IV: V. La dopamina funciona como señal de predicción y no solo de placer. Por eso corresponde «Solo I, III y IV».",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap8",
+        "adiccion"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 08, §10 y conceptos clave"
+    },
+    {
+      "id": "c2d-49",
+      "enunciado": "En el reporte de Omalu (2005), el diagnóstico de encefalopatía traumática crónica se estableció por:",
+      "alternativas": [
+        "Examen neuropatológico post mortem",
+        "Resonancia con tensor de difusión",
+        "El antecedente de conmociones repetidas",
+        "Biomarcadores en líquido cefalorraquídeo",
+        "Una batería neuropsicológica seriada"
+      ],
+      "respuesta": 0,
+      "pista": "En 2005 no existían criterios clínicos ni de imagen para esta entidad.",
+      "argumento": "Correcta: el trabajo es un reporte de caso con autopsia completa, y el diagnóstico se sostiene en el examen neuropatológico: placas difusas, hebras neuríticas y ovillos neocorticales perivasculares (pp. 128-131). La resonancia con tensor de difusión no se usó. El antecedente de conmociones es el contexto etiológico, no el criterio diagnóstico. No hubo biomarcadores de líquido cefalorraquídeo. La batería neuropsicológica no existió: la historia se reconstruyó por entrevistas telefónicas a familiares.",
+      "tipo": "directa",
+      "tags": [
+        "cap9",
+        "cte-diagnostico"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 09, §1 y §3 (pp. 128-131)"
+    },
+    {
+      "id": "c2d-50",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre los límites del reporte de Omalu es/son correcta(s).  I) Es un caso único, sin serie ni controles.  II) La historia neuropsiquiátrica se obtuvo de forma retrospectiva.  III) La autopsia fue completa y con examen neuropatológico exhaustivo.  IV) El diseño permite estimar la prevalencia de CTE en jugadores.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo II y III",
+        "Solo I y III",
+        "Solo I, II y III",
+        "Solo I, II y IV"
+      ],
+      "respuesta": 3,
+      "pista": "Separa las fortalezas metodológicas de lo que el diseño no puede entregar.",
+      "argumento": "I: V. Es un caso único, sin serie ni controles (p. 128). II: V. La historia neuropsiquiátrica se obtuvo por entrevistas telefónicas a familiares, de forma retrospectiva. III: V. La autopsia fue completa, con examen macroscópico, microscópico e inmunohistoquímico, y con diagnóstico diferencial explícito. IV: F. Con esa base no puede establecerse prevalencia ni causalidad; el propio artículo recomienda estudiar la cohorte. Por eso corresponde «Solo I, II y III».",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap9",
+        "limites-reporte"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 09, §7 (pp. 128-133)"
+    },
+    {
+      "id": "c2d-51",
+      "enunciado": "Sobre la epidemiología de la conmoción en la NFL, ¿cuál afirmación es correcta?",
+      "alternativas": [
+        "La mayoría cursa con pérdida de conciencia",
+        "El 92% de los jugadores requiere hospitalización",
+        "El impacto contra el suelo es la causa más frecuente",
+        "Los quarterbacks son el grupo de menor riesgo",
+        "Ninguna de las anteriores es correcta"
+      ],
+      "respuesta": 4,
+      "pista": "Revisa cada cifra: varias están invertidas respecto del artículo.",
+      "argumento": "Correcta: «Ninguna de las anteriores es correcta». Solo el 9,3% cursa con pérdida de conciencia, de modo que la mayoría no la presenta (p. 131). Solo el 2,4% requiere hospitalización, no el 92%; ese 92% corresponde a los que vuelven a entrenar en menos de siete días. El impacto contra el suelo representa el 11,4%, muy por debajo del 67,7% por impacto con el casco de otro jugador. Los quarterbacks, junto con wide receivers, tight ends y defensive backs, están entre los de mayor riesgo, no entre los de menor. Cada una de las cuatro opciones contradice un dato del artículo.",
+      "tipo": "todas-ninguna",
+      "tags": [
+        "cap9",
+        "epidemiologia"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Guía 09, §5 (p. 131)"
+    },
+    {
+      "id": "c2d-52",
+      "enunciado": "Que en la NFL dos tercios de las conmociones se deban al casco de otro jugador sugiere que:",
+      "alternativas": [
+        "El contacto casco a casco es el blanco preventivo",
+        "El casco elimina el riesgo de conmoción",
+        "El suelo es la causa principal del impacto craneal",
+        "Solo los quarterbacks están realmente expuestos",
+        "La prevención debe basarse en el entrenamiento"
+      ],
+      "respuesta": 0,
+      "pista": "Fíjate en el porcentaje mayor y en el mecanismo que implica.",
+      "argumento": "Correcta: si el 67,7% de las conmociones se produce por impacto con el casco de otro jugador, ese contacto es el blanco preventivo más directo (p. 131). El casco no elimina el riesgo: el propio dato muestra que el casco del contrario es la fuente principal. El suelo aporta el 11,4%, no la mayoría. Todas las posiciones están expuestas, aunque el riesgo relativo varíe. El entrenamiento puede acompañar la prevención, pero el dato no lo señala como eje. Es una inferencia razonada desde la epidemiología del artículo, no una recomendación textual.",
+      "tipo": "directa",
+      "tags": [
+        "cap9",
+        "prevencion"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 09, §5 (p. 131)"
+    },
+    {
+      "id": "c2d-53",
+      "enunciado": "La hipótesis de que el daño sea acumulativo se apoya en que las conmociones repetidas:",
+      "alternativas": [
+        "Suman cascadas bioquímicas de bajo grado",
+        "Producen una única lesión grave inicial",
+        "Actúan solo por isquemia aguda transitoria",
+        "Dejan el tejido sin cambios histológicos",
+        "Generan un efecto reversible sin secuelas"
+      ],
+      "respuesta": 0,
+      "pista": "El artículo habla de un efecto acumulativo, no de un golpe único.",
+      "argumento": "Correcta: sobre la base mecánica de aceleración y desaceleración se postulan cascadas bioquímicas inducidas por el efecto acumulativo de conmociones repetidas de bajo grado (p. 132). No se trata de una lesión grave única. La isquemia es solo uno de los componentes, junto con injuria axónica, vascular y metabolismo aberrante de APP. Sí hay cambios histológicos: hemorragias remotas en los espacios de Virchow-Robin. El efecto no se postula como reversible. Nota de alcance: el material no trata el síndrome del segundo impacto; la pregunta se limita al daño acumulativo descrito.",
+      "tipo": "directa",
+      "tags": [
+        "cap9",
+        "mecanismos"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 09, §6 (p. 132)"
+    },
+    {
+      "id": "c2d-54",
+      "enunciado": "En el jugador del reporte de Omalu, ¿qué permite concluir la ausencia de cuerpos de Lewy en la sustancia negra?",
+      "alternativas": [
+        "Argumenta contra una demencia por cuerpos de Lewy",
+        "Confirma la enfermedad de Alzheimer esporádica",
+        "Descarta la esclerosis lateral amiotrófica",
+        "Confirma la enfermedad de Parkinson idiopática",
+        "Ninguna de las anteriores es correcta"
+      ],
+      "respuesta": 0,
+      "pista": "La sustancia negra tenía pérdida neuronal, pero sin ese marcador histológico.",
+      "argumento": "Correcta: la ausencia de cuerpos de Lewy en la sustancia negra, pese a la pérdida neuronal y la astrogliosis, argumenta contra una demencia por cuerpos de Lewy y forma parte del diagnóstico diferencial del artículo (pp. 130-131). No confirma Alzheimer: eso lo decide la distribución de ovillos y placas, con hipocampo respetado. La ELA no se explora con cuerpos de Lewy, y además la médula espinal no mostraba pérdida de células del asta anterior. No confirma Parkinson: la ausencia de Lewy va en contra, no a favor. Por eso «Ninguna de las anteriores» es falsa.",
+      "tipo": "todas-ninguna",
+      "tags": [
+        "cap9",
+        "diferencial"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 09, §3-4 (pp. 130-131)"
+    },
+    {
+      "id": "c2d-55",
+      "enunciado": "Un trabajador de turnos rotativos presenta hipertensión no dipper e inflamación de bajo grado. La lectura integrada es que:",
+      "alternativas": [
+        "La desalineación crónica sostiene ambos hallazgos",
+        "La hipertensión explica por sí sola la inflamación",
+        "El hallazgo inflamatorio descarta el origen circadiano",
+        "Ambos son efectos de la privación aguda de sueño",
+        "Se explican por una mutación del reloj molecular"
+      ],
+      "respuesta": 0,
+      "pista": "Busca el factor común que el turno rotativo aporta a los dos sistemas.",
+      "argumento": "Correcta: la desalineación crónica del trabajo por turnos se asocia a riesgo metabólico y cardiovascular y, a la vez, la inflamación crónica de bajo grado es transversal y silenciosa; el factor común es la desalineación sostenida, no una lesión única (Guía 01b §5; Guía 03 §1). La hipertensión no explica por sí sola la inflamación de bajo grado. El hallazgo inflamatorio no descarta el origen circadiano: son planos compatibles. No se trata de privación aguda, sino de desalineación repetida. No hay mutación del reloj: el cuadro es ambiental y conductual. Es una integración razonada entre unidades, no una afirmación textual de una sola guía.",
+      "tipo": "directa",
+      "tags": [
+        "cap14",
+        "cruce-crono-inflamacion"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Guía 14, §8; Guía 01b, §5; Guía 03, §1"
+    },
+    {
+      "id": "c2d-56",
+      "enunciado": "¿Cuál afirmación sobre una interfaz cerebro-computador es correcta?",
+      "alternativas": [
+        "Decodifica una intención y devuelve feedback",
+        "Lee la mente sin necesidad de entrenamiento",
+        "Sustituye la función de la motoneurona inferior",
+        "Solo registra señal, sin procesarla ni actuar",
+        "Todas las anteriores son correctas"
+      ],
+      "respuesta": 0,
+      "pista": "Piensa en el bucle completo: señal, decodificación, acción y retorno.",
+      "argumento": "Correcta: la interfaz registra señales, las procesa, decodifica la intención, la traduce en acción y devuelve retroalimentación visual o háptica; usuario y decodificador se ajustan mutuamente (diapo 19-20). No lee la mente: decodifica patrones asociados a una intención concreta, y requiere entrenamiento. No sustituye la motoneurona inferior, que sigue siendo la vía final; actúa sobre dispositivos o sobre la propiocepción del usuario. No se limita a registrar: procesa, decodifica y actúa. Por eso «Todas las anteriores» es falsa.",
+      "tipo": "todas-ninguna",
+      "tags": [
+        "cap14",
+        "bci"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 14, §6 (diapos 19-20)"
+    },
+    {
+      "id": "c2d-57",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre la reserva cerebral es/son correcta(s).  I) Depende también de factores modificables.  II) El ejercicio, el sueño y la salud vascular son modificables.  III) La vulnerabilidad emerge de un solo nivel de análisis.  IV) La reserva está determinada solo por el genotipo.",
+      "alternativas": [
+        "Solo I",
+        "Solo II",
+        "Solo I y II",
+        "Solo III y IV",
+        "Solo I y III"
+      ],
+      "respuesta": 2,
+      "pista": "El envejecimiento se describe en niveles que interactúan.",
+      "argumento": "I: V. La reserva y la resiliencia cerebral dependen también de factores modificables (diapo 17-18). II: V. La actividad física, el sueño y la salud vascular son los ejemplos que la clase menciona. III: F. La vulnerabilidad emerge de la interacción entre niveles molecular, celular, de circuitos y funcional, no de uno solo. IV: F. La reserva no es puramente genética: por eso la investigación busca mecanismos modificables y ventanas de intervención. Por eso corresponde «Solo I y II».",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap14",
+        "reserva"
+      ],
+      "dificultad": "facil",
+      "fuente": "Guía 14, §5 (diapos 17-18)"
+    },
+    {
+      "id": "c2d-58",
+      "enunciado": "¿Cuál afirmación sobre los modelos de IA en neurociencia es correcta?",
+      "alternativas": [
+        "Pueden predecir sin explicar el mecanismo",
+        "La precisión demuestra causalidad biológica",
+        "El sobreajuste mejora la generalización",
+        "La falta de interpretabilidad es un mito",
+        "Todas las anteriores son correctas"
+      ],
+      "respuesta": 0,
+      "pista": "Separa el criterio de éxito predictivo del criterio explicativo.",
+      "argumento": "Correcta: un modelo puede clasificar con precisión sin identificar el mecanismo; el predictivo se evalúa por precisión y generalización, y el explicativo por interpretabilidad y pruebas causales (diapo 13). La precisión no demuestra causalidad. El sobreajuste es un riesgo, no una ventaja. La falta de interpretabilidad es uno de los riesgos enumerados, no un mito. Por eso «Todas las anteriores» es falsa. Los otros riesgos del bloque son el sesgo de los datos y las inferencias biológicas excesivas.",
+      "tipo": "todas-ninguna",
+      "tags": [
+        "cap14",
+        "ia-etica"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 14, §4 (diapos 13-14)"
+    },
+    {
+      "id": "c2d-59",
+      "enunciado": "Una respuesta integrada sobre el Alzheimer debe combinar:",
+      "alternativas": [
+        "Inflamación persistente, plasticidad y reserva",
+        "Solo el genotipo APOE y la edad",
+        "Solo la topografía de la degeneración",
+        "Solo el déficit de memoria y su tratamiento",
+        "Solo la pérdida de neuronas dopaminérgicas"
+      ],
+      "respuesta": 0,
+      "pista": "Cruza el área de glía con el área de envejecimiento.",
+      "argumento": "Correcta: desde el área de neuroinmunología, la neurodegeneración incluye inflamación con microglía persistente; desde plasticidad y envejecimiento, es un proceso de cambios moleculares, celulares, de circuitos y funcionales donde la reserva depende de factores modificables (diapos 5, 17). Reducirlo al genotipo y la edad omite el mecanismo y la reserva. La topografía explica el fenotipo, pero no agota el proceso. El déficit de memoria es una manifestación clínica, no la explicación integrada. La pérdida dopaminérgica corresponde a Parkinson, no a Alzheimer.",
+      "tipo": "directa",
+      "tags": [
+        "cap14",
+        "integracion"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 14, §7-8; Guía 03, §6"
+    },
+    {
+      "id": "c2d-60",
+      "enunciado": "La pregunta propia del área de plasticidad, envejecimiento y neurodegeneración es:",
+      "alternativas": [
+        "Cómo cambia el cerebro a lo largo de la vida",
+        "Quién participa en la función cerebral",
+        "Cómo se coordinan las poblaciones neuronales",
+        "Qué reglas explican la actividad observada",
+        "Cómo medir y modular la actividad neural"
+      ],
+      "respuesta": 0,
+      "pista": "Cada área tiene una pregunta; esta es la temporal.",
+      "argumento": "Correcta: el área 4 se define por la pregunta temporal, cómo cambia el cerebro durante toda la vida (diapo 21). «Quién participa» es la pregunta del área de células y glía. «Cómo se coordinan las poblaciones» corresponde a circuitos y conectividad. «Qué reglas explican la actividad» es la pregunta de los modelos computacionales. «Cómo medir y modular» corresponde a neurotecnología. La distinción importa porque una respuesta integrada debe nombrar los cinco niveles y asignar a cada uno su pregunta.",
+      "tipo": "directa",
+      "tags": [
+        "cap14",
+        "preguntas-abiertas"
+      ],
+      "dificultad": "facil",
+      "fuente": "Guía 14, §7, Tabla 3 (diapo 21)"
+    },
+    {
+      "id": "c2d-61",
+      "enunciado": "Un paciente permanece en la UCI con luz artificial las 24 horas y controles a cualquier hora. Desde la cronobiología, el problema central es que:",
+      "alternativas": [
+        "Pierde las señales que ajustan su reloj",
+        "Su NSQ deja de oscilar en aislamiento",
+        "Su reloj hepático se sincroniza con la luz",
+        "Adquiere un período endógeno de 20 horas",
+        "Su melatonina se adelanta varias horas"
+      ],
+      "respuesta": 0,
+      "pista": "Distinga entre el oscilador interno y la señal que lo pone en hora.",
+      "argumento": "Correcta: pierde las señales que ajustan su reloj. La luz es el sincronizador principal del NSQ y el ciclo luz-oscuridad se pierde con iluminación continua e interrupciones a cualquier hora, de modo que el paciente crítico queda en una situación cronobiológicamente adversa (p. 27). El NSQ no deja de oscilar: lo hace de forma autónoma e indefinida incluso aislado, y lo que falta es su reajuste. El reloj hepático se sincroniza con el horario de las comidas, no con la luz. El período de 20 horas corresponde al hámster tau, no al ser humano. La melatonina no se adelanta: la luz brillante suprime su pico nocturno.",
+      "tipo": "directa",
+      "tags": [
+        "cap1",
+        "paciente-critico"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 01, §3 (p. 27); Guía 01b, §2"
+    },
+    {
+      "id": "c2d-62",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre las consecuencias no respiratorias del SAHOS es/son correcta(s).  I) En la cefalea en racimos, la mayoría de los pacientes cumple criterios de SAHOS y las crisis se asocian al REM.  II) La CPAP suprime las crisis epilépticas solo si se ajusta el anticonvulsivante.  III) En la neuropatía óptica isquémica no arterítica, el edema papilar se atribuye a la hipoxemia-hipercarbia repetida.  IV) La sobrevida a seis meses tras un evento vascular fue mayor en roncadores permanentes que en no roncadores.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo I y III",
+        "Solo II y III",
+        "Solo II y IV",
+        "Solo I, III y IV"
+      ],
+      "respuesta": 1,
+      "pista": "Evalúe cada numeral por separado: dos invierten un dato del material.",
+      "argumento": "I: V. Hasta el 80% de los pacientes con cefalea en racimos tenía SAHOS, con crisis relacionadas con el REM y desaturaciones que la presión positiva suprimió (p. 190). II: F. La CPAP mejora e incluso suprime las crisis sin cambios en los anticonvulsivantes; exigir un ajuste previo invierte esa observación. III: V. Entre el 71 y el 89% de los pacientes con neuropatía óptica isquémica no arterítica tenía SAHOS, y el edema papilar se explica por la vasodilatación y la hipertensión endocraneana que produce la hipoxemia-hipercarbia repetida (pp. 190-192). IV: F. La sobrevida a seis meses fue del 52% en roncadores permanentes frente al 79% en no roncadores, es decir, peor y no mayor (p. 189). Las opciones que incluyen II o IV incorporan un enunciado falso, de modo que solo I y III es correcta.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap2",
+        "sahos-neurologia"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Guía 02, §7 (pp. 189-192)"
+    },
+    {
+      "id": "c2d-63",
+      "enunciado": "Un hombre de 74 años consulta por fatiga y quejas cognitivas leves; su PCR ultrasensible es normal. La lectura correcta es que:",
+      "alternativas": [
+        "La PCR normal no descarta inflammaging",
+        "La fatiga excluye una causa inflamatoria",
+        "El SASP se detecta solo en biopsia",
+        "La senescencia reduce las citoquinas",
+        "El inflammaging exige PCR elevada"
+      ],
+      "respuesta": 0,
+      "pista": "Piense en el iceberg: el laboratorio convencional muestra solo la punta.",
+      "argumento": "Correcta: la PCR normal no descarta inflammaging. La clase describe una disociación entre los marcadores analíticos convencionales y la fisiopatología, de modo que una PCR normal no descarta la inflamación crónica de bajo grado (diapo 27). La fatiga es una de las manifestaciones visibles del iceberg, no un criterio de exclusión. El SASP es el fenotipo secretor de las células senescentes, no un hallazgo exclusivo de la biopsia. La senescencia no reduce las citoquinas: las aumenta, y esa es la base del círculo bidireccional con la inflamación. El inflammaging no exige PCR elevada; se define por la elevación basal de mediadores con resolución fallida, que puede pasar inadvertida.",
+      "tipo": "directa",
+      "tags": [
+        "cap3",
+        "inflammaging"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 03, §3 (diapos 27-28)"
+    },
+    {
+      "id": "c2d-64",
+      "enunciado": "Un paciente pierde la percepción del color tras una lesión de V4, pero conserva la forma y el movimiento. Según Zeki, ese patrón indica que:",
+      "alternativas": [
+        "Cada atributo visual tiene su microconciencia",
+        "La conciencia visual exige un campo unificado",
+        "El color se reconstruye en la corteza parietal",
+        "La reentrada restaura el color perdido",
+        "El movimiento depende del área V4"
+      ],
+      "respuesta": 0,
+      "pista": "Pregúntese si la conciencia visual es un todo o un conjunto de subsistemas.",
+      "argumento": "Correcta: para Zeki cada atributo se procesa en su subsistema y allí alcanza su propia microconciencia —V4 para el color, V5 para el movimiento—, de modo que la lesión de uno disocia su percepción sin borrar las demás (cap. 7, pp. 239-241). El campo unificado es la propuesta de Searle, que el capítulo presenta como alternativa global y no como lectura de esta disociación. El color no se reconstruye en la corteza parietal: su procesamiento corresponde a V4. La reentrada es el mecanismo de Edelman para integrar información, no un restaurador del color perdido. El movimiento se procesa en V5, no en V4.",
+      "tipo": "directa",
+      "tags": [
+        "cap4",
+        "microconciencias"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Guía 04, §7 (cap. 7, pp. 239-241)"
+    },
+    {
+      "id": "c2d-65",
+      "enunciado": "Un paciente siente angustia intensa ante un estímulo que no logra identificar. El capítulo 14 explica esa disociación por:",
+      "alternativas": [
+        "Una vía tálamo-amigdalina directa",
+        "Una lesión del hipocampo anterior",
+        "Un fallo de la memoria procedimental",
+        "Una desconexión calloso-frontal",
+        "Una hiperactividad del núcleo accumbens"
+      ],
+      "respuesta": 0,
+      "pista": "Busque una ruta sensorial corta que llegue al afecto sin pasar por la corteza.",
+      "argumento": "Correcta: algunas vías sensoriales proyectan del tálamo directamente a la amígdala y permiten una respuesta emocional rápida sin procesamiento cortical detallado; así una percepción puede dejar huella inconsciente y sostener afecto sin contenido identificado (pp. 211-213). El hipocampo participa en la memoria episódica y su lesión produce amnesia, no angustia sin objeto. La memoria procedimental es recordable y descriptible, y por eso no explica un afecto que el sujeto no puede ligar a nada. La desconexión calloso-frontal corresponde al cerebro dividido, cuyo déficit es de acceso entre hemisferios. El núcleo accumbens pertenece al circuito de recompensa, no al de amenaza.",
+      "tipo": "directa",
+      "tags": [
+        "cap5",
+        "talamo-amigdala"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Guía 05, §6 (pp. 211-213)"
+    },
+    {
+      "id": "c2d-66",
+      "enunciado": "Un paciente de 58 años presenta debilidad progresiva con atrofia, sin síntomas sensitivos y con intelecto preservado. ¿Qué explica la vulnerabilidad selectiva de sus motoneuronas?",
+      "alternativas": [
+        "Escasa amortiguación del calcio y mitocondrias frágiles",
+        "Pérdida de mielina con bloqueo de conducción",
+        "Exceso de inhibición GABA en el asta ventral",
+        "Mutación de SOD1 en todos los casos esporádicos",
+        "Degeneración simultánea de neuronas sensitivas"
+      ],
+      "respuesta": 0,
+      "pista": "Piense en dos propiedades intrínsecas de una neurona con un axón muy largo.",
+      "argumento": "Correcta: la motoneurona es excepcionalmente sensible a la interrupción de la función mitocondrial y tiene escasa capacidad para amortiguar el calcio intracelular; a eso se suma la longitud de su axón, que la expone a defectos de transporte (p. 373). La desmielinización con bloqueo de conducción describe una neuropatía desmielinizante y no la degeneración de la ELA, que además respeta las vías sensitivas. El exceso de inhibición GABA no es el mecanismo propuesto. La mutación de SOD1 explica parte de las formas familiares (≈10% del total), no todos los casos esporádicos. La degeneración sensitiva pertenece a otras enfermedades y el enunciado justamente destaca su ausencia.",
+      "tipo": "directa",
+      "tags": [
+        "cap6",
+        "ela-mecanismos"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Guía 06, §9 (p. 373)"
+    },
+    {
+      "id": "c2d-67",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre los centros motores del tronco es/son correcta(s).  I) Los núcleos vestibulares reciben información de los conductos semicirculares y de los órganos otolitos.  II) El tracto vestibuloespinal medial termina bilateralmente en el asta ventral medial.  III) El colículo superior origina los tractos tectoespinales que orientan ojos y cabeza.  IV) Los centros del tronco no pueden organizar conducta motora sin la corteza.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo I y III",
+        "Solo II y III",
+        "Solo I, II y III",
+        "Todas son correctas"
+      ],
+      "respuesta": 3,
+      "pista": "Los centros del tronco tienen autonomía relativa; revise el numeral que la niega.",
+      "argumento": "I: V. Los núcleos vestibulares reciben información de los conductos semicirculares y de los órganos otolitos (p. 389). II: V. El núcleo medial origina el tracto vestibuloespinal medial, que termina bilateralmente en el asta ventral medial y regula la posición de la cabeza. III: V. El colículo superior aporta los tractos tectoespinales, que orientan ojos y cabeza hacia un estímulo. IV: F. Los centros del tronco pueden dirigir conducta motora sin supervisión cortical, aunque habitualmente funcionen coordinados con la corteza. Por eso la combinación correcta es I, II y III; «Todas son correctas» incluye el numeral falso.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap7",
+        "tronco-encefalico"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 07, §9 (p. 389)"
+    },
+    {
+      "id": "c2d-68",
+      "enunciado": "En un ratón sometido a estrés crónico impredecible leve, el animal bebe por igual agua con sacarosa y agua sola. Ese resultado se interpreta como:",
+      "alternativas": [
+        "Anhedonia, criterio del episodio depresivo",
+        "Ansiedad por evitación del sabor dulce",
+        "Habituación al estímulo dulce repetido",
+        "Déficit de memoria espacial hipocampal",
+        "Sensibilización del circuito de recompensa"
+      ],
+      "respuesta": 0,
+      "pista": "La prueba mide cuánto busca el animal una recompensa natural, no cuánto evita un estímulo.",
+      "argumento": "Correcta: la pérdida de preferencia por la sacarosa es la medida conductual de la anhedonia, que en clínica es criterio obligatorio del episodio depresivo mayor y en el modelo refleja la disfunción mesolímbica (diapos 65-66). No es ansiedad por evitación: el animal no evita el dulce, deja de preferirlo. No es habituación, porque no hay una exposición repetida que explique la pérdida de preferencia. La memoria espacial se evalúa en el laberinto de Morris, no con dos botellas. La sensibilización del circuito de recompensa es el proceso inverso: allí el refuerzo se activa farmacológicamente y la respuesta aumenta, como en la adicción.",
+      "tipo": "directa",
+      "tags": [
+        "cap8",
+        "cums-anhedonia"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 08, §5-6 (diapos 65-66)"
+    },
+    {
+      "id": "c2d-69",
+      "enunciado": "Sobre el uso de la película La verdad oculta como material de estudio, ¿cuál afirmación es correcta?",
+      "alternativas": [
+        "El contenido verificable está en el artículo",
+        "El caso dramatizado es el del reporte",
+        "Los límites del artículo siguen vigentes",
+        "La liga cuestiona el hallazgo en la trama",
+        "Todas las anteriores son correctas"
+      ],
+      "respuesta": 4,
+      "pista": "Compruebe una por una: basta que una afirmación falle para descartar la opción global.",
+      "argumento": "Correcta: todas las anteriores son correctas. El material advierte que la película dramatiza el trabajo de Omalu y que el contenido verificable para el certamen está enteramente en el paper (Guía 09, §8), de modo que el artículo es la fuente y la película el relato. Es el mismo caso y el mismo conflicto con la liga, que intenta desacreditar el hallazgo. Los límites del reporte no desaparecen con la dramatización: sigue siendo un caso único, sin serie ni controles, con historia obtenida de forma retrospectiva, y por eso no permite estimar prevalencia ni demostrar causalidad (p. 128). Cada una de las otras opciones es verdadera por separado, y ninguna excluye a las demás.",
+      "tipo": "todas-ninguna",
+      "tags": [
+        "cap9",
+        "pelicula"
+      ],
+      "dificultad": "facil",
+      "fuente": "Guía 09, §7-8 (pp. 128-133)"
+    },
+    {
+      "id": "c2d-70",
+      "enunciado": "Un laboratorio registra miles de neuronas de M1 y describe el movimiento como trayectorias de baja dimensionalidad. En la tabla de las cinco fronteras, ese trabajo ejemplifica el área de:",
+      "alternativas": [
+        "Circuitos y dinámica poblacional",
+        "Biología celular y glía",
+        "Modelos computacionales e IA",
+        "Plasticidad y envejecimiento",
+        "Neurotecnología y comunicación"
+      ],
+      "respuesta": 0,
+      "pista": "Pregúntese si el estudio describe la coordinación de poblaciones o el diseño de un algoritmo.",
+      "argumento": "Correcta: el área de circuitos y dinámica poblacional estudia cómo se coordina la actividad, y su ejemplo concreto en el bloque es el vector poblacional de la corteza motora primaria, tomado de las guías 06 y 07 (Guía 14, §8). La biología celular y glía responde «quién participa» y su ejemplo son los atlas celulares. Los modelos computacionales e IA se ocupan de las reglas y del ciclo NeuroAI, no del registro poblacional. La plasticidad y el envejecimiento responden «cómo cambia», con la reserva y la plasticidad maladaptativa como temas. La neurotecnología responde «cómo medir y modular», con la interfaz cerebro-computador entre sus ejemplos.",
+      "tipo": "directa",
+      "tags": [
+        "cap14",
+        "cinco-fronteras"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 14, §7-8 (Tabla 3)"
+    }
+  ]
+}

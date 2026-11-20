@@ -1,0 +1,546 @@
+{
+  "version": 1,
+  "titulo": "Cronobiología C2 — Aspectos moleculares y clínicos",
+  "preguntas": [
+    {
+      "id": "crono-01",
+      "enunciado": "En la clasificación de los ritmos biológicos según su período, la alternancia de estados de sueño, con un período cercano a 90 minutos, corresponde a un ritmo:",
+      "alternativas": [
+        "circadiano",
+        "infradiano",
+        "circalunidiano",
+        "circatrigintano",
+        "ultradiano"
+      ],
+      "respuesta": 4,
+      "pista": "Compare el período con la duración de un día: es mucho más corto.",
+      "argumento": "La alternancia de estados de sueño (≈90 min) es el ejemplo típico de ritmo ultradiano, junto con el EEG (0,1 s), el ritmo cardíaco (1 s), el respiratorio (6 s) y las secreciones hormonales (60 min). Un ritmo circadiano dura ~24 h (por ejemplo, actividad-reposo o temperatura corporal) y uno infradiano dura más de un día (ciclo menstrual, 28 días; hibernación, 365 días). «Circalunidiano» y «circatrigintano» no forman parte del espectro descrito, que solo distingue ultradiano, circadiano e infradiano.",
+      "tipo": "directa",
+      "tags": ["crono", "espectro-frecuencias"],
+      "dificultad": "facil",
+      "fuente": "Cronobiología UBB 2026, §1"
+    },
+    {
+      "id": "crono-02",
+      "enunciado": "¿Cuál de los siguientes ritmos biológicos tiene un período infradiano?",
+      "alternativas": [
+        "Ciclo menstrual",
+        "Ritmo cardíaco",
+        "Temperatura corporal",
+        "Ritmo respiratorio",
+        "Alternancia REM"
+      ],
+      "respuesta": 0,
+      "pista": "El ritmo infradiano tarda más de un día en repetirse.",
+      "argumento": "El ciclo menstrual, con un período de ~28 días, es el ejemplo clásico de ritmo infradiano, igual que la hibernación (365 días). El ritmo cardíaco (~1 s) y el respiratorio (~6 s) son ultradianos, la alternancia de estados de sueño (~90 min) también lo es y la temperatura corporal oscila con período circadiano (~24 h). Por definición, los ritmos infradianos tienen período superior a un día, lo que descarta a las demás opciones.",
+      "tipo": "directa",
+      "tags": ["crono", "espectro-frecuencias"],
+      "dificultad": "facil",
+      "fuente": "Cronobiología UBB 2026, §1"
+    },
+    {
+      "id": "crono-03",
+      "enunciado": "Según el mapa AM/PM de la guía, la máxima eficiencia cardiorrespiratoria, el mejor momento para entrenar y el aumento de fuerza se concentran cerca de las:",
+      "alternativas": [
+        "3:00 PM",
+        "5:00 PM",
+        "7:00 PM",
+        "9:00 PM",
+        "11:00 PM"
+      ],
+      "respuesta": 1,
+      "pista": "Es media tarde, no al anochecer.",
+      "argumento": "La tabla sitúa a las 5:00 PM la máxima eficiencia cardiorrespiratoria, el mejor momento para entrenar y el aumento de fuerza. Las 3:00 PM corresponden a la mejor hora para una mini-siesta; las 7:00 PM, a temperatura corporal alta y aumento de la presión arterial; las 9:00 PM, al comienzo del descenso de temperatura y del aumento de melatonina; las 11:00 PM no figuran como hito del mapa.",
+      "tipo": "directa",
+      "tags": ["crono", "mapa-horario"],
+      "dificultad": "facil",
+      "fuente": "Cronobiología UBB 2026, §2"
+    },
+    {
+      "id": "crono-04",
+      "enunciado": "¿En qué horario se concentra el peak de presión arterial según el horario de mayor frecuencia de eventos clínicos?",
+      "alternativas": [
+        "Medianoche a 06:00",
+        "06:00 a 12:00",
+        "18:00 a medianoche",
+        "12:00 a 18:00",
+        "Todo el día por igual"
+      ],
+      "respuesta": 3,
+      "pista": "Es el tramo que la guía asocia a la tarde.",
+      "argumento": "El peak de presión arterial se registra entre las 12:00 y las 18:00, en la tarde. La franja de medianoche a 06:00 concentra los ataques de asma y el comienzo del trabajo de parto; la de 06:00 a 12:00 reúne los síntomas de alergia nasal, el dolor de pecho, el aumento agudo de presión, las jaquecas, la artritis reumatoidea y el comienzo de la menstruación; la de 18:00 a medianoche no figura como franja en la guía, y no hay reparto uniforme. Los ataques cardíacos, en cambio, se distribuyen entre medianoche y las 12:00.",
+      "tipo": "directa",
+      "tags": ["crono", "eventos-clinicos"],
+      "dificultad": "media",
+      "fuente": "Cronobiología UBB 2026, §2"
+    },
+    {
+      "id": "crono-05",
+      "enunciado": "En la organización del sistema circadiano de mamíferos, el marcapasos maestro es:",
+      "alternativas": [
+        "la glándula pineal",
+        "el ganglio cervical superior",
+        "el núcleo supraquiasmático",
+        "el núcleo pretectal olivar",
+        "la corteza cerebral"
+      ],
+      "respuesta": 2,
+      "pista": "Está en el hipotálamo y recibe la información luminosa desde la retina.",
+      "argumento": "El núcleo supraquiasmático (NSQ) es el oscilador central o marcapasos maestro, y sobre él convergen las vías de sincronización. Los osciladores secundarios o periféricos incluyen hígado, corazón y riñón. La glándula pineal es el órgano efector que secreta melatonina; el ganglio cervical superior es una estación de la vía hacia la pineal; el núcleo pretectal olivar participa en el reflejo pupilar y otras proyecciones; y la corteza cerebral no cumple el papel de marcapasos.",
+      "tipo": "directa",
+      "tags": ["crono", "organizacion-circadiana"],
+      "dificultad": "facil",
+      "fuente": "Cronobiología UBB 2026, §3"
+    },
+    {
+      "id": "crono-06",
+      "enunciado": "En la vía que va de la luz a la melatonina, la señal pasa del núcleo supraquiasmático al:",
+      "alternativas": [
+        "la glándula pineal",
+        "la retina",
+        "el hipocampo",
+        "el núcleo pretectal olivar",
+        "el ganglio cervical superior"
+      ],
+      "respuesta": 4,
+      "pista": "Es una estructura ganglionar del sistema nervioso periférico, no la glándula.",
+      "argumento": "El orden de la vía es: luz → retina → tracto retinohipotalámico → NSQ → ganglio cervical superior → glándula pineal, que secreta melatonina. La glándula pineal es el paso final y no el siguiente al NSQ; la retina es el punto de partida; el núcleo pretectal olivar pertenece al reflejo pupilar y otras proyecciones; y el hipocampo no forma parte de esta vía.",
+      "tipo": "directa",
+      "tags": ["crono", "tractos-melatonina"],
+      "dificultad": "media",
+      "fuente": "Cronobiología UBB 2026, §4"
+    },
+    {
+      "id": "crono-07",
+      "enunciado": "La melanopsina de las células ganglionares intrínsecas de la retina (iRGCs) responde sobre todo a luz de aproximadamente:",
+      "alternativas": [
+        "380–400 nm",
+        "580–600 nm",
+        "650–700 nm",
+        "480–500 nm",
+        "730–750 nm"
+      ],
+      "respuesta": 3,
+      "pista": "Es la banda del azul.",
+      "argumento": "Los fotorreceptores ganglionares intrínsecos contienen melanopsina y responden especialmente a luz de 480–500 nm, es decir al azul. Las otras bandas corresponden al violeta cercano al ultravioleta, al amarillo, al rojo y al rojo lejano/infrarrojo, respectivamente, y no coinciden con el máximo de sensibilidad de la melanopsina.",
+      "tipo": "directa",
+      "tags": ["crono", "retina-melanopsina"],
+      "dificultad": "media",
+      "fuente": "Cronobiología UBB 2026, §5"
+    },
+    {
+      "id": "crono-08",
+      "enunciado": "En el ritmo diario de melatonina plasmática, el pico (máximo) se produce entre las:",
+      "alternativas": [
+        "08:00 y 10:00",
+        "12:00 y 14:00",
+        "02:00 y 04:00",
+        "18:00 y 20:00",
+        "22:00 y 00:00"
+      ],
+      "respuesta": 2,
+      "pista": "Ocurre en plena madrugada, con los niveles más bajos durante el día.",
+      "argumento": "Los niveles de melatonina son bajos durante el día y presentan un pico en la madrugada, con máximo entre las 02:00 y 04:00. Las demás franjas son diurnas o del atardecer y corresponden al valle o al ascenso del ritmo, no al máximo nocturno.",
+      "tipo": "directa",
+      "tags": ["crono", "melatonina"],
+      "dificultad": "facil",
+      "fuente": "Cronobiología UBB 2026, §5"
+    },
+    {
+      "id": "crono-09",
+      "enunciado": "¿En qué etapa de la vida se alcanza el máximo de producción de melatonina?",
+      "alternativas": [
+        "En la pubertad",
+        "En la edad adulta temprana",
+        "En la menopausia",
+        "En la vejez",
+        "Al final de la infancia"
+      ],
+      "respuesta": 4,
+      "pista": "La pubertad ya marca una reducción respecto de la etapa previa.",
+      "argumento": "La producción es escasa en los primeros años de vida, aumenta hasta alcanzar su máximo al final de la infancia (~10 años) y luego desciende: se reduce en la pubertad y sigue bajando con la edad. Por eso en la pubertad, la adultez temprana, la menopausia y la vejez los niveles ya son descendentes y no máximos.",
+      "tipo": "directa",
+      "tags": ["crono", "melatonina"],
+      "dificultad": "media",
+      "fuente": "Cronobiología UBB 2026, §5"
+    },
+    {
+      "id": "crono-10",
+      "enunciado": "¿Qué comportamiento circadiano presenta el ratón mutante homocigoto Clock?",
+      "alternativas": [
+        "Período acortado y estable",
+        "Arritmicidad inmediata y total",
+        "Período normal con amplitud alta y sostenida",
+        "Período largo y luego arritmicidad",
+        "Adelanto permanente del ritmo"
+      ],
+      "respuesta": 3,
+      "pista": "El mutante sintetiza de forma incompleta la proteína CLOCK, lo que desordena el período antes de perderse el ritmo.",
+      "argumento": "El mutante Clock, con síntesis incompleta de la proteína CLOCK, muestra en el homocigoto un período anormalmente largo que, tras varios ciclos de oscuridad constante, deriva en arritmicidad: el comportamiento circadiano desaparece. No se trata de un período acortado, ni de una arritmicidad inmediata, ni de un período normal con amplitud conservada, ni de un adelanto permanente; la eliminación de un gen reloj suprime el ritmo.",
+      "tipo": "directa",
+      "tags": ["crono", "bases-moleculares"],
+      "dificultad": "dificil",
+      "fuente": "Cronobiología UBB 2026, §6"
+    },
+    {
+      "id": "crono-11",
+      "enunciado": "¿A qué secuencia de ADN se une el heterodímero CLOCK-BMAL1 para activar la transcripción?",
+      "alternativas": [
+        "TATA-box",
+        "Cola poli-A",
+        "E-box",
+        "Codón de inicio",
+        "Silenciador del intrón"
+      ],
+      "respuesta": 2,
+      "pista": "Es la secuencia sobre la que también actúa el bucle estabilizador REV-ERBα/RORα.",
+      "argumento": "CLOCK-BMAL1 es el elemento positivo del bucle central: se une al E-box y activa la transcripción de genes reloj (Per, Cry, Rev-erbα, Rorα) y de genes no reloj como la vasopresina. La TATA-box, el codón de inicio y la cola poli-A son elementos generales de la transcripción y del procesamiento del ARN, no el sitio de unión de CLOCK-BMAL1, y el «silenciador del intrón» no tiene respaldo en la guía. El E-box mantiene el ciclo circadiano de transcripción.",
+      "tipo": "directa",
+      "tags": ["crono", "bases-moleculares"],
+      "dificultad": "media",
+      "fuente": "Cronobiología UBB 2026, §6"
+    },
+    {
+      "id": "crono-12",
+      "enunciado": "¿Cuál es el papel de CK1ε/δ en el reloj molecular?",
+      "alternativas": [
+        "Inhibir la transcripción nuclear",
+        "Formar el heterodímero positivo",
+        "Secretar melatonina en la pineal",
+        "Unirse al E-box del ADN como activador",
+        "Fosforilar PER/CRY para su degradación"
+      ],
+      "respuesta": 4,
+      "pista": "Es una quinasa: agrega fosfatos y regula la estabilidad de las proteínas del reloj.",
+      "argumento": "CK1ε/δ fosforila PER/CRY, lo que constituye una marca de degradación y así regula su estabilidad y el período del reloj; GSK3β cumple un papel semejante. Inhibir la transcripción en el núcleo es la función de PER y CRY, no de la quinasa; formar el heterodímero positivo corresponde a CLOCK-BMAL1; secretar melatonina es función de la glándula pineal; y unirse al E-box activando la transcripción es propio de CLOCK-BMAL1.",
+      "tipo": "directa",
+      "tags": ["crono", "bases-moleculares"],
+      "dificultad": "media",
+      "fuente": "Cronobiología UBB 2026, §6"
+    },
+    {
+      "id": "crono-13",
+      "enunciado": "¿Qué caracteriza a la fase 2 del sueño (sueño ligero)?",
+      "alternativas": [
+        "Sin movimientos oculares y con husos",
+        "Desaparición del ritmo alfa",
+        "Relajación muscular casi total",
+        "Aumento progresivo de las ondas delta",
+        "Sensaciones vividas como reales"
+      ],
+      "respuesta": 0,
+      "pista": "En esta fase desaparecen los movimientos oculares y aparecen grafoelementos propios del inicio del sueño.",
+      "argumento": "La fase 2 se distingue por la ausencia de movimientos oculares, por ser la «entrada real» al sueño y por presentar husos y otros grafoelementos. La desaparición del ritmo alfa corresponde a la fase 1 (adormecimiento); la relajación muscular casi total es de la fase REM; el aumento progresivo de las ondas lentas (delta) corresponde a las fases 3 y 4; y las sensaciones vividas como reales son de la fase 4. El sueño ligero abarca las fases 1 y 2, y el profundo las fases 3 y 4.",
+      "tipo": "directa",
+      "tags": ["crono", "arquitectura-sueno"],
+      "dificultad": "media",
+      "fuente": "Cronobiología UBB 2026, §7"
+    },
+    {
+      "id": "crono-14",
+      "enunciado": "¿Qué alteración cronobiológica se describe en la depresión?",
+      "alternativas": [
+        "Aumento de la amplitud de la melatonina",
+        "Aplanamiento del ciclo de temperatura",
+        "Descenso del cortisol diurno",
+        "Avance estable del ritmo sueño-vigilia",
+        "Aumento general de la melatonina"
+      ],
+      "respuesta": 1,
+      "pista": "En la depresión las curvas de temperatura, cortisol y melatonina se ven aplanadas y desfasadas.",
+      "argumento": "En la depresión se describe un aplanamiento del ciclo de la temperatura corporal durante el día, una elevación del cortisol a lo largo del día y una reducción de la melatonina, junto con desfases del ciclo sueño/vigilia cuya magnitud depende de la severidad. Por eso son falsas las opciones de mayor amplitud o aumento de melatonina, la de descenso del cortisol y la de un avance estable: lo característico es la pérdida de amplitud y el desfase.",
+      "tipo": "directa",
+      "tags": ["crono", "clinica-depresion"],
+      "dificultad": "media",
+      "fuente": "Cronobiología UBB 2026, §8"
+    },
+    {
+      "id": "crono-15",
+      "enunciado": "El sueño breve se asocia a cambios hormonales que favorecen la obesidad. ¿Cuál pareja es correcta?",
+      "alternativas": [
+        "↑ leptina y ↓ grelina",
+        "↑ grelina y ↑ leptina",
+        "↓ grelina y ↓ leptina",
+        "Sin cambios hormonales",
+        "↑ grelina y ↓ leptina"
+      ],
+      "respuesta": 4,
+      "pista": "La grelina estimula el apetito y la leptina señaliza saciedad.",
+      "argumento": "En el sueño breve aumenta la grelina y disminuye la leptina, lo que altera la sensación de hambre y saciedad y se acompaña de menor sensibilidad a la insulina, mayor apetito por dulces y mayor ingesta calórica. Las combinaciones inversas o de aumento conjunto de ambas hormonas no corresponden al patrón descrito, y la opción de ausencia de cambios contradice el hallazgo recogido en la guía.",
+      "tipo": "directa",
+      "tags": ["crono", "clinica-obesidad"],
+      "dificultad": "media",
+      "fuente": "Cronobiología UBB 2026, §8"
+    },
+    {
+      "id": "crono-16",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre el espectro de frecuencias es/son correcta(s).  I) El ritmo cardíaco, con un período cercano a 1 segundo, es un ritmo ultradiano.  II) El ciclo menstrual, de unos 28 días, es un ejemplo de ritmo infradiano.  III) La temperatura corporal oscila con un período ultradiano de 90 minutos.  IV) El EEG, con períodos del orden de 0,1 s, es el extremo de mayor frecuencia de los ritmos ultradianos.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo II y III",
+        "Solo I y IV",
+        "Solo I, II y IV",
+        "Todas son correctas"
+      ],
+      "respuesta": 3,
+      "pista": "Separe los ritmos de período menor a un día de los de período mayor, y recuerde el período real de la temperatura corporal.",
+      "argumento": "I: V. El ritmo cardíaco (~1 s) es un ritmo ultradiano. II: V. El ciclo menstrual (~28 días) es infradiano. III: F. La temperatura corporal es circadiana (~24 h); los 90 min corresponden a la alternancia de estados de sueño, no a la temperatura. IV: V. El EEG (0,1 s) es el ejemplo de período más corto entre los ultradianos. Por eso la respuesta correcta es «Solo I, II y IV».",
+      "tipo": "suficiencia",
+      "tags": ["crono", "espectro-frecuencias"],
+      "dificultad": "media",
+      "fuente": "Cronobiología UBB 2026, §1"
+    },
+    {
+      "id": "crono-17",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre ritmos biológicos y clínica es/son correcta(s).  I) El peak de presión arterial se concentra entre medianoche y las 06:00.  II) Los ataques de asma son más frecuentes entre medianoche y las 06:00.  III) El dolor de pecho por angina y las jaquecas se concentran entre las 06:00 y las 12:00.  IV) La máxima eficiencia cardiorrespiratoria ocurre cerca de las 09:00 AM.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo II y III",
+        "Solo I y IV",
+        "Solo II, III y IV",
+        "Todas son correctas"
+      ],
+      "respuesta": 1,
+      "pista": "La madrugada-mañana concentra los eventos cardiovasculares y respiratorios; la tarde, el peak de presión.",
+      "argumento": "I: F. El peak de presión arterial es de 12:00 a 18:00, no de madrugada. II: V. Los ataques de asma se concentran entre medianoche y 06:00. III: V. El dolor de pecho por angina y las jaquecas figuran en la franja 06:00-12:00. IV: F. La máxima eficiencia cardiorrespiratoria se ubica a las 5:00 PM, no a las 9:00 AM. Por eso la respuesta correcta es «Solo II y III».",
+      "tipo": "suficiencia",
+      "tags": ["crono", "eventos-clinicos"],
+      "dificultad": "media",
+      "fuente": "Cronobiología UBB 2026, §2"
+    },
+    {
+      "id": "crono-18",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre la organización del sistema circadiano es/son correcta(s).  I) El NSQ y los relojes periféricos se sincronizan al ciclo ambiental de 24 h.  II) El ciclo luz-oscuridad es un zeitgeber no fótico.  III) El sueño puede modular las entradas sincronizadoras cuando sus horarios se modifican voluntariamente.  IV) Las comidas y el tiempo social son zeitgebers fóticos.",
+      "alternativas": [
+        "Solo I y III",
+        "Solo I y II",
+        "Solo II y IV",
+        "Solo III y IV",
+        "Todas son correctas"
+      ],
+      "respuesta": 0,
+      "pista": "Distinga los sincronizadores luminosos de los no luminosos y recuerde el doble papel del sueño.",
+      "argumento": "I: V. El NSQ y los relojes periféricos usan señales temporales periódicas del ambiente para sincronizarse al ciclo de 24 h. II: F. El ciclo luz-oscuridad es el zeitgeber fótico por excelencia. III: V. El sueño, además de ser una salida, puede actuar como modulador de las entradas sincronizadoras cuando se cambian voluntariamente sus horarios (Madrid, 2019). IV: F. Las comidas y el tiempo social son sincronizadores no fóticos. Por eso la respuesta correcta es «Solo I y III».",
+      "tipo": "suficiencia",
+      "tags": ["crono", "organizacion-circadiana"],
+      "dificultad": "media",
+      "fuente": "Cronobiología UBB 2026, §3"
+    },
+    {
+      "id": "crono-19",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre tractos y melatonina es/son correcta(s).  I) La vía incluye retina, tracto retinohipotalámico, NSQ, ganglio cervical superior y glándula pineal.  II) La luz estimula directamente la producción de melatonina en la pineal.  III) La melanopsina está en las células ganglionares intrínsecas y responde a luz azul de 480-500 nm.  IV) La melatonina presenta un pico nocturno, con máximo entre 02:00 y 04:00.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo II y IV",
+        "Solo I, III y IV",
+        "Solo III y IV",
+        "Todas son correctas"
+      ],
+      "respuesta": 2,
+      "pista": "Recuerde que la luz frena la producción de melatonina y repase el orden de la vía anatómica.",
+      "argumento": "I: V. Es el orden correcto de la vía retinohipotalámica hasta la pineal. II: F. La luz inhibe la producción de melatonina; no la estimula. III: V. Los iRGCs contienen melanopsina y responden sobre todo a 480-500 nm. IV: V. El pico es nocturno, con máximo entre 02:00 y 04:00. Por eso la respuesta correcta es «Solo I, III y IV».",
+      "tipo": "suficiencia",
+      "tags": ["crono", "tractos-melatonina"],
+      "dificultad": "media",
+      "fuente": "Cronobiología UBB 2026, §4-§5"
+    },
+    {
+      "id": "crono-20",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre el reloj molecular es/son correcta(s).  I) CLOCK-BMAL1 es el elemento positivo y se une al E-box.  II) PER y CRY forman dímeros que se traslocan al núcleo e inhiben la transcripción.  III) CK1ε/δ y GSK3β estabilizan PER/CRY de forma indefinida al impedir su degradación.  IV) REV-ERBα y RORα integran el bucle estabilizador sobre el E-box.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo I, II y IV",
+        "Solo II y III",
+        "Solo I, III y IV",
+        "Todas son correctas"
+      ],
+      "respuesta": 1,
+      "pista": "El reloj funciona por retroalimentación negativa y las quinasas marcan proteínas para degradarlas.",
+      "argumento": "I: V. CLOCK-BMAL1 es el elemento positivo del bucle central y actúa vía E-box. II: V. PER y CRY dimerizan en el citoplasma y, ya en el núcleo, inhiben la transcripción mediada por CLOCK-BMAL1. III: F. CK1ε/δ y GSK3β fosforilan PER/CRY y promueven su degradación, regulando el período; no las estabilizan indefinidamente. IV: V. REV-ERBα/RORα forman el bucle estabilizador sobre el E-box. Por eso la respuesta correcta es «Solo I, II y IV».",
+      "tipo": "suficiencia",
+      "tags": ["crono", "bases-moleculares"],
+      "dificultad": "dificil",
+      "fuente": "Cronobiología UBB 2026, §6"
+    },
+    {
+      "id": "crono-21",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre la arquitectura del sueño es/son correcta(s).  I) La fase 2 ocupa entre 45 % y 55 % del sueño total en el adulto sano.  II) La fase REM representa 20-25 % del sueño total en el adulto sano.  III) El recién nacido duerme un tercio del día y solo 20 % de su sueño es REM.  IV) Las fases 3 y 4 corresponden al sueño de ondas lentas y son las de mayor porcentaje en el adulto.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo I y III",
+        "Solo II y IV",
+        "Solo I, II y III",
+        "Todas son correctas"
+      ],
+      "respuesta": 0,
+      "pista": "Compare los porcentajes de cada fase y recuerde cuánto y cómo duerme el recién nacido.",
+      "argumento": "I: V. La fase 2 es la más extensa, con 45-55 %. II: V. La fase REM ocupa 20-25 % en el adulto sano. III: F. El recién nacido duerme dos tercios del día y la mitad de su sueño es REM. IV: F. Las fases 3 y 4 son de ondas lentas, pero ocupan solo 5-20 %; la fase más extensa es la 2. Por eso la respuesta correcta es «Solo I y II».",
+      "tipo": "suficiencia",
+      "tags": ["crono", "arquitectura-sueno"],
+      "dificultad": "media",
+      "fuente": "Cronobiología UBB 2026, §7"
+    },
+    {
+      "id": "crono-22",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre cronobiología y clínica es/son correcta(s).  I) En la depresión se aplana el ciclo de temperatura y se eleva el cortisol diurno.  II) La depresión se asocia a reducción de melatonina respecto del control sano.  III) El sueño breve se acompaña de aumento de leptina y descenso de grelina.  IV) El sueño breve se asocia a menor sensibilidad a la insulina y mayor ingesta calórica.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo I, II y IV",
+        "Solo II y III",
+        "Solo III y IV",
+        "Todas son correctas"
+      ],
+      "respuesta": 1,
+      "pista": "Recuerde cómo se ven las curvas en la depresión y qué pasa con grelina y leptina cuando se duerme poco.",
+      "argumento": "I: V. En la depresión la temperatura se aplana y el cortisol diurno se eleva. II: V. La melatonina se reduce respecto del control. III: F. En el sueño breve aumenta la grelina y disminuye la leptina, no al revés. IV: V. Hay menor sensibilidad a la insulina, mayor apetito por dulces y mayor ingesta calórica. Por eso la respuesta correcta es «Solo I, II y IV».",
+      "tipo": "suficiencia",
+      "tags": ["crono", "clinica-depresion", "clinica-obesidad"],
+      "dificultad": "dificil",
+      "fuente": "Cronobiología UBB 2026, §8"
+    },
+    {
+      "id": "crono-23",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre sustancias, ejercicio y sueño es/son correcta(s).  I) La cafeína reduce el tiempo total de sueño y empeora su calidad percibida.  II) La nicotina actúa sobre neuronas colinérgicas y se asocia a apnea del sueño.  III) El ejercicio regular aumenta la secreción de melatonina y reduce la apnea obstructiva.  IV) El uso prolongado de marihuana reduce el tiempo para conciliar el sueño.",
+      "alternativas": [
+        "Solo I y III",
+        "Solo II y III",
+        "Solo I, II y III",
+        "Solo III y IV",
+        "Todas son correctas"
+      ],
+      "respuesta": 2,
+      "pista": "Todas estas variables modifican la calidad del sueño, pero revise en cuál el efecto afirmado es el opuesto al descrito.",
+      "argumento": "I: V. La cafeína disminuye el tiempo total de sueño y empeora la calidad evaluada, con somnolencia diurna. II: V. La nicotina actúa sobre neuronas colinérgicas y se relaciona con apnea y respiración anormal durante el sueño. III: V. El ejercicio aumenta la secreción de melatonina y, por varios mecanismos, reduce la apnea obstructiva. IV: F. La marihuana de uso prolongado reduce el rendimiento y la duración del sueño y extiende, no reduce, el tiempo para conciliar el sueño. Por eso la respuesta correcta es «Solo I, II y III».",
+      "tipo": "suficiencia",
+      "tags": ["crono", "clinica-sustancias", "clinica-ejercicio"],
+      "dificultad": "media",
+      "fuente": "Cronobiología UBB 2026, §8"
+    },
+    {
+      "id": "crono-24",
+      "enunciado": "Respecto de la melatonina plasmática según la edad, ¿cuál de las siguientes afirmaciones es correcta?",
+      "alternativas": [
+        "A los 35 años el máximo es de ~35 pg/ml",
+        "A los 65 años el máximo es de ~140 pg/ml",
+        "El valor máximo aumenta después de los 55 años",
+        "La producción es alta en los primeros años de vida",
+        "Ninguna de las anteriores es correcta"
+      ],
+      "respuesta": 4,
+      "pista": "Contraste la dirección del cambio con la edad: ¿sube o baja la melatonina después de la infancia?",
+      "argumento": "La respuesta es «Ninguna de las anteriores es correcta». La primera es falsa: a los 35 años el máximo es de ~140 pg/ml, mientras que ~35 corresponde a los 75 años. La segunda es falsa: a los 65 años el máximo es de ~65 pg/ml, no ~140. La tercera es falsa: el valor desciende progresivamente con la edad (140 → 130 → 100 → 65 → 35 entre los 35 y los 75 años). La cuarta es falsa: la producción es escasa en los primeros años de vida; el máximo se alcanza al final de la infancia y luego disminuye.",
+      "tipo": "todas-ninguna",
+      "tags": ["crono", "melatonina"],
+      "dificultad": "media",
+      "fuente": "Cronobiología UBB 2026, §5"
+    },
+    {
+      "id": "crono-25",
+      "enunciado": "¿Cuál de las siguientes afirmaciones sobre la depresión es correcta?",
+      "alternativas": [
+        "Aumenta la amplitud de la melatonina",
+        "Reduce el cortisol diurno",
+        "Aplana el ciclo diurno de la temperatura",
+        "Elimina por completo el ciclo sueño-vigilia",
+        "Todas las anteriores son correctas"
+      ],
+      "respuesta": 2,
+      "pista": "Recuerde el patrón de aplanamiento y desfase, y el sentido del cambio del cortisol y la melatonina.",
+      "argumento": "La correcta es «Aplana el ciclo diurno de la temperatura»: en la depresión la temperatura corporal se aplana durante el día. «Aumenta la amplitud de la melatonina» es falsa, porque la melatonina se reduce. «Reduce el cortisol diurno» es falsa, porque el cortisol se eleva a lo largo del día. «Elimina por completo el ciclo sueño-vigilia» es falsa, porque hay desfases de magnitud variable según la severidad, no una eliminación total. Como una de las opciones es falsa, «Todas las anteriores son correctas» también es incorrecta.",
+      "tipo": "todas-ninguna",
+      "tags": ["crono", "clinica-depresion"],
+      "dificultad": "media",
+      "fuente": "Cronobiología UBB 2026, §8"
+    },
+    {
+      "id": "crono-26",
+      "enunciado": "Sobre el consumo de alcohol y la apnea obstructiva del sueño (SAHOS), ¿cuál afirmación es correcta?",
+      "alternativas": [
+        "El alcohol solo produce apneas en bebedores crónicos",
+        "Beber 6 h antes de dormir no afecta al sueño",
+        "El alcohol con SAHOS aumenta el riesgo de ACV e IAM",
+        "El alcohol reduce el riesgo de muerte súbita en SAHOS",
+        "Ninguna de las anteriores es correcta"
+      ],
+      "respuesta": 2,
+      "pista": "Recuerde que incluso el bajo consumo puede provocar ronquido y apnea en personas sanas.",
+      "argumento": "La correcta es «El alcohol con SAHOS aumenta el riesgo de ACV e IAM». «El alcohol solo produce apneas en bebedores crónicos» es falsa: incluso el bajo consumo puede causar ronquidos y apnea obstructiva en personas sanas. «Beber 6 h antes de dormir no afecta al sueño» es falsa: el consumo hasta 6 h antes de acostarse afecta la calidad del sueño. «El alcohol reduce el riesgo de muerte súbita en SAHOS» es falsa: justamente aumenta el riesgo de ACV, IAM y muerte súbita. Como hay una opción verdadera, «Ninguna de las anteriores» es incorrecta.",
+      "tipo": "todas-ninguna",
+      "tags": ["crono", "clinica-alcohol"],
+      "dificultad": "dificil",
+      "fuente": "Cronobiología UBB 2026, §8"
+    },
+    {
+      "id": "crono-27",
+      "enunciado": "¿Cuál de las siguientes afirmaciones sobre la consolidación de la memoria durante el sueño es correcta?",
+      "alternativas": [
+        "Las rias hipocampales indican inactivación neuronal",
+        "La reexposición a un olor solo funciona en vigilia",
+        "La fase REM es la única implicada en la consolidación",
+        "La memoria migra del hipocampo a la neocorteza",
+        "Todas las anteriores son correctas"
+      ],
+      "respuesta": 3,
+      "pista": "Recuerde el destino final del recuerdo y en qué fase actúa la reactivación por olor.",
+      "argumento": "La correcta es «La memoria migra del hipocampo a la neocorteza»: el recuerdo pasa del almacén temporal (hipocampo) al de largo plazo (neocorteza). «Las rias hipocampales indican inactivación neuronal» es falsa, porque reflejan reactivación. «La reexposición a un olor solo funciona en vigilia» es falsa: la reexposición al olor asociado durante el sueño de ondas lentas mejora la retención frente al placebo (Rasch y Born, 2013). «La fase REM es la única implicada en la consolidación» es falsa: participan las oscilaciones lentas neocorticales y los husos talamocorticales, con acoplamiento spindle-ripple. Como una opción es falsa, «Todas las anteriores son correctas» también es incorrecta.",
+      "tipo": "todas-ninguna",
+      "tags": ["crono", "clinica-memoria"],
+      "dificultad": "dificil",
+      "fuente": "Cronobiología UBB 2026, §8"
+    },
+    {
+      "id": "crono-28",
+      "enunciado": "Respecto del efecto de sustancias sobre la calidad del sueño, ¿cuál afirmación es correcta?",
+      "alternativas": [
+        "La nicotina no afecta las neuronas colinérgicas",
+        "La cafeína reduce el tiempo total de sueño",
+        "La marihuana prolongada mejora el rendimiento del sueño",
+        "El alcohol mejora la respiración durante el sueño",
+        "Ninguna de las anteriores es correcta"
+      ],
+      "respuesta": 1,
+      "pista": "Todas estas sustancias comparten un mismo efecto final sobre la calidad del sueño.",
+      "argumento": "La correcta es «La cafeína reduce el tiempo total de sueño»: disminuye el tiempo total, empeora la calidad evaluada y produce somnolencia diurna. «La nicotina no afecta las neuronas colinérgicas» es falsa: la nicotina actúa sobre neuronas colinérgicas y se asocia a apnea. «La marihuana prolongada mejora el rendimiento del sueño» es falsa: reduce el rendimiento y la duración del sueño y genera tolerancia. «El alcohol mejora la respiración durante el sueño» es falsa: se relaciona con ronquido y apnea obstructiva. Como hay una opción verdadera, «Ninguna de las anteriores» es incorrecta.",
+      "tipo": "todas-ninguna",
+      "tags": ["crono", "clinica-sustancias"],
+      "dificultad": "media",
+      "fuente": "Cronobiología UBB 2026, §8"
+    },
+    {
+      "id": "crono-29",
+      "enunciado": "¿Cuál de las siguientes afirmaciones sobre la ontogenia y el envejecimiento del sueño es correcta?",
+      "alternativas": [
+        "El recién nacido duerme dos tercios del día",
+        "La mitad del sueño del recién nacido es REM",
+        "En el envejecimiento disminuye la amplitud del ciclo",
+        "El sueño del adulto mayor tiende a fragmentarse",
+        "Todas las anteriores son correctas"
+      ],
+      "respuesta": 4,
+      "pista": "Compare el patrón del recién nacido con el del adulto mayor: amplitud, fragmentación y somnolencias.",
+      "argumento": "La respuesta es «Todas las anteriores son correctas». El recién nacido duerme dos tercios del día y la mitad de ese sueño es REM. El envejecimiento reduce la amplitud del ciclo circadiano, lo que se acompaña de un patrón fragmentado del sueño, somnolencias diurnas frecuentes y periodos de vigilia nocturna. Todas las afirmaciones coinciden con lo descrito en la guía.",
+      "tipo": "todas-ninguna",
+      "tags": ["crono", "ontogenia-sueno"],
+      "dificultad": "media",
+      "fuente": "Cronobiología UBB 2026, §7"
+    },
+    {
+      "id": "crono-30",
+      "enunciado": "Sobre los antecedentes históricos del reloj circadiano, ¿cuál afirmación es correcta?",
+      "alternativas": [
+        "Feldman y Hoyle aislaron los genes reloj",
+        "Los genes reloj tienen homólogos en Drosophila",
+        "Eliminar un gen clock no altera el ritmo",
+        "El ancestro común tendría 5500 millones de años",
+        "Ninguna de las anteriores es correcta"
+      ],
+      "respuesta": 1,
+      "pista": "Recuerde que los relojes de insectos y mamíferos comparten engranajes, y que eliminar un gen reloj borra el ritmo.",
+      "argumento": "La correcta es «Los genes reloj tienen homólogos en Drosophila»: Per, Cry, Clock y mTim poseen homólogos en vertebrados y en Drosophila (Young, 2000), con un ancestro común de ~550 millones de años. «Feldman y Hoyle aislaron los genes reloj» es falsa: Feldman y Hoyle (1973), junto con Konopka y Benzer (1971) y Ralph y Menaker (1988), describieron mutantes circadianos, y la dilucidación de los genes en mamíferos llegó en los años 2000. «Eliminar un gen clock no altera el ritmo» es falsa: si se elimina un gen clock, el comportamiento circadiano desaparece. «El ancestro común tendría 5500 millones de años» es falsa: la estimación es de ~550 millones de años. Como hay una opción verdadera, «Ninguna de las anteriores» es incorrecta.",
+      "tipo": "todas-ninguna",
+      "tags": ["crono", "bases-moleculares"],
+      "dificultad": "dificil",
+      "fuente": "Cronobiología UBB 2026, §6"
+    }
+  ]
+}
