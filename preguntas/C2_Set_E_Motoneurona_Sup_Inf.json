@@ -1,0 +1,444 @@
+{
+  "version": 1,
+  "titulo": "Neurociencias C2 — Set E: motoneurona superior e inferior",
+  "preguntas": [
+    {
+      "id": "c2e-01",
+      "enunciado": "¿Qué rasgo define a la motoneurona inferior y la distingue de la motoneurona superior?",
+      "alternativas": [
+        "Su axón inerva directo la fibra muscular",
+        "Su cuerpo está en la corteza motora primaria",
+        "Su axón termina en el circuito local medular",
+        "Su cuerpo reside en el asta dorsal medular",
+        "Su axón cruza en la decusación piramidal"
+      ],
+      "respuesta": 0,
+      "pista": "Piense en cuál es la única neurona cuyo axón contacta la fibra extrafusal, y dónde está su soma.",
+      "argumento": "Correcta: la motoneurona inferior es la única cuyo axón contacta directamente la fibra muscular extrafusal, y por eso Sherrington la llamó vía final común. La opción del cuerpo en la corteza motora primaria describe a la motoneurona superior, cuyo soma está en la corteza o en centros del tronco. La del axón que termina en el circuito local medular es el rasgo definitorio de la motoneurona superior, que actúa casi siempre sobre interneuronas y solo excepcionalmente sobre la inferior. La del asta dorsal confunde la columna sensitiva con la motora: el soma de la inferior está en el asta ventral o en los núcleos motores craneales. La del cruce en la decusación piramidal corresponde al axón corticoespinal, que pertenece a la vía superior.",
+      "tipo": "directa",
+      "tags": [
+        "cap16",
+        "motoneurona-inferior",
+        "motoneurona-superior"
+      ],
+      "dificultad": "facil",
+      "fuente": "Guía 06, §2 y Purves p. 354"
+    },
+    {
+      "id": "c2e-02",
+      "enunciado": "Una neurona cuyo axón termina sobre interneuronas del asta ventral y no sobre la fibra muscular es, por definición:",
+      "alternativas": [
+        "Motoneurona superior",
+        "Motoneurona inferior alfa",
+        "Motoneurona inferior gamma",
+        "Neurona sensitiva aferente",
+        "Interneurona medular"
+      ],
+      "respuesta": 0,
+      "pista": "La clave es dónde termina el axón, no dónde nace el soma.",
+      "argumento": "Correcta: motoneurona superior. Su axón termina casi siempre sobre neuronas de circuito local y solo de forma excepcional sobre la motoneurona inferior, de modo que la orden cortical se procesa en la médula antes de ejecutarse. La alfa inerva directamente fibras extrafusales y genera fuerza, así que no termina solo en interneuronas. La gamma inerva fibras intrafusales del huso: también es inferior y su blanco es el receptor, no un circuito de interneuronas. La neurona sensitiva de la raíz dorsal lleva aferencia hacia el asta dorsal y no emite órdenes motoras descendentes. La interneurona medular forma parte del circuito local y no es una neurona cuyo axón descienda desde corteza o tronco.",
+      "tipo": "directa",
+      "tags": [
+        "cap16",
+        "motoneurona-superior",
+        "motoneurona-inferior"
+      ],
+      "dificultad": "facil",
+      "fuente": "Guía 06, §2 y Purves p. 354"
+    },
+    {
+      "id": "c2e-03",
+      "enunciado": "¿Qué consecuencia tiene que la mayoría de las órdenes corticales termine en el circuito local y no en la motoneurona inferior?",
+      "alternativas": [
+        "La orden se procesa antes de ejecutarse",
+        "La corteza mueve el músculo sin relevos",
+        "El circuito local solo repite la orden",
+        "El huso muscular ejecuta la contracción",
+        "La motoneurona gamma genera la fuerza"
+      ],
+      "respuesta": 0,
+      "pista": "Distinga la regla general del subgrupo minoritario de conexiones monosinápticas directas.",
+      "argumento": "Correcta: la orden se procesa antes de ejecutarse. Como el axón de la motoneurona superior termina casi siempre en el circuito local, la instrucción cortical se integra con aferencias sensitivas y con interneuronas medulares antes de llegar al músculo. La idea de que la corteza mueve el músculo sin relevos describe solo el subgrupo minoritario de conexiones monosinápticas directas, presentes en algunas motoneuronas del antebrazo y la mano. El circuito local no se limita a repetir: integra y reorganiza. El huso no ejecuta contracción, informa longitud muscular. La gamma no genera fuerza; ajusta la sensibilidad del huso.",
+      "tipo": "directa",
+      "tags": [
+        "cap16",
+        "motoneurona-superior",
+        "motoneurona-inferior"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 06, §2 y §5; Purves pp. 354, 357"
+    },
+    {
+      "id": "c2e-04",
+      "enunciado": "Un hombre de 68 años sufre un infarto de la cápsula interna derecha y, doce horas después, presenta hemiparesia izquierda con hipotonía, reflejos abolidos y caída pasiva de la extremidad. ¿Cómo se explica la hipotonía?",
+      "alternativas": [
+        "Es el shock espinal inicial del síndrome de MS",
+        "Indica lesión agregada de motoneurona inferior",
+        "Corresponde a una fase de denervación incompleta",
+        "Refleja liberación de los núcleos vestibulares",
+        "Depende de la pérdida de aferencia cerebelosa"
+      ],
+      "respuesta": 0,
+      "pista": "Distinga el estado agudo de las primeras horas del patrón que se instala después de varios días.",
+      "argumento": "Correcta: es el shock espinal. Tras el daño agudo de la vía corticoespinal en la cápsula interna, la hipotonía inmediata aparece porque los circuitos espinales quedan privados súbitamente de las aferencias de la corteza y del tronco; después de días reaparecen espasticidad, hiperreflexia, clonus y Babinski. La opción de lesión agregada de motoneurona inferior no se sostiene: un infarto capsular no daña el asta ventral ni el nervio periférico. La de denervación incompleta describe un fenómeno de nervio, no de vía central. La de liberación vestibular explica la espasticidad ya establecida, no la hipotonía inicial. La cerebelosa no participa: el cerebelo no tiene acceso directo a la motoneurona inferior.",
+      "tipo": "directa",
+      "tags": [
+        "cap17",
+        "motoneurona-superior",
+        "semiologia"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Guía 07, §3 y Purves p. 395 (síndrome de MS y shock espinal)"
+    },
+    {
+      "id": "c2e-05",
+      "enunciado": "En el síndrome de motoneurona superior, la espasticidad se define por:",
+      "alternativas": [
+        "Hipertonía con reflejos hiperactivos y clonus",
+        "Hipotonía con arreflexia y fasciculaciones",
+        "Hipertonía con reflejos normales y sin clonus",
+        "Hipotonía con reflejos vivos y atrofia muscular",
+        "Rigidez extrapiramidal en rueda dentada"
+      ],
+      "respuesta": 0,
+      "pista": "El clonus son contracciones y relajaciones oscilatorias del músculo al estirarlo.",
+      "argumento": "Correcta: hipertonía con reflejos hiperactivos y clonus. El Cuadro 17.1 y el texto definen la espasticidad por esos tres elementos, atribuidos a la pérdida de la inhibición descendente sobre los centros posturales y al aumento de la ganancia del reflejo de estiramiento. La hipotonía con arreflexia y fasciculaciones es el patrón de la lesión de motoneurona inferior. La hipertonía sin clonus ni hiperreflexia no cumple la definición. La hipotonía con reflejos vivos mezcla signos de ambos síndromes. La rigidez en rueda dentada es extrapiramidal, de los ganglios basales, y no pertenece al síndrome piramidal.",
+      "tipo": "directa",
+      "tags": [
+        "cap17",
+        "motoneurona-superior",
+        "semiologia"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 07, §3 y Purves Cuadro 17.1, p. 395"
+    },
+    {
+      "id": "c2e-06",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre los síndromes de motoneurona superior e inferior es/son correcta(s).  I) La lesión de motoneurona inferior produce hiporreflexia profunda e hipotonía.  II) La lesión de motoneurona superior produce fasciculaciones y atrofia grave.  III) El signo de Babinski, extensión del dedo gordo y apertura en abanico al rozar la planta, aparece en la lesión de motoneurona superior.  IV) La lesión de motoneurona superior abole los reflejos profundos de inmediato y en forma permanente.",
+      "alternativas": [
+        "Solo I",
+        "Solo II y III",
+        "Solo I y III",
+        "Solo III y IV",
+        "Solo I, II y IV"
+      ],
+      "respuesta": 2,
+      "pista": "Separe los signos de denervación de los de desinhibición, y recuerde qué ocurre en las primeras horas.",
+      "argumento": "I: V. La lesión de motoneurona inferior da hiporreflexia profunda, hipotonía, fasciculaciones y atrofia grave, porque se pierde el arco reflejo y el trofismo dependiente de la motoneurona. II: F. Fasciculaciones y atrofia grave son del síndrome de motoneurona inferior; en la lesión de MS la atrofia es por desuso, leve y tardía. III: V. La respuesta plantar extensora es el marcador clásico de lesión de la vía corticoespinal. IV: F. La lesión aguda de MS produce primero hipotonía con reflejos abolidos (shock espinal); la hiperreflexia se instala después de días. Por eso la combinación correcta es solo I y III.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap17",
+        "motoneurona-superior",
+        "motoneurona-inferior",
+        "semiologia"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 07, §3 y Purves Cuadro 17.1, p. 395"
+    },
+    {
+      "id": "c2e-07",
+      "enunciado": "Un hombre de 45 años consulta por pie caído derecho: no puede dorsiflexar el pie, tiene el reflejo aquiliano disminuido, fasciculaciones en el tibial anterior y atrofia marcada de ese músculo. ¿Qué síndrome explica el cuadro?",
+      "alternativas": [
+        "Síndrome de motoneurona inferior",
+        "Síndrome de motoneurona superior",
+        "Síndrome piramidal con shock espinal",
+        "Lesión de la vía corticoespinal lateral",
+        "Síndrome cerebeloso de hemisferio"
+      ],
+      "respuesta": 0,
+      "pista": "Fasciculaciones más atrofia grave más hiporreflexia apuntan a la neurona que inerva ese músculo, no a la que lo modula.",
+      "argumento": "Correcta: síndrome de motoneurona inferior. La combinación de debilidad en un territorio preciso, hiporreflexia, fasciculaciones y atrofia marcada corresponde a la lesión de la motoneurona que inerva esos músculos, aquí el compartimento anterolateral de la pierna. El síndrome de motoneurona superior da espasticidad, hiperreflexia, clonus y Babinski, con atrofia solo por desuso. El shock espinal es una hipotonía transitoria tras una lesión central aguda, no un cuadro de meses con fasciculaciones. La lesión de la vía corticoespinal tampoco produce fasciculaciones ni atrofia grave. El síndrome cerebeloso da dismetría y ataxia, no parálisis con atrofia.",
+      "tipo": "directa",
+      "tags": [
+        "cap16",
+        "motoneurona-inferior",
+        "semiologia"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 06, §2 y Purves Cuadro 17.1, p. 395"
+    },
+    {
+      "id": "c2e-08",
+      "enunciado": "Al explorar la respuesta plantar rozando la planta del pie, ¿qué hallazgo constituye el signo de Babinski y qué indica?",
+      "alternativas": [
+        "Extensión del dedo gordo y abanico: lesión de MS",
+        "Flexión plantar de todos los dedos: respuesta normal",
+        "Extensión del dedo gordo y abanico: lesión de MI",
+        "Flexión del dedo gordo con aquiliano vivo: normal",
+        "Abanico de los dedos junto a hiporreflexia profunda"
+      ],
+      "respuesta": 0,
+      "pista": "Primero fije la respuesta normal del adulto; el signo es su inversión.",
+      "argumento": "Correcta: extensión del dedo gordo con apertura en abanico de los otros dedos, que indica lesión de motoneurona superior. En el adulto la respuesta plantar normal es la flexión de los dedos; tras el daño de las vías descendentes aparece la respuesta extensora, que también se observa en lactantes antes de madurar la vía corticoespinal. La opción de flexión plantar como respuesta normal describe el hallazgo fisiológico, no el signo. La que atribuye el abanico a lesión de motoneurona inferior invierte el síndrome: la MI aboliría el reflejo, no lo desinhibiría. La flexión del dedo gordo con aquiliano vivo es solo una respuesta normal con reflejo conservado. La última agrega hiporreflexia, que no define el signo.",
+      "tipo": "directa",
+      "tags": [
+        "cap17",
+        "motoneurona-superior",
+        "semiologia"
+      ],
+      "dificultad": "facil",
+      "fuente": "Guía 07, §3 y Purves p. 396, figura 17.16"
+    },
+    {
+      "id": "c2e-09",
+      "enunciado": "Una mujer de 70 años con infarto de la arteria cerebral media izquierda presenta desviación de la comisura labial hacia la derecha y no puede silbar, pero eleva ambas cejas y cierra los ojos con igual fuerza que antes. ¿Qué nivel de lesión explica ese patrón?",
+      "alternativas": [
+        "Lesión de motoneurona superior",
+        "Lesión del núcleo facial ipsilateral",
+        "Lesión del nervio facial periférico",
+        "Lesión de motoneurona inferior bulbar",
+        "Lesión bilateral de la vía corticobulbar"
+      ],
+      "respuesta": 0,
+      "pista": "Pregunte qué parte de la hemicara quedó comprometida y cuál se conservó.",
+      "argumento": "Correcta: lesión de motoneurona superior. El infarto de la cerebral media afecta la corteza motora y las fibras corticobulbares; la musculatura peribucal contralateral queda débil mientras la frente y el cierre ocular se conservan por su aferencia desde el cíngulo anterior, territorio de la cerebral anterior. La lesión del núcleo facial ipsilateral y la del nervio facial periférico comprometen toda la hemicara del mismo lado, incluida la frente. La lesión de motoneurona inferior bulbar produce el mismo déficit completo. La lesión bilateral de la vía corticobulbar daría debilidad facial bilateral, no un déficit peribucal unilateral.",
+      "tipo": "directa",
+      "tags": [
+        "cap17",
+        "facial",
+        "semiologia"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 07, §4 y Purves pp. 379-380"
+    },
+    {
+      "id": "c2e-10",
+      "enunciado": "¿Por qué la paresia facial de motoneurona superior respeta la frente y el cierre de los ojos?",
+      "alternativas": [
+        "El cíngulo anterior la inerva y depende de la cerebral anterior",
+        "El núcleo facial superior recibe fibras del trigémino",
+        "La frente conserva inervación del facial contralateral",
+        "Las fibras para la frente cruzan en el bulbo caudal",
+        "La musculatura frontal depende de la vía rubroespinal"
+      ],
+      "respuesta": 0,
+      "pista": "La explicación actual no es solo la bilateralidad de la vía corticobulbar: hay un territorio vascular distinto.",
+      "argumento": "Correcta: las columnas dorsales del núcleo facial, que inervan la musculatura superior, reciben su aferencia principal del cíngulo anterior, irrigado por la cerebral anterior; por eso un infarto de la cerebral media las respeta. La explicación no se reduce a la proyección bilateral, aunque la vía corticobulbar es bilateral salvo para la parte inferior del rostro y la lengua. El trigémino es sensitivo de la cara y no inerva músculos mímicos. La idea de inervación exclusivamente contralateral de la frente es falsa: recibe proyección bilateral. Las fibras faciales no cruzan en el bulbo caudal, y la vía rubroespinal no gobierna la musculatura facial.",
+      "tipo": "directa",
+      "tags": [
+        "cap17",
+        "facial",
+        "via-corticoespinal"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Guía 07, §4 y Purves pp. 379-380"
+    },
+    {
+      "id": "c2e-11",
+      "enunciado": "Las células de Betz, pirámides gigantes de la capa V de la corteza motora primaria, aportan a la proyección corticoespinal:",
+      "alternativas": [
+        "Menos del 5% de los axones",
+        "Cerca del 30% de los axones",
+        "Alrededor del 50% de los axones",
+        "Casi el 90% de los axones",
+        "La totalidad de los axones"
+      ],
+      "respuesta": 0,
+      "pista": "Son las neuronas más grandes del encéfalo humano por tamaño de soma, pero eso no implica que sean numerosas.",
+      "argumento": "Correcta: menos del 5%. Las células de Betz son las neuronas más grandes del SNC humano por soma, pero escasas: representan menos del 5% de la proyección hacia la médula, y el resto son pirámides de la misma capa V de M1 y de la premotora. El 30% corresponde al aporte de la corteza premotora al tracto corticoespinal, no a las Betz. El 50% sobredimensiona su participación. El 90% es la fracción de axones que se decusa en el bulbo caudal, un dato del tracto y no de estas neuronas. La totalidad es incompatible con la existencia de otras pirámides en la capa V.",
+      "tipo": "directa",
+      "tags": [
+        "cap17",
+        "via-corticoespinal",
+        "motoneurona-superior"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 07, §3 y Purves p. 377"
+    },
+    {
+      "id": "c2e-12",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre la vía corticoespinal es/son correcta(s).  I) Nace en neuronas piramidales de la capa V de la corteza.  II) Atraviesa la cápsula interna y el pedúnculo cerebral.  III) Alrededor del 90% se decusa en el bulbo caudal y forma el tracto lateral.  IV) El tracto ventral termina solo en el asta ventral homolateral.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo II y III",
+        "Solo I, II y III",
+        "Solo I y IV",
+        "Todas son correctas"
+      ],
+      "respuesta": 2,
+      "pista": "Revise el destino del 10% que no cruza en la decusación piramidal.",
+      "argumento": "I: V. El origen está en las neuronas piramidales de la capa V, entre ellas las células de Betz. II: V. El trayecto es cápsula interna, pedúnculo cerebral, base de la protuberancia y pirámides bulbares. III: V. En el bulbo caudal se decusa alrededor del 90%, que forma el tracto corticoespinal lateral y termina en el asta ventral lateral y la sustancia gris intermedia. IV: F. El 10% restante forma el tracto ventral, que no cruza allí y termina bilateralmente por colaterales, no solo en el asta homolateral. Por eso la combinación correcta es I, II y III.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap17",
+        "via-corticoespinal"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 07, §3 y Purves pp. 377-380"
+    },
+    {
+      "id": "c2e-13",
+      "enunciado": "El 10% de los axones corticoespinales que no se decusa en el bulbo caudal:",
+      "alternativas": [
+        "Termina bilateralmente en el asta ventral medial",
+        "Termina solo en el asta ventral lateral",
+        "Termina en el asta dorsal contralateral",
+        "Termina en los núcleos motores craneales",
+        "Termina en el cerebelo como fibra musgosa"
+      ],
+      "respuesta": 0,
+      "pista": "Ese haz sigue homolateral y sirve a la musculatura axial que trabaja de ambos lados.",
+      "argumento": "Correcta: termina bilateralmente en el asta ventral medial. El tracto corticoespinal ventral no cruza en la decusación piramidal y alcanza ambos lados por colaterales; sirve a la musculatura axial y proximal junto con las vías del tronco. La opción del asta ventral lateral describe al tracto lateral, que ya cruzó. La del asta dorsal contralateral confunde la vía motora con la sensitiva. Los núcleos motores craneales reciben axones corticobulbares, que abandonan la vía en el tronco. La fibra musgosa es una aferencia cerebelosa sin relación con este tracto.",
+      "tipo": "directa",
+      "tags": [
+        "cap17",
+        "via-corticoespinal"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 07, §2 y §3; Purves pp. 376-380"
+    },
+    {
+      "id": "c2e-14",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre los sistemas descendentes medial y lateral es/son correcta(s).  I) El medial se origina sobre todo en el tronco del encéfalo.  II) El medial desciende por la sustancia blanca anteromedial y termina bilateralmente.  III) El lateral controla la musculatura axial y la postura.  IV) El lateral termina en pocos segmentos del asta ventral lateral.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo I, II y IV",
+        "Solo II y III",
+        "Solo I y IV",
+        "Solo II, III y IV"
+      ],
+      "respuesta": 1,
+      "pista": "Asocie cada sistema con su función: postura y equilibrio frente a destreza distal.",
+      "argumento": "I: V. El sistema medial se origina sobre todo en el tronco del encéfalo: núcleos vestibulares, formación reticular y colículo superior. II: V. Desciende por la sustancia blanca anteromedial y termina bilateralmente en varios segmentos, en el asta ventral medial. III: F. La musculatura axial y la postura son función del sistema medial; el lateral controla la musculatura distal con movimientos finos y precisos. IV: V. El lateral, mayoritariamente cortical, desciende por la sustancia blanca lateral y termina en pocos segmentos del asta ventral lateral. Por eso la combinación correcta es I, II y IV.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap17",
+        "via-corticoespinal",
+        "motoneurona-superior"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 07, §2 y Purves p. 376"
+    },
+    {
+      "id": "c2e-15",
+      "enunciado": "En el eje transversal del asta ventral, la organización somatotópica ubica la musculatura según este patrón:",
+      "alternativas": [
+        "Axial medial, distal lateral",
+        "Axial lateral, distal medial",
+        "Axial dorsal, distal ventral",
+        "Axial ventral, distal lateral",
+        "Distal medial, axial intermedio"
+      ],
+      "respuesta": 0,
+      "pista": "Piense en los músculos que sostienen la columna frente a los que mueven los dedos, y en su distancia a la línea media.",
+      "argumento": "Correcta: axial medial, distal lateral. El asta ventral dibuja un mapa transversal en que la musculatura axial y postural ocupa la línea media, los proximales quedan en posiciones intermedias y los distales en la porción más lateral; en el eje longitudinal, el brazo queda en el ensanchamiento cervical y la pierna en el lumbar. Invertir el eje medial-lateral es el error más frecuente. Las opciones que llevan lo distal a la línea media o lo axial a una posición lateral niegan esa topografía. Las que usan ejes dorsal-ventral confunden el mapa motor con el sensitivo del asta dorsal. La última mezcla distal medial con un nivel intermedio que no corresponde al eje.",
+      "tipo": "directa",
+      "tags": [
+        "cap16",
+        "motoneurona-inferior",
+        "unidad-motora"
+      ],
+      "dificultad": "facil",
+      "fuente": "Guía 06, §3 y Purves pp. 355-356"
+    },
+    {
+      "id": "c2e-16",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre la unidad motora es/son correcta(s).  I) Está formada por una motoneurona alfa y todas las fibras que inerva.  II) Incluye el huso muscular correspondiente.  III) Un potencial de acción activa todas sus fibras, por lo que es la unidad mínima de fuerza.  IV) La motoneurona gamma inerva las fibras extrafusales.",
+      "alternativas": [
+        "Solo I",
+        "Solo I y III",
+        "Solo II y III",
+        "Solo I, III y IV",
+        "Solo III"
+      ],
+      "respuesta": 1,
+      "pista": "Pregunte qué fibras generan fuerza y qué receptor queda fuera de la definición.",
+      "argumento": "I: V. La unidad motora es una motoneurona alfa más todas las fibras musculares que inerva. II: F. El huso es un receptor encapsulado, formado por fibras intrafusales inervadas por gamma; no forma parte de la unidad motora. III: V. Como un potencial de acción lleva a umbral todas las fibras de la unidad, es la unidad de fuerza más pequeña que puede activarse. IV: F. La gamma inerva fibras intrafusales; las extrafusales, que generan la fuerza, son territorio de la alfa. Por eso la combinación correcta es solo I y III.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap16",
+        "unidad-motora",
+        "motoneurona-inferior"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 06, §5 y §6; Purves pp. 356-357"
+    },
+    {
+      "id": "c2e-17",
+      "enunciado": "¿Qué unidad motora sostiene la postura de pie sin fatigarse, y por qué?",
+      "alternativas": [
+        "La lenta, de fibras rojas con muchas mitocondrias",
+        "La rápida resistente, de fibras intermedias",
+        "La rápida fatigable, de fibras pálidas y grandes",
+        "La lenta, de fibras pálidas y escasa mioglobina",
+        "La rápida fatigable, por su mayor fuerza"
+      ],
+      "respuesta": 0,
+      "pista": "Relacione color de la fibra, densidad mitocondrial y resistencia con el uso postural sostenido.",
+      "argumento": "Correcta: la lenta, de fibras rojas con abundante mioglobina, mitocondrias y capilares; genera poca fuerza, resiste la fatiga y es la tónicamente activa en la postura. La rápida resistente a la fatiga es intermedia: cerca del doble de fuerza que la lenta y más resistente que la fatigable, pero no es la que sostiene la postura sin decaer. La rápida fatigable tiene fibras pálidas y escasas mitocondrias, y se agota en minutos; sirve para esfuerzos breves. La opción que asigna a la lenta fibras pálidas y escasa mioglobina invierte sus características. La última atribuye a la fatigable una resistencia que no tiene.",
+      "tipo": "directa",
+      "tags": [
+        "cap16",
+        "unidad-motora"
+      ],
+      "dificultad": "facil",
+      "fuente": "Guía 06, §7 y Purves pp. 357-358"
+    },
+    {
+      "id": "c2e-18",
+      "enunciado": "El sóleo tiene alrededor de 180 fibras por motoneurona y los músculos extraoculares alrededor de 3. ¿Qué explica esa diferencia?",
+      "alternativas": [
+        "El control fino exige pocas fibras por unidad",
+        "El sóleo posee menos unidades motoras totales",
+        "Los extraoculares carecen de motoneuronas gamma",
+        "El sóleo tiene más fibras intrafusales por huso",
+        "Los extraoculares usan solo unidades rápidas"
+      ],
+      "respuesta": 0,
+      "pista": "Compare la precisión requerida por el ojo con la fuerza requerida por un músculo postural.",
+      "argumento": "Correcta: el control fino exige pocas fibras por unidad. La relación de inervación es inversa a la precisión requerida: los extraoculares tienen alrededor de 3 fibras por motoneurona y el sóleo, postural, alrededor de 180; el gastrocnemio, que debe generar fuerza rápida, entre 1.000 y 2.000. El número total de unidades del sóleo no explica la relación por unidad. La ausencia de gamma en los extraoculares es falsa y, además, la gamma regula el huso y no la fuerza. La cantidad de fibras intrafusales pertenece al receptor, no a la unidad motora. Que los extraoculares usen solo unidades rápidas no es el criterio: lo decisivo es la precisión.",
+      "tipo": "directa",
+      "tags": [
+        "cap16",
+        "unidad-motora"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 06, §7 y Purves p. 358"
+    },
+    {
+      "id": "c2e-19",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre la esclerosis lateral amiotrófica es/son correcta(s).  I) Degenera motoneuronas superiores e inferiores.  II) Produce síntomas sensitivos precoces.  III) Alrededor del 10% de los casos es familiar.  IV) La muerte suele ocurrir en menos de cinco años.",
+      "alternativas": [
+        "Solo I y III",
+        "Solo I, III y IV",
+        "Solo II y IV",
+        "Solo I y II",
+        "Solo III y IV"
+      ],
+      "respuesta": 1,
+      "pista": "Recuerde qué explica que coexistan atrofia y Babinski en el mismo paciente.",
+      "argumento": "I: V. La ELA degenera las motoneuronas alfa del asta ventral y de los núcleos motores del tronco junto con las neuronas de la corteza motora, y por eso combina atrofia con signos de vía superior. II: F. Es una enfermedad puramente motora: no produce síntomas sensitivos, aunque el nombre «lateral» aluda al haz corticoespinal. III: V. Alrededor del 10% de los casos es familiar, con mutaciones de SOD1 (superóxido dismutasa Cu/Zn) y de dinactina entre las identificadas. IV: V. La progresión es lenta pero inexorable, y la muerte ocurre habitualmente en menos de cinco años. Por eso la combinación correcta es I, III y IV.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap16",
+        "ela",
+        "motoneurona-inferior",
+        "motoneurona-superior"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 06, §9 y Purves p. 373"
+    },
+    {
+      "id": "c2e-20",
+      "enunciado": "Un hombre de 58 años consulta por debilidad progresiva de seis meses, con atrofia y fasciculaciones en ambas manos, reflejos osteotendíneos exaltados en las piernas, Babinski bilateral, sensibilidad normal e intelecto intacto. ¿Cuál es el diagnóstico más probable?",
+      "alternativas": [
+        "Esclerosis lateral amiotrófica",
+        "Polineuropatía desmielinizante",
+        "Distrofia muscular progresiva",
+        "Esclerosis múltiple remitente",
+        "Síndrome de motoneurona superior puro"
+      ],
+      "respuesta": 0,
+      "pista": "Busque la única entidad que explica a la vez signos de denervación y de vía superior, sin compromiso sensitivo.",
+      "argumento": "Correcta: esclerosis lateral amiotrófica. La coexistencia de signos de motoneurona inferior (atrofia y fasciculaciones en las manos) y de motoneurona superior (hiperreflexia y Babinski bilateral), sin síntomas sensitivos y con intelecto preservado, es el patrón característico, y la muerte suele ocurrir en menos de cinco años. La polineuropatía desmielinizante es periférica, da hiporreflexia y suele acompañarse de síntomas sensitivos. La distrofia muscular no produce Babinski ni hiperreflexia. La esclerosis múltiple cursa con brotes, síntomas sensitivos y lesiones desmielinizantes del SNC. Un síndrome de motoneurona superior puro no explica la atrofia con fasciculaciones.",
+      "tipo": "directa",
+      "tags": [
+        "cap16",
+        "ela",
+        "semiologia"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 06, §9 y Purves p. 373"
+    }
+  ]
+}
