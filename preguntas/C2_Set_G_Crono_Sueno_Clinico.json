@@ -1,0 +1,860 @@
+{
+  "version": 1,
+  "titulo": "Neurociencias C2 — Set G: cronobiología del sueño y medicina del sueño",
+  "preguntas": [
+    {
+      "id": "c2g-01",
+      "enunciado": "En un registro de un año, un animal hiberna siempre en la misma época, su cortisol varía cada 24 horas y su EEG muestra oscilaciones de décimas de segundo. Esos tres ritmos son, respectivamente:",
+      "alternativas": [
+        "infradiano, circadiano y ultradiano",
+        "circadiano, infradiano y ultradiano",
+        "ultradiano, circadiano e infradiano",
+        "infradiano, ultradiano y circadiano",
+        "circadiano, ultradiano e infradiano"
+      ],
+      "respuesta": 0,
+      "pista": "Ordene por período: primero el que supera el día y al final el que dura fracciones de segundo.",
+      "argumento": "La clasificación es por período: la hibernación anual supera las 24 horas (infradiano), el cortisol se repite cada día (circadiano) y el EEG, con períodos de décimas de segundo, es ultradiano. Las otras opciones alteran ese orden: ponen primero el cortisol o el EEG, o intercambian el anual con el diario.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "ritmos"
+      ],
+      "dificultad": "facil",
+      "fuente": "Guía 01, §1"
+    },
+    {
+      "id": "c2g-02",
+      "enunciado": "El período del reloj circadiano humano en libre curso no es exactamente de 24 horas. La consecuencia funcional de esa diferencia es que:",
+      "alternativas": [
+        "el reloj deja de oscilar cuando falta la luz",
+        "la melatonina se secreta también de día",
+        "el reloj requiere reajuste diario por zeitgebers",
+        "el sueño pierde su organización en etapas",
+        "el NSQ necesita osciladores periféricos para oscilar"
+      ],
+      "respuesta": 2,
+      "pista": "Piense qué ocurriría si el reloj quedara aislado de toda señal externa durante semanas.",
+      "argumento": "Como el período endógeno ronda las 24 horas pero no coincide con el día solar, el reloj se desincroniza de a poco y necesita señales ambientales que lo reajusten: eso es la sincronización fótica. Que dependa de la luz no significa que se detenga sin ella: en oscuridad constante sigue oscilando, en libre curso. La melatonina se secreta de noche, no de día. El sueño conserva sus etapas en libre curso, solo se desplaza la hora. El NSQ oscila de forma autónoma, sin necesidad de los tejidos periféricos.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "ritmos",
+        "nsq"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 01, §2"
+    },
+    {
+      "id": "c2g-03",
+      "enunciado": "Un ratón nocturno recibe un pulso de luz durante su fase activa y suspende la actividad mientras dura el estímulo, pero su fase en oscuridad constante no cambia después. Ese efecto inmediato y transitorio se denomina:",
+      "alternativas": [
+        "arrastre",
+        "enmascaramiento",
+        "libre curso",
+        "partición",
+        "desincronización"
+      ],
+      "respuesta": 1,
+      "pista": "Distinga un cambio de fase del reloj de un efecto directo de la luz sobre la conducta.",
+      "argumento": "El enmascaramiento es el efecto directo del sincronizador sobre la variable observada, sin mediar cambio de fase: la luz suprime la actividad mientras está presente y, al desaparecer, el ritmo reaparece en la misma fase. El arrastre es la sincronización estable del reloj a un zeitgeber, y aquí la fase no se movió. El libre curso es la oscilación sin claves. La partición es el desacoplamiento del NSQ en dos osciladores en antifase. La desincronización es pérdida de coherencia interna entre variables, no un efecto agudo de la luz.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "ritmos",
+        "medicion"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 01, conceptos clave"
+    },
+    {
+      "id": "c2g-04",
+      "enunciado": "En un ratón con lesión bilateral del NSQ se restringe la comida a una ventana fija de cuatro horas; el animal desarrolla actividad anticipatoria que persiste sin el núcleo. Ese resultado indica que:",
+      "alternativas": [
+        "el período del oscilador alimentario lo fija la luz",
+        "el NSQ sincroniza a los tejidos por vía humoral",
+        "la lesión del NSQ acorta el período en oscuridad",
+        "existe un oscilador alimentario independiente del NSQ",
+        "el alimento actúa solo como enmascarador de la actividad"
+      ],
+      "respuesta": 3,
+      "pista": "Fíjese en lo que el experimento elimina: el marcapasos central ya no está.",
+      "argumento": "Si el ritmo anticipatorio aparece y persiste sin NSQ, el oscilador que lo genera es distinto del marcapasos central y responde al horario de comida: es el oscilador dependiente del alimento, distribuido en hipotálamo, hígado, páncreas y suprarrenal. La luz no fija su período, y de hecho el animal lo mantiene con el núcleo destruido. La vía humoral del NSQ es una salida real, pero el experimento la suprime junto con el núcleo y aun así hay ritmo. La lesión no acorta el período: elimina los ritmos que dependen del NSQ. Un enmascarador no generaría una anticipación sostenida.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "nsq",
+        "ritmos"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 01, §3"
+    },
+    {
+      "id": "c2g-05",
+      "enunciado": "El NSQ tiene pocas eferencias frente a la gran diversidad de ritmos que controla. La organización que resuelve esa aparente contradicción es:",
+      "alternativas": [
+        "un sistema distribuido con núcleos intermedios",
+        "una proyección directa a cada tejido",
+        "una señal hormonal única, la melatonina",
+        "un relevo exclusivo en la médula espinal",
+        "una red de ganglios sensitivos periféricos"
+      ],
+      "respuesta": 0,
+      "pista": "Recuerde a qué núcleos proyecta el NSQ y qué hacen esos núcleos con la información.",
+      "argumento": "El NSQ envía salidas limitadas —zona subparaventricular, septum lateral, estría terminal, tálamo paraventricular, sustancia gris mesencefálica y, por el núcleo paraventricular, el simpático y la pineal— y esos núcleos intermedios redistribuyen la señal: es un sistema circadiano distribuido. No hay proyección directa a cada tejido, porque los tejidos reciben señales neurales y humorales indirectas. La melatonina es solo una de las salidas y no explica los ritmos que no dependen de la pineal. La médula no es el relevo central del sistema, y los ganglios sensitivos no generan el ritmo.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "nsq"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Guía 01, §4"
+    },
+    {
+      "id": "c2g-06",
+      "enunciado": "La subregión dorsomedial del NSQ se distingue de la ventrolateral porque:",
+      "alternativas": [
+        "recibe la mayoría de las proyecciones retinianas",
+        "contiene las ganglionares con melanopsina",
+        "proyecta directamente a la glándula pineal",
+        "es la única que oscila al disociar el núcleo",
+        "es rica en vasopresina y define la coherencia"
+      ],
+      "respuesta": 4,
+      "pista": "Una subregión recibe la luz y la otra organiza la coherencia del conjunto.",
+      "argumento": "La dorsomedial es pobre en aferencias retinianas, rica en vasopresina y su actividad eléctrica define la coherencia del núcleo; la ventrolateral es la que recibe la mayoría de las proyecciones retinales y es rica en VIP, GRP y PHL. Las ganglionares con melanopsina están en la retina, no en el NSQ. La proyección a la pineal es multipaso, por el paraventricular y el ganglio cervical superior. Y las neuronas del NSQ oscilan de forma autónoma incluso disociadas, rasgo que no separa una subregión de la otra.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "nsq"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 01, §4"
+    },
+    {
+      "id": "c2g-07",
+      "enunciado": "Sobre la anatomía y las conexiones del núcleo supraquiasmático (NSQ), señale cuál(es) de las siguientes afirmaciones es/son correcta(s).  I) Cada NSQ contiene alrededor de 50.000 neuronas y se ubica sobre el quiasma óptico.  II) Sus eferencias alcanzan la zona subparaventricular y el núcleo paraventricular.  III) La vía que llega a la pineal incluye el ganglio cervical superior.  IV) Su lesión bilateral en el adulto suprime los ritmos solo de forma transitoria.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo I y III",
+        "Solo II y IV",
+        "Solo I, II y III",
+        "Todas son correctas"
+      ],
+      "respuesta": 3,
+      "pista": "Distinga una estructura que depende del NSQ para su ritmo de un ritmo que se recupera solo.",
+      "argumento": "I: V, el NSQ es un par de núcleos del hipotálamo anterior, sobre el quiasma, con unas 50.000 neuronas cada uno. II: V, sus salidas incluyen la zona subparaventricular y el paraventricular, desde donde se distribuye la señal. III: V, la vía pineal es retina–NSQ–paraventricular–columna intermediolateral–ganglio cervical superior–pineal. IV: F, la lesión del NSQ en el adulto produce pérdida permanente de los ritmos conductuales; por eso «Todas son correctas» no se sostiene.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap2",
+        "nsq"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 01, §4"
+    },
+    {
+      "id": "c2g-08",
+      "enunciado": "El ratón Clock mutante homocigoto, con una deleción de 51 aminoácidos, se caracteriza porque en oscuridad constante:",
+      "alternativas": [
+        "su período se acorta y mantiene la ritmicidad",
+        "oscila con período normal pero sin amplitud",
+        "su período se alarga y luego pierde ritmicidad",
+        "adelanta la fase dos horas en cada ciclo",
+        "no expresa Per ni Cry en el NSQ"
+      ],
+      "respuesta": 2,
+      "pista": "Es un mutante del elemento activador del bucle, no de los represores.",
+      "argumento": "El Clock mutante tiene un período anormalmente largo y termina arrítmico tras varios ciclos en oscuridad. No acorta el período: eso ocurre con mCry1 o con el mutante tau. No conserva un período normal, y la falta de amplitud es el fenotipo que se espera cuando falla la vía secundaria. El corrimiento fijo de dos horas por ciclo no es un fenotipo descrito. Per y Cry se siguen expresando, aunque con ritmo alterado, porque el defecto está en el activador.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "reloj-molecular"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Guía 01, §5"
+    },
+    {
+      "id": "c2g-09",
+      "enunciado": "Respecto de los mutantes del reloj molecular en mamíferos, señale cuál(es) de las siguientes afirmaciones es/son correcta(s).  I) La deleción de mCry1 acorta el período.  II) La deleción de mCry2 alarga el período.  III) El doble mutante Cry1/Cry2 es arrítmico desde el inicio en oscuridad.  IV) El mutante mPer2 mantiene un período largo y estable, sin arritmicidad.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo II y III",
+        "Solo I, II y III",
+        "Solo I y IV",
+        "Solo III y IV"
+      ],
+      "respuesta": 2,
+      "pista": "Los dos criptocromos no empujan el período en la misma dirección.",
+      "argumento": "I: V, Cry1 acorta el período. II: V, Cry2 lo alarga; por eso los dobles mutantes se comportan distinto de cada uno por separado. III: V, sin ambos criptocromos la represión falla y el ratón es arrítmico de inmediato en oscuridad. IV: F, mPer2 produce un período corto inicial y luego arritmicidad, no un período largo estable.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap2",
+        "reloj-molecular"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Guía 01, §5"
+    },
+    {
+      "id": "c2g-10",
+      "enunciado": "Un sujeto se expone a luz brillante durante una hora al despertar, todos los días, durante una semana. El efecto esperado sobre su reloj es:",
+      "alternativas": [
+        "un retraso de fase, con sueño más tardío",
+        "un adelanto de fase, con sueño más temprano",
+        "ningún cambio de fase, solo supresión de melatonina",
+        "un alargamiento del período endógeno a 25 horas",
+        "una pérdida de la ritmicidad del NSQ en oscuridad"
+      ],
+      "respuesta": 1,
+      "pista": "Ubique el estímulo en la curva de respuesta de fase: la luz del amanecer llega después del mínimo de temperatura.",
+      "argumento": "La misma luz produce efectos opuestos según la hora: en la mañana, tras el mínimo de temperatura, adelanta la fase; en la tarde y la noche la retrasa. Por eso el sujeto se dormirá más temprano. La supresión de melatonina ocurre, pero no es todo: la fase también se mueve. El período endógeno no se alarga por exposición aguda. El NSQ no pierde su ritmicidad por luz diurna, que es justamente su sincronizador.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "ritmos",
+        "melatonina"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 01, §6"
+    },
+    {
+      "id": "c2g-11",
+      "enunciado": "Dos pacientes ciegos consultan. El primero perdió conos y bastones por una retinosis pigmentaria y conserva horarios de sueño estables; el segundo perdió ambos ojos por un traumatismo y su hora de dormir se desplaza cerca de una hora cada día. La diferencia se explica porque:",
+      "alternativas": [
+        "el segundo conserva intacto el tracto retinohipotalámico",
+        "el primero sincroniza por la vía geniculada",
+        "el segundo conserva la pineal y así mantiene la fase",
+        "el primero conserva ganglionares con melanopsina",
+        "ambos sufren desincronización forzada por la ceguera"
+      ],
+      "respuesta": 3,
+      "pista": "La vía que informa la cantidad de luz es distinta de la que forma imágenes.",
+      "argumento": "La sincronización depende de las células ganglionares con melanopsina y del tracto retinohipotalámico, no de conos y bastones: el primer paciente, ciego para imágenes, conserva esa vía y mantiene la fase; el segundo, sin ojos, la perdió y su reloj corre en libre curso, desplazándose cada día. El segundo no conserva el tracto. La pineal intacta no basta, porque sin aferencia retiniana no hay señal que la ajuste. La vía geniculada es visual, no sincronizadora. Y la desincronización forzada supone un conflicto entre hora interna y horario impuesto, no ausencia de claves.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "ritmos",
+        "medicion"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 01, §6 y §8"
+    },
+    {
+      "id": "c2g-12",
+      "enunciado": "La resección bilateral del ganglio cervical superior suprime el pico nocturno de melatonina. Eso ocurre porque esa vía:",
+      "alternativas": [
+        "es la salida simpática final hacia la pineal",
+        "lleva la luz desde la retina al NSQ",
+        "transporta melatonina desde la pineal al plasma",
+        "conecta el NSQ con la hipófisis anterior",
+        "conduce la señal parasimpática al pinealocito"
+      ],
+      "respuesta": 0,
+      "pista": "Siga la cascada desde el NSQ: paraventricular, columna intermediolateral, ganglio.",
+      "argumento": "La pineal recibe una inervación simpática que nace en el NSQ, pasa por el núcleo paraventricular y la columna intermediolateral y hace sinapsis en el ganglio cervical superior; sus terminales liberan noradrenalina sobre receptores beta y aumentan el AMPc y la enzima limitante. Sin ese ganglio no hay señal pineal y desaparece el pico. La vía retinohipotalámica es la aferencia al NSQ, no la salida. La melatonina sale por la sangre, no por un nervio. El NSQ no conecta así con la hipófisis. Y la inervación pineal es simpática, no parasimpática.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "melatonina"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 01, §7"
+    },
+    {
+      "id": "c2g-13",
+      "enunciado": "Una mujer de 24 años consulta por insomnio de conciliación desde la adolescencia. En rutina constante, su DLMO (inicio de melatonina con luz tenue) ocurre a las 23:30 y suele dormirse a las 2:00, despertando a las 10:00 con buen ánimo. El cuadro corresponde a:",
+      "alternativas": [
+        "un adelanto de fase del sistema circadiano",
+        "una secreción de melatonina suprimida por la luz",
+        "un retraso de fase del sistema circadiano",
+        "una pérdida de ritmicidad del núcleo supraquiasmático",
+        "un período endógeno acortado a 20 horas"
+      ],
+      "respuesta": 2,
+      "pista": "Compare la hora biológica del DLMO con la hora habitual de inicio del sueño.",
+      "argumento": "El DLMO es un marcador de fase: si aparece tarde y el sueño y el despertar también son tardíos, con buena calidad y ánimo conservado, el reloj está retrasado respecto de la hora social; es un trastorno de fase retrasada. Un adelanto de fase daría un DLMO precoz y sueño muy temprano. La melatonina no está suprimida: hay pico, solo desplazado. No hay pérdida de ritmicidad, porque el ritmo existe y es estable. El período de 20 horas es el del hámster tau y produciría un desplazamiento diario, no un horario tardío fijo.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "melatonina",
+        "medicion"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 01, §7 y §11"
+    },
+    {
+      "id": "c2g-14",
+      "enunciado": "Un operador cambia de turno cada dos o tres días: día, tarde y noche. Nunca logra adaptarse porque:",
+      "alternativas": [
+        "el NSQ no puede cambiar de fase en toda la vida",
+        "el reencarrilamiento tarda más que la rotación",
+        "la luz del turno de noche adelanta su reloj",
+        "el turno de noche suprime la expresión de Per",
+        "su período endógeno se acorta a 20 horas"
+      ],
+      "respuesta": 1,
+      "pista": "Piense cuánto tarda el reloj en mover su fase y cada cuánto se le pide hacerlo.",
+      "argumento": "El reloj se reencarrila a un ritmo limitado, del orden de una hora de fase por día, y la rotación cada dos o tres días le exige un cambio mayor antes de completar el anterior: la desalineación se vuelve crónica. El NSQ sí cambia de fase, para eso existe la sincronización. La luz nocturna retrasa la fase, no la adelanta, y ese es parte del problema. La expresión de Per no se suprime de forma sostenida por el turno. El período de 20 horas es un fenotipo mutante, no un efecto del horario.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "jet-lag"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 01, §8"
+    },
+    {
+      "id": "c2g-15",
+      "enunciado": "Señale cuál(es) de los siguientes trastornos circadianos es/son de origen exógeno.  I) El jet lag tras un vuelo transmeridiano.  II) El trabajo en turnos rotativos.  III) La ceguera con el tracto retinohipotalámico dañado.  IV) El tumor del núcleo supraquiasmático.",
+      "alternativas": [
+        "Solo I",
+        "Solo I y II",
+        "Solo II y III",
+        "Solo III y IV",
+        "Todas son correctas"
+      ],
+      "respuesta": 1,
+      "pista": "Pregúntese en cuáles el reloj y sus vías están sanos y el problema es el desfase con el horario.",
+      "argumento": "I: V, el jet lag es desfase entre hora interna y hora externa con un oscilador intacto. II: V, el turno rotativo es la forma crónica del mismo desfase. III: F, la ceguera con la vía retinohipotalámica dañada es un trastorno endógeno: falla la entrada que sincroniza y el ritmo corre en libre curso. IV: F, un tumor del NSQ lesiona el oscilador mismo, también endógeno. Por eso «Todas son correctas» no se sostiene.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap2",
+        "jet-lag"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 01, §8"
+    },
+    {
+      "id": "c2g-16",
+      "enunciado": "Un voluntario lleva 30 horas despierto y a las 20:00 no logra conciliar el sueño pese al cansancio. En el modelo de dos procesos, eso se explica porque:",
+      "alternativas": [
+        "la presión homeostática ya se disipó por completo",
+        "el sueño REM acumulado bloquea el inicio",
+        "el cortisol vespertino produce alerta sostenida",
+        "la temperatura alcanza su máximo nocturno",
+        "el proceso circadiano abre una ventana de alerta"
+      ],
+      "respuesta": 4,
+      "pista": "Separe la deuda de sueño acumulada de la ventana horaria del reloj.",
+      "argumento": "El proceso S está alto tras 30 horas despierto, pero el proceso C impone en esa franja una ventana de alerta —la «zona prohibida»— en la que iniciar el sueño es casi imposible; por eso la privación no basta para dormir a esa hora. La presión homeostática no se disipa si no se duerme. El REM no se acumula como una deuda que bloquee el inicio. El cortisol está bajo al comienzo de la noche, no en un pico. La temperatura desciende hacia el sueño; su máximo es diurno.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "dos-procesos"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 01, §9"
+    },
+    {
+      "id": "c2g-17",
+      "enunciado": "En un primate con lesión del NSQ, la privación de sueño sigue produciendo un rebote proporcional a las horas perdidas. Ese hallazgo indica que:",
+      "alternativas": [
+        "la homeostasis del sueño no depende del reloj",
+        "el NSQ genera la presión homeostática de sueño",
+        "el rebote es un fenómeno puramente circadiano",
+        "la privación elimina los ritmos de temperatura",
+        "el NSQ es necesario para recuperar el sueño lento"
+      ],
+      "respuesta": 0,
+      "pista": "Si el rebote sobrevive sin marcapasos, ¿qué proceso lo está generando?",
+      "argumento": "El rebote es la expresión de la presión homeostática, y persiste sin NSQ: los dos procesos son separables y la homeostasis no requiere el reloj. El NSQ no genera la presión de sueño, la temporiza. El rebote no es circadiano: el proceso homeostático es el que responde a las horas de vigilia. Los ritmos de temperatura dependen del NSQ y se pierden con la lesión, pero eso no explica el rebote. Y el sueño lento se recupera sin NSQ, precisamente porque su motor es homeostático.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "dos-procesos"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Guía 01, §9"
+    },
+    {
+      "id": "c2g-18",
+      "enunciado": "Una mujer de 78 años con Alzheimer presenta despertares múltiples y somnolencia diurna. Se quiere documentar su patrón de actividad-reposo durante dos semanas en su casa, sin alterar su rutina. El instrumento más adecuado es:",
+      "alternativas": [
+        "la polisomnografía nocturna",
+        "una oximetría nocturna domiciliaria",
+        "la actigrafía de muñeca",
+        "el DLMO medido en saliva",
+        "un diario de sueño aislado"
+      ],
+      "respuesta": 2,
+      "pista": "Necesita muchos días de registro continuo en el ambiente habitual del paciente.",
+      "argumento": "La actigrafía registra actividad-reposo de forma continua durante días o semanas en el ambiente del paciente, que es lo que se pide para ver el patrón circadiano y la fragmentación. La polisomnografía caracteriza etapas en una o dos noches de laboratorio, no dos semanas en casa. La oximetría informa sobre la respiración nocturna, no sobre el ritmo actividad-reposo. El DLMO informa la fase, no el patrón de actividad. Y un diario aislado depende de la memoria y la adherencia del paciente, poco fiables aquí.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "medicion"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 01, §11"
+    },
+    {
+      "id": "c2g-19",
+      "enunciado": "Respecto de la depresión estacional y su tratamiento cronobiológico, señale cuál(es) de las siguientes afirmaciones es/son correcta(s).  I) Con fotoperíodos cortos, la secreción nocturna de melatonina se alarga.  II) La fototerapia matinal inhibe esa secreción alargada y revierte el cuadro.  III) La melatonina exógena administrada por la mañana es el tratamiento de elección.  IV) El cuadro se explica por un período endógeno acortado a 20 horas.",
+      "alternativas": [
+        "Solo I",
+        "Solo I y II",
+        "Solo II y IV",
+        "Solo III y IV",
+        "Solo I, II y IV"
+      ],
+      "respuesta": 1,
+      "pista": "La hormona codifica la duración de la noche; piense qué hace la luz de la mañana con esa señal.",
+      "argumento": "I: V, la melatonina codifica el fotoperíodo y en invierno su secreción nocturna dura más. II: V, la fototerapia matinal suprime esa señal alargada y revierte el cuadro. III: F, el tratamiento descrito es la fototerapia matinal; la melatonina por la mañana retrasaría aún más la fase. IV: F, el período de 20 horas es un fenotipo mutante del hámster, no la explicación de la depresión estacional.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap2",
+        "melatonina",
+        "ritmos"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Guía 01, §7 y §10"
+    },
+    {
+      "id": "c2g-20",
+      "enunciado": "El criterio que clasifica los ritmos biológicos en ultradianos, circadianos e infradianos es:",
+      "alternativas": [
+        "la amplitud de la oscilación",
+        "la presencia de luz ambiental",
+        "el tejido que lo genera",
+        "la duración del período",
+        "la fase de su máximo"
+      ],
+      "respuesta": 3,
+      "pista": "Piense en el tiempo entre dos máximos sucesivos.",
+      "argumento": "La clasificación usa el período: menos de 24 horas es ultradiano, cerca de 24 horas circadiano y más de 24 horas infradiano. La amplitud no interviene: un mismo ritmo puede cambiar de amplitud sin cambiar de categoría. La luz es un sincronizador, no el criterio, y hay ritmos circadianos en organismos sin luz. El tejido de origen tampoco define la categoría. La fase del máximo dice cuándo ocurre, no cuánto dura el ciclo.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "ritmos"
+      ],
+      "dificultad": "facil",
+      "fuente": "Guía 01, §1"
+    },
+    {
+      "id": "c2g-21",
+      "enunciado": "El sueño no es un apagado de la corteza porque durante el sueño lento:",
+      "alternativas": [
+        "la corteza queda silente y sin potenciales",
+        "la corteza genera ondas lentas sincronizadas",
+        "el tálamo deja de transmitir información",
+        "desaparecen los potenciales evocados auditivos",
+        "el metabolismo cortical se vuelve nulo"
+      ],
+      "respuesta": 1,
+      "pista": "Recuerde qué muestra el EEG en las etapas III y IV.",
+      "argumento": "En el sueño lento la corteza está sincronizada por el tálamo y genera ondas lentas de gran amplitud: hay actividad, distinta de la vigilia. Silencio y ausencia de potenciales corresponden a la muerte encefálica, no al sueño. El tálamo no deja de transmitir: cambia el modo de descarga y la información llega a la corteza. El sistema auditivo sigue procesando estímulos, por eso un ruido despierta o se integra al sueño. El metabolismo baja, pero no se anula.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "arquitectura",
+        "eeg"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 02, §1 y §5"
+    },
+    {
+      "id": "c2g-22",
+      "enunciado": "En una época de polisomnografía se observan ráfagas fusiformes y ondas agudas de vértex, sin ondas lentas de gran amplitud. La etapa corresponde a:",
+      "alternativas": [
+        "etapa I",
+        "etapa III",
+        "REM",
+        "vigilia tranquila",
+        "etapa II"
+      ],
+      "respuesta": 4,
+      "pista": "Los husos son el marcador de una etapa intermedia entre la transición y el sueño profundo.",
+      "argumento": "Los husos fusiformes y la onda aguda de vértex definen la etapa II, que ocupa cerca de la mitad de la noche. La etapa I es transición, con ondas lentas iniciales y sin husos. La etapa III se define por ondas lentas de gran amplitud, que aquí no aparecen. El REM muestra EEG activado, movimientos oculares rápidos y atonía. La vigilia tranquila se reconoce por el ritmo alfa.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "eeg",
+        "arquitectura"
+      ],
+      "dificultad": "facil",
+      "fuente": "Guía 02, §2 y §3"
+    },
+    {
+      "id": "c2g-23",
+      "enunciado": "Sobre la organización temporal del sueño en el adulto sano, señale cuál(es) de las siguientes afirmaciones es/son correcta(s).  I) El sueño lento predomina en la primera mitad de la noche.  II) El REM se concentra en la segunda mitad.  III) La etapa II ocupa cerca de la mitad del tiempo total de sueño.  IV) Las etapas III y IV ocupan cerca de la mitad del tiempo total de sueño.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo I y III",
+        "Solo I, II y III",
+        "Solo II y IV",
+        "Todas son correctas"
+      ],
+      "respuesta": 2,
+      "pista": "Compare el primer ciclo con el último: qué crece y qué se acorta a lo largo de la noche.",
+      "argumento": "I: V, el primer período NREM es el más prolongado y el sueño lento se concentra al inicio. II: V, el primer REM dura 2 a 5 minutos y el último 30 a 45, de ahí que el REM pese más en la segunda mitad y que los sueños se recuerden al despertar. III: V, la etapa II, con husos y vértex, ocupa alrededor del 50% del total. IV: F, las etapas III y IV ocupan cerca del 20%, no la mitad: son las ondas lentas de gran amplitud, concentradas en los primeros ciclos.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap2",
+        "arquitectura"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 02, §2"
+    },
+    {
+      "id": "c2g-24",
+      "enunciado": "Un hombre de 72 años, sano y sin fármacos, refiere sueño más liviano y dos o tres despertares por noche. Su polisomnografía muestra aumento de las etapas I y II, menos sueño lento y REM conservado. La interpretación correcta es que:",
+      "alternativas": [
+        "es el cambio esperable del envejecimiento",
+        "corresponde a un insomnio primario del adulto",
+        "sugiere narcolepsia de inicio tardío",
+        "indica una apnea obstructiva no diagnosticada",
+        "refleja privación crónica de sueño"
+      ],
+      "respuesta": 0,
+      "pista": "Piense qué etapas predominan después de los 50 o 60 años.",
+      "argumento": "Pasados los 50 o 60 años predominan las etapas I y II, con fragmentación y menos sueño lento, mientras el REM se mantiene cerca del 20%: es el patrón esperable y no una enfermedad. El insomnio primario es un diagnóstico clínico con criterios propios y no se deduce de esta arquitectura. La narcolepsia no se caracteriza por este patrón. La apnea se sospecha por ronquido, apneas y desaturaciones, que no se mencionan. La privación crónica alarga la latencia y aumenta el sueño lento en la recuperación, no lo reduce de forma estable.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "arquitectura",
+        "eeg"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 02, §3"
+    },
+    {
+      "id": "c2g-25",
+      "enunciado": "En un prematuro, el sueño activo (REM) ocupa cerca del 80% del tiempo de sueño. Ese predominio:",
+      "alternativas": [
+        "indica sufrimiento fetal y requiere estudio",
+        "se mantiene igual durante toda la infancia",
+        "se debe a la ausencia de husos del sueño",
+        "es propio de la inmadurez y cae a ~20%",
+        "aparece solo después del primer año de vida"
+      ],
+      "respuesta": 3,
+      "pista": "Compare la proporción de REM del prematuro, del recién nacido y del adulto.",
+      "argumento": "El sueño activo predomina en el prematuro y en el neonato y desciende con la maduración hasta estabilizarse en torno al 20% del sueño adulto; el predominio es normal. No es signo de sufrimiento fetal. No se mantiene: disminuye a lo largo de los primeros meses y años. La ausencia de husos es cierta a esa edad, pero no explica la proporción de REM, que depende de la maduración del control del sueño. El REM existe desde la vida fetal; lo que aparece después del primer año es la posibilidad de identificar las cuatro etapas NREM.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "eeg",
+        "arquitectura"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 02, §3"
+    },
+    {
+      "id": "c2g-26",
+      "enunciado": "En un lactante de 9 meses se intenta clasificar el sueño con las cuatro etapas del adulto y no se logra. Lo correcto es interpretarlo como:",
+      "alternativas": [
+        "un retraso de la maduración del sueño",
+        "un signo de apnea obstructiva del sueño",
+        "un patrón esperable para la edad",
+        "una ausencia patológica de husos",
+        "un efecto residual del sueño activo fetal"
+      ],
+      "respuesta": 2,
+      "pista": "Recuerde desde cuándo se identifican las cuatro etapas NREM.",
+      "argumento": "Las cuatro etapas se identifican solo después del primer año; antes, el sueño quieto se reconoce por husos desde el tercer mes, pero la estadificación completa del adulto no aplica. Por eso no es retraso de maduración ni patología. La apnea se sospecha por apneas, ronquido y desaturaciones, no por la imposibilidad de estadificar. Los husos ya pueden estar presentes desde el tercer mes. El sueño activo fetal no deja un efecto residual que impida clasificar.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "eeg"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 02, §3"
+    },
+    {
+      "id": "c2g-27",
+      "enunciado": "Los antihistamínicos de primera generación producen somnolencia porque bloquean:",
+      "alternativas": [
+        "las neuronas GABAérgicas del hipotálamo anterior",
+        "el sistema orexinérgico del área perifornical",
+        "las neuronas colinérgicas del tegmento pontino",
+        "los receptores de melatonina de la pineal",
+        "el sistema histaminérgico tuberomamilar"
+      ],
+      "respuesta": 4,
+      "pista": "Identifique cuál de esos sistemas promueve la vigilia y usa histamina.",
+      "argumento": "La histamina de los núcleos tuberomamilares es uno de los sistemas que sostiene la vigilia y converge con los demás en tálamo y corteza; bloquearla produce somnolencia. El GABA del hipotálamo anterior organiza el sueño lento: bloquearlo despertaría, no dormiría. La orexina del área perifornical también promueve vigilia, pero el antihistamínico no actúa sobre ella. Las colinérgicas pontinas lideran el REM. Los receptores de melatonina no son el blanco de estos fármacos.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "neuroquimica"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 02, §4"
+    },
+    {
+      "id": "c2g-28",
+      "enunciado": "En el polisomnograma del adulto, ¿qué tríada define la etapa REM?",
+      "alternativas": [
+        "EEG de vigilia, atonía y movimientos oculares rápidos",
+        "Husos del sueño, complejo K y ondas lentas",
+        "Ondas de vértex y movimientos oculares lentos",
+        "EEG de vigilia, husos y tono muscular alto",
+        "Ondas lentas de gran amplitud y respiración regular"
+      ],
+      "respuesta": 0,
+      "pista": "Identifique la etapa por su EEG, su tono muscular y sus movimientos oculares, no por el momento de la noche en que aparece.",
+      "argumento": "Correcta: EEG activado parecido al de la vigilia, atonía muscular y movimientos oculares rápidos; el REM ocupa 20-25% del sueño del adulto. Los husos y el complejo K definen la etapa II. La onda aguda de vértex y los movimientos oculares lentos corresponden a la etapa I. Un EEG con husos y tono alto no describe ninguna etapa del sueño. Las ondas lentas de gran amplitud definen las etapas III-IV, no el REM.",
+      "tipo": "directa",
+      "tags": [
+        "arquitectura",
+        "eeg"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 02, §2 y Tabla 1, p. 27"
+    },
+    {
+      "id": "c2g-29",
+      "enunciado": "Sobre los sistemas neuroquímicos que sostienen la vigilia y el sueño, señale cuál(es) de las siguientes afirmaciones es/son correcta(s).  I) La histamina de los tuberomamilares y la orexina del área perifornical refuerzan la vigilia.  II) El GABA del hipotálamo anterior organiza el sueño lento y los GABAmiméticos lo aumentan.  III) El REM resulta de la liberación de monoaminas del rafe y del locus coeruleus.  IV) La acetilcolina del prosencéfalo basal participa en la vigilia.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo I, II y IV",
+        "Solo II y III",
+        "Solo III y IV",
+        "Todas son correctas"
+      ],
+      "respuesta": 1,
+      "pista": "En el REM las monoaminas caen; la fase se genera por interacción colinérgica contra monoaminérgica.",
+      "argumento": "I: V, histamina y orexina son sistemas de vigilia y convergen con los demás en tálamo y corteza. II: V, el hipotálamo anterior GABAérgico organiza el sueño lento y los fármacos GABAmiméticos lo prolongan. III: F, en el REM las monoaminas están en su nivel más bajo: la fase se genera cuando las colinérgicas pontinas quedan liberadas de esa inhibición. IV: V, la acetilcolina del prosencéfalo basal participa en la vigilia, junto con el glutamato reticular.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap2",
+        "neuroquimica"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Guía 02, §4"
+    },
+    {
+      "id": "c2g-30",
+      "enunciado": "Un hombre de 60 años con cardiopatía isquémica presenta episodios de taquicardia y alza de la presión arterial en la segunda mitad de la noche, sin relación con apneas. Esos episodios coinciden con el REM, fase en la que:",
+      "alternativas": [
+        "hay ascensos fásicos del tono simpático",
+        "el tono vagal se mantiene elevado y estable",
+        "la presión arterial desciende y se mantiene baja",
+        "la frecuencia cardíaca es fija y no varía",
+        "el gasto cardíaco cae por la atonía muscular"
+      ],
+      "respuesta": 0,
+      "pista": "El REM no es autonómicamente silencioso: hay brotes fásicos junto a los movimientos oculares.",
+      "argumento": "En el REM la presión y la frecuencia no son estables: hay ascensos fásicos del tono simpático, en parte ligados a la actividad fásica, y eso explica la concentración nocturna de eventos en cardiópatas. El tono vagal predomina en el sueño lento. La presión no desciende de forma sostenida. La frecuencia no es fija. La atonía es muscular y no reduce el gasto: en el REM el consumo de glucosa iguala o supera el de la vigilia.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "neuroquimica",
+        "arquitectura"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Guía 02, §4 y §5"
+    },
+    {
+      "id": "c2g-31",
+      "enunciado": "Respecto de la relación entre sueño y memoria, la evidencia revisada sostiene que:",
+      "alternativas": [
+        "el REM consolida la memoria declarativa",
+        "el sueño solo protege la huella, no la reorganiza",
+        "la consolidación ocurre sobre todo en la etapa I",
+        "el sueño lento consolida lo declarativo",
+        "la privación de sueño mejora la retención"
+      ],
+      "respuesta": 3,
+      "pista": "Piense en el relevo hipocampo–neocorteza y en la fase en que se acoplan las oscilaciones lentas.",
+      "argumento": "El hipocampo retiene lo recién codificado y la neocorteza lo almacena a largo plazo; la transferencia ocurre en el sueño lento, cuando se acoplan oscilaciones lentas corticales, husos y ondas agudas. El REM no es la fase principal de esa transferencia declarativa. El sueño no solo protege: reorganiza e integra con el conocimiento previo, según la revisión de Rasch y Born. La etapa I es transición y no sostiene la consolidación. La privación interfiere con la consolidación, no la mejora.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "memoria"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 02, §5 bis"
+    },
+    {
+      "id": "c2g-32",
+      "enunciado": "La melatonina adelanta la fase cuando se administra por la tarde y la retrasa cuando se administra por la mañana. Esa propiedad se aprovecha sobre todo para:",
+      "alternativas": [
+        "aumentar la duración del sueño lento en el adulto",
+        "suprimir el pico nocturno endógeno de melatonina",
+        "reajustar la fase en el jet lag y el retraso de fase",
+        "tratar la somnolencia diurna de la apnea del sueño",
+        "acortar la latencia del sueño en cualquier horario"
+      ],
+      "respuesta": 2,
+      "pista": "La curva de fase de la melatonina es casi opuesta a la de la luz.",
+      "argumento": "La melatonina es un cronobiótico: su efecto sobre la fase depende de la hora, con una curva aproximadamente opuesta a la de la luz, y por eso se usa para adelantar o retrasar el reloj en el jet lag y en los trastornos de fase. No alarga el sueño lento de forma selectiva. No suprime el pico endógeno: lo reemplaza o lo desplaza. No es tratamiento de la somnolencia de la apnea, cuyo manejo es la presión positiva. Y no acorta la latencia a cualquier hora: en el momento equivocado puede empeorar el desfase.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "melatonina",
+        "jet-lag"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 01, §7 y §8"
+    },
+    {
+      "id": "c2g-33",
+      "enunciado": "La melatonina se considera sobre todo un cronobiótico y no un hipnótico clásico porque:",
+      "alternativas": [
+        "induce sueño profundo en cualquier momento del día",
+        "su efecto depende de la hora de administración",
+        "actúa sobre receptores GABA-A como las benzodiacepinas",
+        "su efecto hipnótico crece con la dosis hasta 10 mg",
+        "no modifica la temperatura ni la vigilia del NSQ"
+      ],
+      "respuesta": 1,
+      "pista": "Distinga abrir la ventana de sueño del reloj de apagar la corteza.",
+      "argumento": "La melatonina inhibe la actividad promotora de vigilia del NSQ y reduce la temperatura, es decir, abre la puerta del sueño en la fase adecuada; fuera de esa ventana su efecto hipnótico es escaso. No induce sueño profundo a cualquier hora. No actúa sobre GABA-A: ese es el mecanismo de benzodiacepinas y GABAmiméticos. El efecto no crece de forma proporcional con la dosis, y las dosis altas no son más hipnóticas. Sí modifica la temperatura y la vigilia del NSQ, y precisamente por eso es una señal de fase.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "melatonina"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Guía 02, §6"
+    },
+    {
+      "id": "c2g-34",
+      "enunciado": "En un adulto con epilepsia de inicio reciente y crisis exclusivamente nocturnas, el material destaca que tratar un SAHOS concurrente:",
+      "alternativas": [
+        "reduce las crisis sin cambiar los fármacos",
+        "solo mejora la somnolencia diurna",
+        "empeora el control por la presión positiva",
+        "exige suspender los anticonvulsivantes",
+        "no modifica la frecuencia de las crisis"
+      ],
+      "respuesta": 0,
+      "pista": "Piense en el efecto que se atribuye a la presión positiva continua sobre las crisis nocturnas.",
+      "argumento": "Correcta: la apnea empeora el control, sobre todo de las crisis nocturnas, y la presión positiva mejora e incluso suprime las crisis sin cambios en los anticonvulsivantes; por eso conviene buscar SAHOS en epilepsias de inicio en el adulto, en hombres y con crisis nocturnas. La somnolencia es solo una parte del cuadro: el efecto descrito incluye las crisis. La presión positiva no empeora el control. No hay fundamento para suspender los anticonvulsivantes. Sí modifica la frecuencia de las crisis, que es el punto del hallazgo.",
+      "tipo": "directa",
+      "tags": [
+        "sahos",
+        "semiologia"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 02, §7 y p. 189"
+    },
+    {
+      "id": "c2g-35",
+      "enunciado": "Un hombre de 52 años, con índice de masa corporal 32, ronquido intenso y apneas presenciadas por su pareja, consulta por somnolencia diurna que lo hace dormir en reuniones. Su presión sigue sobre 150/95 mmHg pese a tres fármacos. El examen siguiente más útil es:",
+      "alternativas": [
+        "una polisomnografía nocturna",
+        "una nasofibroscopía en vigilia",
+        "una oximetría nocturna aislada",
+        "un Holter de presión de 24 horas",
+        "un cuestionario de somnolencia de Epworth"
+      ],
+      "respuesta": 0,
+      "pista": "El cuadro ya es clínico; falta cuantificar los eventos respiratorios y su repercusión.",
+      "argumento": "El cuadro reúne ronquido, apneas presenciadas, somnolencia diurna, obesidad e hipertensión resistente: la sospecha de SAHOS es alta y el examen que cuantifica apneas, hipopneas, desaturaciones y etapas es la polisomnografía. La nasofibroscopía en vigilia no evalúa el colapso durante el sueño. La oximetría aislada es un tamizaje, insuficiente para diagnosticar y graduar. El Holter documenta el patrón de presión, no la apnea. El cuestionario mide la somnolencia de forma subjetiva y no confirma el diagnóstico.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "sahos"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 02, §7"
+    },
+    {
+      "id": "c2g-36",
+      "enunciado": "El SAHOS se asocia a somnolencia diurna excesiva y a quejas de atención y memoria porque:",
+      "alternativas": [
+        "el REM se prolonga y borra la memoria reciente del día",
+        "la hipercapnia crónica estimula la neurogénesis",
+        "la fragmentación y la hipoxemia reducen la atención",
+        "el ronquido aumenta el flujo cerebral nocturno",
+        "la presión positiva produce déficit irreversible"
+      ],
+      "respuesta": 2,
+      "pista": "Piense en los despertares repetidos y en las caídas de saturación, no en una fase del sueño.",
+      "argumento": "Los despertares repetidos fragmentan el sueño y la hipoxemia intermitente con descargas adrenérgicas afecta los circuitos de atención y memoria, lo que se traduce en hipersomnolencia y quejas cognitivas. El REM no se prolonga ni borra la memoria reciente. La hipercapnia no estimula la neurogénesis. El ronquido es un signo, no un mecanismo protector. La presión positiva es el tratamiento y mejora la somnolencia, no la causa.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "sahos"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 02, §7"
+    },
+    {
+      "id": "c2g-37",
+      "enunciado": "Sobre el eje hipotálamo-hipófisis-adrenal y su relación con el sueño, señale cuál(es) de las siguientes afirmaciones es/son correcta(s).  I) Los receptores de mineralocorticoides son de alta afinidad y están ocupados en condiciones basales.  II) Los de glucocorticoides se activan con el estrés y retroalimentan de forma lenta.  III) La activación de receptores de glucocorticoides se correlaciona con la vigilia y el REM.  IV) El estrés crónico sobreexpresa los receptores de glucocorticoides.",
+      "alternativas": [
+        "Solo I, II y III",
+        "Solo I y II",
+        "Solo II y IV",
+        "Solo III y IV",
+        "Todas son correctas"
+      ],
+      "respuesta": 0,
+      "pista": "Distinga la ocupación basal del receptor de alta afinidad de la respuesta al estrés.",
+      "argumento": "I: V, los MR tienen alta afinidad, están ocupados basalmente y abundan en el hipocampo. II: V, los GR tienen baja afinidad, se activan con el estrés y su retroalimentación es lenta, bloqueando la expresión de CRF y de POMC. III: V, la activación de MR se correlaciona con el NREM y la de GR con la vigilia y el REM. IV: F, el estrés crónico reduce los receptores GR y deja el eje activado de forma permanente; por eso «Todas son correctas» no se sostiene.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cap2",
+        "estres"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Guía 02, §8"
+    },
+    {
+      "id": "c2g-38",
+      "enunciado": "Una profesora de 41 años consulta por dificultad para conciliar el sueño desde que asumió la jefatura de estudios hace seis meses. Duerme mal, despierta cansada y su cortisol vespertino está elevado. La interpretación más consistente es:",
+      "alternativas": [
+        "déficit absoluto de cortisol por agotamiento adrenal",
+        "un trastorno de fase retrasada sin componente de estrés",
+        "una reducción de CRF por retroalimentación negativa",
+        "hiperactivación del eje HHA que retrasa el sueño",
+        "un aumento de receptores de glucocorticoides"
+      ],
+      "respuesta": 3,
+      "pista": "Piense qué le hace el estrés sostenido a la retroalimentación del eje.",
+      "argumento": "El estrés sostenido mantiene el eje activado: cortisol elevado, más CRF y vasopresina, y dificultad para conciliar el sueño por hiperactivación; la relación es bidireccional, porque dormir mal también eleva el eje. No hay déficit de cortisol, al contrario. Un trastorno de fase retrasada desplaza el horario sin este perfil de hipercortisolismo. La retroalimentación negativa está debilitada, no aumentada, y la CRF está elevada. Lo que ocurre es una reducción de los receptores de glucocorticoides, no un aumento.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "estres"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 02, §8"
+    },
+    {
+      "id": "c2g-39",
+      "enunciado": "Una enfermera lleva ocho años en turno nocturno fijo. Ha ganado peso, su glicemia en ayunas es 108 mg/dL y sus triglicéridos están altos, aunque come lo mismo que antes. La explicación cronobiológica más probable es que:",
+      "alternativas": [
+        "su NSQ perdió la capacidad de oscilar",
+        "su reloj hepático se desfasa respecto del NSQ",
+        "su melatonina se adelantó varias horas",
+        "su período endógeno se acortó a 20 horas",
+        "el turno nocturno aumentó su gasto energético"
+      ],
+      "respuesta": 1,
+      "pista": "El reloj central sigue en hora si hay luz de día; el hígado sigue el horario de las comidas.",
+      "argumento": "En el turno nocturno el NSQ puede mantenerse en hora por la luz diurna mientras los relojes periféricos, sobre todo el hepático, se sincronizan con el horario de comida: la desalineación interna altera la tolerancia a la glucosa y el perfil lipídico. El NSQ no pierde su capacidad de oscilar. La melatonina no se adelanta: se secreta con la oscuridad, con un patrón que puede quedar desfasado respecto del horario social. El período de 20 horas es un fenotipo mutante. El gasto energético no aumenta; el balance se inclina a positivo.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "jet-lag",
+        "ritmos"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 01, §3 y §8"
+    },
+    {
+      "id": "c2g-40",
+      "enunciado": "Un hombre de 58 años con SAHOS grave consulta por palpitaciones nocturnas; el Holter muestra fibrilación auricular de predominio nocturno y su presión no desciende durante la noche. La explicación integrada es que:",
+      "alternativas": [
+        "la fibrilación auricular causa las apneas nocturnas",
+        "el descenso nocturno de presión protege la aurícula",
+        "hipoxemia intermitente y simpático sostienen ambos",
+        "la presión positiva está contraindicada en la arritmia",
+        "el SAHOS solo altera la respiración, no el corazón"
+      ],
+      "respuesta": 2,
+      "pista": "Busque un mecanismo común que explique a la vez la presión nocturna y la arritmia.",
+      "argumento": "La hipoxemia intermitente con descargas adrenérgicas nocturnas explica a la vez la hipertensión no dipper y las arritmias; en las series del material, cerca del 80% de los pacientes con SAHOS tenía arritmias que se corrigieron con presión positiva, y alrededor de la mitad de los cardiovertidos por fibrilación tenía SAHOS. La arritmia no genera las apneas: comparten el mecanismo. La presión que no desciende es marcador de riesgo, no protección. La presión positiva es el tratamiento, no una contraindicación. El SAHOS sí altera el ritmo cardíaco.",
+      "tipo": "directa",
+      "tags": [
+        "cap2",
+        "sahos"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 02, §7"
+    }
+  ]
+}
