@@ -1,0 +1,618 @@
+{
+  "version": 1,
+  "titulo": "Neurociencias C2 — Set F: unidad de movimiento (circuitos, corteza y clínica)",
+  "preguntas": [
+    {
+      "id": "c2f-01",
+      "enunciado": "De los cuatro subsistemas del control motor, ¿cuál carece de acceso directo a la motoneurona inferior y actúa regulando a la motoneurona superior?",
+      "alternativas": [
+        "Cerebelo y ganglios basales",
+        "Circuito local del tronco",
+        "Vías descendentes corticales",
+        "Núcleos motores craneales",
+        "Interneuronas del asta ventral"
+      ],
+      "respuesta": 0,
+      "pista": "Piense qué estructura ejecuta, cuál modula y cuál solo corrige o habilita a la que modula.",
+      "argumento": "Correcta: cerebelo y ganglios basales. Sus eferencias no llegan al circuito local ni a la motoneurona inferior: regulan la actividad de la motoneurona superior a través del tálamo, y por eso una lesión cerebelosa no produce parálisis. El circuito local del tronco contiene motoneuronas inferiores de los núcleos motores craneales, de modo que sí tiene acceso directo. Las vías descendentes corticales son motoneuronas superiores y terminan sobre el circuito local, es decir, sobre la vía de acceso a la inferior. Los núcleos motores craneales albergan los somas de motoneuronas inferiores. Las interneuronas del asta ventral forman parte del circuito local y contactan directamente a la motoneurona inferior.",
+      "tipo": "directa",
+      "tags": [
+        "subsistemas",
+        "unidad-motora"
+      ],
+      "dificultad": "facil",
+      "fuente": "Guía 06, §1 y Purves pp. 353-354"
+    },
+    {
+      "id": "c2f-02",
+      "enunciado": "Un hombre de 70 años consulta por temblor de reposo bilateral, lentitud para iniciar la marcha y rigidez en rueda dentada. ¿Qué subsistema explica el cuadro?",
+      "alternativas": [
+        "Ganglios basales que no preparan el inicio",
+        "Cerebelo que no corrige el error en curso",
+        "Circuito local medular desinhibido",
+        "Vía corticoespinal interrumpida en la cápsula",
+        "Núcleos vestibulares sin control cortical"
+      ],
+      "respuesta": 0,
+      "pista": "Distinga temblor de reposo de temblor de acción, y lentitud de inicio de pérdida de fuerza.",
+      "argumento": "Correcta: ganglios basales que no preparan el inicio. Suprimen los movimientos no deseados y preparan los circuitos corticales para iniciar el movimiento; su disfunción da hipocinesia, temblor de reposo y rigidez, el patrón parkinsoniano. El cerebelo produce dismetría, temblor de intención y descomposición del movimiento, no temblor de reposo ni hipocinesia. El circuito local medular desinhibido daría hiperreflexia o espasmos, no este cuadro. La interrupción corticoespinal en la cápsula da hemiparesia espástica con Babinski. Los núcleos vestibulares sin control cortical dan desequilibrio y nistagmo.",
+      "tipo": "directa",
+      "tags": [
+        "subsistemas",
+        "semiologia"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 06, §1 y Purves p. 354"
+    },
+    {
+      "id": "c2f-03",
+      "enunciado": "¿Qué compara el cerebelo cuando actúa como servomecanismo del movimiento?",
+      "alternativas": [
+        "Movimiento intentado con el ya ejecutado",
+        "Longitud del huso con la del tendón",
+        "Orden cortical con la aferencia visual",
+        "Fuerza reclutada con la fatiga previa",
+        "Postura actual con el plan del tronco"
+      ],
+      "respuesta": 0,
+      "pista": "La palabra clave del servomecanismo es error: qué señal se resta con qué señal.",
+      "argumento": "Correcta: movimiento intentado con el ya ejecutado. El cerebelo detecta la diferencia entre la intención y la ejecución, y usa ese error para corregir en tiempo real y, a largo plazo, para el aprendizaje motor; de ahí que su lesión deje errores persistentes del movimiento continuo. Comparar longitud del huso con la del tendón describe la propiocepción disponible, no la operación del servomecanismo. Orden cortical con aferencia visual no es el par comparado. Fuerza reclutada con fatiga previa no es una comparación descrita. Postura actual con plan del tronco corresponde a la función de los centros del tronco, un subsistema distinto.",
+      "tipo": "directa",
+      "tags": [
+        "subsistemas"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 06, §1 y Purves p. 354"
+    },
+    {
+      "id": "c2f-04",
+      "enunciado": "¿Qué efecto produce la activación selectiva de una motoneurona gamma?",
+      "alternativas": [
+        "Acorta fibras intrafusales del huso",
+        "Contrae fibras extrafusales del músculo",
+        "Aumenta la fuerza de la unidad motora",
+        "Silencia la aferencia del huso",
+        "Relaja el huso y el músculo entero"
+      ],
+      "respuesta": 0,
+      "pista": "La gamma no mueve el músculo: configura el receptor para que siga informando.",
+      "argumento": "Correcta: acorta las fibras intrafusales del huso. Al contraerlas, mantiene el huso tenso y dentro de un rango útil para informar la longitud, sobre todo cuando el músculo se acorta. Contraer fibras extrafusales es la función de la motoneurona alfa, que es la que genera fuerza. Aumentar la fuerza de la unidad motora es consecuencia de la alfa, no de la gamma. Silenciar la aferencia del huso es lo contrario: la gamma la mantiene activa durante el acortamiento. Relajar el huso y el músculo entero no ocurre: la activación gamma produce acortamiento intrafusal, no relajación.",
+      "tipo": "directa",
+      "tags": [
+        "unidad-motora"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 06, §5 y Purves pp. 356-357"
+    },
+    {
+      "id": "c2f-05",
+      "enunciado": "Según el principio del tamaño descrito por Henneman en los años sesenta, ¿por qué se recluta primero la unidad motora pequeña?",
+      "alternativas": [
+        "Su motoneurona tiene el menor umbral",
+        "Su motoneurona conduce mucho más rápido",
+        "Sus fibras tienen más mitocondrias",
+        "Recibe más aferencia del huso",
+        "Posee menos unidades vecinas"
+      ],
+      "respuesta": 0,
+      "pista": "Una estimulación sináptica débil no alcanza a disparar a todas las motoneuronas por igual.",
+      "argumento": "Correcta: su motoneurona tiene el menor umbral. Con estimulación sináptica débil solo se activan las unidades pequeñas, y las grandes se suman a medida que crece el impulso; el orden es fijo, de menor a mayor tamaño. Conducir más rápido es propio de las motoneuronas grandes, de axón más grueso, y no explica el orden de reclutamiento. Las mitocondrias determinan la resistencia a la fatiga, no el umbral. La cantidad de aferencia del huso no define qué unidad entra primero. El número de unidades vecinas no interviene en el principio del tamaño.",
+      "tipo": "directa",
+      "tags": [
+        "unidad-motora"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 06, §7 y Purves p. 358"
+    },
+    {
+      "id": "c2f-06",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre la unidad motora es/son correcta(s).  I) La unidad lenta, de fibras rojas, es la tónicamente activa en la postura.  II) La unidad rápida fatigable posee más mitocondrias que la lenta.  III) La fuerza se gradúa por reclutamiento de unidades y por frecuencia de descarga.  IV) El reclutamiento sigue un orden fijo, de la unidad menor a la mayor.",
+      "alternativas": [
+        "Solo I y III",
+        "Solo I, III y IV",
+        "Solo II, III y IV",
+        "Solo III y IV",
+        "Solo I y II"
+      ],
+      "respuesta": 1,
+      "pista": "Compare el color y la dotación mitocondrial de cada tipo de fibra antes de aceptar el numeral segundo.",
+      "argumento": "I: V. La unidad lenta tiene fibras rojas, ricas en mioglobina, mitocondrias y capilares; genera poca fuerza, resiste la fatiga y es la tónicamente activa en la postura. II: F. La rápida fatigable tiene fibras pálidas, grandes y con escasas mitocondrias, y por eso se agota en minutos. III: V. Los dos mecanismos de graduación son el reclutamiento de más unidades y el aumento de la frecuencia de descarga de las ya activas. IV: V. Henneman mostró un orden fijo, de la unidad pequeña a la grande. Por eso la combinación correcta es I, III y IV. «Solo I y III» omite el numeral IV, que también es verdadero; «Solo II, III y IV» incluye el numeral II, falso; «Solo III y IV» omite el I; «Solo I y II» incluye el II, falso.",
+      "tipo": "suficiencia",
+      "tags": [
+        "unidad-motora"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 06, §6-§7 y Purves pp. 357-358"
+    },
+    {
+      "id": "c2f-07",
+      "enunciado": "En un registro de tensión con estimulación repetitiva de una unidad motora aislada, la tensión cae a cero en pocos minutos. ¿Qué unidad se registró?",
+      "alternativas": [
+        "Rápida fatigable, de fibras pálidas",
+        "Lenta, de fibras rojas y capilares",
+        "Rápida resistente, de tipo intermedio",
+        "Gamma, que inerva el huso muscular",
+        "Alfa pequeña de músculo postural"
+      ],
+      "respuesta": 0,
+      "pista": "La curva que se desploma en minutos es la de la fibra con menos mitocondrias.",
+      "argumento": "Correcta: rápida fatigable, de fibras pálidas y escasas mitocondrias; su tensión cae a cero en minutos, y sirve para esfuerzos breves como correr o saltar. La lenta prácticamente no decae en el mismo registro. La rápida resistente decae poco: es intermedia, con cerca del doble de fuerza que la lenta. La gamma inerva fibras intrafusales y no produce tensión extrafusal registrable de esta forma. La alfa pequeña de un músculo postural corresponde a una unidad lenta, que resiste la fatiga.",
+      "tipo": "directa",
+      "tags": [
+        "unidad-motora"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 06, §7 y Purves p. 358, figura 16.6"
+    },
+    {
+      "id": "c2f-08",
+      "enunciado": "Respecto del ganglio estomatogástrico de la langosta como modelo de generador central de patrón, señale cuál(es) afirmación(es) es/son correcta(s).  I) Contiene alrededor de treinta neuronas motoras e interneuronas.  II) Produce dos patrones: molienda gástrica y pilórico.  III) Su ritmo exige aferencia sensitiva continua desde el intestino.  IV) El mismo principio se aplica a la locomoción y a la respiración.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo I, II y IV",
+        "Solo II y IV",
+        "Solo I y IV",
+        "Solo II, III y IV"
+      ],
+      "respuesta": 1,
+      "pista": "Si el ritmo necesitara aferencia continua, no sería un generador central sino un reflejo.",
+      "argumento": "I: V. El ganglio contiene unas treinta neuronas motoras e interneuronas, cada una identificada por posición y caracterizada electrofisiológica y neurofarmacológicamente. II: V. Dos subgrupos generan los movimientos de molienda gástrica y los pilóricos, y sus descargas se correlacionan con ambos. III: F. El ritmo es propiedad intrínseca del circuito y ocurre sin estimulación sensitiva continua; esa es justamente la definición de generador central de patrón. IV: V. El principio se extrapola a la locomoción y a la respiración. Por eso la combinación correcta es I, II y IV. «Solo I y II» omite el IV, verdadero; «Solo II y IV» omite el I; «Solo I y IV» omite el II; «Solo II, III y IV» incluye el III, falso.",
+      "tipo": "suficiencia",
+      "tags": [
+        "cpg"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 06, §8 y Purves p. 370"
+    },
+    {
+      "id": "c2f-09",
+      "enunciado": "¿Qué observación permite sostener que la molienda gástrica del ganglio estomatogástrico es un ritmo generado por el circuito y no un reflejo?",
+      "alternativas": [
+        "Persiste sin aferencia sensitiva continua",
+        "Se abole al seccionar la raíz dorsal",
+        "Aparece solo con alimento en el lumen",
+        "Depende de estirar la pared gástrica",
+        "Requiere estimular el nervio una y otra vez"
+      ],
+      "respuesta": 0,
+      "pista": "Un reflejo necesita un estímulo que lo desencadene; un generador central, no.",
+      "argumento": "Correcta: persiste sin aferencia sensitiva continua. El patrón de descarga se mantiene y se correlaciona con el movimiento sin estímulo sensitivo sostenido, lo que atribuye el ritmo al circuito mismo. Abolirse al seccionar la raíz dorsal describiría un arco reflejo, y además el ganglio es periférico y no depende de una raíz dorsal medular. Aparecer solo con alimento en el lumen sería dependencia de estímulo, es decir, reflejo. Depender de estirar la pared gástrica es el mismo caso. Requerir estimulación repetida del nervio indicaría que el ritmo es impuesto desde fuera, no generado.",
+      "tipo": "directa",
+      "tags": [
+        "cpg"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Guía 06, §8 y Purves p. 370"
+    },
+    {
+      "id": "c2f-10",
+      "enunciado": "Tras una lesión que interrumpe la sustancia blanca anteromedial de la médula, ¿qué función se compromete de forma más directa?",
+      "alternativas": [
+        "Postura y equilibrio del tronco",
+        "Movimientos fraccionados de los dedos",
+        "Fuerza del tibial anterior distal",
+        "Precisión de la pinza pulgar-índice",
+        "Control fino de la musculatura facial"
+      ],
+      "respuesta": 0,
+      "pista": "Ubique en la médula el compartimento que sirve a la musculatura axial y bilateral.",
+      "argumento": "Correcta: postura y equilibrio del tronco. La sustancia blanca anteromedial conduce el sistema medial, originado sobre todo en el tronco (vestibuloespinal, reticuloespinal, tectoespinal), que termina bilateralmente en el asta ventral medial y gobierna musculatura axial y proximal. Los movimientos fraccionados de los dedos y la pinza dependen del sistema lateral, que corre por la sustancia blanca lateral y termina en el asta ventral lateral. La fuerza del tibial anterior es distal y también lateral. El control fino de la musculatura facial viaja por la vía corticobulbar, que abandona el tronco hacia los núcleos motores craneales y no por este compartimento medular.",
+      "tipo": "directa",
+      "tags": [
+        "via-corticoespinal",
+        "semiologia"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 07, §2 y Purves p. 376"
+    },
+    {
+      "id": "c2f-11",
+      "enunciado": "¿Por qué una lesión del sistema descendente lateral compromete la destreza distal y no la postura?",
+      "alternativas": [
+        "Termina en el asta ventral lateral distal",
+        "Cruza la línea media dentro de la médula",
+        "Nace en los núcleos vestibulares",
+        "Inhibe las unidades motoras lentas",
+        "Alcanza todos los segmentos medulares"
+      ],
+      "respuesta": 0,
+      "pista": "El mapa del asta ventral explica qué pools quedan privados de su aferencia.",
+      "argumento": "Correcta: termina en el asta ventral lateral distal, donde se ubican los pools de la musculatura distal, y lo hace en pocos segmentos; por eso su lesión borra la destreza fina. Cruzar la línea media dentro de la médula no es su rasgo: el componente corticoespinal de este sistema cruzó en el bulbo caudal. Nacer en los núcleos vestibulares corresponde al sistema medial. Inhibir las unidades lentas no es su función descrita. Alcanzar todos los segmentos medulares es propio del sistema medial, que termina bilateralmente en varios segmentos y sostiene la postura.",
+      "tipo": "directa",
+      "tags": [
+        "via-corticoespinal"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 07, §2 y Purves p. 376"
+    },
+    {
+      "id": "c2f-12",
+      "enunciado": "En la zona intermedia de la médula, las interneuronas laterales se distinguen de las mediales porque:",
+      "alternativas": [
+        "Sus axones son cortos y homolaterales",
+        "Proyectan a muchos segmentos medulares",
+        "Terminan bilateral en la línea media",
+        "Inervan directamente el huso muscular",
+        "Cruzan siempre la comisura blanca"
+      ],
+      "respuesta": 0,
+      "pista": "Compare el alcance del axón: control fino distal frente a coordinación postural de ambos lados.",
+      "argumento": "Correcta: sus axones son cortos, de menos de cinco segmentos, y homolaterales, lo que permite el control fino y diferenciado de los dedos. Proyectar a muchos segmentos, terminar bilateralmente y cruzar la comisura blanca son rasgos de las interneuronas mediales, que conectan segmentos distantes y permiten que la musculatura axial de ambos lados actúe en conjunto. Inervar el huso muscular corresponde a la motoneurona gamma, no a una interneurona de la zona intermedia.",
+      "tipo": "directa",
+      "tags": [
+        "unidad-motora",
+        "via-corticoespinal"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 06, §4 y Purves p. 356"
+    },
+    {
+      "id": "c2f-13",
+      "enunciado": "Un hombre de 62 años con infarto de la cápsula interna derecha presenta hemiplejía izquierda que incluye la parte inferior de la cara y la lengua, con la frente y el cierre ocular conservados. ¿Qué explica que la lengua caiga junto con la cara inferior?",
+      "alternativas": [
+        "Cara inferior y lengua son contralaterales",
+        "El núcleo hipogloso quedó destruido",
+        "La decusación piramidal está comprimida",
+        "El nervio facial periférico fue dañado",
+        "Casi todas las corticobulbares cruzan"
+      ],
+      "respuesta": 0,
+      "pista": "La vía corticobulbar es bilateral; busque las dos excepciones a esa bilateralidad.",
+      "argumento": "Correcta: la parte inferior del rostro y la lengua son las dos excepciones a la proyección bilateral corticobulbar, de modo que dependen del hemisferio contralateral y caen juntas en una lesión capsular. Que el núcleo hipogloso quedara destruido es imposible: está en el bulbo, bajo el nivel de la lesión, y el déficit es supranuclear. La decusación piramidal está en el bulbo caudal y su compresión daría un cuadro medular, no esta paresia facial y lingual selectiva. El daño del nervio facial periférico compromete toda la hemicara del mismo lado, frente incluida. Que casi todas las corticobulbares crucen es falso: son bilaterales, salvo precisamente esas dos excepciones.",
+      "tipo": "directa",
+      "tags": [
+        "via-corticoespinal",
+        "semiologia"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Guía 07, §4 y Purves pp. 378-380"
+    },
+    {
+      "id": "c2f-14",
+      "enunciado": "Meses después de un infarto de la corteza motora, un paciente recupera la flexión gruesa del brazo pero no logra abotonarse la camisa. ¿Cuál es la explicación?",
+      "alternativas": [
+        "Quedan las vías indirectas del tronco",
+        "Las células de Betz se regeneran",
+        "El cerebelo asume esa función",
+        "La sensitiva suple la salida motora",
+        "Los ganglios basales lo ejecutan"
+      ],
+      "respuesta": 0,
+      "pista": "Distinga el movimiento grueso, que puede tomar vías indirectas, del fraccionado, que exige la conexión directa.",
+      "argumento": "Correcta: quedan las vías indirectas del tronco. Los movimientos gruesos pueden ser mediados por vías indirectas y por centros motores del tronco, pero la separación fina de los dedos depende de las proyecciones directas de la corteza motora a las motoneuronas alfa de un subgrupo del antebrazo y la mano. Las células de Betz no se regeneran. El cerebelo no tiene acceso directo a la motoneurona inferior y no puede sustituir la orden fraccionada. La corteza sensitiva no reemplaza la salida motora. Los ganglios basales preparan e inhiben, pero no ejecutan el gesto.",
+      "tipo": "directa",
+      "tags": [
+        "via-corticoespinal"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Guía 07, §3 y Purves p. 380"
+    },
+    {
+      "id": "c2f-15",
+      "enunciado": "Señale cuál(es) de las siguientes afirmaciones sobre las vías corticoespinal y corticobulbar es/son correcta(s).  I) Los axones corticobulbares son bilaterales salvo para la cara inferior y la lengua.  II) El contacto monosináptico con motoneuronas alfa se describe en un subgrupo del antebrazo y la mano.  III) El tracto corticoespinal ventral es el que permite los movimientos fraccionados de los dedos.  IV) La vía corticoespinal termina solo en el asta ventral, sin relación con la sustancia gris intermedia.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo I, II y III",
+        "Solo II y III",
+        "Solo I y III",
+        "Todas son correctas"
+      ],
+      "respuesta": 0,
+      "pista": "Revise qué tracto sirve a los dedos y si el lateral se detiene únicamente en el asta ventral.",
+      "argumento": "I: V. La vía corticobulbar termina bilateralmente sobre todo en neuronas de circuito local, con dos excepciones: la parte inferior del rostro y la lengua. II: V. El contacto directo con motoneuronas alfa se describe en un subgrupo del antebrazo y la mano, y es lo que sostiene la destreza fraccionada. III: F. El tracto ventral sirve a la musculatura axial y proximal; los movimientos fraccionados dependen del tracto lateral, ya cruzado, y de sus conexiones directas. IV: F. El tracto lateral termina en el asta ventral lateral y también en la sustancia gris intermedia. Por eso la combinación correcta es solo I y II: las opciones que añaden III o IV incorporan un numeral falso, y «Todas son correctas» cae por ambos.",
+      "tipo": "suficiencia",
+      "tags": [
+        "via-corticoespinal"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 07, §3-§4 y Purves pp. 376-380"
+    },
+    {
+      "id": "c2f-16",
+      "enunciado": "¿En qué territorio se describe el contacto monosináptico entre axones corticoespinales y motoneuronas alfa?",
+      "alternativas": [
+        "Antebrazo y mano",
+        "Muslo y pierna",
+        "Musculatura axial del tronco",
+        "Motoneuronas gamma del huso",
+        "Núcleos motores del facial"
+      ],
+      "respuesta": 0,
+      "pista": "Es el mismo territorio cuya destreza se pierde de forma definitiva tras la lesión cortical.",
+      "argumento": "Correcta: antebrazo y mano. Solo un subgrupo de las motoneuronas que inervan esa región recibe contacto directo; el resto de las órdenes corticales se releva en el circuito local. Muslo y pierna reciben proyecciones que pasan por el circuito local y por el tracto ventral. La musculatura axial del tronco es territorio del sistema medial y del tracto ventral, sin contacto directo descrito. Las motoneuronas gamma no son la diana de este contacto. Los núcleos motores del facial reciben axones corticobulbares, que son otra población.",
+      "tipo": "directa",
+      "tags": [
+        "via-corticoespinal"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 07, §3 y Purves pp. 378-380"
+    },
+    {
+      "id": "c2f-17",
+      "enunciado": "¿Qué distingue al área 4 de Brodmann, en la circunvolución precentral, de las áreas premotoras vecinas?",
+      "alternativas": [
+        "Responde a corrientes de baja intensidad",
+        "Posee las seis capas corticales completas",
+        "Recibe únicamente aferencia visual",
+        "No proyecta a la médula espinal",
+        "Carece de neuronas piramidales"
+      ],
+      "respuesta": 0,
+      "pista": "El criterio es funcional y de estimulación, no solo de posición en la superficie del lóbulo.",
+      "argumento": "Correcta: responde a corrientes de baja intensidad. El bajo umbral de estimulación para producir movimiento es el criterio funcional que separa la corteza motora primaria de las premotoras, junto con su citoarquitectura. Poseer seis capas completas no la distingue: ambas son isocorteza. Recibir únicamente aferencia visual es falso, recibe aferencias talámicas y multisensitivas. No proyectar a la médula es falso: es el origen principal de la vía corticoespinal. Carecer de neuronas piramidales es falso: su capa V es justamente piramidal, con las células de Betz.",
+      "tipo": "directa",
+      "tags": [
+        "corteza-motora"
+      ],
+      "dificultad": "facil",
+      "fuente": "Guía 07, §5 y Purves p. 377"
+    },
+    {
+      "id": "c2f-18",
+      "enunciado": "Sobre la construcción histórica del mapa motor, señale cuál(es) afirmación(es) es/son correcta(s).  I) Fritsch e Hitzig mostraron que estimular la corteza produce contracciones contralaterales.  II) Jackson infirió un mapa al ver crisis motoras que avanzan de un dedo al brazo y al rostro.  III) Penfield lo trazó en más de 400 pacientes de neurocirugía.  IV) La microestimulación intracortical exige corrientes mayores que la estimulación de superficie.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo I, II y III",
+        "Solo II y III",
+        "Solo I y III",
+        "Todas son correctas"
+      ],
+      "respuesta": 1,
+      "pista": "La microestimulación se llama así por el tamaño del electrodo: piense qué permite eso.",
+      "argumento": "I: V. Fritsch e Hitzig demostraron a fines del siglo XIX que la estimulación eléctrica de la corteza produce contracciones contralaterales. II: V. Jackson infirió la existencia de un mapa al observar crisis motoras parciales que progresan de un dedo a la mano, el antebrazo, el brazo y el rostro. III: V. Penfield reprodujo los mapas en más de 400 pacientes de neurocirugía. IV: F. La microestimulación intracortical, desde la década de 1960, usa corrientes más pequeñas y logra mayor detalle. Por eso la combinación correcta es I, II y III; «Solo I y II» omite el III, verdadero; «Solo II y III» omite el I; «Solo I y III» omite el II; «Todas son correctas» incluye el IV, falso.",
+      "tipo": "suficiencia",
+      "tags": [
+        "corteza-motora"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 07, §5 y Purves pp. 380-381"
+    },
+    {
+      "id": "c2f-19",
+      "enunciado": "¿Qué sostiene la interpretación actual de que el mapa de la corteza motora primaria representa movimientos e intenciones y no músculos individuales?",
+      "alternativas": [
+        "Un axón piramidal termina en varios pools",
+        "Cada columna cortical mueve un solo músculo",
+        "El mapa copia la somatotopía sensitiva fina",
+        "Cada neurona codifica siempre un músculo",
+        "El tamaño del soma define el músculo movido"
+      ],
+      "respuesta": 0,
+      "pista": "Piense qué implica que un mismo axón termine sobre motoneuronas de músculos distintos.",
+      "argumento": "Correcta: un axón piramidal termina en varios pools. Los axones individuales del tracto piramidal terminan sobre conjuntos de motoneuronas que inervan músculos diferentes, incluso en la representación de la mano; a eso se suma que cada neurona tiene una dirección preferida y que un mismo sitio puede codificar trayectorias distintas según la posición inicial del miembro. Que cada columna mueva un solo músculo era la hipótesis del «teclado de piano», que la evidencia posterior no sostuvo. Que el mapa copie la somatotopía sensitiva fina es falso: su somatotopía es más grosera, aunque conserve la desproporción a favor de rostro y manos. Que cada neurona codifique siempre un músculo niega la modulación por dirección. El tamaño del soma no define qué músculo se mueve.",
+      "tipo": "directa",
+      "tags": [
+        "corteza-motora"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Guía 07, §6 y Purves pp. 381-386"
+    },
+    {
+      "id": "c2f-20",
+      "enunciado": "En el registro de Georgopoulos y colaboradores (1986), una neurona de la corteza motora primaria de un mono que mueve una manivela hacia distintas direcciones:",
+      "alternativas": [
+        "Descarga más en su dirección preferida",
+        "Descarga igual en toda dirección",
+        "Solo responde al ver la recompensa",
+        "Codifica un músculo, no una dirección",
+        "Se activa solo al iniciar el gesto"
+      ],
+      "respuesta": 0,
+      "pista": "La clave es que la descarga varía de forma gradual según hacia dónde va el movimiento.",
+      "argumento": "Correcta: descarga más en su dirección preferida. Cada neurona modula su frecuencia según la dirección del movimiento, y la dirección real se decodifica de la actividad conjunta de la población, el vector poblacional. Descargar igual en toda dirección haría imposible esa decodificación y contradice el hallazgo. Responder solo a la recompensa no es la propiedad descrita. Codificar un músculo y no una dirección es la hipótesis que el registro poblacional refutó. Activarse solo al iniciar el gesto es falso: la descarga se mantiene y modula durante el movimiento.",
+      "tipo": "directa",
+      "tags": [
+        "corteza-motora"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 07, §6 y Purves p. 386"
+    },
+    {
+      "id": "c2f-21",
+      "enunciado": "¿Qué proporción del tracto corticoespinal se origina en la corteza premotora?",
+      "alternativas": [
+        "Más del 30% de los axones",
+        "Menos del 5% de los axones",
+        "Alrededor del 10% de los axones",
+        "Cerca del 20% de los axones",
+        "La totalidad de los axones"
+      ],
+      "respuesta": 0,
+      "pista": "Es una fracción grande, incompatible con la idea de que la premotora sea un simple relevo de la primaria.",
+      "argumento": "Correcta: más del 30%. Ese aporte explica por qué no se sostiene una jerarquía en que la motora primaria esté «más arriba» alimentando a la premotora; la diferencia entre ambas está en la fuerza de la conexión con la motoneurona inferior. Menos del 5% corresponde a las células de Betz, no a la premotora. Alrededor del 10% es la fracción que forma el tracto corticoespinal ventral. Cerca del 20% no aparece en el material. La totalidad es incompatible con el origen también en la primaria y en otras áreas.",
+      "tipo": "directa",
+      "tags": [
+        "premotora",
+        "via-corticoespinal"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 07, §7 y Purves p. 387"
+    },
+    {
+      "id": "c2f-22",
+      "enunciado": "Sobre la corteza premotora, señale cuál(es) afirmación(es) es/son correcta(s).  I) La división lateral sirve tareas condicionales guiadas por una señal externa.  II) La división medial descarga 1-2 s antes de un movimiento autoiniciado.  III) El área de Broca (44/45) del hemisferio izquierdo organiza los articuladores del tracto vocal.  IV) La lesión de la premotora lateral reduce los movimientos espontáneos y conserva la respuesta a señales externas.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo I, II y III",
+        "Solo II y III",
+        "Solo I y III",
+        "Solo II, III y IV"
+      ],
+      "respuesta": 1,
+      "pista": "Asocie cada división con su tipo de asa y con el efecto de su lesión antes de aceptar el numeral cuarto.",
+      "argumento": "I: V. La lateral maneja tareas condicionales, de asa cerrada, que dependen de una señal externa; hasta 65% de sus neuronas responde en relación temporal con el movimiento. II: V. Muchas neuronas de la medial descargan 1-2 s antes de un movimiento autoiniciado, propio del asa abierta. III: V. En el hemisferio izquierdo, la porción rostral de la premotora lateral corresponde al área de Broca (44/45), esencial para organizar los articuladores del tracto vocal. IV: F. Reducir los movimientos espontáneos conservando la respuesta a señales externas es el efecto de la lesión medial; la lateral deteriora las tareas condicionales y la respuesta a órdenes verbales. Por eso la combinación correcta es I, II y III.",
+      "tipo": "suficiencia",
+      "tags": [
+        "premotora"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Guía 07, §7 y Purves pp. 387-389"
+    },
+    {
+      "id": "c2f-23",
+      "enunciado": "Un paciente con lesión de la premotora medial izquierda mueve poco el brazo derecho de forma espontánea, pero lo mueve bien cuando se lo ordenan. ¿Qué mecanismo explica el déficit?",
+      "alternativas": [
+        "Falla el asa abierta de inicio interno",
+        "Falla el asa cerrada guiada por señal",
+        "Hay interrupción corticoespinal completa",
+        "Hay denervación de motoneuronas alfa",
+        "Falla la aferencia sensitiva parietal"
+      ],
+      "respuesta": 0,
+      "pista": "El contraste está entre el movimiento que nace de una intención propia y el que dispara un estímulo externo.",
+      "argumento": "Correcta: falla el asa abierta de inicio interno. La premotora medial especifica movimientos con señales internas; sus neuronas descargan 1-2 s antes del movimiento autoiniciado y su lesión reduce los movimientos espontáneos conservando la respuesta a señales externas. El asa cerrada guiada por señal es la lateral, cuya lesión deteriora las tareas condicionales y la respuesta a órdenes verbales. Una interrupción corticoespinal completa daría hemiparesia con signos de vía superior, no esta disociación. La denervación de motoneuronas alfa daría atrofia, fasciculaciones e hiporreflexia. Un fallo de la aferencia parietal daría déficit sensitivo y ataxia, no pérdida selectiva de la iniciativa.",
+      "tipo": "directa",
+      "tags": [
+        "premotora",
+        "semiologia"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 07, §7 y Purves pp. 387-389"
+    },
+    {
+      "id": "c2f-24",
+      "enunciado": "Las neuronas espejo descritas por Rizzolatti en la premotora ventrolateral responden sobre todo a:",
+      "alternativas": [
+        "Acciones con meta, vistas o ejecutadas",
+        "Movimientos copiados sin objetivo",
+        "Estímulos táctiles sobre la mano del mono",
+        "La posición del brazo en el espacio",
+        "Órdenes verbales del experimentador"
+      ],
+      "respuesta": 0,
+      "pista": "El experimento clave compara tomar un objeto con copiar el gesto usando pinzas.",
+      "argumento": "Correcta: acciones con meta, vistas o ejecutadas. Responden durante la observación de una acción dirigida a una meta, incluso si la etapa final queda oculta tras una barrera, y también al ejecutarla. Responden mucho menos cuando se copia el mismo movimiento sin objetivo, por ejemplo con pinzas, de modo que no codifican la imagen del movimiento sino su intención. Los estímulos táctiles sobre la mano corresponden a neuronas somatosensitivas, no a esta población motora. La posición del brazo es información propioceptiva. Las órdenes verbales no son el estímulo eficaz descrito.",
+      "tipo": "directa",
+      "tags": [
+        "neuronas-espejo",
+        "premotora"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 07, §8 y Purves pp. 387-388"
+    },
+    {
+      "id": "c2f-25",
+      "enunciado": "¿Cuál afirmación sobre las neuronas espejo excede lo que la evidencia permite sostener?",
+      "alternativas": [
+        "Por sí solas explican la empatía humana",
+        "Responden a la observación de una acción",
+        "Se ubican en la premotora ventrolateral",
+        "Codifican la intención de la acción",
+        "Participan en el aprendizaje por imitación"
+      ],
+      "respuesta": 0,
+      "pista": "Distinga lo descrito con registro celular de lo propuesto como función social.",
+      "argumento": "Correcta: que por sí solas expliquen la empatía humana. Se propone que participan en una red parietofrontal de imitación y que podrían contribuir a la comunicación social o la empatía, pero el texto concluye que su alcance real no está resuelto. Responder a la observación de una acción es el hallazgo original. Ubicarse en la premotora ventrolateral es su localización descrita. Codificar la intención de la acción es lo que muestra la respuesta ante acciones con meta y la falta de respuesta al copiar sin objetivo. Participar en el aprendizaje por imitación es una propuesta explícita de la red parietofrontal.",
+      "tipo": "directa",
+      "tags": [
+        "neuronas-espejo"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Guía 07, §8 y Purves pp. 387-389"
+    },
+    {
+      "id": "c2f-26",
+      "enunciado": "Sobre los centros motores del tronco del encéfalo, señale cuál(es) afirmación(es) es/son correcta(s).  I) El área locomotora mesencefálica controla la locomoción.  II) El colículo superior inicia la orientación de la cabeza y los ojos.  III) El núcleo vestibular medial origina un tracto que termina bilateralmente en el asta ventral medial.  IV) La formación reticular proyecta solo a los segmentos cervicales.",
+      "alternativas": [
+        "Solo I y II",
+        "Solo I, II y III",
+        "Solo II y III",
+        "Solo I y III",
+        "Solo II, III y IV"
+      ],
+      "respuesta": 1,
+      "pista": "Pregunte si los tractos reticuloespinales sirven solo al cuello o a la postura de todo el cuerpo.",
+      "argumento": "I: V. El área locomotora mesencefálica controla la locomoción. II: V. El colículo superior inicia los movimientos de orientación de la cabeza y los ojos mediante los tractos tectoespinales. III: V. El núcleo vestibular medial origina el tracto vestibuloespinal medial, que termina bilateralmente en el asta ventral medial y regula la posición de la cabeza. IV: F. La formación reticular aporta los tractos reticuloespinales, que descienden a lo largo de la médula y participan en la postura; no se limitan a los segmentos cervicales. Por eso la combinación correcta es I, II y III.",
+      "tipo": "suficiencia",
+      "tags": [
+        "tronco"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 07, §1 y §9 y Purves pp. 375-376"
+    },
+    {
+      "id": "c2f-27",
+      "enunciado": "Los tractos reticuloespinal y vestibuloespinal medial comparten que:",
+      "alternativas": [
+        "Terminan bilateralmente en el asta medial",
+        "Terminan en el asta ventral lateral",
+        "Nacen en la corteza motora primaria",
+        "Cruzan en la decusación piramidal",
+        "Controlan la musculatura extraocular"
+      ],
+      "respuesta": 0,
+      "pista": "Pregunte a qué columna del asta ventral llegan las vías que sostienen la postura de pie.",
+      "argumento": "Correcta: terminan bilateralmente en el asta ventral medial. Ambos pertenecen al sistema medial, que controla musculatura axial y proximal, postura y equilibrio, y por eso necesita influir sobre ambos lados. Terminar en el asta ventral lateral es propio del sistema lateral, cortical, que sirve la destreza distal. Nacer en la corteza motora primaria corresponde a la vía corticoespinal. Cruzar en la decusación piramidal es del corticoespinal, no de estas vías del tronco. La musculatura extraocular depende de los núcleos oculomotores y de sus conexiones, no de estos tractos posturales.",
+      "tipo": "directa",
+      "tags": [
+        "tronco",
+        "via-corticoespinal"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 07, §2 y §9 y Purves pp. 375-376"
+    },
+    {
+      "id": "c2f-28",
+      "enunciado": "Dos pacientes tienen debilidad de la mano derecha. El primero, tras un infarto capsular izquierdo, tiene reflejos exaltados, Babinski y atrofia leve; el segundo, tras una lesión del asta ventral cervical, tiene hiporreflexia, fasciculaciones y atrofia marcada. ¿Qué distingue ambos cuadros?",
+      "alternativas": [
+        "La neurona lesionada: superior o inferior",
+        "La cronicidad: agudo frente a crónico",
+        "El territorio: proximal frente a distal",
+        "La lateralidad: derecha frente a izquierda",
+        "La edad: el primero es mayor que el segundo"
+      ],
+      "respuesta": 0,
+      "pista": "Compare el trofismo y el reflejo: uno se pierde por denervación, el otro se desinhibe.",
+      "argumento": "Correcta: la neurona lesionada, superior o inferior. La lesión de motoneurona superior quita la modulación y deja hiperreflexia, Babinski y atrofia leve por desuso; la de motoneurona inferior rompe el arco reflejo y el trofismo, con hiporreflexia, fasciculaciones y atrofia marcada. La cronicidad no explica la diferencia: los dos cuadros pueden explorarse con semanas de evolución y el patrón se mantiene. El territorio es el mismo en ambos, la mano derecha. La lateralidad también coincide. La edad es un dato accesorio que no determina el síndrome.",
+      "tipo": "directa",
+      "tags": [
+        "semiologia",
+        "unidad-motora"
+      ],
+      "dificultad": "media",
+      "fuente": "Guía 06, §2 y Guía 07, §3; Purves Cuadro 17.1, p. 395"
+    },
+    {
+      "id": "c2f-29",
+      "enunciado": "Una mujer de 45 años sufre una sección completa de la médula cervical en un accidente. En las primeras horas tiene paraplejía flácida con reflejos abolidos; semanas después presenta espasticidad e hiperreflexia en las piernas. ¿Qué explica la fase tardía?",
+      "alternativas": [
+        "Cede la inhibición descendente del reflejo",
+        "Se regeneran los axones corticoespinales",
+        "Aparece denervación de motoneuronas alfa",
+        "Se instala una neuropatía periférica agregada",
+        "Aumenta la aferencia cerebelosa al asta"
+      ],
+      "respuesta": 0,
+      "pista": "La hipotonía inicial es transitoria; pregunte qué pasa con la ganancia del reflejo de estiramiento.",
+      "argumento": "Correcta: cede la inhibición descendente del reflejo. La sección interrumpe las vías descendentes por encima del segmento lesionado: tras el shock espinal inicial, la pérdida de esa inhibición sobre los centros posturales aumenta la ganancia del reflejo de estiramiento y aparecen espasticidad, hiperreflexia y clonus. Los axones corticoespinales del sistema nervioso central no se regeneran. La denervación de motoneuronas alfa produciría el patrón de motoneurona inferior, con atrofia grave y fasciculaciones, no hiperreflexia. Una neuropatía periférica agregada reduciría los reflejos. El cerebelo no proyecta al asta ventral: no tiene acceso directo a la motoneurona inferior.",
+      "tipo": "directa",
+      "tags": [
+        "semiologia",
+        "motoneurona-superior"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Guía 07, §3 y Purves Cuadro 17.1, p. 395"
+    },
+    {
+      "id": "c2f-30",
+      "enunciado": "Una mujer de 60 años tiene seis meses de debilidad progresiva, atrofia y fasciculaciones en las manos, junto con hiperreflexia y Babinski en las piernas; sensibilidad e intelecto normales. ¿Cómo se explica la coexistencia de atrofia y Babinski?",
+      "alternativas": [
+        "Degeneran en conjunto la MS y la MI",
+        "La atrofia es solo por desuso de la mano",
+        "El Babinski proviene de una lesión medular",
+        "La atrofia se debe a neuropatía sensitiva",
+        "El Babinski es un signo periférico del asta"
+      ],
+      "respuesta": 0,
+      "pista": "Busque la única enfermedad que compromete a la vez la neurona que ejecuta y la que modula.",
+      "argumento": "Correcta: degeneran en conjunto la motoneurona superior y la inferior. La ELA afecta las motoneuronas alfa del asta ventral y de los núcleos motores del tronco, junto con las neuronas de la corteza motora: de ahí atrofia y fasciculaciones por un lado, hiperreflexia y Babinski por el otro, sin síntomas sensitivos y con intelecto preservado. La atrofia por desuso es leve y tardía, e incompatible con fasciculaciones. Un Babinski aislado por lesión medular no explicaría la atrofia de las manos ni la progresión. La ELA es puramente motora, de modo que una neuropatía sensitiva no corresponde. El Babinski es signo de vía superior, no del asta ventral.",
+      "tipo": "directa",
+      "tags": [
+        "ela",
+        "semiologia"
+      ],
+      "dificultad": "dificil",
+      "fuente": "Guía 06, §9 y Purves p. 373 y Cuadro 17.1, p. 395"
+    }
+  ]
+}
