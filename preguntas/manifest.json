@@ -89,6 +89,24 @@
       "titulo": "Semiología — Certamen 2, casos clínicos (todos los sistemas)",
       "total": 140,
       "descartadas": 0
+    },
+    {
+      "archivo": "Semio_C3_Banco_Mixto.json",
+      "titulo": "Semiología C3 — banco mixto (4 clases)",
+      "total": 40,
+      "descartadas": 0
+    },
+    {
+      "archivo": "Semio_C3_Set_A_Clases_1-2.json",
+      "titulo": "Semiología C3 — Set A: clases 1 y 2",
+      "total": 60,
+      "descartadas": 0
+    },
+    {
+      "archivo": "Semio_C3_Set_B_Clases_3-4.json",
+      "titulo": "Semiología C3 — Set B: clases 3 y 4",
+      "total": 60,
+      "descartadas": 0
     }
   ]
 }
