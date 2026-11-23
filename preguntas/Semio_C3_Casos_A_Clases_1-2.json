@@ -1,0 +1,566 @@
+{
+ "version": 1,
+ "titulo": "Semiología C3 — Casos clínicos A: clases 1 y 2",
+ "preguntas": [
+  {
+   "id": "c3ca-01",
+   "enunciado": "Mujer de 54 años, sin cefaleas previas, refiere que ayer, mientras levantaba una caja en el trabajo, sintió un dolor occipital de golpe y tuvo que sentarse; el dolor llegó a su máxima intensidad de inmediato y ahora persiste como una molestia sorda. No hubo pérdida de conciencia ni vómitos, y la exploración neurológica de urgencia fue normal. Está preocupada porque su madre tenía migraña. ¿Qué dato de la anamnesis permite caracterizar mejor el inicio de esta cefalea?",
+   "alternativas": [
+    "La intensidad actual en escala de 1 a 10",
+    "El antecedente familiar de migraña",
+    "El tiempo hasta la intensidad máxima",
+    "La respuesta a analgésicos previos",
+    "El número de cefaleas este año"
+   ],
+   "respuesta": 2,
+   "pista": "El red flag no es cuánto duele, sino en cuánto tiempo se instala el dolor.",
+   "argumento": "El inicio en trueno se define por alcanzar la máxima intensidad en segundos, así que el dato que lo confirma o descarta es el tiempo hasta el pico; con eso el caso se clasifica como red flag y obliga a descartar hemorragia subaracnoidea aunque el examen sea normal (diapo 25). La escala 1 a 10 no distingue un trueno de una cefalea intensa que progresa. El antecedente familiar de migraña no explica una primera cefalea súbita, y la respuesta a analgésicos o el número de episodios anuales describen el patrón habitual, no el mecanismo de este inicio. Si el pico hubiera tardado horas, seguiría siendo una primera cefalea, pero perdería el carácter de trueno."
+  },
+  {
+   "id": "c3ca-02",
+   "enunciado": "Hombre de 47 años consulta por vértigo intenso de inicio brusco esta mañana, con náuseas y sensación de que la habitación se mueve; refiere hipoacusia y acúfenos del oído derecho. No tiene diplopía, disfagia ni debilidad, la otoscopia es normal y ya precisó que el cuadro comenzó hace seis horas, sin episodios previos. ¿Qué paso del examen aporta más para separar un origen periférico de uno central?",
+   "alternativas": [
+    "Explorar el nistagmo con y sin fijación",
+    "Repetir el interrogatorio del inicio",
+    "Comparar la audición con diapasón",
+    "Derivarlo a otorrinolaringología",
+    "Preguntar por infección viral previa"
+   ],
+   "respuesta": 0,
+   "pista": "Periférico y central se distinguen por el nistagmo, no por la intensidad del vértigo.",
+   "argumento": "El vértigo con hipoacusia e inicio brusco ya orienta a periférico, y lo que falta es examinar el nistagmo: horizonto-rotatorio y suprimido con la fijación apoya periférico, mientras que el vertical o no suprimido obliga a descartar tronco o cerebelo (diapo 30). Repetir el interrogatorio del inicio no agrega un signo nuevo. Derivar es una conducta, no un paso del examen, y el diapasón caracteriza el tipo de hipoacusia sin separar periférico de central. Preguntar por un cuadro viral previo apoya una neuritis, pero no excluye un ictus."
+  },
+  {
+   "id": "c3ca-03",
+   "enunciado": "Hombre de 63 años, hipertenso y fumador, consulta por «mareo» de dos horas de evolución: describe que la habitación gira y que no puede fijar la vista. Refiere además visión doble al mirar a la derecha, voz nasal y dificultad para tragar la saliva. Al examen está alerta, con nistagmo que no desaparece al fijar la mirada, y la audición es simétrica. ¿Qué origen y nivel explican el conjunto? No refiere trauma ni fiebre.",
+   "alternativas": [
+    "Periférico, de neuritis vestibular",
+    "Central, de hemisferio cerebeloso",
+    "Periférico, de enfermedad de Ménière",
+    "Periférico, de canal semicircular posterior",
+    "Central, de tronco encefálico"
+   ],
+   "respuesta": 4,
+   "pista": "Busque los signos que no pertenecen al oído ni al laberinto.",
+   "argumento": "Diplopía, disfagia, voz nasal y nistagmo no suprimido junto a un vértigo configuran un cuadro central, y la combinación de pares craneales bajos con esos signos localiza en tronco (diapo 35). La neuritis vestibular y el VPPB son periféricos: no producen disfagia ni diplopía, y el VPPB dura segundos y es posicional. Ménière agrega hipoacusia fluctuante, que aquí está ausente. Un hemisferio cerebeloso explicaría ataxia y dismetría, pero no la diplopía ni la disfagia."
+  },
+  {
+   "id": "c3ca-04",
+   "enunciado": "Mujer de 58 años refiere vértigo continuo desde ayer, sin hipoacusia ni acúfenos, con náuseas que no ceden. Al examinarla, el nistagmo es vertical, cambia de dirección según la mirada y mantiene la misma amplitud cuando le pide fijar los ojos en su dedo; la fuerza y la sensibilidad son normales. Ella atribuye el cuadro al estrés y pide un fármaco para la náusea antes de irse. ¿Qué implica ese nistagmo?",
+   "alternativas": [
+    "Confirma un VPPB del canal posterior",
+    "Obliga a descartar ictus de tronco",
+    "Indica neuritis vestibular incipiente",
+    "Sugiere Ménière en fase inicial",
+    "Permite un manejo ambulatorio tranquilo"
+   ],
+   "respuesta": 1,
+   "pista": "¿Qué hace el nistagmo cuando el paciente fija la mirada?",
+   "argumento": "Un nistagmo vertical que no se suprime con la fijación es el patrón descrito para el vértigo central y obliga a descartar ictus de tronco o cerebelo (diapo 30). El VPPB da nistagmo horizonto-rotatorio, breve y posicional, que sí se suprime con la fijación. La neuritis y el Ménière son periféricos y no producen nistagmo vertical; además Ménière asocia hipoacusia. Tranquilizarla y manejarla de forma ambulatoria sería el error que el material señala como más grave ante un signo central."
+  },
+  {
+   "id": "c3ca-05",
+   "enunciado": "Varón de 29 años, sin antecedentes, consulta en un servicio de urgencia por cefalea holocraneana progresiva de 30 horas, fiebre de 38,7 °C y dolor al mover el cuello. Al examen está somnoliento, con rigidez de nuca y sin déficit focal; no refiere fotofobia. Vive solo, llegó por sus propios medios y pregunta si puede irse a casa con un analgésico. ¿Cuál es la conducta inmediata correcta? No viajó ni tuvo contacto con enfermos.",
+   "alternativas": [
+    "Indicar analgesia y control en 24 horas",
+    "Derivar a consultorio con interconsulta",
+    "Tranquilizarlo y citar en una semana",
+    "No dar el alta y derivar urgente",
+    "Registrar el cuadro como cefalea tensional"
+   ],
+   "respuesta": 3,
+   "pista": "Dos banderas rojas juntas no se manejan de forma ambulatoria.",
+   "argumento": "Cefalea, fiebre y rigidez de nuca configuran el síndrome meníngeo, que es emergencia hasta demostrar lo contrario (diapo 25). La somnolencia agrega alteración del nivel de conciencia, otro signo de alarma (diapo 39). La analgesia con control en 24 horas y la interconsulta diferida subestiman un cuadro con dos red flags, y registrarlo como cefalea tensional ignora la fiebre y la rigidez. Un examen sin focalidad no descarta meningitis."
+  },
+  {
+   "id": "c3ca-06",
+   "enunciado": "Hombre de 72 años llega solo a urgencias porque al despertar no podía mover el brazo derecho ni hablar con claridad; el déficit persiste. Vive solo, no contesta el teléfono desde la tarde anterior y solo recuerda que se acostó «temprano» porque estaba cansado. No hubo trauma ni caída. Para fijar la hora de inicio de los síntomas, ¿qué debe hacer en primer lugar? Su hija vive en otra ciudad y no sabe nada desde anteayer.",
+   "alternativas": [
+    "Buscar a quien lo vio por última vez",
+    "Anotar la hora en que despertó",
+    "Preguntar cuántas horas durmió",
+    "Suponer que empezó al acostarse",
+    "Revisar la hora de la última comida"
+   ],
+   "respuesta": 0,
+   "pista": "El inicio no es cuando despertó, sino cuando lo vieron normal.",
+   "argumento": "Si no hay testigo ni registro, el inicio se fija en la última vez que alguien lo vio normal, no en la hora del despertar (diapo 21). Buscar a un vecino o revisar llamadas y actividad registrada permite acotar esa hora. Anotar la hora del despertar inventa un inicio que puede retrasar la decisión, y suponer que empezó al acostarse es una estimación sin respaldo. Las horas de sueño y la última comida no informan sobre el momento en que apareció el déficit."
+  },
+  {
+   "id": "c3ca-07",
+   "enunciado": "Mujer de 34 años refiere que «se le caen los párpados» y ve doble al final del día, sobre todo cuando lee mucho; en la mañana está casi normal. Además nota que al peinarse los brazos se cansan y debe descansar para continuar. La fuerza evaluada una sola vez al ingreso es normal, los reflejos son simétricos y no hay déficit sensitivo. ¿Qué paso del examen permite caracterizar mejor el síntoma? No ha tenido fiebre ni dolor ocular.",
+   "alternativas": [
+    "Explorar la sensibilidad de los cuatro miembros",
+    "Comparar los reflejos de ambos brazos",
+    "Repetir el esfuerzo y ver si cede",
+    "Medir la fuerza solo al final del día",
+    "Buscar Babinski en ambos pies"
+   ],
+   "respuesta": 2,
+   "pista": "Una fuerza normal medida una vez no responde la pregunta.",
+   "argumento": "La fuerza normal en una medición aislada no descarta nada: la fatigabilidad se demuestra al repetir el esfuerzo, cuando la fuerza decrece con la actividad sostenida (diapo 11). Ese patrón fluctuante, con ptosis y diplopía al final del día, orienta a unión neuromuscular. Explorar sensibilidad, reflejos o Babinski busca otra cosa y no caracteriza el síntoma. Medir la fuerza solo al final del día confunde el hallazgo con el cansancio normal de la jornada."
+  },
+  {
+   "id": "c3ca-08",
+   "enunciado": "Mujer de 41 años consulta por debilidad progresiva de ambas piernas en cuatro días, con sensación de banda apretada en el tórax y dificultad para subir escalones. Refiere además que no siente el agua fría en los pies y que desde ayer no controla la orina. Al examen hay paraparesia simétrica, un nivel sensitivo a la altura de los pezones y reflejos aumentados en las piernas. ¿Dónde se localiza la lesión?",
+   "alternativas": [
+    "Corteza motora bilateral",
+    "Nervios periféricos distales",
+    "Raíces lumbosacras",
+    "Médula espinal dorsal",
+    "Tronco encefálico inferior"
+   ],
+   "respuesta": 3,
+   "pista": "Un límite horizontal en el tronco es un dato que la corteza no produce.",
+   "argumento": "Paraparesia simétrica, nivel sensitivo en el tórax, hiperreflexia y compromiso esfinteriano configuran un déficit bilateral por debajo de un nivel, que localiza en médula (diapo 35). La corteza motora bilateral parasagital podría dar paraparesia, pero no nivel sensitivo ni esfínteres. Las raíces lumbosacras y los nervios periféricos darían arreflexia y distribución distal, no un nivel torácico. El tronco encefálico no produce un nivel sensitivo abdominal."
+  },
+  {
+   "id": "c3ca-09",
+   "enunciado": "Hombre de 38 años refiere desde hace meses que no siente el calor ni el frío en ambas manos y antebrazos, y se ha quemado varias veces sin notarlo; el tacto fino y la posición de los dedos están conservados. No hay debilidad y los reflejos son normales. La distribución es en esclavina, sobre cuello y brazos, sin seguir un dermatoma. ¿Qué explica este patrón? Trabaja como soldador desde los 20 años y no refiere traumatismos.",
+   "alternativas": [
+    "Polineuropatía distal simétrica",
+    "Lesión del nervio mediano bilateral",
+    "Lesión de las columnas dorsales",
+    "Radiculopatía cervical múltiple",
+    "Lesión medular intramedular"
+   ],
+   "respuesta": 4,
+   "pista": "Piense en el punto donde cruzan las dos vías sensitivas.",
+   "argumento": "La pérdida de dolor y temperatura con tacto y propiocepción conservados es una disociación sensitiva, y su distribución suspendida en cuello y brazos apunta a una lesión medular intrínseca central, como la siringomielia (diapo 15). La polineuropatía sería distal y simétrica, con todas las modalidades afectadas. Las columnas dorsales conducen vibración y propiocepción, de modo que su lesión daría el patrón inverso, y una radiculopatía respetaría un dermatoma definido."
+  },
+  {
+   "id": "c3ca-10",
+   "enunciado": "Hombre de 45 años es traído por su esposa: hace dos horas, mientras veía televisión, perdió el conocimiento durante dos minutos, con rigidez y sacudidas de brazos y piernas; luego estuvo confundido 30 minutos y se mordió el borde lateral de la lengua. No tiene fiebre ni trauma, y al llegar está somnoliento pero orientado, sin déficit focal. Es su primer episodio. ¿Cuál es la conducta inmediata? No consume alcohol ni drogas.",
+   "alternativas": [
+    "Enviarlo a casa con control ambulatorio",
+    "Derivarlo para evaluación urgente",
+    "Atribuirlo a una baja de presión",
+    "Citarlo en control en un mes",
+    "Indicarle que consulte si repite"
+   ],
+   "respuesta": 1,
+   "pista": "Primera crisis en adulto: no es un episodio benigno por definición.",
+   "argumento": "Una primera crisis en adulto es signo de alarma y exige evaluación urgente (diapo 39), sobre todo con mordedura lateral y confusión postictal prolongada, sin fiebre ni trauma que la expliquen. Enviarlo a casa, citarlo en un mes o atribuirlo a una baja de presión deja sin estudiar un episodio no provocado. Decirle que consulte solo si repite traslada a él la decisión sobre un red flag. Si hubiera sido un síncope con pródromos y recuperación inmediata, la urgencia cambiaría."
+  },
+  {
+   "id": "c3ca-11",
+   "enunciado": "Mujer de 26 años es traída tras un episodio en la calle: alcanzó a decir que veía borroso y sentía náuseas, se puso pálida y cayó; los testigos la vieron con sacudidas breves de ambos brazos durante pocos segundos y al minuto ya estaba orientada y quiso irse caminando. No se mordió la lengua ni se orinó. Al examen está ansiosa y sin déficit. ¿Cómo se interpretan esas sacudidas? No toma medicamentos ni tiene antecedentes cardíacos.",
+   "alternativas": [
+    "Confirman una crisis epiléptica",
+    "Indican un origen psicógeno",
+    "Descartan el diagnóstico de síncope",
+    "Sugieren lesión del tronco",
+    "Son mioclonías propias del síncope"
+   ],
+   "respuesta": 4,
+   "pista": "Sacudida breve no es sinónimo de clonía rítmica.",
+   "argumento": "Pródromo de visión borrosa y náuseas, palidez, caída breve, recuperación en un minuto sin confusión y sin mordedura configuran un síncope (diapo 9). Las sacudidas breves pueden aparecer en el síncope como mioclonías y no lo convierten en crisis. Una crisis típica dura uno a tres minutos, con clonías rítmicas y fase postictal, que aquí no existen. Tampoco hay elementos para un origen psicógeno ni para lesión de tronco."
+  },
+  {
+   "id": "c3ca-12",
+   "enunciado": "Hombre de 79 años es traído por su hija porque «está raro» desde hace dos días: habla de cosas que no pasaron, no reconoce el living de su casa y a ratos está muy somnoliento. Tuvo una infección urinaria la semana pasada. Al examen está despierto, desorientado en tiempo y lugar, y su relato cambia de un momento a otro. Antes de evaluar memoria y lenguaje, ¿qué debe explorar y por qué? No hay fiebre y la familia niega traumatismo.",
+   "alternativas": [
+    "La memoria remota, que suele estar preservada",
+    "La atención, porque condiciona el resto",
+    "Las praxias, que localizan en el parietal",
+    "La nominación, que es la más sensible",
+    "Los pares craneales, por si hay focalidad"
+   ],
+   "respuesta": 1,
+   "pista": "Sin atención no hay memoria válida.",
+   "argumento": "La atención es requisito para evaluar memoria, lenguaje y praxias: sin ella los resultados no son válidos (diapo 26). El cuadro fluctuante, de dos días, tras una infección y con desorientación cambiante, es el patrón del delirium, donde la atención se deteriora con fluctuación diaria. Explorar memoria remota o nominación en ese contexto produce falsos déficits. Las praxias y los pares craneales no resuelven el orden de la evaluación."
+  },
+  {
+   "id": "c3ca-13",
+   "enunciado": "Hombre de 66 años consulta por voz gangosa de tres semanas de evolución, que ahora se ahoga con los líquidos y siente que «la lengua no le obedece». Su esposa nota además que el hombro derecho está más bajo. Al examen el velo palatino derecho no se eleva, la úvula se desvía a la izquierda, la lengua protruida se desvía a la derecha con fasciculaciones y el trapecio derecho está débil. ¿Dónde localiza la lesión?",
+   "alternativas": [
+    "Mesencéfalo derecho",
+    "Ángulo pontocerebeloso derecho",
+    "Protuberancia izquierda",
+    "Agujero yugular derecho",
+    "Corteza motora izquierda"
+   ],
+   "respuesta": 3,
+   "pista": "Cuente los pares craneales comprometidos y su lado.",
+   "argumento": "Disfonía, disfagia, velo palatino derecho ausente con úvula desviada a la izquierda, lengua desviada a la derecha con fasciculaciones y trapecio derecho débil corresponden a IX, X, XI y XII ipsilaterales, que localizan en bulbo o agujero yugular derechos (diapo 38). El mesencéfalo afecta el grupo oculomotor, no estos pares. El ángulo pontocerebeloso compromete VII y VIII, y la protuberancia, V, VI y VII. La corteza motora izquierda no explica pares craneales bajos unilaterales."
+  },
+  {
+   "id": "c3ca-14",
+   "enunciado": "Hombre de 70 años es traído porque desde ayer choca con los marcos de las puertas del lado izquierdo y se viste solo con la manga derecha. La esposa cuenta que dejó de comer lo que está en la mitad izquierda del plato. Al examen la fuerza es simétrica, la sensibilidad táctil es normal en ambos hemicuerpos y no hay hemianopsia en la confrontación. ¿Cómo se interpreta el cuadro? Su hija refiere que habla con normalidad y no tiene debilidad facial.",
+   "alternativas": [
+    "Negligencia del hemicampo izquierdo",
+    "Hemianestesia izquierda cortical",
+    "Hemianopsia homónima izquierda",
+    "Apraxia ideomotora del vestido",
+    "Paresia izquierda leve no detectada"
+   ],
+   "respuesta": 0,
+   "pista": "El déficit no es de sensibilidad ni de campo visual.",
+   "argumento": "Con fuerza, sensibilidad táctil y campos normales, la conducta de ignorar el hemicampo izquierdo corresponde a negligencia por lesión del hemisferio no dominante, el derecho (diapo 31). La hemianestesia y la hemianopsia quedan descartadas por la exploración descrita, y la apraxia afectaría la ejecución del acto, no la atención al espacio. Una paresia leve no explicaría el desinterés por el plato ni los choques con los marcos. La prueba de cancelación y la bisección de líneas confirmarían el hallazgo."
+  },
+  {
+   "id": "c3ca-15",
+   "enunciado": "Mujer de 68 años, hipertensa, llega a urgencias por «mareo» de una hora: dice que todo gira, que ve doble al mirar de lado y que no puede tragar bien. Al examen está alerta, con nistagmo que no cede al fijar la mirada y disartria leve; la audición es simétrica y no hay debilidad de extremidades. Su hija pide esperar en casa a que pase, porque «la otra vez fue lo mismo y se le quitó». ¿Cuál es la conducta correcta?",
+   "alternativas": [
+    "Enviarla a casa con antieméticos",
+    "Citarla en policlínico en una semana",
+    "Mantenerla en urgencias y derivar",
+    "Indicarle reposo y control telefónico",
+    "Atribuirlo a la presión alta y esperar"
+   ],
+   "respuesta": 2,
+   "pista": "El antecedente de un episodio similar no tranquiliza.",
+   "argumento": "Vértigo con diplopía, disfagia, disartria y nistagmo no suprimido es un cuadro central de alta urgencia, y la impresión de que «la otra vez se quitó» no lo vuelve benigno (diapo 30). Enviarla a casa con antieméticos o atribuirlo a la presión repite el error de no reconocer el red flag. El policlínico en una semana y el control telefónico no son proporcionados a un déficit de tronco. Solo la evaluación urgente permite descartar un ictus de fosa posterior."
+  },
+  {
+   "id": "c3ca-16",
+   "enunciado": "Mujer de 29 años refiere episodios de «mareo» desde hace meses: no gira el entorno, no siente que se va a desmayar y no se cae, pero queda con una sensación difusa en la cabeza; a veces se le duermen las manos y respira rápido. El examen neurológico es normal, incluidos nistagmo, Romberg y marcha. ¿Qué paso del interrogatorio permite clasificar mejor el síntoma? Trabaja en una oficina, no toma fármacos y no ha tenido episodios similares antes.",
+   "alternativas": [
+    "Preguntar por antecedentes familiares",
+    "Interrogar sobre consumo de café",
+    "Precisar la hora exacta del primer episodio",
+    "Pedirle que lo describa con sus palabras",
+    "Contar los episodios de este mes"
+   ],
+   "respuesta": 3,
+   "pista": "Antes de clasificar, traduzca la palabra del paciente.",
+   "argumento": "Ante un «mareo» difuso, sin giro ni desmayo, la primera maniobra es traducir el término del paciente pidiéndole que lo describa con sus palabras; solo así se decide entre vértigo, presíncope, desequilibrio o mareo inespecífico (diapo 28). Los antecedentes familiares, el café o el número de episodios son datos de contexto que no clasifican el síntoma. Precisar la hora del primer episodio, ocurrido hace meses, tampoco ayuda a caracterizarlo. Si describiera giro del entorno, el interrogatorio se dirigiría al sistema vestibular."
+  },
+  {
+   "id": "c3ca-17",
+   "enunciado": "Hombre de 52 años refiere crisis de vértigo desde hace un año: giran los objetos, dura entre 20 minutos y dos horas, y queda con sensación de oído tapado y zumbido derecho que luego desaparece. Entre crisis está asintomático. Al examen de hoy no hay nistagmo y la audición parece simétrica al frotamiento digital. ¿Qué par de datos de la anamnesis permite separar mejor su cuadro de un VPPB? No toma medicamentos ototóxicos.",
+   "alternativas": [
+    "Edad del paciente y sexo",
+    "Presencia de náuseas y vómitos",
+    "Número de crisis en el último año",
+    "Antecedente de trauma craneal",
+    "Duración de la crisis y audición"
+   ],
+   "respuesta": 4,
+   "pista": "Duración y audición separan los dos cuadros más frecuentes.",
+   "argumento": "La duración de la crisis y el comportamiento de la audición separan los cuadros: el VPPB dura segundos y es posicional, sin síntomas cocleares, mientras que Ménière dura horas y asocia hipoacusia fluctuante y acúfenos (diapo 31). La edad y el sexo no discriminan, y las náuseas acompañan a ambos. El número de crisis anuales describe frecuencia, no mecanismo, y el trauma craneal es un antecedente posible en varias causas."
+  },
+  {
+   "id": "c3ca-18",
+   "enunciado": "Hombre de 61 años, hipertenso, llega porque al mirarse al espejo notó la boca torcida desde hace tres horas, sin dolor ni trauma. Al examen la comisura derecha cae y no puede inflar el carrillo derecho; no hay déficit de fuerza ni sensitivo en las extremidades. Antes de concluir el nivel de la lesión facial, ¿qué maniobra del examen lo define mejor? Es la primera vez que le ocurre y no ha tenido trauma ni infección reciente.",
+   "alternativas": [
+    "Pedir cierre ocular forzado y comparar",
+    "Explorar el reflejo corneal",
+    "Comparar la fuerza de ambos brazos",
+    "Pedirle que silbe una melodía",
+    "Explorar la sensibilidad de la cara y la frente"
+   ],
+   "respuesta": 0,
+   "pista": "La frente y el ojo cierran la discusión.",
+   "argumento": "En una paresia facial, el cierre ocular forzado y la frente separan el nivel: si la frente también falla, la lesión es periférica del VII; si se conserva, es central, por la inervación bilateral del frontal (diapo 35). El reflejo corneal explora otra vía, la fuerza del brazo pertenece al examen motor y la sensibilidad facial al trigémino. Silbar solo repite la observación de la boca. El hallazgo de la frente decide entre una lesión hemisférica y una del nervio."
+  },
+  {
+   "id": "c3ca-19",
+   "enunciado": "Mujer de 74 años, acompañada por su hija, consulta por olvidos de un año: repite la misma pregunta, olvida una conversación de la mañana y no recuerda si tomó el desayuno. Su hija cuenta que empeoró en los últimos seis meses. Al examen repite sin error cinco dígitos en orden, nombra objetos, articula bien y no tiene déficit motor ni sensitivo. ¿Qué dominio y sustrato explican el cuadro? Está orientada en persona y lugar.",
+   "alternativas": [
+    "Memoria inmediata, prefrontal",
+    "Memoria remota, difusa cortical",
+    "Memoria reciente, hipocampo",
+    "Atención, tronco encefálico",
+    "Lenguaje, área de Broca"
+   ],
+   "respuesta": 2,
+   "pista": "Cinco dígitos y tres palabras exploran cosas distintas.",
+   "argumento": "Repetir cinco dígitos sin error explora memoria inmediata y está conservada; fallar el recuerdo de lo ocurrido en la mañana con lenguaje y atención normales altera la memoria reciente, dependiente de hipocampo y circuito de Papez, la más precoz en Alzheimer (diapo 30). Si la memoria inmediata fallara, sería disfunción prefrontal o delirium. La memoria remota se explora con hechos antiguos, no con el desayuno, y el lenguaje está preservado en este caso."
+  },
+  {
+   "id": "c3ca-20",
+   "enunciado": "Hombre de 55 años consulta por adormecimiento de la mejilla y el párpado derechos de dos semanas. Al explorar, el algodón en la córnea derecha no provoca parpadeo, mientras que en la izquierda el parpadeo es normal; la sensibilidad del territorio V1 derecho está disminuida y el cierre palpebral derecho es completo y simétrico. La fuerza facial es normal. ¿Qué implica el reflejo corneal ausente? No tiene lesiones cutáneas ni dolor ocular.",
+   "alternativas": [
+    "Lesión eferente del facial derecho",
+    "Lesión del nervio óptico derecho",
+    "Afectación del III par derecho",
+    "Compromiso aferente del trigémino derecho",
+    "Defecto de la retina derecha"
+   ],
+   "respuesta": 3,
+   "pista": "Aferencia y eferencia del reflejo corneal son nervios distintos.",
+   "argumento": "El reflejo corneal tiene aferencia del V y eferencia del VII; con cierre palpebral completo y simétrico, la eferencia está intacta, de modo que la ausencia del reflejo con hipoestesia de V1 localiza en la aferencia trigeminal derecha (diapo 35). Una lesión del facial derecho habría dado debilidad del cierre, y el óptico y la retina no participan en este reflejo. El III tampoco: su lesión da ptosis y midriasis, no abolición del parpadeo reflejo."
+  },
+  {
+   "id": "c3ca-21",
+   "enunciado": "Mujer de 31 años, 10 días posparto, consulta por cefalea progresiva de 48 horas, sorda y difusa, que aumenta al acostarse y con los esfuerzos, acompañada de náuseas y visión borrosa transitoria. No tiene fiebre ni rigidez de nuca. Al examen está somnolienta, sin déficit focal, y refiere que «nunca había tenido algo así». ¿Cuál es la conducta inmediata? Su parto fue por cesárea sin complicaciones y no toma anticoagulantes.",
+   "alternativas": [
+    "Indicar reposo y control en 48 horas",
+    "Atribuirla al cansancio del posparto",
+    "Enviarla a control con la matrona",
+    "Derivarla a evaluación urgente",
+    "Dar analgesia y observarla en casa"
+   ],
+   "respuesta": 3,
+   "pista": "Puerperio más cefalea progresiva es un contexto de riesgo.",
+   "argumento": "Cefalea progresiva en el puerperio, que aumenta al acostarse y con los esfuerzos, con náuseas y visión borrosa, es un contexto de riesgo de trombosis venosa cerebral y constituye signo de alarma (diapo 25). Reposo con control en 48 horas, atribuirla al cansancio o enviarla a la matrona subestiman el cuadro. La analgesia con observación domiciliaria tampoco es proporcionada. La ausencia de fiebre y de rigidez de nuca no descarta el diagnóstico."
+  },
+  {
+   "id": "c3ca-22",
+   "enunciado": "Hombre de 58 años refiere que «está débil» desde hace dos meses: se cansa al subir la escalera de su casa, debe apoyarse para levantarse del sillón y no alcanza los platos del estante alto. No ha perdido peso y no tiene dolor. Al examen la fuerza distal de manos y pies es normal, los reflejos son simétricos y la sensibilidad está conservada. ¿Qué pregunta de la anamnesis delimita mejor el patrón? Trabaja en una bodega y no ha cambiado de medicamentos.",
+   "alternativas": [
+    "Desde cuándo no practica deporte",
+    "Cuántas horas duerme cada noche",
+    "Qué gestos dejó de poder hacer",
+    "Si tiene antecedente de diabetes",
+    "Cuánto pesaba hace un año"
+   ],
+   "respuesta": 2,
+   "pista": "Proximal o distal se responde con gestos, no con adjetivos.",
+   "argumento": "La distribución es el elemento más informativo para localizar: preguntar qué gestos dejó de hacer traduce el síntoma a proximal o distal (diapo 12). Subir escaleras, levantarse del sillón y alcanzar un estante alto describen un patrón proximal, que orienta a músculo. El deporte, el sueño, la diabetes y el peso son contexto, no distribución. Si refiriera tropiezos o caída del pie, el patrón sería distal y apuntaría a nervio periférico."
+  },
+  {
+   "id": "c3ca-23",
+   "enunciado": "Hombre de 52 años refiere debilidad del brazo y la pierna izquierdos desde hace tres días, sin dolor. Al examen la fuerza está reducida en ambos segmentos, la sensibilidad es normal y no hay alteración del lenguaje ni de los campos visuales. Para decidir si el déficit es central o periférico, ¿qué debe explorar a continuación? No refiere trauma ni fiebre, y no toma medicamentos. Trabaja como profesor y vive solo.",
+   "alternativas": [
+    "Sensibilidad térmica distal",
+    "Tono y reflejos del lado débil",
+    "Campos visuales por confrontación",
+    "Pares craneales bajos",
+    "Marcha de puntas y talones"
+   ],
+   "respuesta": 1,
+   "pista": "Compare el lado afectado con el sano.",
+   "argumento": "El patrón central se reconoce por hipertonía, hiperreflexia y Babinski, mientras que el periférico da hipotonía, hiporreflexia y atrofia precoz (diapo 34 de la clase 1). Con sensibilidad, lenguaje y campos ya normales, lo que falta es el tono y los reflejos del hemicuerpo afectado, comparados con el sano. La sensibilidad térmica y los pares craneales pertenecen a otros territorios, y la marcha de puntas y talones explora fuerza distal, que no separa ambos niveles."
+  },
+  {
+   "id": "c3ca-24",
+   "enunciado": "Hombre de 64 años, hipertenso, refiere que desde ayer siente dormido todo el lado izquierdo del cuerpo: la cara, el brazo y la pierna, incluidos los dedos. No tiene pérdida de fuerza, habla con normalidad y no refiere visión doble. Al examen la sensibilidad al pinchazo y al tacto está disminuida en el hemicuerpo izquierdo, con fuerza 5/5 simétrica y reflejos normales. ¿Qué nivel explica el conjunto?",
+   "alternativas": [
+    "Medular cervical izquierda",
+    "Radicular cervical izquierdo aislado",
+    "Tronco ipsilateral",
+    "Periférico difuso",
+    "Supratentorial contralateral"
+   ],
+   "respuesta": 4,
+   "pista": "El nivel, y no la estructura fina, es lo que el patrón permite.",
+   "argumento": "Un déficit sensitivo que compromete cara, brazo y pierna del mismo lado sin afectar la fuerza corresponde al patrón hemicorporal, que orienta a lesión supratentorial contralateral (tálamo o corteza parietal) o de tronco contralateral (diapo 17). Una lesión medular cervical daría un nivel sensitivo horizontal y compromiso de extremidades, no de la cara. Lo radicular respeta un dermatoma, y lo periférico da distribución distal simétrica. La ausencia de déficit motor no cambia el nivel, pero sí reduce la urgencia aparente."
+  },
+  {
+   "id": "c3ca-25",
+   "enunciado": "Mujer de 40 años refiere visión doble desde hace dos días, sobre todo al mirar hacia la derecha y al leer; en reposo casi no la nota. Al examen se ve una leve desviación del ojo derecho hacia adentro y limitación para abducirlo. Usted le pide taparse un ojo y la visión doble desaparece de inmediato, con cualquiera de los dos. ¿Qué implica ese último hallazgo? No tiene cefalea ni ptosis, y la pupila es simétrica.",
+   "alternativas": [
+    "Confirma que la diplopía es binocular",
+    "Indica un defecto de refracción",
+    "Sugiere lesión del nervio óptico",
+    "Descarta compromiso oculomotor",
+    "Orienta a enfermedad retiniana"
+   ],
+   "respuesta": 0,
+   "pista": "Si desaparece al tapar un ojo, el problema es de alineación.",
+   "argumento": "La diplopía que desaparece al ocluir cualquiera de los ojos es binocular y depende de la alineación de ambos globos, lo que la atribuye a los pares oculomotores y no a un defecto de cada ojo por separado (diapo 34). Un defecto de refracción, una lesión del óptico o una enfermedad retiniana producen visión borrosa o pérdida monocular, que persiste al tapar el otro ojo. La limitación para abducir el ojo derecho apunta al VI derecho, no al III, que desviaría el ojo abajo y afuera con ptosis y midriasis."
+  },
+  {
+   "id": "c3ca-26",
+   "enunciado": "Hombre de 67 años, hipertenso y fumador, cuenta que ayer al mediodía perdió la fuerza del brazo izquierdo y no pudo hablar bien durante 15 minutos; luego volvió completamente a la normalidad. Hoy está asintomático, con examen neurológico normal y sin déficit en la exploración repetida. Comenta que ya le pasó dos veces este mes y que no consultó porque «se le pasó solo». ¿Cuál es la conducta correcta?",
+   "alternativas": [
+    "Derivarlo a evaluación urgente",
+    "Citarlo a control en un mes",
+    "Tranquilizarlo por estar asintomático",
+    "Indicarle control de la presión en casa",
+    "Registrar el episodio y observarlo"
+   ],
+   "respuesta": 0,
+   "pista": "Asintomático hoy no significa sin riesgo.",
+   "argumento": "Un déficit focal de instauración brusca que se resuelve en minutos es un evento transitorio y, repetido en el mes, un signo de alarma que exige evaluación urgente (diapo 39). El examen normal de hoy no borra el episodio. Citarlo en un mes, tranquilizarlo o limitarse a controlar la presión en casa deja sin evaluar un cuadro recurrente. Registrar y observar tampoco es una conducta proporcionada. La velocidad de instauración en minutos ya orienta a causa vascular."
+  },
+  {
+   "id": "c3ca-27",
+   "enunciado": "Mujer de 33 años con migraña diagnosticada desde los 20 años consulta por una cefalea que comenzó ayer, hemicraneal derecha, pulsátil, con náuseas y molestia a la luz, de características idénticas a las crisis previas. No hay fiebre, el examen neurológico es normal y no refiere ningún síntoma nuevo. Ella pide «algo más fuerte» porque le pasa todos los meses. ¿Cómo se interpreta este episodio? No ha cambiado su patrón de sueño ni de trabajo.",
+   "alternativas": [
+    "Obliga a descartar hemorragia",
+    "Sugiere hipertensión intracraneal",
+    "Indica trombosis de senos venosos",
+    "Es su cefalea primaria habitual",
+    "Corresponde a una meningitis inicial"
+   ],
+   "respuesta": 3,
+   "pista": "La pregunta es si algo cambió respecto de sus crisis.",
+   "argumento": "Cuando la cefalea es igual a las anteriores, se trata de la cefalea primaria habitual y el objetivo es optimizar el manejo y la calidad de vida (diapo 24). La hemorragia subaracnoidea se sospecha por inicio en trueno, la hipertensión intracraneal por dolor progresivo con vómitos y papiledema, y la trombosis venosa por el contexto de embarazo o puerperio. La meningitis exige fiebre y rigidez de nuca, ausentes aquí. Si hubiera cambiado de localización, frecuencia o intensidad, el episodio dejaría de ser el habitual."
+  },
+  {
+   "id": "c3ca-28",
+   "enunciado": "Hombre de 78 años es traído por su hija porque «ya no recuerda nada». Él sostiene que está bien y que solo se le olvidan cosas sin importancia. Al interrogarlo recuerda su nombre, su edad y la fecha, pero no sabe qué comió hoy ni qué le dijo su hija hace una hora; tampoco recuerda tres palabras tras cinco minutos. ¿A quién y qué conviene preguntar para caracterizar mejor el déficit? Vive con su hija y dejó de salir solo a comprar.",
+   "alternativas": [
+    "A él, cuántos años estudió",
+    "A la hija, si hay antecedente de cáncer",
+    "A la hija, qué dejó de hacer solo",
+    "A él, si se siente triste",
+    "A la hija, cuántas palabras falló"
+   ],
+   "respuesta": 2,
+   "pista": "El acompañante informa lo que el paciente no puede.",
+   "argumento": "El acompañante es el informador más valioso cuando hay afectación de memoria: refiere cambios que el paciente no percibe y aporta el antecedente funcional (diapo 40). Preguntar qué actividades dejó de hacer solo traduce el déficit a impacto cotidiano y orienta la magnitud. La escolaridad y el ánimo son contexto, no caracterización del cambio. El antecedente de cáncer es un dato de riesgo que no describe el déficit, y contar palabras falladas no reemplaza la comparación con su nivel previo."
+  },
+  {
+   "id": "c3ca-29",
+   "enunciado": "Mujer de 62 años refiere inestabilidad al caminar desde hace meses, sobre todo de noche y en superficies blandas; no gira el entorno ni siente que se va a desmayar. Al examen la fuerza es normal y la marcha es de base amplia. Usted quiere separar un origen sensitivo de uno cerebeloso. ¿Qué paso del examen lo consigue mejor? Es diabética de larga data, no toma alcohol, no refiere traumatismos y camina con bastón.",
+   "alternativas": [
+    "Explorar los reflejos de las piernas",
+    "Romberg con ojos abiertos y cerrados",
+    "Preguntar por el consumo de alcohol",
+    "Explorar el nistagmo en las cuatro miradas",
+    "Medir la fuerza de los cuádriceps"
+   ],
+   "respuesta": 1,
+   "pista": "El Romberg compara dos condiciones.",
+   "argumento": "La pregunta clave del material es si el paciente pierde el equilibrio más con los ojos cerrados, lo que orienta a lesión sensitiva, o igual con los ojos abiertos, lo que orienta a cerebelo (diapo 17): eso es exactamente lo que compara el Romberg. Los reflejos y la fuerza no separan esos dos orígenes, y el alcohol es un antecedente que puede causar ambas cosas. El nistagmo apoya el origen cerebeloso, pero no distingue la ataxia sensitiva de la cerebelosa."
+  },
+  {
+   "id": "c3ca-30",
+   "enunciado": "Mujer de 58 años consulta por párpado caído y visión doble de tres días, con dolor retroorbitario sordo. Al examen el ojo derecho está desviado hacia abajo y afuera, la pupila derecha es más grande y no reacciona a la luz, y no puede moverlo en ninguna dirección; la sensibilidad de la frente derecha está disminuida y el resto del examen es normal, sin déficit de fuerza. ¿Dónde se localiza la lesión?",
+   "alternativas": [
+    "Mesencéfalo dorsal derecho",
+    "Ángulo pontocerebeloso derecho",
+    "Nervio óptico derecho",
+    "Protuberancia izquierda",
+    "Seno cavernoso derecho"
+   ],
+   "respuesta": 4,
+   "pista": "Un ojo inmóvil, con pupila dilatada y V1 hipoestésico.",
+   "argumento": "La afectación conjunta de III, IV y VI con hipoestesia de V1 y dolor retroorbitario corresponde al patrón del seno cavernoso, donde esos nervios discurren juntos (diapo 38). El mesencéfalo dorsal explicaría el III, pero no el VI ni la sensibilidad de V1. El ángulo pontocerebeloso compromete VII y VIII, y el óptico solo daría pérdida visual. La protuberancia afectaría V, VI y VII del mismo lado, sin sumar IV ni un III completo con midriasis."
+  },
+  {
+   "id": "c3ca-31",
+   "enunciado": "Hombre de 71 años, traído por su familia, no recuerda dónde dejó las llaves ni el nombre del médico que lo atendió hace una semana; en cambio relata con detalle su infancia, el nombre de su escuela y los cumpleaños de sus nietos. La atención está conservada y no hay déficit focal. Su hija pregunta si «perder lo antiguo» es lo esperable. ¿Cómo se interpreta la disociación entre ambos recuerdos? No tiene fiebre ni confusión.",
+   "alternativas": [
+    "Ambas memorias están igualmente comprometidas",
+    "La memoria remota es la primera en caer",
+    "La reciente falla y la remota se conserva",
+    "El déficit corresponde a la atención",
+    "Se trata de una afasia semántica"
+   ],
+   "respuesta": 2,
+   "pista": "Dos memorias pueden disociarse.",
+   "argumento": "La memoria reciente, dependiente de hipocampo, es la más precozmente deteriorada en Alzheimer, mientras la remota suele estar relativamente preservada en fases iniciales (diapo 30). Eso explica que falle lo de hace una semana y conserve la infancia, y contradice la idea de que «perder lo antiguo» sea lo esperable. La atención conservada descarta delirium, y una afasia semántica alteraría el significado de las palabras, no el registro de hechos. El deterioro precoz de la memoria remota orientaría a demencias frontales o Huntington."
+  },
+  {
+   "id": "c3ca-32",
+   "enunciado": "Hombre de 60 años con cáncer de pulmón en tratamiento consulta por cefalea de dos semanas, progresiva, que no cede con analgésicos y que ahora lo despierta de noche; además refiere que «a veces ve doble». Al examen está orientado, con paresia leve del VI derecho y sin fiebre ni rigidez de nuca. Él atribuye el dolor al estrés del tratamiento. ¿Cuál es la conducta inmediata correcta? No ha tenido convulsiones ni pérdida de conciencia.",
+   "alternativas": [
+    "Ajustar la analgesia y controlar",
+    "Indicarle reposo y control en un mes",
+    "Tranquilizarlo por no tener fiebre",
+    "Derivarlo a salud mental",
+    "Derivarlo a evaluación urgente"
+   ],
+   "respuesta": 4,
+   "pista": "Cáncer conocido cambia el significado de una cefalea nueva.",
+   "argumento": "En un paciente oncológico, todo síntoma neurológico obliga a descartar afectación del SNC, y una cefalea progresiva con déficit de par craneal es signo de alarma (diapos 25 y 36). La paresia del VI puede reflejar hipertensión intracraneal por el largo recorrido del nervio (diapo 34). Ajustar analgesia, indicar reposo o atribuirlo al estrés retrasa el estudio, y la ausencia de fiebre no descarta metástasis ni absceso. Derivarlo a salud mental confunde un signo focal con un síntoma ansioso."
+  },
+  {
+   "id": "c3ca-33",
+   "enunciado": "Mujer de 35 años consulta por visión doble de una semana, sin dolor ni otro síntoma. Refiere que la ve doble «a veces» y no sabe precisar cuándo. Al examen la motilidad ocular parece completa y las pupilas son simétricas. Antes de explorar de nuevo, ¿qué dato de la anamnesis ordena mejor el examen? No tiene cefalea, ptosis ni dolor al mover los ojos, no ha sufrido traumatismos y no toma medicamentos.",
+   "alternativas": [
+    "Cuántas horas al día ve doble",
+    "Hacia dónde mira cuando ve doble",
+    "Si tiene antecedente de migraña",
+    "Si ya usaba lentes y desde cuándo",
+    "Cuánto tiempo pasa frente al computador"
+   ],
+   "respuesta": 1,
+   "pista": "La dirección de la mirada ordena el examen motor ocular.",
+   "argumento": "La diplopía por paresia oculomotora se manifiesta en la dirección del músculo afectado, de modo que precisar hacia dónde mira cuando ve doble orienta directamente qué nervio explorar (diapo 34). El número de horas y el antecedente de migraña no localizan, y el uso de lentes o las pantallas apuntan a causas refractivas o de fatiga visual, que no dependen de la alineación. Sin ese dato, la exploración de las cuatro miradas se hace a ciegas."
+  },
+  {
+   "id": "c3ca-34",
+   "enunciado": "Hombre de 65 años refiere que «no ve bien hacia la derecha» desde hace dos días; al leer pierde el final de las líneas y choca con objetos a su derecha, sin dolor ni debilidad. La agudeza visual central es normal en ambos ojos y las pupilas reaccionan simétricamente. ¿Qué paso del examen confirma y delimita el defecto? Es hipertenso y no refiere episodios previos. No ha tenido traumatismo ocular ni cirugía.",
+   "alternativas": [
+    "Interrogar por el último momento normal",
+    "Campimetría por confrontación",
+    "Explorar la agudeza con optotipo",
+    "Explorar los reflejos pupilares",
+    "Comparar la sensibilidad facial"
+   ],
+   "respuesta": 1,
+   "pista": "Cada ojo tiene su propio campo, y se examinan por separado.",
+   "argumento": "El síntoma sugiere un defecto de campo y la campimetría por confrontación, un ojo a la vez, es el paso que lo confirma y delimita; una hemianopsia homónima localiza en la vía retroquiasmática contralateral (diapo 33 de la clase 2). Interrogar el último momento normal es anamnesis, no exploración del campo. La agudeza con optotipo y los reflejos pupilares ya se describen como normales y no delimitan el defecto. La sensibilidad facial pertenece al trigémino."
+  },
+  {
+   "id": "c3ca-35",
+   "enunciado": "Mujer de 48 años consulta por hipoacusia progresiva del oído izquierdo de seis meses, con acúfenos, y desde hace tres semanas nota que el lado izquierdo de la cara «no le responde» al sonreír, además de un leve mareo al girar. Al examen hay paresia facial izquierda que compromete la frente, hipoacusia izquierda y nistagmo leve. La fuerza de las extremidades es normal. ¿Dónde localiza la lesión? No tiene cefalea ni otra focalidad.",
+   "alternativas": [
+    "Ángulo pontocerebeloso izquierdo",
+    "Mesencéfalo izquierdo",
+    "Bulbo raquídeo derecho",
+    "Nervio facial izquierdo en forma aislada",
+    "Corteza temporal izquierda"
+   ],
+   "respuesta": 0,
+   "pista": "VII y VIII juntos tienen una encrucijada anatómica.",
+   "argumento": "La afectación conjunta de VII y VIII del mismo lado, con hipoacusia progresiva y acúfenos, localiza en el ángulo pontocerebeloso o en el conducto auditivo interno, donde ambos nervios comparten trayecto (diapo 38). El mesencéfalo corresponde al grupo oculomotor y el bulbo al grupo IX a XII. Una lesión aislada del facial no explica la hipoacusia, y la corteza temporal no produce paresia facial periférica, que por definición compromete la frente."
+  },
+  {
+   "id": "c3ca-36",
+   "enunciado": "Hombre de 30 años consulta porque desde un accidente en bicicleta hace dos meses, con golpe frontal y pérdida breve de conciencia, no percibe ningún olor: no distingue café, jabón ni comida quemada. Refiere además que el sabor de las comidas «es solo salado o dulce». No tiene déficit motor ni sensitivo y su examen es normal. ¿Qué explica y dónde localiza el cuadro? No hay congestión nasal ni rinitis, y el resto del examen es normal.",
+   "alternativas": [
+    "Lesión del nervio trigémino",
+    "Lesión de los nervios olfatorios",
+    "Lesión cortical occipital",
+    "Lesión del nervio facial",
+    "Lesión del tronco encefálico"
+   ],
+   "respuesta": 1,
+   "pista": "El olfato también se pierde por trauma frontal.",
+   "argumento": "La anosmia bilateral posterior a un traumatismo craneoencefálico con golpe frontal se explica por lesión de los nervios olfatorios a su paso por la lámina cribiforme, y la pérdida de matices del sabor acompaña porque el olfato participa en la percepción de los alimentos (diapo 33). El trigémino da sensibilidad facial, el facial la mímica y los dos tercios anteriores del gusto, y la corteza occipital procesa la visión. El tronco no explica una anosmia aislada."
+  },
+  {
+   "id": "c3ca-37",
+   "enunciado": "Mujer de 46 años refiere crisis repetidas de vértigo desde hace un año: giran los objetos durante una o dos horas, con náuseas, zumbido derecho y sensación de oído tapado; entre las crisis está bien. Agrega que su audición del oído derecho «ya no es la misma» y ha empeorado con el tiempo. Al examen de hoy no hay nistagmo ni signos neurológicos. ¿Qué cuadro explica el conjunto? No tiene antecedente de migraña.",
+   "alternativas": [
+    "Enfermedad de Ménière",
+    "Neuritis vestibular derecha",
+    "VPPB del canal posterior",
+    "Ictus cerebeloso derecho",
+    "Schwannoma del VIII par"
+   ],
+   "respuesta": 0,
+   "pista": "Crisis de horas con una audición que fluctúa y luego cae.",
+   "argumento": "La tríada de vértigo episódico de horas, hipoacusia fluctuante y acúfenos con deterioro auditivo progresivo define la enfermedad de Ménière (diapo 31). La neuritis vestibular dura días, es continua y no afecta la audición; el VPPB dura segundos y es posicional. El ictus cerebeloso no da hipoacusia ni un cuadro recurrente de un año, y el schwannoma produce hipoacusia progresiva pero un vértigo continuo y progresivo, no crisis de horas con audición fluctuante."
+  },
+  {
+   "id": "c3ca-38",
+   "enunciado": "Hombre de 70 años llega por disartria leve de una hora, ya en mejoría. Es hipertenso, diabético y toma un anticoagulante oral desde hace años, aunque no recuerda el nombre del fármaco. Su esposa refiere que hace dos meses tuvo un episodio parecido que se resolvió en una hora. Refiere además que fuma desde los 20 años. ¿Qué dato de la anamnesis modifica más la evaluación inmediata? No tiene fiebre ni cefalea.",
+   "alternativas": [
+    "El número de años fumando",
+    "El antecedente de diabetes",
+    "La mejoría del déficit actual",
+    "El episodio previo similar",
+    "El uso de anticoagulante oral"
+   ],
+   "respuesta": 4,
+   "pista": "Un fármaco puede cambiar el riesgo de sangrado.",
+   "argumento": "El uso de anticoagulantes y antiagregantes modula el riesgo de hemorragia cerebral y es determinante en la decisión aguda del ictus, por lo que su precisión es el dato que más modifica la evaluación (diapo 36). El tabaquismo y la diabetes son factores de riesgo de fondo, que no cambian la conducta inmediata. La mejoría del déficit y el episodio previo orientan a un evento transitorio, pero no alteran el riesgo hemorrágico. Desconocer el fármaco obliga a precisarlo antes de concluir."
+  },
+  {
+   "id": "c3ca-39",
+   "enunciado": "Hombre de 68 años llega con habla fluida pero incoherente: responde con palabras que no vienen al caso y no sigue instrucciones. Su esposa dice que comenzó hace dos horas. La articulación es normal y repite bien una frase corta. Usted sospecha un trastorno del lenguaje. ¿Qué paso del examen confirma el componente alterado? No hay fiebre ni trauma, no toma medicamentos, es diestro y vive con su esposa.",
+   "alternativas": [
+    "Pedirle que lea en voz alta",
+    "Explorar la fuerza del brazo",
+    "Dar órdenes simples y observar",
+    "Evaluar los pares craneales",
+    "Preguntarle la fecha de hoy"
+   ],
+   "respuesta": 2,
+   "pista": "La comprensión se prueba con órdenes, no con preguntas.",
+   "argumento": "El lenguaje tiene cuatro componentes localizables, y la comprensión se evalúa con órdenes simples y complejas (diapo 28); si no las cumple con audición y atención suficientes, el déficit es de comprensión, coherente con el área de Wernicke. Repetir bien una frase corta y articular normalmente ya descartan la conducción y la disartria. Leer en voz alta, la fuerza del brazo o los pares craneales no responden esa pregunta, y la fecha informa orientación, no comprensión de órdenes."
+  },
+  {
+   "id": "c3ca-40",
+   "enunciado": "Hombre de 62 años, diabético de 15 años, refiere desde hace seis meses adormecimiento de ambos pies que sube hasta los tobillos, ardor nocturno y torpeza para abotonarse. Ha tropezado varias veces. Al examen hay hipoestesia simétrica en calcetín hasta el tercio medio de las piernas, arreflexia aquílea bilateral y debilidad leve para dorsiflexionar los pies. La fuerza proximal es normal. ¿Qué patrón corresponde? No tiene dolor lumbar, no fuma y no refiere claudicación de la marcha.",
+   "alternativas": [
+    "Miopatía proximal",
+    "Radiculopatía L5 bilateral con dolor",
+    "Lesión medular lumbar",
+    "Polineuropatía distal simétrica",
+    "Mononeuropatía del mediano"
+   ],
+   "respuesta": 3,
+   "pista": "Simétrico, distal y en calcetín.",
+   "argumento": "La afectación distal y simétrica de ambas piernas, con gradiente longitud-dependiente, hipoestesia en calcetín, arreflexia aquílea y debilidad distal, es el patrón de polineuropatía periférica, típico del diabético (diapo 17). La miopatía sería proximal, con reflejos conservados y sin déficit sensitivo. Una radiculopatía respeta un dermatoma y suele ser asimétrica, y la lesión medular daría un nivel sensitivo y signos de motoneurona superior. La mononeuropatía del mediano se limita a la mano."
+  }
+ ]
+}

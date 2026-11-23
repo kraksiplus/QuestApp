@@ -1,0 +1,566 @@
+{
+ "version": 1,
+ "titulo": "Semiología C3 — Casos clínicos B: clases 3 y 4",
+ "preguntas": [
+  {
+   "id": "c3cb-01",
+   "enunciado": "Un hombre de 58 años consulta por tres semanas de tropiezos con el pie derecho y caída del pie al caminar; debe levantar mucho la rodilla para no arrastrarlo. Exploración: dorsiflexión del pie 3/5, hipoestesia en el dorso del pie y el primer espacio interdigital, reflejo aquíleo 2+ bilateral, sin Babinski y sin dolor lumbar. ¿Qué dato de la anamnesis separa mejor una neuropatía peronea de una radiculopatía L4-L5?",
+   "alternativas": [
+    "Dolor lumbar irradiado a la pierna",
+    "Antecedente personal de diabetes mellitus",
+    "Tiempo de evolución del déficit",
+    "Trabajo prolongado de pie",
+    "Calzado ajustado habitual"
+   ],
+   "respuesta": 0,
+   "pista": "Distinga un síntoma de territorio dermatómico de uno de nervio periférico.",
+   "argumento": "El pie caído admite dos niveles: nervio peroneo o raíz L4-L5. El dato que los separa es el dolor lumbar irradiado en banda, propio de la compresión radicular, que la neuropatía peronea no produce. La diabetes, el tiempo de evolución, el trabajo de pie y el calzado son factores de riesgo o modificadores, pero no cambian el nivel de la lesión. Si apareciera dolor lumbar con hipoestesia en banda y aquíleo abolido, la balanza se inclinaría a la raíz. (diapo 25)"
+  },
+  {
+   "id": "c3cb-02",
+   "enunciado": "Una mujer de 70 años refiere inestabilidad al caminar de dos años de evolución, dos caídas en el último mes y sensación de inseguridad en la oscuridad. Con los ojos abiertos se mantiene de pie sin apoyo y camina con base amplia; en tándem se tambalea, la fuerza es 5/5, los reflejos son simétricos y no hay dismetría en talón-rodilla. Se decide explorar el equilibrio estático con la prueba de Romberg. ¿Cómo se realiza correctamente?",
+   "alternativas": [
+    "Caminar diez pasos en línea recta",
+    "Pies juntos y cerrar los ojos",
+    "Apoyo monopodal con ojos abiertos",
+    "Talón de un pie sobre la rodilla",
+    "Flexión de cadera con rodilla extendida"
+   ],
+   "respuesta": 1,
+   "pista": "Piense en qué información sensorial suprime la maniobra y quién debe vigilar.",
+   "argumento": "El Romberg pide pies juntos, brazos a lo largo del cuerpo y, tras estabilizarse, cerrar los ojos con el examinador cerca para evitar la caída; así se elimina la visión y se ponen a prueba la propiocepción y el vestíbulo. Caminar en línea recta explora la marcha, no el equilibrio estático; el apoyo monopodal y el talón-rodilla son otras pruebas; la flexión de cadera con extensión de rodilla corresponde al Kernig. Balancearse o caer al cerrar los ojos, habiéndose mantenido firme con ellos abiertos, define el Romberg positivo. (diapo 59)"
+  },
+  {
+   "id": "c3cb-03",
+   "enunciado": "Un hombre de 30 años recibe una herida por arma blanca en el dorso, a nivel torácico medio, sin pérdida de conciencia. Días después, en decúbito, se documenta: debilidad de la pierna derecha con Babinski derecho, pérdida de la vibración y de la posición del pie derecho, y abolición del dolor y la temperatura en la pierna izquierda por debajo del nivel de la herida; los reflejos de los brazos son normales. ¿Qué explica el conjunto?",
+   "alternativas": [
+    "Compresión medular bilateral completa",
+    "Lesión bilateral del cordón posterior",
+    "Hemisección medular derecha",
+    "Polineuropatía sensitiva distal simétrica",
+    "Lesión bilateral del asta anterior"
+   ],
+   "respuesta": 2,
+   "pista": "Compare el lado del déficit motor con el lado del déficit termoalgésico.",
+   "argumento": "La disociación es la clave: déficit motor y propioceptivo ipsilateral a la lesión, termoalgésico contralateral. Esa combinación corresponde a hemisección medular (Brown-Séquard), porque la vía piramidal y la del cordón posterior cruzan en el bulbo y la espinotalámica cruza en el segmento de entrada. Una compresión completa daría anestesia de todas las modalidades bajo el nivel; la lesión bilateral del cordón posterior perdería vibración y posición sin déficit termoalgésico; la polineuropatía es distal y simétrica; el asta anterior bilateral da debilidad con arreflexia, sin nivel sensitivo. (diapo 38-39)"
+  },
+  {
+   "id": "c3cb-04",
+   "enunciado": "Un hombre de 68 años con diabetes y una úlcera plantar derecha infectada en el talón requiere evaluar la vía piramidal. Al estimular la planta, el pie se retira bruscamente con flexión de la rodilla y quejido de dolor, sin extensión del hallux; los demás dedos no se abren y el paciente no tolera el apoyo. La hiperreflexia aquílea derecha es 3+ y el resto del examen es simétrico. ¿Cómo se interpreta la respuesta plantar?",
+   "alternativas": [
+    "Babinski positivo por lesión piramidal",
+    "Signo del abanico incompleto",
+    "Clonus plantar inducido",
+    "Respuesta de retirada por dolor",
+    "Reflejo plantar normal abolido"
+   ],
+   "respuesta": 3,
+   "pista": "Distinga la respuesta nociceptiva global de la dorsiflexión lenta del hallux.",
+   "argumento": "La retirada brusca con flexión de rodilla y quejido es una respuesta nociceptiva refleja, no la dorsiflexión lenta del hallux con apertura de los dedos que define el Babinski; el dolor y la úlcera invalidan la maniobra. El signo del abanico forma parte del Babinski verdadero, el clonus es una contracción rítmica sostenida y el plantar normal es flexión plantar de los dedos. Corresponde corregir la técnica con un equivalente en el maléolo externo (Chaddock) o la tibia (Oppenheim) y comparar con el lado sano. La hiperreflexia aislada no reemplaza al signo. (diapo 50)"
+  },
+  {
+   "id": "c3cb-05",
+   "enunciado": "Una mujer de 52 años consulta por fatiga y calambres en ambas piernas. Al explorar los reflejos, el patelar se obtiene apenas como una contracción débil (1+), igual en ambos lados; la fuerza es 5/5, la sensibilidad es normal, la marcha no muestra déficit y no hay Babinski. La paciente está tensa y colabora poco con la relajación de las piernas. ¿Qué paso corresponde para completar correctamente la exploración de ese reflejo?",
+   "alternativas": [
+    "Explorar el clonus aquíleo",
+    "Buscar el signo de Babinski",
+    "Sustituirlo por el aquíleo",
+    "Comparar con el reflejo braquiorradial",
+    "Aplicar la maniobra de Jendrassik"
+   ],
+   "respuesta": 4,
+   "pista": "Un reflejo débil puede deberse al arco o a la falta de relajación.",
+   "argumento": "Un reflejo 1+ puede ser hiporreflexia real o un arco mal facilitado por falta de relajación; la maniobra de Jendrassik, con los dientes apretados y las manos entrelazadas en tracción, facilita la respuesta y permite decidir. Explorar clonus o Babinski busca otros signos piramidales y no rescata un reflejo dudoso; cambiar de reflejo no responde la pregunta; comparar con el braquiorradial aporta poco a un hallazgo bilateral de las piernas. Si con Jendrassik persiste en 1+, se considera hiporreflexia y se busca causa periférica. (diapo 45)"
+  },
+  {
+   "id": "c3cb-06",
+   "enunciado": "Un hombre de 22 años llega a urgencias con fiebre de 39 °C de 12 horas de evolución, cefalea holocraneana intensa, vómitos y rigidez de nuca; está somnoliento y presenta petequias en el tronco y las extremidades inferiores. La flexión pasiva del cuello despierta resistencia, aparece flexión refleja de las rodillas y refiere fotofobia. No hay focalidad motora ni sensitiva. ¿Cuál es la conducta inmediata?",
+   "alternativas": [
+    "Completar el examen motor antes de decidir",
+    "Citar en policlínico en 48 horas",
+    "Derivación inmediata a hospital",
+    "Reexaminar tras un analgésico habitual",
+    "Observar la evolución de la fiebre"
+   ],
+   "respuesta": 2,
+   "pista": "Busque la combinación que la guía califica como emergencia vital.",
+   "argumento": "Fiebre, cefalea, rigidez de nuca y petequias configuran sospecha de meningococcemia con irritación meníngea; las petequias en contexto febril con meningismo son emergencia vital y la derivación no admite espera. Completar el examen motor o reexaminar después de un analgésico retrasa la decisión frente a una bandera roja; el policlínico y la observación son inadecuados. La somnolencia agrega compromiso del nivel de conciencia, lo que empeora el pronóstico. El Brudzinski positivo refuerza la irritación meníngea. (diapo 71)"
+  },
+  {
+   "id": "c3cb-07",
+   "enunciado": "Una mujer de 71 años es traída por su hija porque «le tiembla la mano derecha» desde hace ocho meses. En la consulta la mano está quieta sobre la falda y no se observa temblor; no hay rigidez, bradicinesia ni alteración de la marcha, los reflejos son simétricos, la fuerza es normal y la coordinación dedo-nariz no muestra dismetría. ¿Qué pregunta de la anamnesis es más rentable para orientar el tipo de temblor?",
+   "alternativas": [
+    "Si aparece en reposo o al usarla",
+    "Desde cuándo nota el temblor",
+    "Antecedente familiar de temblor",
+    "Consumo de café y de alcohol",
+    "Si mejora con el descanso"
+   ],
+   "respuesta": 0,
+   "pista": "El tipo de temblor se define por la circunstancia en que aparece.",
+   "argumento": "El dato que separa el temblor de reposo (extrapiramidal) del de intención (cerebeloso) es la circunstancia en que aparece: el de reposo se da con la mano quieta, cede con el movimiento voluntario y desaparece al dormir; el de intención se acentúa al acercarse al blanco. La fecha de inicio, el antecedente familiar, los estimulantes y el descanso son contexto, pero no cambian el tipo. Como el temblor no se reprodujo en la consulta, la anamnesis debe suplir la observación. Con la respuesta se decide si corresponde buscar rigidez, bradicinesia y reducción del braceo. (diapo 7)"
+  },
+  {
+   "id": "c3cb-08",
+   "enunciado": "Un hombre de 60 años, hipertenso, refiere que desde hace dos días «la mano izquierda no le obedece»: al llevar el dedo a la nariz lo sobrepasa, al girar la llave le tiembla y al abotonarse falla el cálculo del movimiento. Fuerza 5/5, sensibilidad conservada, reflejos simétricos 2+, Babinski negativo; la marcha se desvía a la izquierda; no hay disartria, cefalea ni traumatismo previo. ¿Dónde localiza la lesión?",
+   "alternativas": [
+    "Vía piramidal derecha",
+    "Cordón posterior izquierdo",
+    "Nervio periférico del brazo",
+    "Ganglios basales izquierdos",
+    "Hemisferio cerebeloso izquierdo"
+   ],
+   "respuesta": 4,
+   "pista": "Compare el lado de la dismetría con el lado hacia el que se desvía la marcha.",
+   "argumento": "Dismetría con temblor de intención en la mano izquierda, fuerza y sensibilidad conservadas y desviación de la marcha al mismo lado localizan en el hemisferio cerebeloso izquierdo, cuyo síndrome es ipsilateral. La vía piramidal daría paresia con hiperreflexia y Babinski; el cordón posterior, pérdida de propiocepción con Romberg positivo; el nervio periférico, debilidad en su territorio con arreflexia; los ganglios basales, rigidez y bradicinesia sin dismetría. Los movimientos alternantes rápidos mostrarían disdiadococinesia del mismo lado. (diapo 56-58)"
+  },
+  {
+   "id": "c3cb-09",
+   "enunciado": "Una mujer de 55 años con diabetes de 15 años refiere adormecimiento y sensación de «caminar sobre algodón» en ambos pies, con dificultad para distinguir el frío del calor. Se quiere documentar el compromiso de la vía del cordón posterior antes de explorar el resto de las modalidades. El examen muestra reflejos aquíleos disminuidos y sensibilidad al tacto conservada. ¿Cuál es la técnica correcta para explorar la sensibilidad vibratoria?",
+   "alternativas": [
+    "Algodón sobre la planta del pie",
+    "Diapasón de 128 Hz en el dedo",
+    "Tubos con agua fría y caliente",
+    "Alfiler sobre los dermatomas",
+    "Dos puntos simultáneos muy próximos"
+   ],
+   "respuesta": 1,
+   "pista": "Cada modalidad tiene su instrumento y su vía; no las confunda.",
+   "argumento": "La vibración se explora con diapasón de 128 Hz apoyado sobre prominencias óseas, en las interfalángicas distales de manos y pies; el paciente avisa cuándo comienza y cesa la sensación. El algodón explora tacto superficial, los tubos la temperatura, el alfiler el dolor y los dos puntos la discriminación cortical. Estas últimas no dependen del cordón posterior. Comparar con el lado sano y ascender de distal a proximal define el límite del déficit. (diapo 34)"
+  },
+  {
+   "id": "c3cb-10",
+   "enunciado": "Un hombre de 40 años, sin antecedentes, consulta por cefalea tensional. En el examen neurológico el único hallazgo es una extensión lenta del hallux izquierdo al estimular la planta; la fuerza es 5/5, el tono normal, los reflejos 2+ y simétricos, la marcha y la coordinación son normales y no hay hipoestesia, atrofia ni fasciculaciones. ¿Cuál es la interpretación más correcta de ese hallazgo aislado?",
+   "alternativas": [
+    "Confirma lesión piramidal establecida",
+    "Indica lesión del nervio periférico",
+    "Descarta patología del sistema nervioso",
+    "Repetir y revisar la técnica",
+    "Corresponde a un reflejo de retirada"
+   ],
+   "respuesta": 3,
+   "pista": "Un signo sin compañía vale menos que el conjunto; la guía pide algo antes de concluir.",
+   "argumento": "Un Babinski aislado, sin hiperreflexia, espasticidad ni debilidad, puede deberse a una técnica incorrecta o a un estímulo doloroso; el material indica explorarlo con cuidado y repetirlo antes de atribuirlo a lesión piramidal. La lesión piramidal establecida se acompaña de otros signos, y su ausencia hace insegura la conclusión; tampoco es un signo periférico ni permite declarar normal el sistema nervioso. Un reflejo de retirada se reconoce por la respuesta nociceptiva global, no por la dorsiflexión lenta del hallux. Si al repetir con estímulo romo aparece el abanico, cambia la interpretación. (diapo 50)"
+  },
+  {
+   "id": "c3cb-11",
+   "enunciado": "Una mujer de 74 años con fibrilación auricular conocida es traída porque hace 40 minutos dejó de hablar y no movía el brazo derecho; su hija la vio normal a las 08:00. Está alerta, con paresia facial central derecha, hemiparesia derecha 1/5, afasia global y desviación de la mirada hacia la izquierda; no refiere cefalea ni vómitos. El déficit persiste al momento de la evaluación. ¿Cuál es la conducta inmediata?",
+   "alternativas": [
+    "Esperar seis horas para ver evolución",
+    "Citar a control en una semana",
+    "Reevaluar al día siguiente",
+    "Indicar reposo y analgesia",
+    "Traslado inmediato a hospital"
+   ],
+   "respuesta": 4,
+   "pista": "El tiempo transcurrido y la focalidad definen la urgencia.",
+   "argumento": "Un déficit focal de instauración aguda en una paciente con fibrilación auricular es un ACV en evolución hasta demostrar lo contrario; el tiempo transcurrido y el último momento normal son determinantes, y el traslado inmediato es la conducta aceptable. La clínica ya localiza: afasia, hemiparesia y desviación de la mirada hacia la lesión apuntan al hemisferio izquierdo, territorio de la cerebral media proximal. Esperar, controlar ambulatoriamente o dar analgesia desaprovecha la ventana y no modifica el pronóstico. (diapo 25, 31)"
+  },
+  {
+   "id": "c3cb-12",
+   "enunciado": "Un hombre de 71 años, hipertenso, amaneció con debilidad de la pierna izquierda; la hija lo nota además apático, con respuestas escasas y sin iniciativa para vestirse. Exploración: fuerza 3/5 en la pierna izquierda, 5/5 en el brazo izquierdo y en ambos derechos, hiperreflexia patelar izquierda, Babinski izquierdo, sensibilidad conservada, sin afasia y sin desviación de la mirada. ¿Qué territorio vascular explica el cuadro?",
+   "alternativas": [
+    "Arteria cerebral media derecha",
+    "Arteria cerebral posterior derecha",
+    "Territorio vertebrobasilar",
+    "Arteria cerebral anterior derecha",
+    "Arteria cerebral media izquierda"
+   ],
+   "respuesta": 3,
+   "pista": "Pregunte qué territorio irriga la cara medial del hemisferio y la pierna.",
+   "argumento": "El déficit motor predominante en el miembro inferior contralateral, con apatía y cambios de conducta por compromiso frontal, define el territorio de la arteria cerebral anterior derecha. La cerebral media afectaría brazo y cara más que la pierna, con afasia si es izquierda o heminegligencia si es derecha; la posterior daría hemianopsia sin déficit motor; el territorio vertebrobasilar produce síndromes alternos, ataxia y vértigo. La ausencia de afasia y de compromiso facial refuerza la localización anterior. (diapo 29)"
+  },
+  {
+   "id": "c3cb-13",
+   "enunciado": "Una mujer de 60 años consulta por adormecimiento simétrico de ambos pies y sensación de ardor nocturno, de seis meses de evolución; tiene hipoestesia en calcetín hasta los tobillos, arreflexia aquílea bilateral y piel seca, sin úlceras. No es diabética ni bebedora según lo referido hasta ahora, y no hay dolor lumbar ni déficit motor. ¿Qué antecedente de la anamnesis es prioritario precisar antes de concluir?",
+   "alternativas": [
+    "Fármacos como metronidazol o amiodarona",
+    "Antecedente de traumatismo lumbar antiguo",
+    "Uso de calzado deportivo",
+    "Horas de caminata diaria",
+    "Antecedente familiar de escoliosis"
+   ],
+   "respuesta": 0,
+   "pista": "La guía insiste en el antecedente farmacológico de las polineuropatías.",
+   "argumento": "La polineuropatía distal simétrica en guante y calcetín obliga a revisar tóxicos y fármacos: quimioterapia, isoniazida, metronidazol y amiodarona están descritos, y el cuadro puede ser reversible al retirar el agente. Un traumatismo lumbar daría un patrón radicular, no simétrico y distal; el calzado y las horas de caminata no producen hipoestesia en calcetín con arreflexia; la escoliosis no explica el patrón. Ante la ausencia de diabetes y alcohol, esa pregunta es la que puede cambiar la interpretación y la conducta. (diapo 43)"
+  },
+  {
+   "id": "c3cb-14",
+   "enunciado": "Un hombre de 35 años consulta por cefalea intensa de 24 horas, fiebre de 38,5 °C y dolor al mover el cuello; refiere fotofobia, fonofobia y dos vómitos. Está alerta, sin déficit motor ni sensitivo, sin petequias ni alteración de pares craneales, y la flexión pasiva del cuello despierta resistencia. Se decide explorar los signos meníngeos y se comienza por el signo de Kernig. ¿Cómo se realiza y cómo se interpreta su positividad?",
+   "alternativas": [
+    "Flexión del cuello con flexión de rodillas",
+    "Presión sobre la tibia con pie neutro",
+    "Cadera a 90° y extensión de rodilla dolorosa",
+    "Rotación lateral del cuello contra resistencia",
+    "Compresión del gastrocnemio con el pie neutro"
+   ],
+   "respuesta": 2,
+   "pista": "La maniobra tensa las raíces lumbares; piense qué articulación se extiende.",
+   "argumento": "Kernig se explora en decúbito supino, con la cadera flexionada a 90° y la rodilla extendida pasivamente; es positivo si la extensión provoca resistencia o dolor que cede al flexionar la rodilla, por irritación de las raíces lumbares. La flexión del cuello con flexión refleja de rodillas es Brudzinski; la presión tibial y la compresión del gastrocnemio son equivalentes del Babinski (Oppenheim y Gordon); la rotación cervical contra resistencia explora otra cosa. Debe explorarse bilateralmente, y su negatividad no descarta meningitis. (diapo 68)"
+  },
+  {
+   "id": "c3cb-15",
+   "enunciado": "Una mujer de 45 años consulta en urgencias porque hace 90 minutos sufrió una cefalea que alcanzó su máxima intensidad en segundos, «la peor de mi vida», con vómito y fotofobia; no tiene fiebre. Está alerta, con rigidez de nuca leve, sin déficit motor, sin afasia, sin alteración de pares craneales y sin petequias. La acompañante refiere que el dolor la despertó y que no hubo traumatismo; no hay déficit sensitivo. ¿Cuál es la conducta inmediata?",
+   "alternativas": [
+    "Alta con analgésicos habituales",
+    "Derivación urgente a hospital",
+    "Control ambulatorio en 72 horas",
+    "Repetir la evaluación en 24 horas",
+    "Tranquilizar por ausencia de fiebre"
+   ],
+   "respuesta": 1,
+   "pista": "El modo de inicio pesa más que la intensidad referida.",
+   "argumento": "La cefalea de inicio en trueno, máxima en segundos, obliga a descartar hemorragia subaracnoidea aunque no haya fiebre ni déficit focal; es una urgencia y la derivación inmediata es la conducta correcta. La ausencia de fiebre no tranquiliza, porque la fiebre orienta a infección y no a sangrado; el control ambulatorio, el alta y la reevaluación a 24 horas difieren una situación potencialmente fatal. La rigidez de nuca leve refuerza la irritación meníngea. El dato que cambia el peso es el inicio hiperagudo. (diapo 71)"
+  },
+  {
+   "id": "c3cb-16",
+   "enunciado": "Una mujer de 68 años refiere que desde ayer «no ve hacia la derecha»; al leer pierde el final de las líneas y choca con objetos de ese lado. Agudeza visual central conservada, hemianopsia homónima derecha en la campimetría por confrontación, fuerza 5/5 simétrica, sensibilidad normal, reflejos simétricos, sin afasia, sin Babinski y sin negligencia del hemicuerpo. ¿Qué localización explica el cuadro?",
+   "alternativas": [
+    "Nervio óptico izquierdo",
+    "Arteria cerebral posterior izquierda",
+    "Quiasma óptico",
+    "Arteria cerebral media derecha",
+    "Corteza frontal derecha"
+   ],
+   "respuesta": 1,
+   "pista": "Una hemianopsia homónima sin déficit motor apunta atrás.",
+   "argumento": "La hemianopsia homónima derecha sin déficit motor ni sensitivo corresponde a lesión retroquiasmática izquierda, típicamente territorio de la arteria cerebral posterior. Una lesión del nervio óptico daría pérdida monocular; el quiasma, hemianopsia bitemporal; la cerebral media derecha, heminegligencia o déficit motor; la corteza frontal no produce hemianopsia aislada. Si se agregara hemianestesia contralateral intensa, se pensaría en extensión al tálamo. El dato que manda es la disociación entre campo visual y función motora. (diapo 28)"
+  },
+  {
+   "id": "c3cb-17",
+   "enunciado": "Un hombre de 40 años refiere debilidad progresiva de ambos pies que en cinco días ascendió a las piernas y las manos; hoy no puede subir escalones y nota hormigueo en los dedos. Exploración: fuerza 3/5 distal en las cuatro extremidades, arreflexia generalizada, Babinski negativo, sensibilidad disminuida en guante y calcetín y marcha imposible sin apoyo. No hay fiebre ni signos meníngeos. ¿Qué implica el conjunto?",
+   "alternativas": [
+    "Lesión medular cervical aguda",
+    "Síndrome piramidal establecido",
+    "Miopatía proximal simétrica",
+    "Lesión bilateral del asta anterior",
+    "Polineuropatía aguda ascendente"
+   ],
+   "respuesta": 4,
+   "pista": "Fíjese en la dirección de la progresión y en el Babinski.",
+   "argumento": "Debilidad distal simétrica ascendente, arreflexia generalizada y Babinski negativo configuran un síndrome de neurona motora inferior, compatible con polineuropatía aguda ascendente (Guillain-Barré). La lesión medular cervical daría nivel sensitivo, hiperreflexia y Babinski; el síndrome piramidal cursa con hiperreflexia y Babinski positivo; la miopatía es proximal y con reflejos conservados; el asta anterior bilateral da debilidad con fasciculaciones sin déficit sensitivo en guante. La arreflexia con Babinski negativo es el dato que aleja el sistema central. (diapo 46)"
+  },
+  {
+   "id": "c3cb-18",
+   "enunciado": "Un hombre de 28 años es traído por una crisis tónico-clónica generalizada que comenzó hace 6 minutos y continúa con sacudidas rítmicas; no recupera la conciencia entre ellas. La acompañante refiere que es su primera crisis, que no hubo traumatismo y que no toma fármacos. No hay fiebre, rigidez de nuca ni déficit focal evidenciable entre las sacudidas; presenta mordedura lateral de lengua y cianosis perioral. ¿Cuál es la conducta inmediata?",
+   "alternativas": [
+    "Esperar a que ceda sola",
+    "Citar a neurología ambulatoria",
+    "Observar una hora y reevaluar",
+    "Traslado urgente a hospital",
+    "Indicar reposo en domicilio"
+   ],
+   "respuesta": 3,
+   "pista": "Hay un umbral de tiempo que convierte la crisis en urgencia.",
+   "argumento": "Una crisis que no cede en 5 minutos se considera estado epiléptico y constituye una urgencia; a los 6 minutos de actividad continua la conducta es el traslado inmediato. Esperar, observar o derivar a policlínico expone a complicaciones y prolonga la crisis; el reposo domiciliario no corresponde. La primera crisis en un adulto obliga además a buscar focalidad y signos meníngeos, ausentes aquí, pero eso no cambia la urgencia. La duración es el dato que define la conducta, no la intensidad de las sacudidas. (diapo 34)"
+  },
+  {
+   "id": "c3cb-19",
+   "enunciado": "Un hombre de 62 años consulta por seis meses de calambres y adelgazamiento de ambas manos; refiere torpeza para abotonarse y nota contracciones musculares visibles en los muslos. Exploración: atrofia de la eminencia tenar bilateral, fasciculaciones en brazos y muslos, arreflexia aquílea y patelar, sin Babinski y con sensibilidad conservada. ¿Qué dato de la anamnesis orienta mejor a lesión de asta anterior y no a neuropatía periférica?",
+   "alternativas": [
+    "Ausencia de adormecimiento distal",
+    "Antecedente de diabetes en la familia",
+    "Uso de herramientas manuales",
+    "Dolor nocturno en las manos",
+    "Tiempo desde el primer calambre"
+   ],
+   "respuesta": 0,
+   "pista": "Compare las dos entidades por la fibra sensitiva, no por el dolor.",
+   "argumento": "La atrofia con fasciculaciones y arreflexia sin pérdida sensitiva orienta a lesión de motoneurona inferior en el asta anterior, donde la ELA es la sospecha en el adulto; la neuropatía periférica agrega pérdida sensitiva en el territorio. Por eso la ausencia de adormecimiento es el dato discriminante, y su presencia desplazaría la balanza al nervio. La diabetes familiar, las herramientas, el dolor nocturno y el tiempo de evolución son contexto y no separan el nivel. La ausencia de Babinski no descarta compromiso central asociado, que debe buscarse aparte. (diapo 21)"
+  },
+  {
+   "id": "c3cb-20",
+   "enunciado": "Una mujer de 64 años refiere inestabilidad de la marcha de un año, sin caídas. La marcha espontánea es de base amplia y algo irregular; con los ojos abiertos se mantiene de pie sin apoyo. La fuerza es 5/5, los reflejos son simétricos, la palestesia está conservada en los pies y no hay déficit sensitivo ni dismetría en talón-rodilla. ¿Qué maniobra es la más sensible para objetivar una incoordinación leve?",
+   "alternativas": [
+    "Prueba de Romberg con ojos cerrados",
+    "Marcha de puntas durante diez metros",
+    "Marcha en tándem por una línea",
+    "Prueba de Barré en miembros superiores",
+    "Reflejo aquíleo con Jendrassik"
+   ],
+   "respuesta": 2,
+   "pista": "Hay una maniobra que estrecha la base al mínimo.",
+   "argumento": "La marcha en tándem estrecha al mínimo la base de sustentación y hace evidente una ataxia discreta que la marcha libre oculta; por eso es la maniobra más sensible. El Romberg explora equilibrio estático y aquí la paciente ya se mantiene firme con los ojos abiertos; la marcha de puntas explora el tríceps sural y la raíz S1; la prueba de Barré detecta debilidad sutil del miembro superior; el aquíleo con Jendrassik explora el arco reflejo. Si el tándem es imposible sin mejorar al abrir los ojos, el patrón es cerebeloso. (diapo 63)"
+  },
+  {
+   "id": "c3cb-21",
+   "enunciado": "Un hombre de 55 años, en quimioterapia por un linfoma, consulta por cefalea de dos días, fiebre y vómitos; está desorientado, responde con lentitud y no puede llevar el mentón al esternón. No tiene petequias, déficit focal ni papiledema evidente; refiere fotofobia y rechazo al ruido. La flexión pasiva del cuello produce flexión de ambas rodillas y el Brudzinski es positivo. ¿Cuál es la conducta inmediata?",
+   "alternativas": [
+    "Control ambulatorio con analgesia",
+    "Alta con explicación a la familia",
+    "Reevaluar en 24 horas en el consultorio",
+    "Traslado urgente a hospital",
+    "Esperar la evolución de la fiebre"
+   ],
+   "respuesta": 3,
+   "pista": "La alteración de conciencia agrega un matiz de gravedad al síndrome.",
+   "argumento": "Cefalea, fiebre, rigidez de nuca y desorientación configuran un síndrome meníngeo con compromiso del nivel de conciencia, lo que sugiere afectación del parénquima y empeora el pronóstico; la conducta es la derivación urgente. El control ambulatorio, el alta y la reevaluación difieren una urgencia, y la observación sin traslado no es aceptable. La ausencia de petequias no descarta meningitis, y en un inmunosuprimido los signos meníngeos pueden ser menos expresivos. El Brudzinski positivo confirma la irritación meníngea. (diapo 22)"
+  },
+  {
+   "id": "c3cb-22",
+   "enunciado": "Un hombre de 65 años consulta por un año de debilidad progresiva: no puede levantar los pies y ha perdido masa en las manos, con contracciones visibles en brazos y muslos. Exploración: atrofia y fasciculaciones distales, fuerza 3/5 en dorsiflexores, ROT aquíleo abolido, pero hiperreflexia patelar bilateral y Babinski bilateral; sensibilidad y coordinación conservadas. ¿Qué explica esta combinación?",
+   "alternativas": [
+    "Polineuropatía sensitivo-motora",
+    "Síndrome piramidal puro",
+    "Compromiso mixto central y periférico",
+    "Miopatía con reflejos conservados",
+    "Lesión medular con nivel sensitivo"
+   ],
+   "respuesta": 2,
+   "pista": "Note que conviven datos que la regla dice que no coexisten.",
+   "argumento": "La coexistencia de atrofia con fasciculaciones y arreflexia (motoneurona inferior) junto con hiperreflexia y Babinski (motoneurona superior) obliga a pensar en un compromiso mixto, como la ELA; la regla de que piramidal e hiporreflexia no coexisten sirve para detectar justamente estos cuadros. La polineuropatía no da Babinski ni hiperreflexia; el piramidal puro no da atrofia con fasciculaciones ni arreflexia; la miopatía cursa con reflejos normales y sin Babinski; la lesión medular daría nivel sensitivo, aquí ausente. La sensibilidad conservada es un dato fuerte a favor. (diapo 49)"
+  },
+  {
+   "id": "c3cb-23",
+   "enunciado": "Una mujer de 58 años, diabética de larga data, acude por control y refiere que «no siente bien los pies» desde hace un año. Al examinarla, el reflejo aquíleo es 0 bilateral, el patelar 2+, la sensibilidad vibratoria está disminuida en los dedos de los pies y la fuerza es normal. No hay dolor, úlceras ni déficit motor; la marcha es conservada y niega calambres. ¿Cómo se interpreta la arreflexia aquílea bilateral?",
+   "alternativas": [
+    "Es un hallazgo normal a esta edad",
+    "Sugiere compromiso periférico distal",
+    "Indica lesión de la vía piramidal",
+    "Confirma lesión del asta anterior lumbar",
+    "Corresponde a un error de técnica"
+   ],
+   "respuesta": 1,
+   "pista": "Un reflejo perdido debe leerse junto con la modalidad sensitiva del mismo territorio.",
+   "argumento": "La abolición del aquíleo con vibratoria distal disminuida y fuerza normal es el patrón precoz de una polineuropatía distal, en este caso diabética; las fibras más largas se afectan primero y el aquíleo es el reflejo que se pierde más temprano. No es normal para la edad ni un error de técnica si es bilateral y coherente con la pérdida sensitiva; el piramidal daría hiperreflexia y Babinski, y el asta anterior, debilidad con fasciculaciones. Un reflejo aislado sin correlato sensitivo obligaría a repetirlo. Falta explorar el resto de las modalidades. (diapo 46)"
+  },
+  {
+   "id": "c3cb-24",
+   "enunciado": "Un hombre de 34 años consulta por debilidad de ambas piernas que en tres días lo dejó sin poder caminar, con hormigueo ascendente en las manos y dificultad para tragar saliva; hace dos semanas tuvo una infección respiratoria. Está con arreflexia generalizada, fuerza 2/5 distal en las cuatro extremidades y voz nasal. No hay fiebre, signos meníngeos ni traumatismo previo. ¿Cuál es la conducta inmediata?",
+   "alternativas": [
+    "Control en consultorio en una semana",
+    "Rehabilitación ambulatoria precoz",
+    "Reposo domiciliario con control telefónico",
+    "Esperar la recuperación espontánea",
+    "Derivación urgente a hospital"
+   ],
+   "respuesta": 4,
+   "pista": "La voz nasal y la disfagia anticipan un riesgo que no espera.",
+   "argumento": "Debilidad ascendente simétrica con arreflexia y compromiso bulbar en días configura una polineuropatía aguda potencialmente mortal; la disfagia y la voz nasal anuncian riesgo de falla respiratoria, y la conducta es la derivación urgente. La rehabilitación, el control ambulatorio, el reposo y la espera no corresponden a un cuadro que puede progresar en horas. La ausencia de fiebre y de signos meníngeos aleja la infección meníngea, no la gravedad. El patrón periférico, sin Babinski, es el que orienta. (diapo 46)"
+  },
+  {
+   "id": "c3cb-25",
+   "enunciado": "Un hombre de 26 años consulta por dos años de torpeza progresiva al caminar, con tropiezos y dificultad para bajar escaleras; no bebe alcohol ni usa fármacos. Exploración: marcha de base amplia con lateropulsión, dismetría bilateral en talón-rodilla, disdiadococinesia y reflejos vivos simétricos, sin déficit sensitivo y con Romberg no concluyente. ¿Qué dato de la anamnesis es más útil para orientar la causa de esta ataxia?",
+   "alternativas": [
+    "Antecedentes familiares de ataxia",
+    "Horas de sueño habituales",
+    "Consumo de café diario",
+    "Antecedente de amigdalitis",
+    "Número de caídas sufridas"
+   ],
+   "respuesta": 0,
+   "pista": "En un paciente joven sin tóxicos, piense en lo que se hereda.",
+   "argumento": "En un adulto joven con ataxia progresiva y sin tóxicos, la presencia de casos familiares orienta a una ataxia hereditaria, que el material menciona entre las causas cuando no hay exposición al alcohol. Las horas de sueño, el café, la amigdalitis y el número de caídas no modifican la etiología, aunque las caídas condicionan el riesgo. Este paciente muestra signos hemisféricos bilaterales sin Romberg franco, lo que sostiene el origen cerebeloso frente al sensitivo. La edad y la ausencia de tóxicos son el contexto que hace rentable la pregunta. (diapo 19)"
+  },
+  {
+   "id": "c3cb-26",
+   "enunciado": "Un hombre de 57 años refiere que no reconoce los objetos en la mano izquierda, aunque los ve y los nombra correctamente cuando mira; no puede identificar una llave ni una moneda sin mirarlas. La sensibilidad elemental al tacto y al dolor es normal en esa mano, la fuerza es 5/5 y no hay hemianopsia ni afasia. Se sospecha un déficit de integración cortical. ¿Qué prueba corresponde y cómo se realiza?",
+   "alternativas": [
+    "Estereognosia con objeto en la palma",
+    "Palestesia con diapasón en el dedo",
+    "Dos puntos en la yema del dedo",
+    "Grafestesia con un número en el antebrazo",
+    "Dolor con alfiler en los dermatomas"
+   ],
+   "respuesta": 0,
+   "pista": "La queja es reconocer un objeto, no localizar ni vibrar.",
+   "argumento": "La estereognosia es el reconocimiento de objetos comunes por el tacto sin ayuda visual; se coloca una llave o una moneda en la palma con los ojos cerrados y se pide identificarla. Es la prueba de la función alterada, porque la sensibilidad elemental está conservada y el paciente nombra el objeto al verlo, lo que descarta afasia y déficit sensitivo primario. La palestesia y el dolor exploran vías aferentes; la grafestesia evalúa otra función cortical y no el reconocimiento de objetos; los dos puntos miden discriminación. Su alteración localiza en corteza parietal. (diapo 37)"
+  },
+  {
+   "id": "c3cb-27",
+   "enunciado": "Una mujer de 47 años, bebedora crónica de 20 años, refiere un año de inestabilidad progresiva; camina con base muy amplia y necesita apoyarse, y en la consulta no logra mantenerse sentada sin respaldo. Las extremidades muestran escasa dismetría, el habla es algo escandida y hay nistagmo. La sensibilidad es normal y el Romberg no es claramente positivo. ¿Qué topografía cerebelosa explica el cuadro?",
+   "alternativas": [
+    "Hemisferio cerebeloso derecho",
+    "Hemisferio cerebeloso izquierdo",
+    "Pedúnculo cerebeloso medio",
+    "Vermis cerebeloso",
+    "Núcleo dentado bilateral"
+   ],
+   "respuesta": 3,
+   "pista": "Distinga ataxia del tronco de ataxia de las extremidades.",
+   "argumento": "La ataxia troncal con incapacidad de mantenerse sentada, base muy amplia, escasos signos apendiculares y nistagmo corresponde al síndrome vermiano, que en el bebedor crónico se atribuye a degeneración del vermis anterior. Los hemisferios cerebelosos darían dismetría y disdiadococinesia marcadas en el hemicuerpo ipsilateral; el pedúnculo y el núcleo dentado participan de las vías hemisféricas y no explican la ataxia axial predominante. La ausencia de déficit sensitivo y de Romberg franco separa el origen cerebeloso del sensitivo. (diapo 58)"
+  },
+  {
+   "id": "c3cb-28",
+   "enunciado": "Una mujer de 84 años, con deterioro cognitivo leve, es evaluada por fiebre de 38 °C y somnolencia de un día. No refiere cefalea, no tiene petequias ni presenta rigidez de nuca; la flexión pasiva del cuello es libre y el Kernig es negativo bilateral. Está desorientada y con lenguaje incoherente, sin déficit focal ni signos de focalidad sensitiva. ¿Cómo se interpreta la ausencia de signos meníngeos?",
+   "alternativas": [
+    "Descarta con seguridad meningitis",
+    "Indica que se trata solo de confusión",
+    "No descarta meningitis en este contexto",
+    "Obliga a repetir el examen en una semana",
+    "Explica el cuadro por la edad avanzada"
+   ],
+   "respuesta": 2,
+   "pista": "Recuerde en quiénes la guía advierte que los signos pueden faltar.",
+   "argumento": "La sensibilidad de los signos meníngeos es variable y pueden faltar en ancianos, inmunosuprimidos y fases precoces; su ausencia no descarta meningitis, y menos con fiebre y alteración del nivel de conciencia. El cuadro confusional febril en una anciana puede ser la única expresión de una meningoencefalitis, así que atribuirlo a la edad o a un delirium aislado es riesgoso. Repetir el examen en una semana es tardío. El dato que obliga es la combinación de fiebre con deterioro del nivel de conciencia. (diapo 66)"
+  },
+  {
+   "id": "c3cb-29",
+   "enunciado": "Un hombre de 48 años nota desde hace un año que la mano derecha se le adelgaza y pierde fuerza para sostener objetos; no tiene dolor ni adormecimiento. Exploración: atrofia marcada de la eminencia tenar derecha, fasciculaciones en el antebrazo, tono disminuido, fuerza 3/5 en el pulgar y reflejo braquiorradial abolido de ese lado; el resto de los reflejos y la sensibilidad son normales. ¿Qué implica este conjunto?",
+   "alternativas": [
+    "Lesión de motoneurona superior",
+    "Lesión de motoneurona inferior",
+    "Lesión de ganglios basales",
+    "Lesión del cordón posterior",
+    "Lesión cerebelosa hemisférica"
+   ],
+   "respuesta": 1,
+   "pista": "Atrofia, fasciculaciones y arreflexia pertenecen al mismo nivel.",
+   "argumento": "Atrofia con fasciculaciones, hipotonía y arreflexia en un territorio limitado definen lesión de motoneurona inferior, cuyo correlato es el asta anterior, la raíz o el nervio; en el adulto obliga a descartar ELA cuando es progresiva. La motoneurona superior daría hiperreflexia, espasticidad y Babinski, sin atrofia prominente; los ganglios basales, rigidez y bradicinesia; el cordón posterior, pérdida de vibración y propiocepción; el cerebelo, dismetría. La ausencia de déficit sensitivo apoya el origen motor puro. (diapo 28)"
+  },
+  {
+   "id": "c3cb-30",
+   "enunciado": "Un hombre de 50 años consulta por dos meses de debilidad progresiva de ambas piernas, con sensación de banda apretada en el tórax y torpeza para el tacto fino en el abdomen; no tiene dolor lumbar ni fiebre. Exploración: paraparesia espástica 4/5 proximal, hiperreflexia patelar y aquílea bilaterales, Babinski bilateral y nivel sensitivo definido en T4 para todas las modalidades; marcha en tijeras. ¿Dónde localiza la lesión?",
+   "alternativas": [
+    "Nervio periférico de ambas piernas",
+    "Cono medular sacro aislado",
+    "Corteza motora bilateral",
+    "Raíces lumbares bilaterales",
+    "Médula torácica, nivel T4"
+   ],
+   "respuesta": 4,
+   "pista": "El nivel sensitivo es el dato que fija la altura.",
+   "argumento": "Paraparesia espástica con hiperreflexia y Babinski bilateral, nivel sensitivo definido y marcha en tijeras localizan en la médula torácica a la altura del nivel sensitivo. Una neuropatía periférica daría debilidad distal fláccida con arreflexia y patrón en guante y calcetín; las raíces lumbares, dolor radicular y arreflexia; la corteza bilateral no produce nivel sensitivo; el cono medular da compromiso sacro sin nivel torácico. El nivel sensitivo es el dato que fija la altura de la lesión. (diapo 38)"
+  },
+  {
+   "id": "c3cb-31",
+   "enunciado": "Un hombre de 52 años refiere debilidad de la mano derecha de tres semanas, sin dolor cervical; al examen la fuerza es 5/5 en todos los grupos, los reflejos son simétricos y no hay atrofia, fasciculaciones ni déficit sensitivo. El paciente insiste en que «algo le pasa» y no se logra objetivar el déficit en la maniobra habitual contra resistencia. ¿Qué maniobra permite objetivar una debilidad sutil del miembro superior?",
+   "alternativas": [
+    "Prueba de Romberg con ojos cerrados",
+    "Marcha en tándem por una línea",
+    "Prueba de Barré con ojos cerrados",
+    "Reflejo braquiorradial con Jendrassik",
+    "Prueba de Kernig bilateral"
+   ],
+   "respuesta": 2,
+   "pista": "Busque la prueba postural que revela una caída progresiva del miembro.",
+   "argumento": "La prueba de Barré pide mantener los brazos extendidos con los ojos cerrados; una desviación progresiva del miembro, con temblor fino al sostener la postura, objetiva una debilidad sutil que la prueba contra resistencia no mostró. El Romberg y el tándem exploran equilibrio y marcha; el braquiorradial con Jendrassik explora el arco reflejo; el Kernig es un signo meníngeo. Si el brazo cae de forma constante y reproducible, se trata de debilidad real; si la caída es errática y mejora con la distracción, hay que reconsiderar. (diapo 27)"
+  },
+  {
+   "id": "c3cb-32",
+   "enunciado": "Un hombre de 40 años consulta por cefalea y fiebre; refiere además rigidez cervical y contractura por haber dormido mal. Al examinarlo, la flexión pasiva del cuello encuentra resistencia, pero la rotación lateral es amplia y no reproduce el mismo dolor; no hay fotofobia ni vómitos. La fuerza y los reflejos son normales. ¿Qué maniobra permite distinguir la rigidez meníngea de la cervical musculoesquelética?",
+   "alternativas": [
+    "Presión sobre las apófisis espinosas",
+    "Comparar flexión y rotación pasivas",
+    "Extensión de la rodilla con cadera a 90°",
+    "Compresión del músculo gastrocnemio",
+    "Percusión del tendón rotuliano"
+   ],
+   "respuesta": 1,
+   "pista": "La rigidez meníngea respeta un movimiento y bloquea otro.",
+   "argumento": "En la rigidez de nuca meníngea hay resistencia involuntaria a la flexión, pero la rotación lateral se conserva; en la contractura musculoesquelética la limitación es uniforme y dolorosa en todos los movimientos. Por eso comparar flexión y rotación pasivas es la maniobra que discrimina, y en la irritación meníngea el mentón no alcanza el esternón. La percusión de apófisis explora radiculopatía, la extensión de rodilla con cadera a 90° es el Kernig y la compresión del gastrocnemio es el signo de Gordon. La ausencia de rigidez no descarta meningitis. (diapo 67)"
+  },
+  {
+   "id": "c3cb-33",
+   "enunciado": "Una mujer de 63 años, hipertensa, es traída por inicio brusco, hace 6 horas, de visión doble, voz nasal y torpeza del hemicuerpo izquierdo. Exploración: paresia facial derecha de tipo periférico, desviación de la lengua a la derecha con atrofia, hemiparesia izquierda 4/5, ataxia de la marcha y nistagmo; la sensibilidad está conservada y no hay afasia ni cefalea. ¿Qué localización explica este patrón?",
+   "alternativas": [
+    "Cápsula interna derecha",
+    "Hemisferio cerebeloso derecho",
+    "Corteza cerebral media izquierda",
+    "Médula cervical alta",
+    "Tronco encefálico derecho"
+   ],
+   "respuesta": 4,
+   "pista": "Mire el lado de los pares craneales y compárelo con el de la hemiparesia.",
+   "argumento": "La combinación de pares craneales ipsilaterales (facial periférico e hipogloso derechos) con hemiparesia y ataxia contralaterales define un síndrome alterno del tronco encefálico, en territorio vertebrobasilar. La cápsula interna daría hemiparesia proporcionada sin pares craneales; el hemisferio cerebeloso daría signos apendiculares ipsilaterales sin déficit facial; la cerebral media izquierda, afasia y hemiparesia derecha; la médula cervical, paraparesia o tetraplejia con nivel sensitivo. El patrón cruzado es el dato decisivo. (diapo 30)"
+  },
+  {
+   "id": "c3cb-34",
+   "enunciado": "Una mujer de 29 años, sana, consulta por ansiedad y refiere contracturas musculares. En el examen los reflejos patelares y aquíleos son 3+ simétricos, sin clonus; la fuerza es 5/5, el tono normal, el Babinski negativo y no hay déficit sensitivo ni atrofia. La marcha y la coordinación son normales; no toma fármacos, no consume tóxicos ni tiene antecedentes familiares. ¿Cómo se interpreta la hiperreflexia encontrada?",
+   "alternativas": [
+    "Hallazgo a interpretar con el contexto",
+    "Lesión piramidal establecida",
+    "Neuropatía periférica incipiente",
+    "Síndrome cerebeloso levemente compensado",
+    "Signo de enfermedad de Parkinson"
+   ],
+   "respuesta": 0,
+   "pista": "La guía niega valor a cualquier signo aislado.",
+   "argumento": "El grado 3+ indica respuesta exagerada que puede propagarse, pero sin clonus ni otros signos piramidales no basta para localizar una lesión; el material insiste en que ningún signo tiene valor aislado y que el contexto manda. La lesión piramidal establecida se acompaña de espasticidad, Babinski y debilidad; la neuropatía periférica da hiporreflexia; el cerebelo no produce hiperreflexia; el parkinsonismo cursa con reflejos normales y rigidez. Si apareciera clonus o Babinski, la interpretación cambiaría. (diapo 45, 74)"
+  },
+  {
+   "id": "c3cb-35",
+   "enunciado": "Una mujer de 50 años refiere hormigueo nocturno en los tres primeros dedos de la mano derecha, que sacude al despertar. La fuerza es normal salvo una leve debilidad de la abducción del pulgar; la sensibilidad está disminuida en la cara palmar de esos dedos y conservada en el resto de la mano; no hay dolor cervical. Al percutir la muñeca, el hormigueo se irradia a los dedos. ¿Qué implica ese último hallazgo?",
+   "alternativas": [
+    "Confirma radiculopatía cervical C6",
+    "Indica lesión del nervio cubital",
+    "Descarta compromiso del mediano",
+    "Apoya atrapamiento del mediano",
+    "Demuestra lesión de la vía piramidal"
+   ],
+   "respuesta": 3,
+   "pista": "Una percusión que reproduce parestesias distales tiene nombre propio.",
+   "argumento": "La percusión sobre el trayecto del nervio que despierta parestesias en su territorio distal es el signo de Tinel, y aquí apoya el atrapamiento del mediano en la muñeca, coherente con el territorio de los tres primeros dedos y la debilidad de la abducción del pulgar. Una radiculopatía C6 daría dolor cervical y déficit en el dermatoma, sin Tinel en la muñeca; el cubital compromete el cuarto y quinto dedos; el hallazgo no descarta el mediano, lo apoya; la vía piramidal no produce Tinel. Falta comparar con el lado sano. (diapo 42)"
+  },
+  {
+   "id": "c3cb-36",
+   "enunciado": "Un hombre de 45 años refiere que se le «engancha» la punta del pie al caminar y que tropieza con las alfombras; otra persona nota que levanta mucho la rodilla y que no puede apoyar bien el talón. La fuerza proximal es 5/5, los reflejos aquíleos 2+ y el resto del examen motor es normal; la marcha en tándem es posible y no hay dolor lumbar, ciática ni traumatismo previo. ¿Qué maniobra de la marcha objetiva mejor el déficit?",
+   "alternativas": [
+    "Marcha en tándem sobre una línea",
+    "Marcha de puntas durante diez pasos",
+    "Prueba de Romberg con ojos cerrados",
+    "Marcha hacia atrás en línea recta",
+    "Caminar sobre los talones"
+   ],
+   "respuesta": 4,
+   "pista": "Piense qué músculo debe trabajar para no arrastrar la punta.",
+   "argumento": "Caminar sobre los talones obliga a la dorsiflexión del pie y hace evidente la caída del pie por debilidad de los tibiales anteriores, compatible con lesión del nervio peroneo o radiculopatía L4-L5. La marcha de puntas explora el tríceps sural y S1, que aquí están conservados; el tándem y la marcha hacia atrás exploran coordinación y equilibrio; el Romberg explora equilibrio estático. La maniobra convierte el síntoma en signo objetivable. (diapo 63)"
+  },
+  {
+   "id": "c3cb-37",
+   "enunciado": "Una mujer de 70 años, diestra, es traída por desorientación y desvío de la mirada; hace 5 horas estaba normal. Está alerta, no atiende al hemicampo ni al hemicuerpo izquierdos, no reconoce su brazo izquierdo y no responde a estímulos de ese lado aunque la sensibilidad primaria está conservada; la mirada se desvía hacia la derecha. No hay afasia ni déficit motor grueso. ¿Qué localización explica el cuadro?",
+   "alternativas": [
+    "Hemisferio derecho, territorio de ACM",
+    "Hemisferio izquierdo, territorio de ACM",
+    "Territorio vertebrobasilar",
+    "Lóbulo occipital derecho",
+    "Médula cervical lateral derecha"
+   ],
+   "respuesta": 0,
+   "pista": "La ausencia de afasia en una diestra dice mucho del hemisferio.",
+   "argumento": "La heminegligencia con extinción sensitiva y desvío de la mirada hacia la lesión, sin afasia en una diestra, localiza en el hemisferio derecho no dominante, territorio de la arteria cerebral media. El hemisferio izquierdo daría afasia; el vertebrobasilar, síndromes alternos y ataxia; el occipital, hemianopsia sin negligencia; la médula cervical no produce negligencia. La conservación de la sensibilidad primaria separa la negligencia de una hemianestesia. La negligencia es el dato que define el lado. (diapo 27)"
+  },
+  {
+   "id": "c3cb-38",
+   "enunciado": "Una mujer de 35 años refiere que «no puede mover» el brazo izquierdo desde hace dos semanas, tras una discusión familiar. Al examinarla, deja caer el brazo cuando se le pide sostenerlo, pero lo usa para acomodarse el pelo; la fuerza es variable entre intentos y mejora cuando se distrae. El tono, los reflejos y la sensibilidad son normales. ¿Qué paso corresponde para completar la evaluación de la fuerza?",
+   "alternativas": [
+    "Explorar el tono con movilización pasiva",
+    "Buscar Babinski en el pie izquierdo",
+    "Explorar la sensibilidad de ese brazo",
+    "Repetir la prueba con distracción",
+    "Derivar a salud mental de inmediato"
+   ],
+   "respuesta": 3,
+   "pista": "La discordancia entre lo que dice y lo que hace pide una maniobra, no una conclusión.",
+   "argumento": "La inconsistencia entre pruebas, la mejoría con la distracción y el uso funcional del miembro que se dice paralizado son signos de debilidad percibida, no de lesión motora; repetir con maniobras distractoras y comparar hemicuerpos es el paso que confirma el hallazgo. Explorar tono, Babinski o sensibilidad es correcto como parte del examen, pero no resuelve la discordancia; derivar de inmediato cierra el razonamiento antes de completar la exploración. Si la debilidad persistiera igual con la distracción, habría que reconsiderar una lesión real. (diapo 26-27)"
+  },
+  {
+   "id": "c3cb-39",
+   "enunciado": "Un hombre de 72 años refiere inicio brusco de adormecimiento intenso del hemicuerpo derecho, con sensación de quemazón que no cede; no tiene debilidad ni cefalea. Exploración: hemianestesia derecha para todas las modalidades, hiperpatía al roce, fuerza 5/5, reflejos simétricos y Babinski negativo; la campimetría muestra hemianopsia homónima derecha y el lenguaje es normal. ¿Qué localización explica el cuadro?",
+   "alternativas": [
+    "Corteza parietal derecha",
+    "Médula cervical derecha",
+    "Tálamo izquierdo",
+    "Cápsula interna izquierda",
+    "Protuberancia derecha"
+   ],
+   "respuesta": 2,
+   "pista": "Hay una estructura donde convergen todas las modalidades y el dolor espontáneo.",
+   "argumento": "La hemianestesia contralateral de todas las modalidades con dolor talámico y hemianopsia homónima, sin déficit motor, corresponde al síndrome talámico por lesión del tálamo izquierdo, en territorio de la cerebral posterior. Una lesión parietal daría déficit discriminativo con sensibilidad elemental conservada; la médula cervical produciría un nivel y no compromiso hemifacial; la cápsula interna agregaría hemiparesia; la protuberancia daría pares craneales ipsilaterales. El dolor espontáneo orienta al tálamo. (diapo 28)"
+  },
+  {
+   "id": "c3cb-40",
+   "enunciado": "Una mujer de 29 años consulta por tres episodios en seis meses en que «se queda mirando» y no responde durante un minuto; luego está confusa y somnolienta. Su pareja la ha visto masticar y mover la mano derecha de forma repetitiva, y los episodios son siempre parecidos. El examen neurológico actual es normal, sin déficit focal ni signos meníngeos. ¿Qué pregunta de la anamnesis orienta mejor a localizar el foco?",
+   "alternativas": [
+    "Edad de la primera crisis",
+    "Si hay aura y de qué tipo",
+    "Antecedente familiar de epilepsia",
+    "Horas de sueño la noche previa",
+    "Duración total del episodio"
+   ],
+   "respuesta": 1,
+   "pista": "Algunos síntomas que preceden segundos a la crisis tienen valor topográfico.",
+   "argumento": "La semiología ictal localiza: el aura epigástrica orienta a temporal, la visual a occipital y las crisis versivas a frontal; por eso preguntar si hay aura y de qué tipo es el dato con valor localizador. La edad de inicio, el antecedente familiar, el sueño previo y la duración caracterizan el evento y su riesgo, pero no localizan el foco; la duración sirve para definir estado epiléptico. Los automatismos orales y manuales descritos ya sugieren compromiso temporal. La descripción del evento precede a cualquier clasificación. (diapo 36)"
+  }
+ ]
+}

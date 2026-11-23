@@ -97,6 +97,18 @@
       "descartadas": 0
     },
     {
+      "archivo": "Semio_C3_Casos_A_Clases_1-2.json",
+      "titulo": "Semiología C3 — Casos clínicos A: clases 1 y 2",
+      "total": 40,
+      "descartadas": 0
+    },
+    {
+      "archivo": "Semio_C3_Casos_B_Clases_3-4.json",
+      "titulo": "Semiología C3 — Casos clínicos B: clases 3 y 4",
+      "total": 40,
+      "descartadas": 0
+    },
+    {
       "archivo": "Semio_C3_Set_A_Clases_1-2.json",
       "titulo": "Semiología C3 — Set A: clases 1 y 2",
       "total": 60,
