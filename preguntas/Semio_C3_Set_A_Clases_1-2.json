@@ -4,17 +4,17 @@
  "preguntas": [
   {
    "id": "c3a-01",
-   "enunciado": "Al examinar a un paciente que consultó por debilidad, se objetivan Babinski e hiperreflexia. ¿Qué eslabón de la cadena diagnóstica representan esos hallazgos?",
+   "enunciado": "Un hombre de 61 años consulta por debilidad de la pierna izquierda. Al examinarlo se objetivan Babinski e hiperreflexia en esa extremidad, con fuerza 4/5; el resto del examen es normal. ¿Qué se puede afirmar con esos dos hallazgos?",
    "alternativas": [
-    "Síntomas referidos por el paciente",
-    "Signos objetivos de la exploración",
-    "Síndrome topográfico ya constituido",
-    "Diagnóstico etiológico de certeza",
-    "Localización anatómica definitiva"
+    "Que la lesión está en la corteza cerebral",
+    "Que la lesión compromete la vía corticoespinal",
+    "Que la etiología es vascular",
+    "Que el nivel es medular lumbar",
+    "Que la debilidad es de origen funcional"
    ],
    "respuesta": 1,
-   "pista": "Distinga lo que el paciente cuenta de lo que el médico provoca y observa.",
-   "argumento": "Correcta: son signos, porque el médico los detecta en la exploración y no dependen del relato. Un síntoma es lo que el paciente refiere subjetivamente, como la debilidad. El síndrome es la agrupación reconocible de síntomas y signos, no un hallazgo aislado. El diagnóstico integra el síndrome con la etiología y es un paso posterior. La localización es la inferencia anatómica que se construye después de identificar el síndrome."
+   "pista": "Babinski e hiperreflexia hablan de la vía, no de la altura ni de la causa.",
+   "argumento": "Ambos signos traducen compromiso de la motoneurona superior en cualquier punto de la vía corticoespinal, desde la corteza hasta la médula: localizan el sistema, no la altura (diapo 34, 35). No permiten afirmar corteza, porque la lesión puede estar en cápsula, tronco o médula; tampoco etiología vascular, ya que puede ser desmielinizante, tumoral o compresiva. Un nivel lumbar produciría un patrón de motoneurona inferior, con hiporreflexia y sin Babinski. La debilidad funcional se sospecha por inconsistencia entre pruebas, no por estos signos."
   },
   {
    "id": "c3a-02",
@@ -158,17 +158,17 @@
   },
   {
    "id": "c3a-12",
-   "enunciado": "Tras una crisis tónico-clónica generalizada, un paciente queda con hemiparesia derecha que se resuelve en pocas horas. ¿Cómo se interpreta ese hallazgo?",
+   "enunciado": "Después de una crisis tónico-clónica generalizada, un paciente queda con hemiparesia derecha que se resuelve en pocas horas. ¿Cuál es la explicación del déficit?",
    "alternativas": [
     "Hematoma subdural postraumático",
     "Nuevo ictus isquémico establecido",
-    "Parálisis de Todd transitoria",
+    "Parálisis de Todd",
     "Síndrome de Weber mesencefálico",
     "Parálisis de Bell periférica"
    ],
    "respuesta": 2,
-   "pista": "Es un déficit focal que aparece en la fase postictal y se resuelve.",
-   "argumento": "Correcta: la parálisis de Todd es el déficit focal transitorio de la fase postictal. Un ictus establecido no se resuelve en horas y requeriría otro mecanismo. El hematoma subdural da cefalea y deterioro progresivo, no un déficit que cede. El síndrome de Weber combina paresia del III par con hemiparesia contralateral. La parálisis de Bell es una paresia facial periférica, no una hemiparesia."
+   "pista": "Ocurre después de la crisis y no deja secuela.",
+   "argumento": "La parálisis de Todd es el déficit focal postictal, que se resuelve en horas por agotamiento funcional de la corteza involucrada en la crisis (diapo 8). Un ictus establecido no revierte en ese plazo y no guarda relación temporal con la crisis. El hematoma subdural da cefalea y deterioro progresivo, no un déficit que cede. El síndrome de Weber combina paresia del III par con hemiparesia contralateral, y la parálisis de Bell es facial periférica, no una hemiparesia."
   },
   {
    "id": "c3a-13",
@@ -214,17 +214,17 @@
   },
   {
    "id": "c3a-16",
-   "enunciado": "Un paciente no levanta el brazo porque le duele al movilizarlo; al vencer la resistencia al dolor, la fuerza es normal. ¿Qué realidad clínica representa?",
+   "enunciado": "Mujer de 34 años refiere debilidad en las piernas desde hace un mes. En la camilla, la flexión de cadera es 3/5 bilateral y le cuesta mantener la pierna; al distraerla con una conversación, la misma maniobra alcanza 5/5. Reflejos, sensibilidad y marcha son normales. ¿Cómo se interpreta el hallazgo?",
    "alternativas": [
+    "Miopatía proximal simétrica",
+    "Esfuerzo no confiable, no debilidad verdadera",
+    "Radiculopatía lumbar bilateral",
     "Fatiga de la unión neuromuscular",
-    "Dolor, no debilidad verdadera",
-    "Limitación mecánica articular",
-    "Debilidad verdadera proximal",
     "Paresia de motoneurona superior"
    ],
    "respuesta": 1,
-   "pista": "Distinga la incapacidad para generar fuerza del freno que impone el dolor.",
-   "argumento": "Correcta: si al vencer la resistencia al dolor la fuerza es normal, el paciente no mueve por dolor y no por incapacidad. La fatiga es un agotamiento con el esfuerzo mantenido, con fuerza inicial normal que decrece. La limitación mecánica es rigidez articular o tendinosa, no dolor al vencer resistencia. La debilidad verdadera implica incapacidad real de generar fuerza. La paresia de motoneurona superior se acompaña de espasticidad, hiperreflexia y Babinski."
+   "pista": "Una fuerza que cambia según la atención del paciente no es una lesión.",
+   "argumento": "La discordancia entre maniobras, la mejoría con distracción y el resto del examen normal configuran pseudodebilidad: el paciente no genera el esfuerzo, pero no hay lesión (diapo 27). Una miopatía proximal no mejora al distraer; la fatiga de la unión empeora con el esfuerzo repetido y la fuerza inicial es normal. La radiculopatía respeta un territorio y altera reflejos o sensibilidad, y la paresia de motoneurona superior agrega hiperreflexia y Babinski. Corresponde repetir con maniobras distractoras antes de concluir."
   },
   {
    "id": "c3a-17",
@@ -522,17 +522,17 @@
   },
   {
    "id": "c3a-38",
-   "enunciado": "Sobre los sistemas de memoria: I) La memoria inmediata se evalúa recordando tres palabras tras cinco minutos.  II) La memoria reciente depende del hipocampo y del circuito de Papez.  III) La memoria remota suele estar preservada en las fases iniciales de las demencias.",
+   "enunciado": "Hombre de 74 años, en seguimiento por deterioro cognitivo. Repite sin error una serie de seis dígitos y nombra correctamente los objetos de la mesa; en cambio, no recuerda ninguna de tres palabras a los cinco minutos, aun después de repetirlas. ¿Qué sistema falla y qué implica?",
    "alternativas": [
-    "Solo I",
-    "Solo II",
-    "Solo I y II",
-    "Solo I y III",
-    "Solo II y III"
+    "La memoria inmediata, dependiente del prefrontal",
+    "La memoria remota, semántica y autobiográfica",
+    "La atención sostenida y la orientación",
+    "El lenguaje, por una anomia progresiva",
+    "La memoria reciente, dependiente del hipocampo"
    ],
    "respuesta": 4,
-   "pista": "Distinga repetir dígitos al instante de recordar palabras tras una distracción.",
-   "argumento": "I: F, recordar tres palabras tras cinco minutos evalúa memoria reciente o episódica; la inmediata se explora repitiendo dígitos al instante. II: V, la memoria reciente depende del hipocampo y del circuito de Papez y es la primera afectada en Alzheimer. III: V, la remota suele preservarse al inicio; su deterioro precoz orienta a demencia frontal o Huntington. Por eso la respuesta es «Solo II y III»."
+   "pista": "Repetir dígitos prueba una cosa; evocar tres palabras a los cinco minutos, otra.",
+   "argumento": "La memoria inmediata está conservada: repite seis dígitos y nombra objetos, lo que descarta un fallo atencional o prefrontal. El fallo aparece al evocar información nueva diferida, que es memoria reciente o episódica, dependiente del hipocampo y del circuito de Papez, y la más precozmente deteriorada en Alzheimer (diapo 30). La remota suele preservarse al inicio; su deterioro temprano orientaría a demencia frontal o Huntington. Una anomia afectaría la denominación, que aquí es correcta."
   },
   {
    "id": "c3a-39",
@@ -648,17 +648,17 @@
   },
   {
    "id": "c3a-47",
-   "enunciado": "Registrar «vértigo» sin preguntar qué siente exactamente el paciente corresponde al error de anamnesis denominado:",
+   "enunciado": "Mujer de 58 años consulta por voz nasal y ahogos al comer desde hace dos semanas. Al explorar se ve úvula desviada a la derecha, reflejo nauseoso abolido, disfonía y debilidad para girar la cabeza a la izquierda; la lengua protruida se desvía a la izquierda. ¿Qué localización explica el conjunto?",
    "alternativas": [
-    "No precisar la cronología del cuadro",
-    "Asumir el significado del término",
-    "Omitir los síntomas acompañantes",
-    "No buscar los signos de alarma",
-    "No interrogar al acompañante"
+    "Seno cavernoso",
+    "Bulbo o agujero yugular",
+    "Ángulo pontocerebeloso",
+    "Mesencéfalo",
+    "Protuberancia baja"
    ],
    "respuesta": 1,
-   "pista": "El error está en interpretar la palabra sin pedir la descripción propia.",
-   "argumento": "Correcta: el error es asumir el significado del término del paciente sin pedir que describa el síntoma con sus palabras. No precisar la cronología es otro error, referido al tiempo y al contexto de inicio. Omitir acompañantes es no preguntar por el hormigueo previo o la cefalea simultánea. No buscar signos de alarma es el error más grave, pero no es el descrito. No interrogar al acompañante afecta la información, no la interpretación del término."
+   "pista": "Cuando caen juntos los nervios bajos del tronco, el nivel es uno solo.",
+   "argumento": "La combinación de IX, X, XI y XII —disfonía, disfagia, paresia palatina, debilidad del esternocleidomastoideo y desviación lingual— orienta al bulbo raquídeo o al agujero yugular, donde estos nervios discurren juntos (diapo 37, 38). El seno cavernoso se sospecha por III, IV y VI juntos; el ángulo pontocerebeloso, por VII y VIII; el mesencéfalo, por el grupo oculomotor; la protuberancia, por V, VI y VII (diapo 39)."
   },
   {
    "id": "c3a-48",
@@ -690,17 +690,17 @@
   },
   {
    "id": "c3a-50",
-   "enunciado": "Un paciente no atiende al hemicampo izquierdo, con sensibilidad primaria conservada. ¿Qué hemisferio suele estar lesionado y cómo se evalúa?",
+   "enunciado": "Mujer de 70 años, postrada tras un infarto extenso. No responde a estímulos del lado izquierdo: no los nombra ni los localiza, y al pedirle que marque el centro de varias líneas deja sin marcar toda la mitad izquierda de la hoja, aunque ve y siente en ese lado. ¿Qué hemisferio está lesionado y cómo se confirma?",
    "alternativas": [
-    "Derecho, con prueba de dígitos",
     "Izquierdo, con denominación de objetos",
     "Derecho, con repetición de frases",
-    "Izquierdo, con series regresivas de 7",
-    "Derecho, con cancelación y bisección"
+    "Izquierdo, con series regresivas de siete",
+    "Izquierdo, con prueba de dígitos",
+    "Derecho, con cancelación y bisección de líneas"
    ],
    "respuesta": 4,
-   "pista": "La negligencia es más frecuente y grave en el hemisferio no dominante.",
-   "argumento": "Correcta: la negligencia es más frecuente y grave con lesión del hemisferio no dominante derecho y se evalúa con cancelación y bisección de líneas. La denominación de objetos explora lenguaje. La repetición de frases explora el fascículo arqueado. Las series regresivas de 7 exploran atención. La prueba de dígitos explora memoria inmediata."
+   "pista": "El déficit no es sensitivo: es de atención al hemicuerpo y al hemicampo.",
+   "argumento": "La heminegligencia es más frecuente y grave con lesión del hemisferio no dominante, el derecho, y se confirma con pruebas de cancelación y bisección de líneas (diapo 31). Que vea y sienta en ese lado descarta un déficit sensorial primario. La denominación explora lenguaje, la repetición el fascículo arqueado, las series de siete la atención y los dígitos la memoria inmediata; ninguna demuestra negligencia."
   },
   {
    "id": "c3a-51",
