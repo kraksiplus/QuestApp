@@ -43,6 +43,18 @@
       "descartadas": 0
     },
     {
+      "archivo": "Neuro C1 - Oral A.json",
+      "titulo": "Neurociencias C1 — Repaso oral A: mecanismos y estructura",
+      "total": 60,
+      "descartadas": 0
+    },
+    {
+      "archivo": "Neuro C1 - Oral B.json",
+      "titulo": "Neurociencias C1 — Repaso oral B: casos y clínica",
+      "total": 60,
+      "descartadas": 0
+    },
+    {
       "archivo": "C2_Set_A_Crono_Sueno_Movimiento.json",
       "titulo": "Neurociencias C2 — Set A: cronobiología, sueño, neuroinflamación y movimiento",
       "total": 50,
