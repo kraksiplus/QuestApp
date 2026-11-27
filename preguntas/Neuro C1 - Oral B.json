@@ -1,0 +1,796 @@
+{
+ "version": 1,
+ "titulo": "Neurociencias C1 — Repaso oral B: casos y clínica",
+ "preguntas": [
+  {
+   "id": "c1o-b-001",
+   "enunciado": "¿Cómo actúa el diazepam sobre el canal de cloro activado por GABA?",
+   "alternativas": [
+    "Se une al sitio del transmisor y compite con GABA",
+    "Aumenta la frecuencia de apertura del canal",
+    "Bloquea el poro desde el lado intracelular",
+    "Reduce la conductancia sin cambiar la apertura"
+   ],
+   "respuesta": 1,
+   "pista": "Distinga modular de bloquear y ubique el sitio de unión.",
+   "argumento": "El diazepam se une a un sitio regulatorio de los canales de cloro activados por GABA, con un efecto alostérico y no competitivo: aumenta la frecuencia de apertura en respuesta al transmisor y no interactúa con el sitio de unión de GABA. Competir por el sitio del agonista describe al curare en el canal nicotínico, y bloquear el poro desde el interior describe al tetraetilamonio en canales de potasio. (Kandel cap. 8)"
+  },
+  {
+   "id": "c1o-b-002",
+   "enunciado": "La mutación de la conexina 32, expresada en la célula de Schwann, causa una forma ligada al X de:",
+   "alternativas": [
+    "Enfermedad de Charcot-Marie-Tooth",
+    "Sordera congénita neurosensorial",
+    "Esclerosis múltiple progresiva",
+    "Eritromelalgia hereditaria con dolor ardiente"
+   ],
+   "respuesta": 0,
+   "pista": "Piense en la proteína que mantiene unidas las capas de mielina periférica.",
+   "argumento": "La conexina 32 forma canales que conectan las capas de mielina de una misma célula de Schwann y las mantiene unidas, además de permitir el paso de metabolitos e iones; su mutación causa la forma ligada al X de la enfermedad de Charcot-Marie-Tooth. La conexina 26 sostiene la secreción de fluidos del oído interno y explica hasta la mitad de la sordera congénita. La esclerosis múltiple es desmielinización central y la eritromelalgia es una canalopatía de SCN9A. (Kandel cap. 11)"
+  },
+  {
+   "id": "c1o-b-003",
+   "enunciado": "Sobre la esclerosis múltiple, señale cuál(es) afirmación(es) es/son correcta(s).  I) El inicio habitual ocurre entre los 20 y los 40 años.  II) El líquido cefalorraquídeo muestra células inflamatorias y anticuerpos aumentados.  III) La pérdida de mielina solo enlentece la conducción y nunca la interrumpe.",
+   "alternativas": [
+    "Solo I",
+    "Solo II",
+    "Solo III",
+    "Todas",
+    "Solo I y II"
+   ],
+   "respuesta": 4,
+   "pista": "Recuerde qué pasa con la constante de longitud cuando falta la vaina.",
+   "argumento": "I es verdadera: el inicio típico de la esclerosis múltiple está entre los 20 y los 40 años, con un curso abrupto de déficits que persisten días o semanas. II es verdadera: el líquido cefalorraquídeo presenta un número anormal de células inflamatorias y anticuerpos aumentados. III es falsa: la desmielinización no solo enlentece, porque cae la constante de longitud y la corriente puede quedar bajo el umbral, de modo que la conducción se interrumpe. (Purves p. 67; Zeise §2.5.5)"
+  },
+  {
+   "id": "c1o-b-004",
+   "enunciado": "Niño de 6 años con episodios de dolor ardiente intenso en pies y manos, con enrojecimiento y aumento de temperatura local. Se identifica una variante de SCN9A. ¿Qué cambio explica el cuadro?",
+   "alternativas": [
+    "Pérdida de función del canal con menor entrada de sodio",
+    "La compuerta se abre a potenciales más hiperpolarizados",
+    "Bloqueo del canal por anticuerpos contra la contactina-2",
+    "Ausencia de canales de sodio en los nodos de Ranvier"
+   ],
+   "respuesta": 1,
+   "pista": "Piense en una neurona nociceptiva que dispara de más, no de menos.",
+   "argumento": "Corresponde a eritromelalgia hereditaria. Las neuronas nociceptivas de los ganglios de la raíz dorsal expresan SCN9A; en esta forma la compuerta se abre a potenciales más hiperpolarizados, entra más sodio y la neurona dispara de forma repetitiva, lo que produce dolor ardiente intenso. La pérdida de función del mismo canal causa insensibilidad congénita al dolor, no dolor. La contactina-2 es el blanco propuesto en la esclerosis múltiple y la ausencia nodal de canales impediría la conducción. (Purves pp. 82-83)"
+  },
+  {
+   "id": "c1o-b-005",
+   "enunciado": "Hombre de 30 años llega con debilidad muscular flácida y ventilación comprometida tras manipular un veneno de flechas sudamericano. La estimulación del nervio no produce respuesta muscular. ¿Cuál es el mecanismo?",
+   "alternativas": [
+    "Antagonismo competitivo del canal nicotínico muscular",
+    "Bloqueo del canal de cloro por un modulador alostérico",
+    "Pérdida de mielina con conducción axónica enlentecida",
+    "Bloqueo de canales de potasio desde el lado intracelular"
+   ],
+   "respuesta": 0,
+   "pista": "El veneno se une al mismo sitio del agonista y no abre el canal.",
+   "argumento": "El curare, alcaloide vegetal usado como veneno de flechas sudamericanas, es un antagonista competitivo del canal nicotínico activado por acetilcolina del músculo esquelético: se une al mismo sitio del agonista, su unión no abre el canal y bloquea el acceso del transmisor, con un bloqueo débil y reversible. Eso explica la debilidad flácida y la falta de respuesta a la estimulación nerviosa. El diazepam modula el canal de cloro y el tetraetilamonio bloquea potasio desde el interior. (Kandel cap. 8)"
+  },
+  {
+   "id": "c1o-b-006",
+   "enunciado": "Respecto de los marcadores y destinos gliales, ¿cuál de las siguientes afirmaciones es correcta?",
+   "alternativas": [
+    "GFAP identifica al oligodendrocito maduro",
+    "O4 marca la célula ependimaria de los ventrículos",
+    "La nestina define a la célula madre embrionaria",
+    "Ninguna de las anteriores"
+   ],
+   "respuesta": 3,
+   "pista": "Asigne cada marcador a su célula y revise el orden Sox2 y nestina.",
+   "argumento": "La primera es falsa: GFAP identifica al astrocito. La segunda es falsa: O4 marca al oligodendrocito, mientras las ependimarias revisten los ventrículos y no tienen marcador asignado en la tabla. La tercera es falsa: Sox2 marca la célula madre neural embrionaria y la nestina aparece más tarde, en progenitoras neurales posteriores. Ninguna se sostiene, y los destinos dependen de Olig1, Olig2 y Nkx2.1 en el oligodendrocito y de bHLH, Notch y neurregulina en el astrocito. (Purves pp. 517-553; Purves p. 522)"
+  },
+  {
+   "id": "c1o-b-007",
+   "enunciado": "Familia con tres hijos con sordera congénita profunda; se descarta compromiso del oído medio y se identifica la mutación de un gen de unión gap expresado en la cóclea. ¿Cuál es el gen y su función?",
+   "alternativas": [
+    "Conexina 26; sostiene la secreción de fluidos del oído interno",
+    "Conexina 32; mantiene unidas las capas de mielina",
+    "CACNA1D; permite la liberación de transmisor en la célula ciliada",
+    "SCN9A; genera el potencial de acción del ganglio de la raíz dorsal"
+   ],
+   "respuesta": 0,
+   "pista": "Busque una conexina coclear, no una de la mielina periférica.",
+   "argumento": "La conexina 26 forma canales de unión gap en la cóclea, sostiene la secreción de fluidos del oído interno y sus mutaciones explican hasta la mitad de los casos de sordera congénita. La conexina 32 está en la célula de Schwann y su mutación da Charcot-Marie-Tooth ligada al X. CACNA1D es un canal de calcio cuya pérdida causa sordera con disfunción del nodo sinoauricular, y SCN9A es un canal de sodio nociceptivo. (Kandel cap. 11; Purves pp. 82-83)"
+  },
+  {
+   "id": "c1o-b-008",
+   "enunciado": "En el experimento de transferencia nuclear de Gurdon, ¿cuál fue el resultado y qué probó?",
+   "alternativas": [
+    "Cuatro factores reprogramaron fibroblastos; la pluripotencia es inducible",
+    "750 de 750 ovocitos dieron rana; el citoplasma no reprograma",
+    "10 de 750 dieron rana adulta; el núcleo conserva el genoma",
+    "Células ES dieron todos los linajes; el blastocisto es pluripotente"
+   ],
+   "respuesta": 2,
+   "pista": "Recuerde que la mayoría de los intentos falló y qué se conserva en el núcleo.",
+   "argumento": "Se extrajo el núcleo de una célula del epitelio intestinal y se inyectó en un ovocito irradiado con UV; de 750 intentos, cerca de 10 produjeron una rana adulta sana. El resultado probó que la diferenciación no borra las instrucciones genéticas y que el citoplasma del ovocito puede reprogramar un núcleo diploide, trabajo que recibió el Nobel de Fisiología o Medicina en 2012. Los cuatro factores son de Yamanaka y las células ES de la masa celular interna son de Evans. (Purves pp. 518-520)"
+  },
+  {
+   "id": "c1o-b-009",
+   "enunciado": "¿Cuál es la organización de los genes Hox en vertebrados y qué rombómero identifica HoxB-1?",
+   "alternativas": [
+    "Un solo conjunto en el cromosoma 7; r1",
+    "Ocho conjuntos, uno por rombómero; r2",
+    "Cuatro conjuntos en los cromosomas 2, 7, 12 y 17; rombómero 8",
+    "Cuatro conjuntos en los cromosomas 7, 17, 12 y 2; r4"
+   ],
+   "respuesta": 3,
+   "pista": "Cuente los conjuntos y relacione el número de rombómero con el ganglio trigémino.",
+   "argumento": "Los genes Hox se organizan en cuatro conjuntos, HoxA en el cromosoma 7, HoxB en el 17, HoxC en el 12 y HoxD en el 2, y su expresión sigue el orden anterior a posterior que refleja su posición 3' a 5', la colinealidad. El rombómero 4 se identifica por HoxB-1 y se relaciona con el ganglio trigémino, el ganglio facial y la vesícula ótica. Los Hox no se extienden al mesencéfalo ni al prosencéfalo, donde operan DLX y PAX. (Purves pp. 529-531)"
+  },
+  {
+   "id": "c1o-b-010",
+   "enunciado": "Sobre la neurulación y la cresta neural, señale cuál(es) afirmación(es) es/son correcta(s).  I) Hacia el día 22 el tubo neural está cerrado y aparecen las somitas.  II) La notocorda deriva del ectodermo y persiste en el adulto.  III) Hacia el día 24 la cresta neural origina los ganglios sensitivos.",
+   "alternativas": [
+    "Solo I",
+    "Solo II",
+    "Solo III",
+    "Solo I y III",
+    "Todas"
+   ],
+   "respuesta": 3,
+   "pista": "Revise la capa germinal de la notocorda y su permanencia.",
+   "argumento": "I es verdadera: hacia el día 22 el tubo está cerrado, con placa del techo dorsal y placa del suelo ventral, y aparecen las somitas. II es falsa: la notocorda es un cilindro de células mesodérmicas, no ectodérmicas, y es transitoria, porque desaparece al completarse el desarrollo temprano. III es verdadera: hacia el día 24 el tubo da la médula rudimentaria y el rombencéfalo, y la cresta origina los ganglios sensitivos. (Purves p. 524)"
+  },
+  {
+   "id": "c1o-b-011",
+   "enunciado": "Recién nacido con masa quística lumbosacra que contiene LCR, meninges y tejido nervioso displásico, paraparesia flácida distal e hidrocefalia. ¿Qué explica que el daño progrese después del defecto inicial?",
+   "alternativas": [
+    "Falla de la separación hemisférica durante la semana 12",
+    "Exceso de ácido retinoico que cierra el tubo antes de tiempo",
+    "Exposición de la placoda al líquido amniótico",
+    "Pérdida de mielina inmunomediada en la médula"
+   ],
+   "respuesta": 2,
+   "pista": "El defecto queda abierto y sigue expuesto hasta el nacimiento.",
+   "argumento": "El mielomeningocele es la expresión más severa y frecuente de disrafismo espinal abierto, por falla del cierre del neuroporo posterior entre los días 26 y 28. La teoría del doble impacto explica la progresión: el primer impacto es el cierre incompleto y el segundo es la exposición de la placoda al líquido amniótico, que destruye tejido por toxicidad química y microtrauma. La holoprosencefalia es un fallo de separación hemisférica y la desmielinización inmunomediada corresponde a la esclerosis múltiple. (apuntes, bloque I)"
+  },
+  {
+   "id": "c1o-b-012",
+   "enunciado": "Lactante de 18 meses con tumor cerebeloso; la biopsia muestra señalización SHH alterada con Gli1 elevado. ¿Qué explica el tumor según el material?",
+   "alternativas": [
+    "El exceso de folato materno durante el primer trimestre",
+    "Shh de las células de Purkinje actúa como mitógeno",
+    "La falta de separación de los hemisferios cerebelosos",
+    "La migración fallida de la cresta neural sacra"
+   ],
+   "respuesta": 1,
+   "pista": "Identifique qué célula del cerebelo produce la señal que impulsa el precursor granular.",
+   "argumento": "Se trata de un meduloblastoma, el tumor cerebral más común de la infancia, que subvierte la neurogénesis cerebelosa: las células de Purkinje producen Shh como mitógeno para los precursores granulares y en el tumor hay señalización SHH alterada con Gli1 elevado. Cerca del 9 % de los casos tiene mutaciones de pérdida de función en PTC y otro 9 % en SUFU. El folato se asocia a defectos del tubo neural y la holoprosencefalia a la separación hemisférica. (Purves pp. 538-539)"
+  },
+  {
+   "id": "c1o-b-013",
+   "enunciado": "Recién nacido con malformaciones craneofaciales y cardíacas; la madre refiere haber usado isotretinoína por acné hasta la semana 8 de gestación. ¿Qué mecanismo explica el efecto teratógeno?",
+   "alternativas": [
+    "El exceso de ácido retinoico altera genes y Shh",
+    "El déficit de folato impide la replicación del DNA",
+    "El déficit de colesterol bloquea la señalización de BMP",
+    "El exceso de vitamina A antagoniza Nogina y Cordina"
+   ],
+   "respuesta": 0,
+   "pista": "El retinoide actúa como factor de transcripción, no como antagonista extracelular.",
+   "argumento": "En la década de 1980 la isotretinoína se asoció a más abortos y a niños malformados. El mecanismo se aclaró al descubrirse los receptores de retinoide, porque el ácido retinoico es un factor de transcripción que activa genes específicos y regula genes de otras señales, incluido Shh. El déficit de folato compromete la replicación del DNA, la división y la movilidad celular. La alteración del metabolismo del colesterol compromete Shh, no BMP, y Nogina y Cordina antagonizan BMP en la neuralización. (Purves p. 537)"
+  },
+  {
+   "id": "c1o-b-014",
+   "enunciado": "Para que el ectodermo se vuelva neural, ¿qué deben hacer Nogina y Cordina?",
+   "alternativas": [
+    "Unirse a las BMP e impedir su unión a receptores",
+    "Activar SMAD 1, 5 y 8 en el neuroectodermo ventral",
+    "Bloquear a Shh en la placa del suelo",
+    "Inducir a Pax3 en el borde de la placa neural"
+   ],
+   "respuesta": 0,
+   "pista": "La neuralización depende de una regulación negativa sobre una vía que empuja a epidermis.",
+   "argumento": "Nogina y Cordina se unen directamente a las BMP e impiden su unión a los receptores, y esa regulación negativa es el fundamento de la neuralización. Si BMP actúa, empuja al ectodermo hacia epidermis y al mesodermo hacia hueso, a través de SMAD 1, 5 y 8, que son la vía de señalización y no su antagonista. Shh especifica identidad ventral y Pax3 marca el borde de la placa y la cresta neural. (Purves pp. 533-535)"
+  },
+  {
+   "id": "c1o-b-015",
+   "enunciado": "La identidad anteroposterior del rombómero 4 depende de HoxB-1. ¿Qué demuestra el ratón mutante carente de Hoxb1?",
+   "alternativas": [
+    "Que el rombómero 4 desaparece y no se forma ningún nervio craneal",
+    "Que sus células inervan blancos trigeminales en vez de faciales",
+    "Que el rombómero 4 genera motoneuronas faciales en posición trigeminal",
+    "Que los rombómeros vecinos asumen por completo la identidad del cuatro"
+   ],
+   "respuesta": 1,
+   "pista": "Un límite de expresión génica se convierte en límite anatómico y funcional.",
+   "argumento": "Sin Hoxb1 las células del rombómero 4 producen motoneuronas que inervan blancos trigeminales en lugar de faciales, de modo que un límite de expresión génica se convierte en límite anatómico y funcional. El rombómero no desaparece: cambia la identidad de sus neuronas. La opción que conserva el blanco facial invierte el resultado. La que atribuye la identidad a los rombómeros vecinos no es lo que muestra el mutante (Kandel cap. 45)."
+  },
+  {
+   "id": "c1o-b-016",
+   "enunciado": "Por cada ATP hidrolizado, la bomba de sodio y potasio de la neurona:",
+   "alternativas": [
+    "Expulsa dos Na⁺ e introduce tres K⁺",
+    "Expulsa tres Na⁺ e introduce tres K⁺",
+    "Introduce tres Na⁺ y expulsa dos K⁺",
+    "Expulsa tres Na⁺ e introduce dos K⁺"
+   ],
+   "respuesta": 3,
+   "pista": "Cuenta los iones de cada lado y recuerda por qué es electrogénica.",
+   "argumento": "La bomba expulsa tres sodios e introduce dos potasios por cada ATP hidrolizado; como el intercambio es asimétrico, es electrogénica y deja una fuerza eléctrica negativa constante al interior. Las opciones que invierten la proporción o igualan las cargas eliminan esa electrogenicidad y no corresponden a la estequiometría descrita. El bombeo sostiene los gradientes que el potencial de acción gasta (Zeise §2.6)."
+  },
+  {
+   "id": "c1o-b-017",
+   "enunciado": "Un lactante de 8 meses tiene perímetro craneal bajo el percentil 1; la resonancia muestra giros y surcos proporcionales, volumen muy reducido y capas relativamente conservadas. ¿Qué mecanismo explica el cuadro?",
+   "alternativas": [
+    "Alteración de la proliferación de los progenitores",
+    "Falla de la migración radial con corteza de cuatro capas",
+    "Sobremigración de neuronas a través de la lámina basal pial",
+    "Detención de una subpoblación en la sustancia blanca"
+   ],
+   "respuesta": 0,
+   "pista": "El patrón de giros está conservado: el problema no es la migración.",
+   "argumento": "La microcefalia congénita altera la proliferación o la supervivencia de los progenitores ventriculares, de modo que el giro y el surco son proporcionales pero el volumen está muy reducido y las capas se conservan relativamente; se asocian ASPM, MCPH1, WDR62 y CENPJ. La falla de migración con cuatro capas corresponde a la agiria. La sobremigración por la pial produce la cobblestone. La detención en la sustancia blanca define la banda subcortical (apuntes, bloque I)."
+  },
+  {
+   "id": "c1o-b-018",
+   "enunciado": "Un lactante de 6 meses presenta convulsiones febriles prolongadas y luego afebriles, con retraso del desarrollo; el estudio muestra pérdida de función de Nav1.1. ¿Por qué convulsiona?",
+   "alternativas": [
+    "Los canales de sodio no se inactivan y la corriente se prolonga",
+    "El canal de potasio KCNQ2 reduce su flujo en la primera semana",
+    "Las interneuronas GABAérgicas pierden excitabilidad primero",
+    "La bomba de sodio y potasio pierde su estequiometría de tres a dos"
+   ],
+   "respuesta": 2,
+   "pista": "Nav1.1 se expresa sobre todo en neuronas inhibitorias: piensa qué se pierde.",
+   "argumento": "El síndrome de Dravet se debe a pérdida de función de Nav1.1, muy expresado en interneuronas GABAérgicas, y produce epilepsia quizá porque las neuronas inhibitorias pierden excitabilidad más que las excitatorias. La falta de inactivación con corriente prolongada describe la epilepsia generalizada con convulsiones febriles. KCNQ2 corresponde a las convulsiones neonatales benignas familiares. La estequiometría de la bomba no es el mecanismo (Kandel cap. 10)."
+  },
+  {
+   "id": "c1o-b-019",
+   "enunciado": "Sobre la laminación cortical: I) Las capas se generan de dentro hacia afuera.  II) Las neuronas nacidas primero ocupan las capas superficiales.  III) Satb2 se enriquece en las neuronas de las capas 2/3.  ¿Cuáles afirmaciones son correctas?",
+   "alternativas": [
+    "Solo II",
+    "Solo I",
+    "Solo II y III",
+    "Todas",
+    "Solo I y III"
+   ],
+   "respuesta": 4,
+   "pista": "Ordena el momento de nacimiento con la posición final de la neurona.",
+   "argumento": "I es verdadera: las neuronas más antiguas ocupan las capas profundas y las generaciones posteriores migran, atraviesan a las ya instaladas y se ubican superficialmente. II es falsa: precisamente por ese orden, las nacidas primero quedan profundas y no superficiales. III es verdadera: Satb2 se enriquece en las neuronas de proyección de las capas 2/3 y en un subconjunto de 5/6, mientras Ctip2 marca 4, 5 y 6. La respuesta es solo I y III (Purves pp. 545-546)."
+  },
+  {
+   "id": "c1o-b-020",
+   "enunciado": "Sobre las canalopatías: I) La eritromelalgia hereditaria por SCN9A es una ganancia de función.  II) La epilepsia generalizada con convulsiones febriles desacelera la inactivación del sodio.  III) Las convulsiones neonatales benignas por KCNQ2 aumentan el flujo de potasio.  ¿Cuáles afirmaciones son correctas?",
+   "alternativas": [
+    "Solo I",
+    "Solo II",
+    "Solo I y II",
+    "Solo II y III",
+    "Todas"
+   ],
+   "respuesta": 2,
+   "pista": "Cada numeral pide un gen, un canal y un sentido del cambio funcional.",
+   "argumento": "I es verdadera: en la eritromelalgia la compuerta se abre a potenciales más hiperpolarizados, lo que es ganancia de función, mientras la insensibilidad congénita al dolor por el mismo gen es pérdida. II es verdadera: la epilepsia generalizada con convulsiones febriles se debe a una desaceleración de la inactivación del sodio. III es falsa: KCNQ2 y KCNQ3 reducen el flujo de potasio. La respuesta es solo I y II (Purves pp. 82-83)."
+  },
+  {
+   "id": "c1o-b-021",
+   "enunciado": "Sobre la señalización Delta-Notch en la zona ventricular, ¿cuál de las siguientes afirmaciones es correcta?",
+   "alternativas": [
+    "El ligando Delta difunde hasta células a distancia y las inhibe",
+    "La célula con menos Delta activa bHLH y se diferencia primero",
+    "NICD se une a RBP-J y mantiene reprimidos los genes Hes",
+    "Ninguna de las anteriores"
+   ],
+   "respuesta": 3,
+   "pista": "Delta-Notch exige contacto: revisa quién gana la competencia local.",
+   "argumento": "Ninguna es correcta. La señalización ocurre solo entre células yuxtapuestas, no por difusión a distancia. La célula que aumenta Delta, no la que lo reduce, incrementa bHLH y se prepara para diferenciarse, mientras las vecinas con menos Delta siguen como madre. NICD se une a RBP-J, revierte su represión y activa Hes y factores bHLH. El resultado es inhibición lateral con reserva proliferativa (Purves pp. 543-544)."
+  },
+  {
+   "id": "c1o-b-022",
+   "enunciado": "Sobre la mielina y la conducción saltatoria, ¿cuál de las siguientes afirmaciones es correcta?",
+   "alternativas": [
+    "Aumenta la resistencia de membrana del internodo",
+    "Disminuye la capacitancia de la membrana axonal",
+    "Concentra los canales de sodio en los nodos de Ranvier",
+    "Todas las anteriores"
+   ],
+   "respuesta": 3,
+   "pista": "Repasa los tres efectos: resistencia, capacitancia y ubicación de canales.",
+   "argumento": "Las tres son verdaderas. La mielina aumenta la resistencia de membrana y disminuye la capacitancia, de modo que la corriente local llega más lejos y más fuerte al nodo siguiente; los canales de sodio dependientes de voltaje se concentran en los nodos de Ranvier y allí se regenera la señal, en cerca del 1 % de la membrana. La mielina no engrosa el conductor ni cambia la resistencia axial (Zeise §2.5.5; Purves p. 78)."
+  },
+  {
+   "id": "c1o-b-023",
+   "enunciado": "¿Qué incorpora la ecuación de Goldman-Hodgkin-Katz que la de Nernst no considera?",
+   "alternativas": [
+    "Las permeabilidades relativas de los iones",
+    "La actividad de la bomba de sodio y potasio",
+    "La concentración intracelular de calcio libre",
+    "La capacitancia específica de la membrana"
+   ],
+   "respuesta": 0,
+   "pista": "Nernst resuelve un ion; Goldman resuelve varios con pesos distintos.",
+   "argumento": "Goldman, Hodgkin y Katz resolvieron el caso de una membrana permeable a varios iones a la vez e incorporaron las permeabilidades relativas, ponderando el aporte de cada batería. La ecuación no incluye el calcio, porque juega un papel menor en la generación de señales eléctricas, ni las bombas, porque no participan directamente. La capacitancia pertenece al circuito equivalente del cable, no a esta ecuación (Zeise §2.2.6)."
+  },
+  {
+   "id": "c1o-b-024",
+   "enunciado": "Un niño de 3 años con epilepsia y retraso muestra en la resonancia una banda simétrica y continua de sustancia gris en la sustancia blanca, con corteza externa conservada. ¿Qué mecanismo lo explica?",
+   "alternativas": [
+    "Neuronas que no inician la migración y quedan en el epéndimo",
+    "Neuronas que se detienen a mitad de camino hacia la corteza",
+    "Neuronas que sobremigran y atraviesan la lámina basal pial",
+    "Una falla completa de la migración con corteza de cuatro capas"
+   ],
+   "respuesta": 1,
+   "pista": "La banda está en la sustancia blanca: la célula avanzó y se detuvo.",
+   "argumento": "En la banda subcortical una subpoblación de neuronas se detiene a mitad de camino en la sustancia blanca y deja una banda simétrica y continua de sustancia gris bajo una corteza externa conservada; se asocian DCX, KIF2A, LIS1, TUBA1A y TUBG1. La retención en el epéndimo es la heterotopia nodular, la sobremigración por la pial es la cobblestone y la falla completa con cuatro capas es la agiria (apuntes, bloque I)."
+  },
+  {
+   "id": "c1o-b-025",
+   "enunciado": "Una mujer de 24 años presenta episodios de hemiparesia transitoria con cefalea y antecedentes familiares; se identifica una mutación en ATP1A2. ¿Qué función altera esa mutación?",
+   "alternativas": [
+    "Un canal de sodio dependiente de voltaje",
+    "Un receptor nicotínico de acetilcolina",
+    "Una ATPasa de sodio y potasio",
+    "Un canal de calcio de alto umbral"
+   ],
+   "respuesta": 2,
+   "pista": "El nombre del gen delata la familia proteica a la que pertenece.",
+   "argumento": "ATP1A2 codifica una subunidad de la bomba de sodio y potasio, una ATPasa de tipo P, y sus mutaciones causan migraña hemipléjica familiar. ATP1A3 se asocia a distonía-parkinsonismo de inicio rápido y a hemiplejía alternante de la infancia. Los canales de sodio explican canalopatías epilépticas y dolorosas, los de calcio afectan la liberación de transmisor y el receptor nicotínico es la diana del curare (Kandel cap. 9)."
+  },
+  {
+   "id": "c1o-b-026",
+   "enunciado": "¿Qué función cumple el cilio primario del dominio apical de las células de la zona ventricular?",
+   "alternativas": [
+    "Muestrea Shh e IGF del líquido cefalorraquídeo",
+    "Genera la fuerza de tracción para la migración radial",
+    "Secreta reelina hacia la zona marginal de la corteza",
+    "Ancla el núcleo a la superficie pial durante la fase S"
+   ],
+   "respuesta": 0,
+   "pista": "El cilio mira hacia la luz y lee lo que hay disuelto.",
+   "argumento": "El cilio primario ocupa el dominio apical que enfrenta la luz y muestrea Shh y el factor de crecimiento similar a la insulina presentes en el líquido amniótico o en el cefalorraquídeo, y esa lectura se traduce en instrucciones de proliferación o de división neurogénica terminal. No genera tracción migratoria, no secreta reelina, que proviene de las células de Cajal-Retzius, y no ancla el núcleo, que se desplaza dentro del citoplasma (Purves p. 543)."
+  },
+  {
+   "id": "c1o-b-027",
+   "enunciado": "¿Qué diferencia al curare de la α-bungarotoxina sobre el canal nicotínico del músculo esquelético?",
+   "alternativas": [
+    "El curare lo bloquea de forma potente y casi irreversible",
+    "La α-bungarotoxina lo activa y aumenta la apertura",
+    "Ambos producen un bloqueo débil y reversible del canal",
+    "El curare bloquea débil y reversible; la toxina, fuerte"
+   ],
+   "respuesta": 3,
+   "pista": "Compara la potencia y la reversibilidad de ambos sobre el mismo canal.",
+   "argumento": "El curare es un antagonista competitivo del canal nicotínico de acetilcolina del músculo esquelético, con bloqueo débil y reversible, mientras la α-bungarotoxina bloquea el mismo canal de forma fuerte y casi irreversible. Por eso la opción que atribuye el bloqueo fuerte al curare invierte los términos. Ninguna de las dos activa el canal. Atribuir bloqueo débil y reversible a ambas desconoce la potencia de la toxina (Kandel cap. 8)."
+  },
+  {
+   "id": "c1o-b-028",
+   "enunciado": "Sobre los potenciales de equilibrio: I) El del potasio es cercano a −95 mV.  II) El del calcio reduce a la mitad el prefactor del logaritmo por su valencia dos.  III) El potencial de equilibrio es proporcional a la diferencia de concentración.  ¿Cuáles afirmaciones son correctas?",
+   "alternativas": [
+    "Solo I",
+    "Solo II",
+    "Solo I y III",
+    "Solo I y II",
+    "Todas"
+   ],
+   "respuesta": 3,
+   "pista": "Distingue el logaritmo de la razón de la simple diferencia de concentraciones.",
+   "argumento": "I es verdadera: la tabla del texto da −94,6 mV para el potasio, con gradiente de salida y signo negativo. II es verdadera: en la forma decimal el prefactor es 61 dividido por la valencia, de modo que el calcio lo reduce a la mitad y su equilibrio llega a +129 mV. III es falsa: el potencial es proporcional al logaritmo de la razón entre concentraciones, no a la diferencia. La respuesta es solo I y II (Zeise §2.2.6)."
+  },
+  {
+   "id": "c1o-b-029",
+   "enunciado": "¿Por qué ruta y desde dónde llegan las interneuronas GABAérgicas a la corteza?",
+   "alternativas": [
+    "Por vía radial desde la zona ventricular dorsal",
+    "Tangencial, desde las eminencias ganglionares",
+    "Por axones guía desde el epitelio olfatorio",
+    "Por la glía de Bergmann desde el cerebelo"
+   ],
+   "respuesta": 1,
+   "pista": "No vienen de la zona ventricular dorsal: nacen en el cerebro ventral.",
+   "argumento": "La tercera ruta es tangencial o no radial: las interneuronas GABAérgicas nacen en las eminencias ganglionares medial y lateral y se desplazan hacia corteza, hipocampo y bulbo olfatorio. La vía radial guiada por glía explica las neuronas de proyección cortical y las granulares del cerebelo. Los axones como guía sirven a ciertas motoneuronas craneales y a las neuronas GnRH que van al hipotálamo (Purves p. 550)."
+  },
+  {
+   "id": "c1o-b-030",
+   "enunciado": "Un recién nacido presenta en la región lumbosacra un saco con líquido cefalorraquídeo, meninges y tejido nervioso displásico. ¿En qué momento del desarrollo se produjo el defecto?",
+   "alternativas": [
+    "En el cierre del neuroporo anterior, hacia el día 24",
+    "En la migración radial, hacia la semana 20 de gestación",
+    "En el cierre del neuroporo posterior, días 26 a 28",
+    "En la proliferación ventricular del segundo trimestre"
+   ],
+   "respuesta": 2,
+   "pista": "Es un disrafismo espinal abierto: piensa en el neuroporo posterior.",
+   "argumento": "El mielomeningocele es la forma más grave y frecuente de disrafismo espinal abierto y se debe a falla del cierre del neuroporo posterior entre los días 26 y 28; protruye un saco con líquido, meninges y tejido nervioso displásico. El neuroporo anterior cierra antes y su falla produce otros cuadros. La migración radial y la proliferación del segundo trimestre ocurren después y explican malformaciones corticales, no un disrafismo (apuntes, bloque I)."
+  },
+  {
+   "id": "c1o-b-031",
+   "enunciado": "En el receptor AMPA, ¿qué efecto tiene la edición del ARN de la subunidad GluA2?",
+   "alternativas": [
+    "Impide el ingreso de calcio por repulsión electrostática en el poro",
+    "Aumenta la permeabilidad al calcio al ensanchar el poro del canal",
+    "Vuelve al receptor dependiente de magnesio y de despolarización",
+    "Reduce la conductancia al sodio y retrasa la despolarización"
+   ],
+   "respuesta": 0,
+   "pista": "Recuerda qué aminoácido se coloca en el poro y qué ion repele.",
+   "argumento": "La edición del ARN de GluA2 coloca una arginina en el poro y genera repulsión electrostática que impide el paso de calcio. Si la edición falla, todos los AMPA se vuelven permeables al calcio y el animal tiene crisis y muere en semanas. Aumentar la permeabilidad al calcio es el efecto de perder la edición. La dependencia de magnesio y la baja conductancia al sodio corresponden al NMDA y a otros canales (Kandel cap. 13)."
+  },
+  {
+   "id": "c1o-b-032",
+   "enunciado": "En tejido epiléptico humano resecado por esclerosis del Cuerno de Ammón, el componente tardío dependiente de GABA_B resulta casi inexistente. Según el material, ¿qué sugiere este hallazgo?",
+   "alternativas": [
+    "Que los receptores GABA_B son esenciales para impedir que la corteza entre en estados de actividad elevada",
+    "Que el receptor GABA_A perdió sus sitios alostéricos y por eso el freno rápido desapareció",
+    "Que el componente tardío es un artefacto: solo aparece cuando el tejido se estudia en configuración whole-cell",
+    "Que la hiperpolarización tardía se debe a apertura de cloruro y alcanza valores más allá de -80 mV"
+   ],
+   "respuesta": 0,
+   "pista": "El freno que falta es el metabotrópico; pregúntese qué protege a la corteza de la actividad elevada.",
+   "argumento": "El IPSP del GABA es bifásico: un componente rápido por GABA_A, con voltaje de inversión cercano a -70 mV, y un componente tardío por GABA_B, que abre canales de potasio y cierra canales de calcio hiperpolarizando más allá de -80 mV. Que ese componente tarde casi no exista en el tejido resecado sugiere que los GABA_B son esenciales para impedir que la corteza entre en estados de actividad elevada. El distractor del cloruro confunde el ion de GABA_A con el del GABA_B, y whole-cell es el método en que el componente tardío desaparece, no el hallazgo clínico (Zeise §4.3.5.2)."
+  },
+  {
+   "id": "c1o-b-033",
+   "enunciado": "¿Qué caracteriza la terminación de la acción de la acetilcolina en la sinapsis?",
+   "alternativas": [
+    "La recaptación de acetato de alta afinidad la reintroduce al terminal",
+    "La monoaminooxidasa la degrada en colina y acetato en la hendidura",
+    "La acetilcolinesterasa hidroliza casi 1000 moléculas por segundo",
+    "La glía la convierte en glutamina y la devuelve a la neurona"
+   ],
+   "respuesta": 2,
+   "pista": "Sigue el destino de la colina después de la hidrólisis.",
+   "argumento": "La acetilcolina se termina por hidrólisis: las acetilcolinesterasas son de las enzimas más efectivas conocidas e hidrolizan casi 1000 moléculas por segundo, y la colina se recapta por transporte de alta afinidad. La opción del acetato invierte ese transporte. La monoaminooxidasa degrada monoaminas y no acetilcolina, y la conversión a glutamina pertenece a la recaptación glial del glutamato (Zeise §4.3.7)."
+  },
+  {
+   "id": "c1o-b-034",
+   "enunciado": "Sobre el principio de Dale y la población de neuronas transmisoras, señale cuál(es) afirmación(es) es/son correcta(s).  I) Cerca de 80 millones de neuronas del cerebro y el cerebelo usan glutamato o GABA.  II) El locus coeruleus aporta unas 165.000 neuronas noradrenérgicas.  III) La proporción entre neuronas de aminoácidos y el resto es de al menos 100.000 a 1.",
+   "alternativas": [
+    "Solo I",
+    "Solo II",
+    "Solo I y II",
+    "Solo I y III",
+    "Todas"
+   ],
+   "respuesta": 3,
+   "pista": "Verifica cuántas neuronas tiene cada núcleo antes de contestar.",
+   "argumento": "I es verdadera: hay alrededor de 80 millones de neuronas glutamatérgicas y GABAérgicas en cerebro y cerebelo. II es falsa: el locus coeruleus aporta unas 20.000 noradrenérgicas y las 165.000 son serotoninérgicas de los núcleos del rafe. III es verdadera: la proporción es de al menos 100.000 a 1. Por eso la respuesta es solo I y III (Zeise §4.2)."
+  },
+  {
+   "id": "c1o-b-035",
+   "enunciado": "Sobre las constricciones del tronco dendrítico descritas por Kelly, ¿cuál de las siguientes afirmaciones es correcta?",
+   "alternativas": [
+    "Reducen la resistencia axial del segmento",
+    "Aumentan la impedancia de transferencia",
+    "Aumentan el EPSP que llega al soma",
+    "Ninguna de las anteriores"
+   ],
+   "respuesta": 3,
+   "pista": "Separa impedancia de entrada, de transferencia y efecto en el soma.",
+   "argumento": "Las tres primeras son falsas. La constricción aumenta la resistencia axial por micrómetro de 5,5 a 34,8 MΩ, no la reduce. La impedancia de entrada sube y la de transferencia baja, de modo que la señal distal llega atenuada al soma. El EPSP somático se atenúa entre 1,4 y 14 %. Por eso la correcta es ninguna de las anteriores (Kelly §7, §8)."
+  },
+  {
+   "id": "c1o-b-036",
+   "enunciado": "Una mujer de 28 años presenta psicosis, crisis epilépticas y anticuerpos contra el receptor NMDA. ¿Qué sustenta la relación entre ese receptor y el cuadro?",
+   "alternativas": [
+    "El bloqueo farmacológico del NMDA reproduce síntomas esquizofreniformes",
+    "La sobreexpresión de receptores NMDA en la neocorteza causa psicosis aguda",
+    "Los anticuerpos destruyen las interneuronas GABAérgicas del rafe",
+    "El receptor NMDA solo participa en la transmisión del tronco encefálico"
+   ],
+   "respuesta": 0,
+   "pista": "Piensa qué pasa con la psicosis cuando se bloquea el NMDA.",
+   "argumento": "El bloqueo farmacológico del NMDA con fenciclidina, ketamina o MK801 produce alucinaciones y síntomas esquizofreniformes, y la encefalitis anti-NMDA cursa con psicosis y crisis. Eso sostiene el vínculo entre hipofunción del receptor y psicosis. La sobreexpresión no es el mecanismo descrito, los anticuerpos no destruyen interneuronas del rafe y el receptor no se limita al tronco. La ketamina en dosis bajas, en cambio, tiene acción antidepresiva rápida (Kandel cap. 13)."
+  },
+  {
+   "id": "c1o-b-037",
+   "enunciado": "En tejido humano resecado por esclerosis del Cuerno de Ammón, el componente tardío de la respuesta GABA es casi inexistente. ¿Qué interpretación propone el capítulo?",
+   "alternativas": [
+    "Que los receptores GABA_A migran al axón y dejan de responder",
+    "Que la esclerosis destruye las neuronas glicinérgicas",
+    "Que los GABA_B son esenciales para frenar la hiperactividad",
+    "Que el tejido epiléptico pierde la recaptación glial"
+   ],
+   "respuesta": 2,
+   "pista": "Identifica qué componente de la respuesta GABA desaparece.",
+   "argumento": "El componente tardío corresponde al GABA_B y desaparece en tejido epiléptico humano resecado por esclerosis del Cuerno de Ammón. La interpretación es que estos receptores son esenciales para evitar que la corteza entre en estados de actividad elevada. La migración de GABA_A, la destrucción de neuronas glicinérgicas y la pérdida de recaptación glial no son las explicaciones del material (Zeise §4.3.5.2)."
+  },
+  {
+   "id": "c1o-b-038",
+   "enunciado": "Un hombre de 20 años consulta por debilidad distal y atrofia muscular; el estudio muestra una neuropatía desmielinizante ligada al X. ¿Qué proteína está afectada?",
+   "alternativas": [
+    "La conexina 32 de las células de Schwann",
+    "La conexina 26 de la cóclea interna",
+    "La neurexina presináptica del terminal",
+    "La estargazina de las células granulares del cerebelo"
+   ],
+   "respuesta": 0,
+   "pista": "Pregúntate qué célula produce la mielina periférica.",
+   "argumento": "La conexina 32 se expresa en células de Schwann y forma canales que mantienen unidas las capas de mielina; su mutación causa la forma ligada al X de Charcot-Marie-Tooth, un trastorno desmielinizante. La conexina 26 participa en la secreción de fluidos del oído interno y explica sordera congénita. La neurexina y la estargazina cumplen funciones de adhesión y tráfico sináptico, no de mielina (Kandel cap. 11; Zeise §4.3.1)."
+  },
+  {
+   "id": "c1o-b-039",
+   "enunciado": "¿Hasta qué edad aproximada continúa la mielinización del encéfalo humano, según el material?",
+   "alternativas": [
+    "Hasta los 14 años, al cerrarse la poda",
+    "Hasta los 18 años, al cerrar la pubertad",
+    "Hasta cerca de los 30 años",
+    "Hasta los 50 años, al perderse mielina"
+   ],
+   "respuesta": 2,
+   "pista": "Distingue el fin de la maduración sexual del fin de la mielinización.",
+   "argumento": "La mielinización humana termina alrededor de los 30 años, muy después de la maduración sexual, que suele tomarse como medida del fin del período ontogenético. A los 14 años se alcanza el pico de sustancia gris subcortical y comienza la poda, pero la sustancia blanca sigue creciendo. La caída de la sustancia blanca desde los 50 a 60 años es propia del envejecimiento (Zeise §7.2.1; apuntes, bloque II)."
+  },
+  {
+   "id": "c1o-b-040",
+   "enunciado": "¿Qué consecuencia deja la privación de estímulo en un ojo durante los primeros años, por catarata congénita?",
+   "alternativas": [
+    "Ambliopía que no revierte con corrección óptica en la adultez",
+    "Ceguera cortical total que revierte al operar la catarata congénita",
+    "Pérdida simétrica de ambos campos visuales nasales",
+    "Desorganización de las columnas de dominancia del ojo sano"
+   ],
+   "respuesta": 0,
+   "pista": "Piensa en la competencia entre ambos ojos por territorio cortical.",
+   "argumento": "La privación de estímulo en un ojo durante los primeros años reorganiza las columnas de dominancia a favor del ojo sano y deja una ambliopía, ceguera cortical parcial que no revierte con corrección óptica en la adultez. Por eso el tamizaje y la intervención temprana tienen sentido. La ceguera total reversible, la pérdida simétrica de campos y la desorganización del ojo sano no corresponden al cuadro (apuntes, bloque II)."
+  },
+  {
+   "id": "c1o-b-041",
+   "enunciado": "¿Qué efecto tiene el ambiente enriquecido sobre las neuronas nuevas del giro dentado?",
+   "alternativas": [
+    "Aumenta la proliferación de las células madre del nicho",
+    "Aumenta la supervivencia y la integración de los neuroblastos",
+    "Duplica el número de células madre tipo 1 del nicho",
+    "Bloquea la apoptosis de todos los progenitores tipo 2"
+   ],
+   "respuesta": 1,
+   "pista": "Distingue proliferar de sobrevivir e integrarse.",
+   "argumento": "El ambiente enriquecido no aumenta necesariamente la proliferación de las células madre, pero incrementa la supervivencia y la integración de las neuronas nuevas y rescata neuroblastos de la apoptosis. Produce arborización dendrítica, más espinas, angiogénesis y aumento de BDNF e IGF-1. Duplicar células madre o bloquear toda la apoptosis exagera el efecto, que decide cuáles sobreviven y cómo se conectan (apuntes, bloque VII)."
+  },
+  {
+   "id": "c1o-b-042",
+   "enunciado": "Sobre la plasticidad del desarrollo y del adulto, señale cuál(es) afirmación(es) es/son correcta(s).  I) El adulto conserva cambios estructurales, como nuevas espinas tras la LTP.  II) El cambio de hemisferio del lenguaje tras una lesión temprana también ocurre en el adulto.  III) Los malabaristas muestran áreas corticales visuales agrandadas.",
+   "alternativas": [
+    "Solo I",
+    "Solo III",
+    "Solo II y III",
+    "Todas",
+    "Solo I y III"
+   ],
+   "respuesta": 4,
+   "pista": "Compara lo que el adulto conserva con lo que solo logra el desarrollo.",
+   "argumento": "I es verdadera: en el adulto la LTP produce nuevas espinas y hay cambios estructurales macroscópicos. II es falsa: el cambio de hemisferio del lenguaje tras una lesión temprana nunca ocurre en el cerebro adulto. III es verdadera: los malabaristas muestran áreas corticales visuales agrandadas. Por eso la respuesta es solo I y III. El adulto conserva plasticidad, pero perdió la facilidad para reorganizaciones masivas (Zeise §7.2.1, §7.3.1)."
+  },
+  {
+   "id": "c1o-b-043",
+   "enunciado": "Sobre el nicho neurogénico de la zona subgranular, señale cuál(es) afirmación(es) es/son correcta(s).  I) Las células madre tipo 1 permanecen en quiescencia en G0 en condiciones basales.  II) Las células endoteliales secretan VEGF y BDNF que regulan su destino.  III) El BDNF actúa sobre la proliferación inicial y no sobre la supervivencia.",
+   "alternativas": [
+    "Solo I",
+    "Solo II",
+    "Solo I y II",
+    "Solo II y III",
+    "Todas"
+   ],
+   "respuesta": 2,
+   "pista": "Ubica el BDNF en la línea temporal de la neurogénesis.",
+   "argumento": "I es verdadera: en condiciones basales la mayoría de las células madre tipo 1 permanece en G0. II es verdadera: las células endoteliales secretan VEGF, PEDF, BDNF y neurotrofinas que deciden si la célula se mantiene, se activa o se diferencia. III es falsa: el BDNF actúa en fases posteriores, sobre supervivencia, diferenciación e integración, no en la proliferación inicial (apuntes, bloque VII)."
+  },
+  {
+   "id": "c1o-b-044",
+   "enunciado": "Sobre el ejercicio y la neurogénesis, ¿cuál de las siguientes afirmaciones es correcta?",
+   "alternativas": [
+    "El ejercicio voluntario aumenta la neurogénesis 2 a 3 veces",
+    "Las células nuevas del corredor expresan NeuN y no GFAP",
+    "El BDNF del efecto se produce en el sistema nervioso",
+    "Todas las anteriores"
+   ],
+   "respuesta": 3,
+   "pista": "Revisa si cada afirmación sobre el ejercicio es exacta.",
+   "argumento": "Las tres primeras son verdaderas. El ejercicio voluntario produce 2 a 3 veces más neurogénesis que el sedentarismo; las células nuevas se diferencian en neuronas maduras NeuN positivas y GFAP negativas; y el BDNF que media el efecto se produce en el sistema nervioso central y no en el músculo. Por eso la correcta es todas las anteriores (apuntes, bloque VII)."
+  },
+  {
+   "id": "c1o-b-045",
+   "enunciado": "Un hombre ciego lee Braille desde los 6 años y muestra mayor agudeza táctil en el dedo lector, pero peor localización espacial en ese mismo dedo. ¿Qué explica esa disociación?",
+   "alternativas": [
+    "Una compensación entre capacidades sensoriales opuestas",
+    "Una lesión del nervio mediano por el uso prolongado",
+    "La pérdida de representación cortical del dedo lector",
+    "Un desplazamiento del mapa táctil hacia la corteza auditiva"
+   ],
+   "respuesta": 0,
+   "pista": "Piensa en un intercambio entre agudeza y localización.",
+   "argumento": "En los lectores de Braille la expansión del área del dedo de lectura se relaciona con agudeza táctil mejorada, pero sus habilidades de localización espacial en esos dedos se reducen de forma significativa. El material lo interpreta como una compensación entre capacidades opuestas, no como lesión nerviosa, pérdida de representación ni traslado a la corteza auditiva. La expansión del área del dedo lector acompaña la mejora táctil (Zeise §7.3.1)."
+  },
+  {
+   "id": "c1o-b-046",
+   "enunciado": "En ratones, la sucralosa reduce la diversidad de la microbiota y el triptófano cecal, y produce conducta tipo anhedonia. ¿Qué mecanismo propone el material?",
+   "alternativas": [
+    "Neurotoxicidad directa de la sucralosa sobre las neuronas granulares",
+    "Disbiosis con menos sustrato para la serotonina y neuroinflamación",
+    "Bloqueo de receptores NMDA del giro dentado por el edulcorante",
+    "Aumento del acetato fecal y de la barrera hematoencefálica"
+   ],
+   "respuesta": 1,
+   "pista": "Sigue la cadena microbiota, triptófano, serotonina, conducta.",
+   "argumento": "En modelos murinos la sucralosa no es neurotóxica directa: produce disbiosis con menor diversidad alfa y depleción de Bacteroides acidifaciens, baja el triptófano cecal y con ello el sustrato para la serotonina, y reduce ácidos grasos de cadena corta como el acetato fecal. La neuroinflamación de bajo grado consolida anhedonia y desesperanza. El aumento de acetato es lo contrario de lo descrito (apuntes, bloque VII)."
+  },
+  {
+   "id": "c1o-b-047",
+   "enunciado": "Mujer de 71 años, con 3 meses de deterioro cognitivo, ataxia y mioclonías que aparecen al escuchar un ruido. ¿Qué mecanismo explica este cuadro?",
+   "alternativas": [
+    "Acumulación de Aβ extracelular con curso de años",
+    "Degeneración del caudado por repeticiones CAG",
+    "Propagación de proteína mal plegada autotemplada",
+    "Pérdida de mielina con canales de potasio expuestos"
+   ],
+   "respuesta": 2,
+   "pista": "El tiempo en meses y el estímulo sonoro apuntan a una demencia rápida.",
+   "argumento": "El cuadro es una demencia rápidamente progresiva con mioclonías de estímulo y ataxia, propio de la ECJ, donde la PrP^Sc actúa como plantilla y convierte la PrP^C. El amiloide con curso de años corresponde al Alzheimer, la degeneración del caudado a Huntington y la pérdida de mielina a la desmielinización, que no da este perfil. La regla de sospecha exige deterioro rápido más dos elementos (apuntes, bloque VI)."
+  },
+  {
+   "id": "c1o-b-048",
+   "enunciado": "¿En qué consiste el fundamento del RT-QuIC para el diagnóstico de ECJ?",
+   "alternativas": [
+    "Amplifica la semilla del LCR con PrP recombinante",
+    "Mide la proteína 14-3-3 liberada por la necrosis",
+    "Registra complejos periódicos en el electroencefalograma",
+    "Cuantifica la atrofia cortical en la resonancia magnética"
+   ],
+   "respuesta": 0,
+   "pista": "Piense en una amplificación de la semilla, no en una medida de daño.",
+   "argumento": "El RT-QuIC parte de LCR con semillas PrP^Sc, agrega PrP normal recombinante y tioflavina T, agita con vibración y mide fluorescencia en tiempo real. Es una amplificación de la semilla, no una medición de daño. La 14-3-3 es un marcador subrogado, el EEG muestra un patrón eléctrico y la resonancia muestra topografía; ninguna detecta la semilla activa (apuntes, bloque VI)."
+  },
+  {
+   "id": "c1o-b-049",
+   "enunciado": "Hombre de 70 años con alucinaciones visuales, desorientación espacial marcada y memoria relativamente conservada. ¿Qué entidad y proteína corresponden?",
+   "alternativas": [
+    "Alzheimer, con ovillos de tau intracelulares",
+    "Cuerpos de Lewy, por α-sinucleína",
+    "Huntington, con agregados de huntingtina",
+    "ECJ, con fibras amiloides de PrP^Sc"
+   ],
+   "respuesta": 1,
+   "pista": "La memoria pesa poco y lo visuoespacial domina: invierta el perfil.",
+   "argumento": "La demencia por cuerpos de Lewy se reconoce por el perfil invertido: memoria menos comprometida y falla visuoespacial, atencional y ejecutiva más grave, con alucinaciones visuales. La proteína es la α-sinucleína, distribuida de forma difusa por corteza y estructuras subcorticales. El Alzheimer tiene más amnesia, Huntington da corea y la ECJ es rápida con mioclonías (apuntes, bloque V)."
+  },
+  {
+   "id": "c1o-b-050",
+   "enunciado": "Sobre las formas de la enfermedad de Creutzfeldt-Jakob, señale cuál(es) de las siguientes afirmaciones es/son correcta(s).  I) La forma esporádica corresponde a alrededor del 85 % de los casos.  II) La forma iatrogénica representa menos del 1 %.  III) La forma genética explica entre 40 y 50 % de los casos.",
+   "alternativas": [
+    "Solo I",
+    "Solo I y II",
+    "Solo II y III",
+    "Solo I y III",
+    "Todas"
+   ],
+   "respuesta": 1,
+   "pista": "Recuerde cuánto pesa la forma sin mutación y cuánto la heredable.",
+   "argumento": "I y II son verdaderas: la esporádica ronda el 85 % y la iatrogénica queda bajo el 1 %. III es falsa: la genética o familiar es 10 a 15 %, no 40 a 50 %. Solo I omite la iatrogénica, y las opciones con III sobreestiman la forma heredable. La esporádica domina y carece de mutación identificable, por eso el diagnóstico se sostiene en clínica y exámenes (apuntes, bloque VI)."
+  },
+  {
+   "id": "c1o-b-051",
+   "enunciado": "Según la ley de polarización dinámica de 1891, ¿qué papel cumple cada parte de la neurona?",
+   "alternativas": [
+    "El axón recibe y la dendrita conduce hacia la periferia",
+    "Dendrita y soma conducen, y el axón recibe el estímulo",
+    "Ambas estructuras conducen en los dos sentidos",
+    "Dendrita y soma reciben, y el axón conduce hacia fuera"
+   ],
+   "respuesta": 3,
+   "pista": "Distinga la estructura celulípeta de la celulífuga.",
+   "argumento": "La ley establece que dendritas y soma son celulípetas, receptoras, y el axón o cilindroeje es celulífugo, efector, y conduce hacia la periferia. La primera opción invierte los papeles, la segunda también, y la tercera niega la unidireccionalidad. La excepción axípeta de neuronas sensitivas primarias no derriba el principio: el axón sigue siendo la salida (apuntes p. 55)."
+  },
+  {
+   "id": "c1o-b-052",
+   "enunciado": "Hombre de 45 años con movimientos bruscos de cara y extremidades, irritabilidad y padre fallecido por la misma enfermedad. ¿Qué hallazgo esperaría en la neuroimagen?",
+   "alternativas": [
+    "Atrofia de la cabeza del caudado con ventrículos ampliados",
+    "Cortical ribboning en la corteza y en el caudado",
+    "Placas extracelulares de amiloide en la corteza",
+    "Microcavidades difusas en la corteza y los ganglios basales"
+   ],
+   "respuesta": 0,
+   "pista": "Ubique el núcleo que se pierde en Huntington y qué ocurre con el ventrículo.",
+   "argumento": "La corea con antecedente paterno sugiere Huntington, autosómica dominante por repeticiones CAG. La anatomía patológica muestra atrofia de los ganglios basales, en particular la cabeza del caudado, y crecimiento ventricular que ocupa el espacio perdido. El cortical ribboning y las microcavidades son de ECJ, y las placas de amiloide, de Alzheimer. La corea no es el único componente: hay riesgo de suicidio (apuntes, bloque V)."
+  },
+  {
+   "id": "c1o-b-053",
+   "enunciado": "Sobre los hallazgos de resonancia en la ECJ, ¿cuál de las siguientes opciones es correcta?",
+   "alternativas": [
+    "El FLAIR es más sensible que la DWI en la fase precoz",
+    "El cortical ribboning es una señal en la sustancia blanca",
+    "El signo del pulvinar es típico de la forma esporádica",
+    "Ninguna de las anteriores es correcta"
+   ],
+   "respuesta": 3,
+   "pista": "Revise qué secuencia es precoz y dónde se ubica cada signo.",
+   "argumento": "Ninguna es correcta. La DWI es más sensible y precoz que el FLAIR, que puede ser negativo al inicio. El cortical ribboning es una señal lineal brillante en la corteza, no en la sustancia blanca. El signo del pulvinar o palo de hockey en el tálamo posterior es típico de la variante, no de la esporádica. La restricción bilateral en caudado y putamen sí aparece en la ECJ (apuntes, bloque VI)."
+  },
+  {
+   "id": "c1o-b-054",
+   "enunciado": "¿Qué medida de descontaminación exige el instrumental neuroquirúrgico expuesto a una sospecha de ECJ?",
+   "alternativas": [
+    "Autoclave convencional a 121 °C durante 20 minutos",
+    "Alcohol de 70 % seguido de formaldehído",
+    "Hidróxido de sodio o incineración del material",
+    "Radiación ultravioleta y glutaraldehído"
+   ],
+   "respuesta": 2,
+   "pista": "Recuerde qué agentes habituales no bastan contra el prión.",
+   "argumento": "El prión resiste alcohol, radiación, formaldehído y autoclave convencional; la descontaminación requiere hidróxido de sodio o incineración, y el instrumental de una sospecha exige tratamiento especial o desecho. Las opciones con autoclave, alcohol, formaldehído o radiación describen métodos insuficientes. Esa resistencia explica precauciones distintas de las de una infección habitual y es la base de la bioseguridad hospitalaria (apuntes, bloque VI)."
+  },
+  {
+   "id": "c1o-b-055",
+   "enunciado": "En la serie de 47 casos de la Región de Ñuble, 26 pacientes Glu200Lys heterocigotos tuvieron ECJ genética. ¿Qué explica la alta incidencia regional de E200K?",
+   "alternativas": [
+    "Una mutación de novo frecuente en la población local",
+    "Un efecto fundador con familias portadoras extensas",
+    "Una mayor exposición a instrumental contaminado",
+    "Una penetrancia completa en todos los portadores"
+   ],
+   "respuesta": 1,
+   "pista": "La mutación no aparece en cada familia: se hereda de un antepasado común.",
+   "argumento": "Chile tiene una incidencia alta de ECJ familiar por un efecto fundador: la mutación se hereda de un antepasado común y se concentra en un territorio, con grupos familiares portadores extensos. No es una mutación de novo frecuente, ni exposición a instrumental, que corresponde a la forma iatrogénica. La penetrancia aumenta con la edad y no es completa. La serie es un manuscrito sometido y no se generaliza al país (apuntes, bloque VI)."
+  },
+  {
+   "id": "c1o-b-056",
+   "enunciado": "Sobre los recursos técnicos que sostuvieron el trabajo de Cajal, señale cuál(es) de las siguientes afirmaciones es/son correcta(s).  I) Trabajó principalmente con tejido nervioso adulto de primates.  II) Importó lentes Zeiss y objetivos de inmersión de Abbe.  III) Estudió embriones y recién nacidos de aves y roedores.",
+   "alternativas": [
+    "Solo I",
+    "Solo II",
+    "Solo II y III",
+    "Solo I y III",
+    "Todas"
+   ],
+   "respuesta": 2,
+   "pista": "Recuerde por qué eligió animales jóvenes y qué equipos compró.",
+   "argumento": "II y III son verdaderas: Cajal importó con sus ahorros lentes Zeiss y objetivos de inmersión en aceite de Abbe, y estudió embriones y recién nacidos de aves y roedores. I es falsa: el tejido adulto era el problema, por su densidad y su mielina. Solo II omite el método ontogénico y Solo I y III acepta el tejido adulto; Todas incluye la afirmación falsa (apuntes p. 54)."
+  },
+  {
+   "id": "c1o-b-057",
+   "enunciado": "Dos histólogos observan la misma preparación argéntica. Uno describe una malla continua; el otro, terminaciones que cesan. ¿Qué distingue sus interpretaciones?",
+   "alternativas": [
+    "Red continua frente a unidades con contacto",
+    "Tinción de neuronas frente a tinción de glía",
+    "Tejido adulto frente a tejido embrionario teñido",
+    "Microscopio óptico frente a microscopio electrónico"
+   ],
+   "respuesta": 0,
+   "pista": "La disputa es sobre si las fibras se fusionan o solo contactan.",
+   "argumento": "Golgi defendía anastomosis axónica y un sincitio con actividad difusa; Cajal, unidades anatómicas, genéticas y funcionales con terminaciones libres y contacto sin fusión. No es una diferencia de tinción, de edad del tejido ni de instrumento: ambos miraban preparaciones con la misma reacción. La ventaja de Cajal fue controlar la impregnación y usar material ontogénico, que deja ver el final del axón (apuntes p. 54)."
+  },
+  {
+   "id": "c1o-b-058",
+   "enunciado": "¿Qué significa un resultado positivo de la proteína 14-3-3 en el LCR de un paciente con sospecha de ECJ?",
+   "alternativas": [
+    "Confirma la presencia de PrP^Sc en el tejido cerebral",
+    "Indica destrucción neuronal masiva e inespecífica",
+    "Demuestra una mutación del gen PRNP heredable",
+    "Descarta la forma esporádica y confirma la variante"
+   ],
+   "respuesta": 1,
+   "pista": "Distinga un marcador de daño de una detección directa del prión.",
+   "argumento": "La 14-3-3 es una chaperona que se libera con la destrucción neuronal masiva: muy sensible, pero inespecífica, y no detecta la proteína priónica. La detección directa la aporta el RT-QuIC, y la mutación se busca secuenciando PRNP en sangre. Tampoco distingue la forma esporádica de la variante. Su valor es de apoyo y no sustituye la convergencia clínica (apuntes, bloque VI)."
+  },
+  {
+   "id": "c1o-b-059",
+   "enunciado": "Paciente con 10 semanas de deterioro cognitivo rápido. El FLAIR no muestra lesiones, pero la DWI revela restricción en caudado y corteza. ¿Cómo se interpreta?",
+   "alternativas": [
+    "El FLAIR normal descarta el compromiso cortical",
+    "La restricción en DWI corresponde a edema vasogénico",
+    "El hallazgo es inespecífico y obliga a repetir el estudio",
+    "La DWI positiva es precoz y el FLAIR puede ser negativo"
+   ],
+   "respuesta": 3,
+   "pista": "Recuerde cuál secuencia cambia primero y qué edema detecta cada una.",
+   "argumento": "La DWI es más sensible y precoz que el FLAIR, y el material muestra un FLAIR negativo con DWI positiva; un FLAIR normal no descarta la enfermedad. La restricción en DWI refleja edema citotóxico con agua atrapada, no vasogénico, que es lo que ve el FLAIR. El cortical ribboning y la hiperintensidad de caudado reflejan espongiosis y priones, y no son inespecíficos (apuntes, bloque VI)."
+  },
+  {
+   "id": "c1o-b-060",
+   "enunciado": "¿Qué significa que una demencia tenga propagación prion-like?",
+   "alternativas": [
+    "Que se transmite entre personas por contacto directo",
+    "Que requiere un agente infeccioso con ácidos nucleicos",
+    "Que una proteína mal plegada se autotempla",
+    "Que la lesión avanza solo por contigüidad anatómica"
+   ],
+   "respuesta": 2,
+   "pista": "El término describe un mecanismo celular, no un contagio de salud pública.",
+   "argumento": "Prion-like nombra la propagación y el autotemplado celular: una semilla nucleante induce el cambio conformacional en proteínas vecinas y luego hay transmisión de célula a célula. No implica contagio entre personas ni un agente con genoma, y no se limita a contigüidad anatómica. Solo en las enfermedades priónicas la proteína es transmisible entre individuos (apuntes, bloque V)."
+  }
+ ]
+}
